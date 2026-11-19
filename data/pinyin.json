@@ -1,0 +1,950 @@
+{
+  "title": "Pinyin and tones",
+  "title_ja": "ピンインと声調",
+  "quiz": { "questions": 12, "passPercent": 80 },
+  "exam": { "questions": 40, "passPercent": 85, "unlocks": "hsk1" },
+  "groups": [
+    {
+      "id": "py-tones",
+      "kind": "tones",
+      "title": "The four tones",
+      "title_ja": "四声",
+      "intro": "Every Chinese syllable is sung on a pitch pattern called a tone. The same sounds with a different tone are a different word: mā is mother, mǎ is horse. There are four full tones plus a light, unstressed neutral tone.",
+      "intro_ja": "中国語の音節は、一つひとつが「声調」と呼ばれる音の高低のパターンを持っています。同じ音でも声調が違えば別の単語になり、mā は「お母さん」、mǎ は「馬」です。四つの声調と、軽く短い「軽声」があります。",
+      "note": "The tone mark sits over the vowel. Listen to the five samples in a row: mā má mǎ mà ma. Exaggerate at first; native speakers will understand you better, not worse.",
+      "note_ja": "声調記号は母音の上に付きます。五つの見本を続けて聞いてみてください：mā má mǎ mà ma。最初は大げさなくらいでちょうどよく、その方が通じます。",
+      "chars": [
+        {
+          "id": "py:t:1", "char": "ā", "label": "first tone", "label_ja": "第一声",
+          "hint": "High and flat (55). Hold one steady note, like a doctor asking you to say 'aaah'.",
+          "hint_ja": "高く平らに（55）。お医者さんに「あーん」と言われたときのように、高い音を一定に伸ばします。",
+          "sample": { "zh": "妈", "pinyin": "mā", "num": "ma1", "en": "mother", "ja": "お母さん" },
+          "mnemonic": "First tone is the flat line on a heart monitor: high, level, no movement.",
+          "mnemonic_ja": "第一声は心電図の水平線。高いまま、まっすぐ動きません。"
+        },
+        {
+          "id": "py:t:2", "char": "á", "label": "second tone", "label_ja": "第二声",
+          "hint": "Rising (35). Start in the middle and go up, like the English 'What?' or 'Huh?'.",
+          "hint_ja": "上昇調（35）。真ん中の高さから上がります。日本語で聞き返すときの「え？」の上がり方と同じです。",
+          "sample": { "zh": "麻", "pinyin": "má", "num": "ma2", "en": "hemp; numb", "ja": "麻；しびれる" },
+          "mnemonic": "Second tone asks a question: má? Really? Up it goes.",
+          "mnemonic_ja": "第二声は聞き返す「え？」。語尾が上がります。"
+        },
+        {
+          "id": "py:t:3", "char": "ǎ", "label": "third tone", "label_ja": "第三声",
+          "hint": "Dipping (214). Start low, dip lower, then rise a little, like a doubtful 'we-ell...'. In fast speech it is usually just low.",
+          "hint_ja": "下がって上がる（214）。低く始めてさらに下げ、最後に少し上げます。迷いながら言う「うーん…」に似ています。速い会話では低く抑えるだけになります。",
+          "sample": { "zh": "马", "pinyin": "mǎ", "num": "ma3", "en": "horse", "ja": "馬" },
+          "mnemonic": "Third tone is a horse (mǎ) dipping its head to drink and lifting it again.",
+          "mnemonic_ja": "第三声は馬（mǎ）が水を飲むために頭を下げて、また上げる動きです。"
+        },
+        {
+          "id": "py:t:4", "char": "à", "label": "fourth tone", "label_ja": "第四声",
+          "hint": "Falling (51). Start high and drop sharply, like a firm 'No!' or stamping your foot.",
+          "hint_ja": "下降調（51）。高いところから一気に落とします。きっぱりと「だめ！」と言うときの調子です。",
+          "sample": { "zh": "骂", "pinyin": "mà", "num": "ma4", "en": "to scold", "ja": "叱る" },
+          "mnemonic": "Fourth tone scolds (mà): a short, sharp drop like a hammer.",
+          "mnemonic_ja": "第四声は叱る（mà）ときの声。ハンマーを振り下ろすように短く鋭く落とします。"
+        },
+        {
+          "id": "py:t:0", "char": "a", "label": "neutral tone", "label_ja": "軽声",
+          "hint": "Light and short, with no mark. It has no pitch of its own and takes its height from the syllable before it, like the '-a' in 'sofa'.",
+          "hint_ja": "軽く短く発音し、記号は付けません。決まった高さはなく、前の音節に合わせて添えるだけです。日本語の「です」の「す」のような軽さです。",
+          "sample": { "zh": "吗", "pinyin": "ma", "num": "ma5", "en": "question particle", "ja": "疑問の助詞「〜か」" },
+          "mnemonic": "Neutral tone is a question tag thrown away at the end: nǐ hǎo ma?",
+          "mnemonic_ja": "軽声は文末に軽く添える「か」：nǐ hǎo ma?"
+        }
+      ],
+      "words": [
+        { "id": "vocab:py:ma1-妈", "zh": "妈", "pinyin": "mā", "num": "ma1", "meaning": "mother", "meaning_ja": "お母さん" },
+        { "id": "vocab:py:ma2-麻", "zh": "麻", "pinyin": "má", "num": "ma2", "meaning": "hemp; numb", "meaning_ja": "麻；しびれる" },
+        { "id": "vocab:py:ma3-马", "zh": "马", "pinyin": "mǎ", "num": "ma3", "meaning": "horse", "meaning_ja": "馬" },
+        { "id": "vocab:py:ma4-骂", "zh": "骂", "pinyin": "mà", "num": "ma4", "meaning": "to scold", "meaning_ja": "叱る、ののしる" },
+        { "id": "vocab:py:ma5-吗", "zh": "吗", "pinyin": "ma", "num": "ma5", "meaning": "question particle", "meaning_ja": "疑問の助詞「〜か」" },
+        { "id": "vocab:py:ba1-八", "zh": "八", "pinyin": "bā", "num": "ba1", "meaning": "eight", "meaning_ja": "八" },
+        { "id": "vocab:py:ba4-爸", "zh": "爸", "pinyin": "bà", "num": "ba4", "meaning": "dad", "meaning_ja": "お父さん" },
+        { "id": "vocab:py:yi1-一", "zh": "一", "pinyin": "yī", "num": "yi1", "meaning": "one", "meaning_ja": "一" },
+        { "id": "vocab:py:wu3-五", "zh": "五", "pinyin": "wǔ", "num": "wu3", "meaning": "five", "meaning_ja": "五" }
+      ]
+    },
+    {
+      "id": "py-simple",
+      "kind": "finals",
+      "title": "Simple vowels and b p m f",
+      "title_ja": "単母音と b p m f",
+      "intro": "A syllable is an initial consonant plus a final (the vowel part), with a tone on top. Here are the six basic vowels and the four lip consonants. Two of the vowels, e and ü, have no English equivalent, so listen closely.",
+      "intro_ja": "音節は「声母（頭の子音）＋韻母（母音の部分）」に声調をのせたものです。ここでは六つの基本母音と、唇で作る四つの子音を学びます。e と ü は日本語にない音なので、よく聞いてください。",
+      "note": "When i, u or ü stand alone with no initial they are written yi, wu, yu: 一 yī, 五 wǔ, 鱼 yú. The sound does not change.",
+      "note_ja": "i・u・ü が声母なしで単独で立つときは yi・wu・yu と書きます：一 yī、五 wǔ、鱼 yú。音は変わりません。",
+      "chars": [
+        {
+          "id": "py:f:a", "char": "a", "label": "final a", "label_ja": "韻母 a",
+          "hint": "Open your mouth wide: 'ah' as in 'father'.",
+          "hint_ja": "口を大きく開けて「ア」。日本語の「ア」よりさらに口を開けます。",
+          "sample": { "zh": "八", "pinyin": "bā", "num": "ba1", "en": "eight", "ja": "八" },
+          "mnemonic": "The dentist's a: open wide and say ah.",
+          "mnemonic_ja": "歯医者さんの a：大きく開けて「アー」。"
+        },
+        {
+          "id": "py:f:o", "char": "o", "label": "final o", "label_ja": "韻母 o",
+          "hint": "Rounded 'aw'. After b, p, m, f it has a slight w glide and sounds like 'wo': bō is close to 'bwo'.",
+          "hint_ja": "唇を丸めた「オ」。b・p・m・f の後では軽く w が入り「ウォ」のように聞こえます：bō は「ブォ」に近い音です。",
+          "sample": { "zh": "波", "pinyin": "bō", "num": "bo1", "en": "wave", "ja": "波" },
+          "mnemonic": "o after a lip sound is 'wo': think of 'bwo', 'pwo', 'mwo', 'fwo'.",
+          "mnemonic_ja": "唇音の後の o は「ウォ」：bwo、pwo、mwo、fwo と覚えます。"
+        },
+        {
+          "id": "py:f:e", "char": "e", "label": "final e", "label_ja": "韻母 e",
+          "hint": "Like 'uh' in 'duh', but with the lips spread, not rounded, and the tongue pulled back. Say 'oh', then unround your lips while keeping the tongue in place.",
+          "hint_ja": "喉の奥で出す「ウ」と「オ」の間の音。唇は丸めず横に引き、舌を後ろに引きます。「オ」と言いながら唇だけ横に広げると近い音になります。",
+          "sample": { "zh": "饿", "pinyin": "è", "num": "e4", "en": "hungry", "ja": "おなかがすいた" },
+          "mnemonic": "e is 'oh' with a flat smile: the lips refuse to round.",
+          "mnemonic_ja": "e は「オ」を口を横に引いて言う音。唇を丸めないのがコツです。"
+        },
+        {
+          "id": "py:f:i", "char": "i", "label": "final i", "label_ja": "韻母 i",
+          "hint": "'ee' as in 'see', with the lips spread. Written yi when there is no initial.",
+          "hint_ja": "唇を横に引いた「イー」。声母がないときは yi と書きます。",
+          "sample": { "zh": "米", "pinyin": "mǐ", "num": "mi3", "en": "rice", "ja": "米" },
+          "mnemonic": "Smile wide and say ee: mǐ, rice.",
+          "mnemonic_ja": "にっこり笑って「イー」：mǐ は米。"
+        },
+        {
+          "id": "py:f:u", "char": "u", "label": "final u", "label_ja": "韻母 u",
+          "hint": "'oo' as in 'food', with the lips pushed forward and tightly rounded. Written wu when there is no initial.",
+          "hint_ja": "唇を前に突き出し、しっかり丸めた「ウー」。日本語の「ウ」より唇を丸めます。声母がないときは wu と書きます。",
+          "sample": { "zh": "不", "pinyin": "bù", "num": "bu4", "en": "not", "ja": "〜ない" },
+          "mnemonic": "Pucker up like you are about to whistle: bù.",
+          "mnemonic_ja": "口笛を吹く直前の唇で「ウー」：bù。"
+        },
+        {
+          "id": "py:f:v", "char": "ü", "label": "final ü", "label_ja": "韻母 ü",
+          "hint": "Say 'ee' and, without moving your tongue, round your lips as for 'oo'. Written yu when there is no initial, and plain u after j, q, x.",
+          "hint_ja": "「イー」と言ったまま、舌を動かさずに唇だけ「ウ」の形に丸めます。声母がないときは yu、j・q・x の後では点なしの u と書きます。",
+          "sample": { "zh": "女", "pinyin": "nǚ", "num": "nv3", "en": "female", "ja": "女性の" },
+          "mnemonic": "ü is ee wearing oo's lips.",
+          "mnemonic_ja": "ü は「イ」の舌に「ウ」の唇をかぶせた音です。"
+        },
+        {
+          "id": "py:i:b", "char": "b", "label": "initial b", "label_ja": "声母 b",
+          "hint": "Not an English b: it is an unvoiced, unaspirated p, like the p in 'spin'. No puff of air, no vocal-cord buzz.",
+          "hint_ja": "英語の b とは違い、息を出さない無気音の p です。日本語の「パ」から息をそっと抜いた音で、濁りません。",
+          "sample": { "zh": "八", "pinyin": "bā", "num": "ba1", "en": "eight", "ja": "八" },
+          "mnemonic": "b is the p of 'spin': no puff.",
+          "mnemonic_ja": "b は息を出さない「パ」。ティッシュが揺れません。"
+        },
+        {
+          "id": "py:i:p", "char": "p", "label": "initial p", "label_ja": "声母 p",
+          "hint": "A strongly aspirated p, like the p in 'pin' but with an even bigger puff of air. Hold a hand in front of your mouth and feel the breath.",
+          "hint_ja": "強く息を出す有気音の p。口の前に手をかざすと息がはっきり当たります。日本語の「パ」よりずっと息を出します。",
+          "sample": { "zh": "怕", "pinyin": "pà", "num": "pa4", "en": "to fear", "ja": "怖がる" },
+          "mnemonic": "p blows out the candle; b does not.",
+          "mnemonic_ja": "p はろうそくの火を吹き消し、b は消しません。"
+        },
+        {
+          "id": "py:i:m", "char": "m", "label": "initial m", "label_ja": "声母 m",
+          "hint": "Like English m: lips closed, hum.",
+          "hint_ja": "日本語の「マ行」の m と同じです。唇を閉じて鼻から響かせます。",
+          "sample": { "zh": "妈", "pinyin": "mā", "num": "ma1", "en": "mother", "ja": "お母さん" },
+          "mnemonic": "m for mā, mother, the same in almost every language.",
+          "mnemonic_ja": "m は mā（お母さん）の m。世界中ほぼ共通の音です。"
+        },
+        {
+          "id": "py:i:f", "char": "f", "label": "initial f", "label_ja": "声母 f",
+          "hint": "Like English f: top teeth on the lower lip. Not the soft Japanese fu.",
+          "hint_ja": "英語の f と同じで、上の歯を下唇に当てて息を出します。日本語の「フ」より摩擦が強い音です。",
+          "sample": { "zh": "服", "pinyin": "fú", "num": "fu2", "en": "clothes", "ja": "服" },
+          "mnemonic": "Bite your lip gently and blow: f.",
+          "mnemonic_ja": "下唇を軽くかんで息を出す：f。"
+        }
+      ],
+      "words": [
+        { "id": "vocab:py:ba4ba5-爸爸", "zh": "爸爸", "pinyin": "bà ba", "num": "ba4 ba5", "meaning": "dad", "meaning_ja": "お父さん" },
+        { "id": "vocab:py:ma1ma5-妈妈", "zh": "妈妈", "pinyin": "mā ma", "num": "ma1 ma5", "meaning": "mom", "meaning_ja": "お母さん" },
+        { "id": "vocab:py:bu4-不", "zh": "不", "pinyin": "bù", "num": "bu4", "meaning": "not", "meaning_ja": "〜ない" },
+        { "id": "vocab:py:bi3-比", "zh": "比", "pinyin": "bǐ", "num": "bi3", "meaning": "than; to compare", "meaning_ja": "〜より；比べる" },
+        { "id": "vocab:py:mi3-米", "zh": "米", "pinyin": "mǐ", "num": "mi3", "meaning": "rice (uncooked); metre", "meaning_ja": "米；メートル" },
+        { "id": "vocab:py:yu2-鱼", "zh": "鱼", "pinyin": "yú", "num": "yu2", "meaning": "fish", "meaning_ja": "魚" },
+        { "id": "vocab:py:yu3-雨", "zh": "雨", "pinyin": "yǔ", "num": "yu3", "meaning": "rain", "meaning_ja": "雨" },
+        { "id": "vocab:py:mu4-木", "zh": "木", "pinyin": "mù", "num": "mu4", "meaning": "wood; tree", "meaning_ja": "木、木材" },
+        { "id": "vocab:py:yi1fu5-衣服", "zh": "衣服", "pinyin": "yī fu", "num": "yi1 fu5", "meaning": "clothes", "meaning_ja": "服" },
+        { "id": "vocab:py:pa4-怕", "zh": "怕", "pinyin": "pà", "num": "pa4", "meaning": "to fear", "meaning_ja": "怖がる" }
+      ]
+    },
+    {
+      "id": "py-dtnl",
+      "kind": "initials",
+      "title": "Tongue-tip sounds d t n l",
+      "title_ja": "舌先の音 d t n l",
+      "intro": "These four are made with the tongue tip behind the top teeth. As with b and p, the difference between d and t is the puff of air, not the voice. n and l are close to English.",
+      "intro_ja": "この四つは舌先を上の歯の裏に当てて出します。b と p の関係と同じく、d と t の違いは声ではなく「息を出すかどうか」です。n と l は日本語のナ行・ラ行に近い音です。",
+      "chars": [
+        {
+          "id": "py:i:d", "char": "d", "label": "initial d", "label_ja": "声母 d",
+          "hint": "An unaspirated, unvoiced t, like the t in 'stop'. No puff of air.",
+          "hint_ja": "息を出さない無気音の t。日本語の「タ」から息を抜いた音で、濁りません。",
+          "sample": { "zh": "大", "pinyin": "dà", "num": "da4", "en": "big", "ja": "大きい" },
+          "mnemonic": "d is the t in 'stop': quiet, no breath.",
+          "mnemonic_ja": "d は息をこらえた「タ」。静かに出します。"
+        },
+        {
+          "id": "py:i:t", "char": "t", "label": "initial t", "label_ja": "声母 t",
+          "hint": "A strongly aspirated t, like 'top' with extra breath.",
+          "hint_ja": "強く息を出す有気音の t。日本語の「タ」にたっぷり息を足した音です。",
+          "sample": { "zh": "他", "pinyin": "tā", "num": "ta1", "en": "he", "ja": "彼" },
+          "mnemonic": "t has a tail of air behind it: tā.",
+          "mnemonic_ja": "t は後ろに息の尾を引く：tā。"
+        },
+        {
+          "id": "py:i:n", "char": "n", "label": "initial n", "label_ja": "声母 n",
+          "hint": "Like English n: tongue tip up, sound through the nose.",
+          "hint_ja": "日本語のナ行の n と同じです。舌先を上につけて鼻から響かせます。",
+          "sample": { "zh": "你", "pinyin": "nǐ", "num": "ni3", "en": "you", "ja": "あなた" },
+          "mnemonic": "n for nǐ, you: the first word of nǐ hǎo.",
+          "mnemonic_ja": "n は nǐ（あなた）の n。nǐ hǎo の最初の音です。"
+        },
+        {
+          "id": "py:i:l", "char": "l", "label": "initial l", "label_ja": "声母 l",
+          "hint": "A clear l as in 'light': tongue tip touches the ridge behind the teeth and air flows around the sides.",
+          "hint_ja": "英語の light の l。舌先を歯茎に当て、舌の両脇から息を流します。日本語のラ行より舌をしっかり当てます。",
+          "sample": { "zh": "路", "pinyin": "lù", "num": "lu4", "en": "road", "ja": "道" },
+          "mnemonic": "l lets the air leak around the sides of the tongue.",
+          "mnemonic_ja": "l は舌の両脇から息を漏らす音です。"
+        }
+      ],
+      "words": [
+        { "id": "vocab:py:ta1-他", "zh": "他", "pinyin": "tā", "num": "ta1", "meaning": "he; him", "meaning_ja": "彼" },
+        { "id": "vocab:py:ni3-你", "zh": "你", "pinyin": "nǐ", "num": "ni3", "meaning": "you", "meaning_ja": "あなた" },
+        { "id": "vocab:py:da4-大", "zh": "大", "pinyin": "dà", "num": "da4", "meaning": "big", "meaning_ja": "大きい" },
+        { "id": "vocab:py:di4di5-弟弟", "zh": "弟弟", "pinyin": "dì di", "num": "di4 di5", "meaning": "younger brother", "meaning_ja": "弟" },
+        { "id": "vocab:py:lu4-路", "zh": "路", "pinyin": "lù", "num": "lu4", "meaning": "road", "meaning_ja": "道" },
+        { "id": "vocab:py:li3-里", "zh": "里", "pinyin": "lǐ", "num": "li3", "meaning": "inside", "meaning_ja": "中、内側" },
+        { "id": "vocab:py:na3-哪", "zh": "哪", "pinyin": "nǎ", "num": "na3", "meaning": "which", "meaning_ja": "どれ、どの" },
+        { "id": "vocab:py:na4-那", "zh": "那", "pinyin": "nà", "num": "na4", "meaning": "that", "meaning_ja": "あれ、その" },
+        { "id": "vocab:py:lv4-绿", "zh": "绿", "pinyin": "lǜ", "num": "lv4", "meaning": "green", "meaning_ja": "緑" },
+        { "id": "vocab:py:de5-的", "zh": "的", "pinyin": "de", "num": "de5", "meaning": "possessive particle (of, 's)", "meaning_ja": "「〜の」の助詞" },
+        { "id": "vocab:py:le5-了", "zh": "了", "pinyin": "le", "num": "le5", "meaning": "completed-action particle", "meaning_ja": "完了・変化を表す助詞" }
+      ]
+    },
+    {
+      "id": "py-gkh",
+      "kind": "initials",
+      "title": "Back-of-the-mouth sounds g k h",
+      "title_ja": "喉の奥の音 g k h",
+      "intro": "g and k are made at the back of the mouth; again, g has no puff of air and k has a strong one. h is rougher than English h: the air scrapes against the back of the throat.",
+      "intro_ja": "g と k は口の奥で作る音で、やはり g は息を出さず、k は強く息を出します。h は英語の h より荒く、喉の奥で息がこすれる音です。",
+      "chars": [
+        {
+          "id": "py:i:g", "char": "g", "label": "initial g", "label_ja": "声母 g",
+          "hint": "An unaspirated, unvoiced k, like the k in 'skip'. No puff of air.",
+          "hint_ja": "息を出さない無気音の k。日本語の「カ」から息を抜いた音で、濁りません。",
+          "sample": { "zh": "哥", "pinyin": "gē", "num": "ge1", "en": "older brother", "ja": "兄" },
+          "mnemonic": "g is the k in 'skip': swallowed, no breath.",
+          "mnemonic_ja": "g は息をこらえた「カ」。gē は兄です。"
+        },
+        {
+          "id": "py:i:k", "char": "k", "label": "initial k", "label_ja": "声母 k",
+          "hint": "A strongly aspirated k, like 'kick' with extra breath.",
+          "hint_ja": "強く息を出す有気音の k。日本語の「カ」にたっぷり息を足した音です。",
+          "sample": { "zh": "可", "pinyin": "kě", "num": "ke3", "en": "can; may", "ja": "〜できる、〜してよい" },
+          "mnemonic": "k kicks the air out: kě.",
+          "mnemonic_ja": "k は息を蹴り出す音：kě。"
+        },
+        {
+          "id": "py:i:h", "char": "h", "label": "initial h", "label_ja": "声母 h",
+          "hint": "A throaty fricative: breathe out hard enough that the air rasps at the back of the throat, a little like the ch in Scottish 'loch', but softer.",
+          "hint_ja": "喉の奥で息をこすらせる摩擦音。日本語の「ハ」より強く、喉の奥がかすかに鳴るくらい息を出します。",
+          "sample": { "zh": "喝", "pinyin": "hē", "num": "he1", "en": "to drink", "ja": "飲む" },
+          "mnemonic": "h is fogging up a mirror from deep in the throat: hē.",
+          "mnemonic_ja": "h は喉の奥から鏡を曇らせる息：hē。"
+        }
+      ],
+      "words": [
+        { "id": "vocab:py:he1-喝", "zh": "喝", "pinyin": "hē", "num": "he1", "meaning": "to drink", "meaning_ja": "飲む" },
+        { "id": "vocab:py:ge1ge5-哥哥", "zh": "哥哥", "pinyin": "gē ge", "num": "ge1 ge5", "meaning": "older brother", "meaning_ja": "兄" },
+        { "id": "vocab:py:ge4-个", "zh": "个", "pinyin": "gè", "num": "ge4", "meaning": "general measure word", "meaning_ja": "個（最も一般的な量詞）" },
+        { "id": "vocab:py:ke3-可", "zh": "可", "pinyin": "kě", "num": "ke3", "meaning": "can; may", "meaning_ja": "〜できる、〜してよい" },
+        { "id": "vocab:py:ke4-课", "zh": "课", "pinyin": "kè", "num": "ke4", "meaning": "lesson; class", "meaning_ja": "授業、課" },
+        { "id": "vocab:py:he2-河", "zh": "河", "pinyin": "hé", "num": "he2", "meaning": "river", "meaning_ja": "川" },
+        { "id": "vocab:py:hu2-湖", "zh": "湖", "pinyin": "hú", "num": "hu2", "meaning": "lake", "meaning_ja": "湖" },
+        { "id": "vocab:py:ku3-苦", "zh": "苦", "pinyin": "kǔ", "num": "ku3", "meaning": "bitter", "meaning_ja": "苦い" },
+        { "id": "vocab:py:ka3-卡", "zh": "卡", "pinyin": "kǎ", "num": "ka3", "meaning": "card", "meaning_ja": "カード" },
+        { "id": "vocab:py:hu3-虎", "zh": "虎", "pinyin": "hǔ", "num": "hu3", "meaning": "tiger", "meaning_ja": "虎" }
+      ]
+    },
+    {
+      "id": "py-compound",
+      "kind": "finals",
+      "title": "Compound finals ai ei ao ou (and er)",
+      "title_ja": "複合韻母 ai ei ao ou（と er）",
+      "intro": "These finals glide from one vowel to another in a single syllable, like English 'eye' or 'oh'. The first vowel is louder and longer; the second is just the landing point. er is the odd one out: a single vowel with the tongue curled back.",
+      "intro_ja": "一つの音節の中で母音がなめらかに移る韻母です。前の母音をはっきり長めに、後ろの母音は着地点として軽く添えます。er だけは例外で、舌を巻いた一つの母音です。",
+      "note": "The tone mark goes on the first vowel in ai, ei, ao, ou: ài, běi, hǎo, gǒu.",
+      "note_ja": "ai・ei・ao・ou の声調記号は前の母音に付けます：ài、běi、hǎo、gǒu。",
+      "chars": [
+        {
+          "id": "py:f:ai", "char": "ai", "label": "final ai", "label_ja": "韻母 ai",
+          "hint": "Like 'eye': open a, gliding to i.",
+          "hint_ja": "「アイ」。口を開けた a から i へなめらかに移ります。",
+          "sample": { "zh": "爱", "pinyin": "ài", "num": "ai4", "en": "to love", "ja": "愛する" },
+          "mnemonic": "ài, love, sounds like 'I': I love.",
+          "mnemonic_ja": "ài（愛）は「アイ」。愛（あい）とそっくりです。"
+        },
+        {
+          "id": "py:f:ei", "char": "ei", "label": "final ei", "label_ja": "韻母 ei",
+          "hint": "Like 'ay' in 'day': e gliding to i.",
+          "hint_ja": "英語の day の「エイ」。e から i へ移ります。",
+          "sample": { "zh": "杯", "pinyin": "bēi", "num": "bei1", "en": "cup", "ja": "コップ" },
+          "mnemonic": "ei is 'hey': bēi, a cup, hey bartender.",
+          "mnemonic_ja": "ei は「エイ」：bēi はコップ。"
+        },
+        {
+          "id": "py:f:ao", "char": "ao", "label": "final ao", "label_ja": "韻母 ao",
+          "hint": "Like 'ow' in 'cow': open a, gliding toward o.",
+          "hint_ja": "英語の cow の「アオ」。大きく開けた a から o へ移ります。「アウ」ではなく「アオ」です。",
+          "sample": { "zh": "好", "pinyin": "hǎo", "num": "hao3", "en": "good", "ja": "良い" },
+          "mnemonic": "hǎo, good, is 'how': how good!",
+          "mnemonic_ja": "hǎo（良い）は「ハオ」。nǐ hǎo の hǎo です。"
+        },
+        {
+          "id": "py:f:ou", "char": "ou", "label": "final ou", "label_ja": "韻母 ou",
+          "hint": "Like 'oh' in 'go': o gliding to u.",
+          "hint_ja": "英語の go の「オウ」。o から u へ移ります。",
+          "sample": { "zh": "狗", "pinyin": "gǒu", "num": "gou3", "en": "dog", "ja": "犬" },
+          "mnemonic": "ou is 'oh': gǒu, a dog, oh no.",
+          "mnemonic_ja": "ou は「オウ」：gǒu は犬。"
+        },
+        {
+          "id": "py:f:er", "char": "er", "label": "final er", "label_ja": "韻母 er",
+          "hint": "Start on e and curl the tongue tip back, like the American 'er' in 'her'. It never takes an initial.",
+          "hint_ja": "e を出しながら舌先を上に巻きます。アメリカ英語の her の「アー」に近い音です。声母が付くことはありません。",
+          "sample": { "zh": "儿", "pinyin": "ér", "num": "er2", "en": "child; son", "ja": "子ども、息子" },
+          "mnemonic": "er is a lone wolf: it never pairs with an initial, it just curls up.",
+          "mnemonic_ja": "er は一匹狼。声母と組まず、舌だけ巻いて立ちます。"
+        }
+      ],
+      "words": [
+        { "id": "vocab:py:ni3hao3-你好", "zh": "你好", "pinyin": "nǐ hǎo", "num": "ni3 hao3", "meaning": "hello", "meaning_ja": "こんにちは" },
+        { "id": "vocab:py:ai4-爱", "zh": "爱", "pinyin": "ài", "num": "ai4", "meaning": "to love", "meaning_ja": "愛する" },
+        { "id": "vocab:py:kai1-开", "zh": "开", "pinyin": "kāi", "num": "kai1", "meaning": "to open", "meaning_ja": "開ける" },
+        { "id": "vocab:py:lai2-来", "zh": "来", "pinyin": "lái", "num": "lai2", "meaning": "to come", "meaning_ja": "来る" },
+        { "id": "vocab:py:mao1-猫", "zh": "猫", "pinyin": "māo", "num": "mao1", "meaning": "cat", "meaning_ja": "猫" },
+        { "id": "vocab:py:gao1-高", "zh": "高", "pinyin": "gāo", "num": "gao1", "meaning": "tall; high", "meaning_ja": "高い" },
+        { "id": "vocab:py:gou3-狗", "zh": "狗", "pinyin": "gǒu", "num": "gou3", "meaning": "dog", "meaning_ja": "犬" },
+        { "id": "vocab:py:mei2-没", "zh": "没", "pinyin": "méi", "num": "mei2", "meaning": "not (have)", "meaning_ja": "〜していない；ない" },
+        { "id": "vocab:py:ka1fei1-咖啡", "zh": "咖啡", "pinyin": "kā fēi", "num": "ka1 fei1", "meaning": "coffee", "meaning_ja": "コーヒー" },
+        { "id": "vocab:py:mei4mei5-妹妹", "zh": "妹妹", "pinyin": "mèi mei", "num": "mei4 mei5", "meaning": "younger sister", "meaning_ja": "妹" },
+        { "id": "vocab:py:er4-二", "zh": "二", "pinyin": "èr", "num": "er4", "meaning": "two", "meaning_ja": "二" },
+        { "id": "vocab:py:nv3er2-女儿", "zh": "女儿", "pinyin": "nǚ ér", "num": "nv3 er2", "meaning": "daughter", "meaning_ja": "娘" }
+      ]
+    },
+    {
+      "id": "py-nasal",
+      "kind": "finals",
+      "title": "Nasal finals an en ang eng ong",
+      "title_ja": "鼻音の韻母 an en ang eng ong",
+      "intro": "These finals end in a nasal consonant. With -n the tongue tip touches behind the teeth, as in English 'in'. With -ng the back of the tongue rises and the tip stays down, as in 'sing'. Keep them apart: 看 kàn (look) and 抗 kàng (resist) are different words.",
+      "intro_ja": "鼻音で終わる韻母です。-n は舌先を上の歯の裏に当てて終わり、-ng は舌の奥を上げて舌先は下げたまま終わります。日本語の「ン」は両方に聞こえるので、意識して区別してください：看 kàn（見る）と 抗 kàng（抵抗する）は別の単語です。",
+      "note": "A trick for Japanese speakers: -n is the ン of 案内 (annai), -ng is the ン of 案外 (angai), where the tongue tip never touches.",
+      "note_ja": "コツ：-n は「案内（あんない）」のン、-ng は「案外（あんがい）」のンです。後者では舌先がどこにも触れません。",
+      "chars": [
+        {
+          "id": "py:f:an", "char": "an", "label": "final an", "label_ja": "韻母 an",
+          "hint": "Open a, then close with the tongue tip up: like 'on' in 'bond' said with an open mouth.",
+          "hint_ja": "口を開けた a の後、舌先を上につけて「ン」で閉じます。「アン（案内のン）」です。",
+          "sample": { "zh": "看", "pinyin": "kàn", "num": "kan4", "en": "to look", "ja": "見る" },
+          "mnemonic": "an ends with the tongue tip touching, like tapping on a door.",
+          "mnemonic_ja": "an は舌先がドアをノックするように上に触れて終わります。"
+        },
+        {
+          "id": "py:f:en", "char": "en", "label": "final en", "label_ja": "韻母 en",
+          "hint": "A short 'uh' then n, like the 'un' in 'under' or 'en' in 'taken'.",
+          "hint_ja": "短い曖昧な「ウ」に n を付けた音。英語 taken の -en に近いです。",
+          "sample": { "zh": "门", "pinyin": "mén", "num": "men2", "en": "door", "ja": "ドア、門" },
+          "mnemonic": "en is the end of 'taken': mén, a door.",
+          "mnemonic_ja": "en は口をあまり開けずに「ウン」：mén はドア。"
+        },
+        {
+          "id": "py:f:ang", "char": "ang", "label": "final ang", "label_ja": "韻母 ang",
+          "hint": "Open a, then the back of the tongue rises for ng, like 'ong' in 'gong' but with a wide-open a.",
+          "hint_ja": "口を開けた a の後、舌の奥を上げて ng で終わります。舌先は下げたままです。「アン（案外のン）」です。",
+          "sample": { "zh": "忙", "pinyin": "máng", "num": "mang2", "en": "busy", "ja": "忙しい" },
+          "mnemonic": "ang rings like a gong: the tongue tip never touches.",
+          "mnemonic_ja": "ang は鐘が鳴るように響き、舌先はどこにも触れません。"
+        },
+        {
+          "id": "py:f:eng", "char": "eng", "label": "final eng", "label_ja": "韻母 eng",
+          "hint": "The e of 'uh' followed by ng, like 'ung' in 'lung'.",
+          "hint_ja": "曖昧な「ウ」に ng を付けた音。英語 lung の -ung に近く、舌先は触れません。",
+          "sample": { "zh": "冷", "pinyin": "lěng", "num": "leng3", "en": "cold", "ja": "寒い" },
+          "mnemonic": "eng is a lung full of cold air: lěng.",
+          "mnemonic_ja": "eng は冷たい空気を吸い込んだ肺の音：lěng（寒い）。"
+        },
+        {
+          "id": "py:f:ong", "char": "ong", "label": "final ong", "label_ja": "韻母 ong",
+          "hint": "A rounded 'oo' then ng, closer to 'oong' than to English 'ong'.",
+          "hint_ja": "唇を丸めた「ウ」に ng を付けた音。「オン」より「ウン」に近い響きです。",
+          "sample": { "zh": "东", "pinyin": "dōng", "num": "dong1", "en": "east", "ja": "東" },
+          "mnemonic": "ong is the deep boom of a temple bell: dōng.",
+          "mnemonic_ja": "ong はお寺の鐘の低い響き：dōng。"
+        }
+      ],
+      "words": [
+        { "id": "vocab:py:kan4-看", "zh": "看", "pinyin": "kàn", "num": "kan4", "meaning": "to look; to watch", "meaning_ja": "見る" },
+        { "id": "vocab:py:fan4-饭", "zh": "饭", "pinyin": "fàn", "num": "fan4", "meaning": "meal; cooked rice", "meaning_ja": "ご飯、食事" },
+        { "id": "vocab:py:mi3fan4-米饭", "zh": "米饭", "pinyin": "mǐ fàn", "num": "mi3 fan4", "meaning": "cooked rice", "meaning_ja": "ご飯（白米）" },
+        { "id": "vocab:py:men2-门", "zh": "门", "pinyin": "mén", "num": "men2", "meaning": "door; gate", "meaning_ja": "ドア、門" },
+        { "id": "vocab:py:hen3-很", "zh": "很", "pinyin": "hěn", "num": "hen3", "meaning": "very", "meaning_ja": "とても" },
+        { "id": "vocab:py:ben3-本", "zh": "本", "pinyin": "běn", "num": "ben3", "meaning": "measure word for books", "meaning_ja": "冊（本を数える量詞）" },
+        { "id": "vocab:py:mang2-忙", "zh": "忙", "pinyin": "máng", "num": "mang2", "meaning": "busy", "meaning_ja": "忙しい" },
+        { "id": "vocab:py:leng3-冷", "zh": "冷", "pinyin": "lěng", "num": "leng3", "meaning": "cold", "meaning_ja": "寒い、冷たい" },
+        { "id": "vocab:py:dong3-懂", "zh": "懂", "pinyin": "dǒng", "num": "dong3", "meaning": "to understand", "meaning_ja": "わかる、理解する" },
+        { "id": "vocab:py:hong2-红", "zh": "红", "pinyin": "hóng", "num": "hong2", "meaning": "red", "meaning_ja": "赤い" },
+        { "id": "vocab:py:lan2-蓝", "zh": "蓝", "pinyin": "lán", "num": "lan2", "meaning": "blue", "meaning_ja": "青い" }
+      ]
+    },
+    {
+      "id": "py-jqx",
+      "kind": "initials",
+      "title": "Smiling sounds j q x",
+      "title_ja": "笑顔の音 j q x",
+      "intro": "j, q and x are made with the lips spread in a smile and the tongue flat against the front of the palate. They only ever come before i or ü. Because of that, the ü after j, q, x is written as plain u: 去 qù is really qü.",
+      "intro_ja": "j・q・x は唇を横に引いた笑顔の形で、舌を平らにして前の口蓋に近づけて出します。後ろには必ず i か ü が来ます。そのため j・q・x の後の ü は点なしの u と書きます：去 qù は実際には qü の音です。",
+      "note": "Spelling rule: ju, qu, xu always mean jü, qü, xü. The dots are only written after n and l (女 nǚ, 绿 lǜ), where plain u also exists.",
+      "note_ja": "つづりの規則：ju・qu・xu は常に jü・qü・xü の音です。点を書くのは n と l の後だけ（女 nǚ、绿 lǜ）で、そこでは点なしの u も別に存在するからです。",
+      "chars": [
+        {
+          "id": "py:i:j", "char": "j", "label": "initial j", "label_ja": "声母 j",
+          "hint": "Like the j in 'jeep' but lighter, with no puff of air and the lips spread. The tongue is flat, not curled.",
+          "hint_ja": "日本語の「ジ」に近いですが濁らず、息も出しません。唇を横に引き、舌は平らなままです。",
+          "sample": { "zh": "鸡", "pinyin": "jī", "num": "ji1", "en": "chicken", "ja": "鶏" },
+          "mnemonic": "j is a smiling 'jee' with no breath: jī, chicken.",
+          "mnemonic_ja": "j は笑顔で息を出さない「ジー」：jī は鶏。"
+        },
+        {
+          "id": "py:i:q", "char": "q", "label": "initial q", "label_ja": "声母 q",
+          "hint": "Like the ch in 'cheese' with a strong puff of air and the lips spread. Not a k sound at all.",
+          "hint_ja": "日本語の「チ」に強く息を足した音で、唇は横に引きます。英語の q（k の音）とは全く違います。",
+          "sample": { "zh": "七", "pinyin": "qī", "num": "qi1", "en": "seven", "ja": "七" },
+          "mnemonic": "Say 'cheese' for the camera: qī, seven.",
+          "mnemonic_ja": "写真の「チーズ」の「チ」：qī は七。"
+        },
+        {
+          "id": "py:i:x", "char": "x", "label": "initial x", "label_ja": "声母 x",
+          "hint": "Between English s and sh, with the lips spread and the tongue flat: like the 'sh' in 'she' said while smiling.",
+          "hint_ja": "日本語の「シ」とほぼ同じ音です。唇を横に引き、舌を平らに保ちます。",
+          "sample": { "zh": "西", "pinyin": "xī", "num": "xi1", "en": "west", "ja": "西" },
+          "mnemonic": "x is 'she' with a smile: xī, west.",
+          "mnemonic_ja": "x は笑顔の「シ」：xī は西。"
+        }
+      ],
+      "words": [
+        { "id": "vocab:py:qi1-七", "zh": "七", "pinyin": "qī", "num": "qi1", "meaning": "seven", "meaning_ja": "七" },
+        { "id": "vocab:py:ji3-几", "zh": "几", "pinyin": "jǐ", "num": "ji3", "meaning": "how many", "meaning_ja": "いくつ" },
+        { "id": "vocab:py:ji1-鸡", "zh": "鸡", "pinyin": "jī", "num": "ji1", "meaning": "chicken", "meaning_ja": "鶏" },
+        { "id": "vocab:py:qu4-去", "zh": "去", "pinyin": "qù", "num": "qu4", "meaning": "to go", "meaning_ja": "行く" },
+        { "id": "vocab:py:xi1-西", "zh": "西", "pinyin": "xī", "num": "xi1", "meaning": "west", "meaning_ja": "西" },
+        { "id": "vocab:py:fei1ji1-飞机", "zh": "飞机", "pinyin": "fēi jī", "num": "fei1 ji1", "meaning": "airplane", "meaning_ja": "飛行機" },
+        { "id": "vocab:py:ji1dan4-鸡蛋", "zh": "鸡蛋", "pinyin": "jī dàn", "num": "ji1 dan4", "meaning": "egg", "meaning_ja": "卵" },
+        { "id": "vocab:py:xi3-洗", "zh": "洗", "pinyin": "xǐ", "num": "xi3", "meaning": "to wash", "meaning_ja": "洗う" },
+        { "id": "vocab:py:qi4-气", "zh": "气", "pinyin": "qì", "num": "qi4", "meaning": "air; gas", "meaning_ja": "空気、気" },
+        { "id": "vocab:py:bu4ke4qi5-不客气", "zh": "不客气", "pinyin": "bù kè qi", "num": "bu4 ke4 qi5", "meaning": "you're welcome", "meaning_ja": "どういたしまして" },
+        { "id": "vocab:py:qi3-起", "zh": "起", "pinyin": "qǐ", "num": "qi3", "meaning": "to rise; to get up", "meaning_ja": "起きる、起こす" }
+      ]
+    },
+    {
+      "id": "py-retroflex",
+      "kind": "initials",
+      "title": "Curled-tongue sounds zh ch sh r",
+      "title_ja": "そり舌音 zh ch sh r",
+      "intro": "For these four, curl the tongue tip up and back toward the roof of the mouth, then make the sound there. They feel strange at first but are everywhere: 是 shì, 吃 chī, 这 zhè, 人 rén. r is not an English r; it is the voiced partner of sh.",
+      "intro_ja": "この四つは舌先を上にそらせて口の天井に近づけ、そこで音を出します。最初は慣れませんが、是 shì、吃 chī、这 zhè、人 rén など最重要の単語に出てきます。r は英語の r でも日本語のラ行でもなく、sh を濁らせた音です。",
+      "note": "When zh, ch, sh, r stand alone with i (zhi, chi, shi, ri), the i is not 'ee': it is a buzzing vowel made with the tongue still curled. See the next group.",
+      "note_ja": "zh・ch・sh・r が i だけと組むとき（zhi・chi・shi・ri）、その i は「イ」ではなく、舌をそらせたまま響かせる曖昧な母音です。次のグループで詳しく扱います。",
+      "chars": [
+        {
+          "id": "py:i:zh", "char": "zh", "label": "initial zh", "label_ja": "声母 zh",
+          "hint": "Curl the tongue back and say a j with no puff of air, like 'dr' in 'drum' said with the tongue tip up.",
+          "hint_ja": "舌をそらせて、息を出さずに「ヂ」。英語 drum の dr を舌先を上げて言うような音です。",
+          "sample": { "zh": "这", "pinyin": "zhè", "num": "zhe4", "en": "this", "ja": "これ" },
+          "mnemonic": "zh is a j with the tongue curled back: zhè, this.",
+          "mnemonic_ja": "zh は舌をそらせた「ヂ」：zhè はこれ。"
+        },
+        {
+          "id": "py:i:ch", "char": "ch", "label": "initial ch", "label_ja": "声母 ch",
+          "hint": "Curl the tongue back and say ch with a strong puff of air, like 'tr' in 'truck' said with the tongue tip up.",
+          "hint_ja": "舌をそらせて、強く息を出しながら「チ」。英語 truck の tr を舌先を上げて言うような音です。",
+          "sample": { "zh": "吃", "pinyin": "chī", "num": "chi1", "en": "to eat", "ja": "食べる" },
+          "mnemonic": "ch chews with the tongue curled: chī, eat.",
+          "mnemonic_ja": "ch は舌をそらせてかむ「チ」：chī は食べる。"
+        },
+        {
+          "id": "py:i:sh", "char": "sh", "label": "initial sh", "label_ja": "声母 sh",
+          "hint": "Curl the tongue back and say sh, darker and deeper than English 'sh'.",
+          "hint_ja": "舌をそらせて「シ」。日本語の「シ」より低く、こもった響きです。",
+          "sample": { "zh": "是", "pinyin": "shì", "num": "shi4", "en": "to be", "ja": "〜です" },
+          "mnemonic": "sh is a deep hush with the tongue curled: shì, is.",
+          "mnemonic_ja": "sh は舌をそらせた低い「シー」：shì は「〜です」。"
+        },
+        {
+          "id": "py:i:r", "char": "r", "label": "initial r", "label_ja": "声母 r",
+          "hint": "The same curled-tongue position as sh, but voiced and with a touch of buzz. Do not round the lips and do not flap the tongue; it is closer to the s in 'measure' than to any r.",
+          "hint_ja": "sh と同じそり舌の構えで、声を出して少し響かせます。唇を丸めず、舌をはじきません。英語 measure の s に近く、ラ行とは別の音です。",
+          "sample": { "zh": "热", "pinyin": "rè", "num": "re4", "en": "hot", "ja": "暑い" },
+          "mnemonic": "r is sh with the engine running: rè, hot.",
+          "mnemonic_ja": "r は sh にエンジンをかけた音：rè は暑い。"
+        }
+      ],
+      "words": [
+        { "id": "vocab:py:shi4-是", "zh": "是", "pinyin": "shì", "num": "shi4", "meaning": "to be", "meaning_ja": "〜です、〜である" },
+        { "id": "vocab:py:chi1-吃", "zh": "吃", "pinyin": "chī", "num": "chi1", "meaning": "to eat", "meaning_ja": "食べる" },
+        { "id": "vocab:py:shi2-十", "zh": "十", "pinyin": "shí", "num": "shi2", "meaning": "ten", "meaning_ja": "十" },
+        { "id": "vocab:py:shu1-书", "zh": "书", "pinyin": "shū", "num": "shu1", "meaning": "book", "meaning_ja": "本" },
+        { "id": "vocab:py:re4-热", "zh": "热", "pinyin": "rè", "num": "re4", "meaning": "hot", "meaning_ja": "暑い、熱い" },
+        { "id": "vocab:py:ren2-人", "zh": "人", "pinyin": "rén", "num": "ren2", "meaning": "person", "meaning_ja": "人" },
+        { "id": "vocab:py:zhe4-这", "zh": "这", "pinyin": "zhè", "num": "zhe4", "meaning": "this", "meaning_ja": "これ、この" },
+        { "id": "vocab:py:cha2-茶", "zh": "茶", "pinyin": "chá", "num": "cha2", "meaning": "tea", "meaning_ja": "お茶" },
+        { "id": "vocab:py:lao3shi1-老师", "zh": "老师", "pinyin": "lǎo shī", "num": "lao3 shi1", "meaning": "teacher", "meaning_ja": "先生" },
+        { "id": "vocab:py:shou3ji1-手机", "zh": "手机", "pinyin": "shǒu jī", "num": "shou3 ji1", "meaning": "mobile phone", "meaning_ja": "携帯電話" },
+        { "id": "vocab:py:zhi1dao4-知道", "zh": "知道", "pinyin": "zhī dào", "num": "zhi1 dao4", "meaning": "to know", "meaning_ja": "知っている" },
+        { "id": "vocab:py:ren4shi5-认识", "zh": "认识", "pinyin": "rèn shi", "num": "ren4 shi5", "meaning": "to know (a person); to recognise", "meaning_ja": "（人を）知っている、知り合う" }
+      ]
+    },
+    {
+      "id": "py-zcs",
+      "kind": "initials",
+      "title": "Flat-tongue sounds z c s",
+      "title_ja": "舌歯音 z c s",
+      "intro": "z, c and s are made with the tongue tip flat behind the top teeth, like a hiss. z is 'ds' with no puff, c is 'ts' with a strong puff, s is a plain s. After z, c, s (and zh, ch, sh, r) the letter i is not 'ee' but a buzzing vowel: just keep the consonant going and add voice.",
+      "intro_ja": "z・c・s は舌先を上の歯の裏に平らに当てて出す音です。z は息を出さない「ヅ」、c は強く息を出す「ツ」、s は普通の「ス」です。z・c・s（と zh・ch・sh・r）の後の i は「イ」ではなく、子音をそのまま伸ばして声をのせた曖昧な母音です。",
+      "note": "zi, ci, si sound roughly like 'dzz', 'tss', 'ss', with the lips spread. The i is only there because every syllable needs a vowel letter.",
+      "note_ja": "zi・ci・si は唇を横に引いたまま「ヅー」「ツー」「スー」のように響きます。i の文字は、すべての音節に母音の文字が必要だから書かれているだけです。",
+      "chars": [
+        {
+          "id": "py:i:z", "char": "z", "label": "initial z", "label_ja": "声母 z",
+          "hint": "Like the 'ds' at the end of 'kids', with no puff of air. Not an English z.",
+          "hint_ja": "息を出さない「ヅ」。英語 kids の語尾 ds に近く、英語の z とは違います。",
+          "sample": { "zh": "字", "pinyin": "zì", "num": "zi4", "en": "character", "ja": "字" },
+          "mnemonic": "z is the ds of 'kids': zì, a written character.",
+          "mnemonic_ja": "z は kids の ds：zì は字。"
+        },
+        {
+          "id": "py:i:c", "char": "c", "label": "initial c", "label_ja": "声母 c",
+          "hint": "Like the 'ts' in 'cats', with a strong puff of air. Never a k or s sound.",
+          "hint_ja": "強く息を出す「ツ」。英語 cats の ts に近く、k や s の音ではありません。",
+          "sample": { "zh": "菜", "pinyin": "cài", "num": "cai4", "en": "dish; vegetable", "ja": "料理、野菜" },
+          "mnemonic": "c is the ts of 'cats': cài, a dish.",
+          "mnemonic_ja": "c は cats の ts：cài は料理。"
+        },
+        {
+          "id": "py:i:s", "char": "s", "label": "initial s", "label_ja": "声母 s",
+          "hint": "A plain s as in 'see'.",
+          "hint_ja": "日本語のサ行の s と同じ、普通の「ス」です。",
+          "sample": { "zh": "四", "pinyin": "sì", "num": "si4", "en": "four", "ja": "四" },
+          "mnemonic": "s hisses like a snake: sì, four.",
+          "mnemonic_ja": "s は蛇のように「スー」：sì は四。"
+        }
+      ],
+      "words": [
+        { "id": "vocab:py:zi4-字", "zh": "字", "pinyin": "zì", "num": "zi4", "meaning": "written character", "meaning_ja": "字、文字" },
+        { "id": "vocab:py:bei1zi5-杯子", "zh": "杯子", "pinyin": "bēi zi", "num": "bei1 zi5", "meaning": "cup; glass", "meaning_ja": "コップ" },
+        { "id": "vocab:py:yi3zi5-椅子", "zh": "椅子", "pinyin": "yǐ zi", "num": "yi3 zi5", "meaning": "chair", "meaning_ja": "椅子" },
+        { "id": "vocab:py:er2zi5-儿子", "zh": "儿子", "pinyin": "ér zi", "num": "er2 zi5", "meaning": "son", "meaning_ja": "息子" },
+        { "id": "vocab:py:zai4-在", "zh": "在", "pinyin": "zài", "num": "zai4", "meaning": "at; to be at", "meaning_ja": "〜にいる、〜で" },
+        { "id": "vocab:py:zou3-走", "zh": "走", "pinyin": "zǒu", "num": "zou3", "meaning": "to walk; to leave", "meaning_ja": "歩く、行く" },
+        { "id": "vocab:py:zao3shang5-早上", "zh": "早上", "pinyin": "zǎo shang", "num": "zao3 shang5", "meaning": "morning", "meaning_ja": "朝" },
+        { "id": "vocab:py:cai4-菜", "zh": "菜", "pinyin": "cài", "num": "cai4", "meaning": "dish; vegetable", "meaning_ja": "料理、野菜" },
+        { "id": "vocab:py:si4-四", "zh": "四", "pinyin": "sì", "num": "si4", "meaning": "four", "meaning_ja": "四" },
+        { "id": "vocab:py:san1-三", "zh": "三", "pinyin": "sān", "num": "san1", "meaning": "three", "meaning_ja": "三" },
+        { "id": "vocab:py:zi4ji3-自己", "zh": "自己", "pinyin": "zì jǐ", "num": "zi4 ji3", "meaning": "oneself", "meaning_ja": "自分" }
+      ]
+    },
+    {
+      "id": "py-i-finals",
+      "kind": "finals",
+      "title": "Finals starting with i",
+      "title_ja": "i で始まる韻母",
+      "intro": "These finals begin with a quick i glide and then open into another vowel: ia is 'ya', ie is 'ye', iao is 'yow'. When there is no initial, the i is written y: 家 jiā but 牙 yá, 谢 xiè but 也 yě.",
+      "intro_ja": "短い i の滑りで始まり、別の母音へ開く韻母です。ia は「ヤ」、ie は「イェ」、iao は「ヤオ」のように聞こえます。声母がないときは i を y と書きます：家 jiā に対して 牙 yá、谢 xiè に対して 也 yě。",
+      "note": "Spelling: ya ye yao you yan yin yang ying yong are the no-initial forms of ia ie iao iu ian in iang ing iong. Two finals are abbreviated after an initial: iou is written iu (六 liù, really liòu) and the tone mark goes on the u.",
+      "note_ja": "つづり：ya・ye・yao・you・yan・yin・yang・ying・yong は、ia・ie・iao・iu・ian・in・iang・ing・iong の声母なしの形です。iou は声母の後では iu と省略して書き（六 liù、実際は liòu）、声調記号は u に付けます。",
+      "chars": [
+        {
+          "id": "py:f:ia", "char": "ia", "label": "final ia", "label_ja": "韻母 ia",
+          "hint": "'ya' as in 'yard': a quick i into an open a. Written ya without an initial.",
+          "hint_ja": "「ヤ」。短い i から大きく開けた a へ。声母なしでは ya と書きます。",
+          "sample": { "zh": "家", "pinyin": "jiā", "num": "jia1", "en": "home; family", "ja": "家、家族" },
+          "mnemonic": "ia is ya: jiā, home, yeah.",
+          "mnemonic_ja": "ia は「ヤ」：jiā は家。"
+        },
+        {
+          "id": "py:f:ie", "char": "ie", "label": "final ie", "label_ja": "韻母 ie",
+          "hint": "'ye' as in 'yes': the e here is a clear 'eh', not the dull e of 喝 hē. Written ye without an initial.",
+          "hint_ja": "「イェ」。ここの e は喝 hē の曖昧な e ではなく、はっきりした「エ」です。声母なしでは ye と書きます。",
+          "sample": { "zh": "谢", "pinyin": "xiè", "num": "xie4", "en": "to thank", "ja": "感謝する" },
+          "mnemonic": "ie is the 'ye' of yes: xiè xie, thank you.",
+          "mnemonic_ja": "ie は yes の「イェ」：xiè xie はありがとう。"
+        },
+        {
+          "id": "py:f:iao", "char": "iao", "label": "final iao", "label_ja": "韻母 iao",
+          "hint": "'yow' as in 'meow': i into ao. Written yao without an initial.",
+          "hint_ja": "「ヤオ」。i から ao へ。猫の鳴き声 meow の「ヤオ」です。声母なしでは yao と書きます。",
+          "sample": { "zh": "小", "pinyin": "xiǎo", "num": "xiao3", "en": "small", "ja": "小さい" },
+          "mnemonic": "iao is a cat's meow: xiǎo māo, little cat.",
+          "mnemonic_ja": "iao は猫の「ミャオ」：xiǎo māo は小さい猫。"
+        },
+        {
+          "id": "py:f:iu", "char": "iu (iou)", "label": "final iu", "label_ja": "韻母 iu",
+          "hint": "Really iou, 'yo' as in 'yo-yo': i into ou. Written you without an initial, iu after one, with the tone mark on the u.",
+          "hint_ja": "実際は iou で、「ヨウ」のような音です。声母なしでは you、声母の後では iu と書き、声調記号は u に付けます。",
+          "sample": { "zh": "六", "pinyin": "liù", "num": "liu4", "en": "six", "ja": "六" },
+          "mnemonic": "iu hides an o: liù is 'lyoh', not 'loo'.",
+          "mnemonic_ja": "iu には o が隠れています：liù は「リョウ」であって「リウ」ではありません。"
+        },
+        {
+          "id": "py:f:ian", "char": "ian", "label": "final ian", "label_ja": "韻母 ian",
+          "hint": "'yen', not 'yan': the a is squeezed to an 'eh' between i and n. Written yan without an initial.",
+          "hint_ja": "「イェン」であって「イアン」ではありません。a は i と n に挟まれて「エ」に近づきます。声母なしでは yan と書きます。",
+          "sample": { "zh": "天", "pinyin": "tiān", "num": "tian1", "en": "sky; day", "ja": "空、日" },
+          "mnemonic": "ian sounds like the Japanese yen: tiān, sky.",
+          "mnemonic_ja": "ian は「円（イェン）」の響き：tiān は空。"
+        },
+        {
+          "id": "py:f:in", "char": "in", "label": "final in", "label_ja": "韻母 in",
+          "hint": "'een' with the tongue tip up at the end, as in 'seen'. Written yin without an initial.",
+          "hint_ja": "「イン」。最後は舌先を上につけて終わります（案内のン）。声母なしでは yin と書きます。",
+          "sample": { "zh": "您", "pinyin": "nín", "num": "nin2", "en": "you (polite)", "ja": "あなた（丁寧）" },
+          "mnemonic": "in is 'seen' without the s: nín, the polite you.",
+          "mnemonic_ja": "in はそのまま「イン」：nín は丁寧な「あなた」。"
+        },
+        {
+          "id": "py:f:iang", "char": "iang", "label": "final iang", "label_ja": "韻母 iang",
+          "hint": "'yahng': i into a wide ang, tongue tip down at the end. Written yang without an initial.",
+          "hint_ja": "「ヤン」。i から大きく開けた ang へ、最後は舌先を下げたまま（案外のン）。声母なしでは yang と書きます。",
+          "sample": { "zh": "想", "pinyin": "xiǎng", "num": "xiang3", "en": "to want; to think", "ja": "〜したい、思う" },
+          "mnemonic": "iang is a yawning 'yahng': xiǎng, I want.",
+          "mnemonic_ja": "iang はあくびのような「ヤーン」：xiǎng は〜したい。"
+        },
+        {
+          "id": "py:f:ing", "char": "ing", "label": "final ing", "label_ja": "韻母 ing",
+          "hint": "'eeng' as in 'sing', tongue tip down. Keep it apart from in. Written ying without an initial.",
+          "hint_ja": "「イン」ですが舌先は下げたまま、舌の奥で閉じます（案外のン）。in との区別に注意。声母なしでは ying と書きます。",
+          "sample": { "zh": "听", "pinyin": "tīng", "num": "ting1", "en": "to listen", "ja": "聞く" },
+          "mnemonic": "ing rings: tīng, listen to the ring.",
+          "mnemonic_ja": "ing は鐘が響く「リーン」：tīng は聞く。"
+        },
+        {
+          "id": "py:f:iong", "char": "iong", "label": "final iong", "label_ja": "韻母 iong",
+          "hint": "'yoong': i into ong with rounded lips. Written yong without an initial.",
+          "hint_ja": "「ユン」に近い音。i から唇を丸めた ong へ。声母なしでは yong と書きます。",
+          "sample": { "zh": "用", "pinyin": "yòng", "num": "yong4", "en": "to use", "ja": "使う" },
+          "mnemonic": "iong is a young bell: yòng, to use.",
+          "mnemonic_ja": "iong は「ユン」と鳴る小さな鐘：yòng は使う。"
+        }
+      ],
+      "words": [
+        { "id": "vocab:py:jia1-家", "zh": "家", "pinyin": "jiā", "num": "jia1", "meaning": "home; family", "meaning_ja": "家、家族" },
+        { "id": "vocab:py:xie4xie5-谢谢", "zh": "谢谢", "pinyin": "xiè xie", "num": "xie4 xie5", "meaning": "thank you", "meaning_ja": "ありがとう" },
+        { "id": "vocab:py:liu4-六", "zh": "六", "pinyin": "liù", "num": "liu4", "meaning": "six", "meaning_ja": "六" },
+        { "id": "vocab:py:yong4-用", "zh": "用", "pinyin": "yòng", "num": "yong4", "meaning": "to use", "meaning_ja": "使う" },
+        { "id": "vocab:py:jin1tian1-今天", "zh": "今天", "pinyin": "jīn tiān", "num": "jin1 tian1", "meaning": "today", "meaning_ja": "今日" },
+        { "id": "vocab:py:xiang3-想", "zh": "想", "pinyin": "xiǎng", "num": "xiang3", "meaning": "to want; to think", "meaning_ja": "〜したい、思う" },
+        { "id": "vocab:py:ting1-听", "zh": "听", "pinyin": "tīng", "num": "ting1", "meaning": "to listen", "meaning_ja": "聞く" },
+        { "id": "vocab:py:qing3-请", "zh": "请", "pinyin": "qǐng", "num": "qing3", "meaning": "please", "meaning_ja": "どうぞ、〜してください" },
+        { "id": "vocab:py:zai4jian4-再见", "zh": "再见", "pinyin": "zài jiàn", "num": "zai4 jian4", "meaning": "goodbye", "meaning_ja": "さようなら" },
+        { "id": "vocab:py:dian4nao3-电脑", "zh": "电脑", "pinyin": "diàn nǎo", "num": "dian4 nao3", "meaning": "computer", "meaning_ja": "パソコン" },
+        { "id": "vocab:py:peng2you5-朋友", "zh": "朋友", "pinyin": "péng you", "num": "peng2 you5", "meaning": "friend", "meaning_ja": "友達" },
+        { "id": "vocab:py:jie3jie5-姐姐", "zh": "姐姐", "pinyin": "jiě jie", "num": "jie3 jie5", "meaning": "older sister", "meaning_ja": "姉" }
+      ]
+    },
+    {
+      "id": "py-u-finals",
+      "kind": "finals",
+      "title": "Finals starting with u and ü",
+      "title_ja": "u・ü で始まる韻母",
+      "intro": "These finals begin with a quick rounded u glide: ua is 'wa', uo is 'wo', uai is 'why'. Without an initial the u is written w: 花 huā but 挖 wā, 多 duō but 我 wǒ. The three ü finals (üe, üan, ün) follow the j q x rule and are written yue, yuan, yun on their own.",
+      "intro_ja": "唇を丸めた短い u の滑りで始まる韻母です。ua は「ワ」、uo は「ウォ」、uai は「ワイ」。声母がないときは u を w と書きます：花 huā に対して 挖 wā、多 duō に対して 我 wǒ。ü で始まる三つ（üe・üan・ün）は j・q・x の規則に従い、単独では yue・yuan・yun と書きます。",
+      "note": "Spelling: wa wo wai wei wan wen wang weng, and yue yuan yun. Two finals are abbreviated after an initial: uei becomes ui (对 duì) and uen becomes un (准 zhǔn); their tone mark goes on the last letter: duì, zhǔn.",
+      "note_ja": "つづり：wa・wo・wai・wei・wan・wen・wang・weng、および yue・yuan・yun。声母の後では uei は ui（对 duì）、uen は un（准 zhǔn）と省略して書き、声調記号は最後の文字に付けます：duì、zhǔn。",
+      "chars": [
+        {
+          "id": "py:f:ua", "char": "ua", "label": "final ua", "label_ja": "韻母 ua",
+          "hint": "'wa' as in 'water': quick u into open a. Written wa without an initial.",
+          "hint_ja": "「ワ」。短い u から大きく開けた a へ。声母なしでは wa と書きます。",
+          "sample": { "zh": "花", "pinyin": "huā", "num": "hua1", "en": "flower", "ja": "花" },
+          "mnemonic": "ua is wa: huā, a flower, wow.",
+          "mnemonic_ja": "ua は「ワ」：huā は花。"
+        },
+        {
+          "id": "py:f:uo", "char": "uo", "label": "final uo", "label_ja": "韻母 uo",
+          "hint": "'wo' as in 'war' without the r: u into o. Written wo without an initial, as in 我 wǒ.",
+          "hint_ja": "「ウォ」。u から o へ。声母なしでは wo と書きます：我 wǒ。",
+          "sample": { "zh": "多", "pinyin": "duō", "num": "duo1", "en": "many", "ja": "多い" },
+          "mnemonic": "uo is the wo of 我 wǒ, me: duō, many.",
+          "mnemonic_ja": "uo は 我 wǒ（私）の「ウォ」：duō は多い。"
+        },
+        {
+          "id": "py:f:uai", "char": "uai", "label": "final uai", "label_ja": "韻母 uai",
+          "hint": "'why': u into ai. Written wai without an initial.",
+          "hint_ja": "「ワイ」。u から ai へ。声母なしでは wai と書きます。",
+          "sample": { "zh": "快", "pinyin": "kuài", "num": "kuai4", "en": "fast", "ja": "速い" },
+          "mnemonic": "uai is 'why': kuài, fast, why so fast?",
+          "mnemonic_ja": "uai は「ワイ」：kuài は速い。"
+        },
+        {
+          "id": "py:f:ui", "char": "ui (uei)", "label": "final ui", "label_ja": "韻母 ui",
+          "hint": "Really uei, 'way': u into ei. Written wei without an initial, ui after one, tone mark on the i.",
+          "hint_ja": "実際は uei で、「ウェイ」の音です。声母なしでは wei、声母の後では ui と書き、声調記号は i に付けます。",
+          "sample": { "zh": "对", "pinyin": "duì", "num": "dui4", "en": "correct", "ja": "正しい、そうです" },
+          "mnemonic": "ui hides an e: duì is 'dway', not 'dwee'.",
+          "mnemonic_ja": "ui には e が隠れています：duì は「ドゥエイ」であって「ドゥイ」ではありません。"
+        },
+        {
+          "id": "py:f:uan", "char": "uan", "label": "final uan", "label_ja": "韻母 uan",
+          "hint": "'wan' with an open a, as in 'wander'. Written wan without an initial.",
+          "hint_ja": "「ワン」。a は口を開けてはっきり出し、最後は舌先を上につけます。声母なしでは wan と書きます。",
+          "sample": { "zh": "关", "pinyin": "guān", "num": "guan1", "en": "to close", "ja": "閉める" },
+          "mnemonic": "uan is a wand: guān, close the door with a wave.",
+          "mnemonic_ja": "uan は「ワン」：guān は閉める。"
+        },
+        {
+          "id": "py:f:un", "char": "un (uen)", "label": "final un", "label_ja": "韻母 un",
+          "hint": "Really uen, 'wun' as in 'won': u into en. Written wen without an initial, un after one.",
+          "hint_ja": "実際は uen で、「ウェン」に近い音です。声母なしでは wen、声母の後では un と書きます。",
+          "sample": { "zh": "准", "pinyin": "zhǔn", "num": "zhun3", "en": "accurate; to allow", "ja": "正確な；許す" },
+          "mnemonic": "un hides an e: wèn (问, ask) and zhǔn share the same ending.",
+          "mnemonic_ja": "un には e が隠れています：wèn（问、尋ねる）と zhǔn は同じ韻母です。"
+        },
+        {
+          "id": "py:f:uang", "char": "uang", "label": "final uang", "label_ja": "韻母 uang",
+          "hint": "'wahng': u into a wide ang, tongue tip down. Written wang without an initial.",
+          "hint_ja": "「ワン」ですが最後は舌の奥で閉じます（案外のン）。声母なしでは wang と書きます。",
+          "sample": { "zh": "黄", "pinyin": "huáng", "num": "huang2", "en": "yellow", "ja": "黄色" },
+          "mnemonic": "uang is wide and ringing: huáng, yellow.",
+          "mnemonic_ja": "uang は広く響く「ワーン」：huáng は黄色。"
+        },
+        {
+          "id": "py:f:ueng", "char": "ueng", "label": "final ueng", "label_ja": "韻母 ueng",
+          "hint": "'wung': u into eng. It only occurs without an initial, so it is always written weng. Rare.",
+          "hint_ja": "「ウォン」に近い音。声母の付く形がないので、常に weng と書きます。使われる字は少ないです。",
+          "sample": { "zh": "翁", "pinyin": "wēng", "num": "weng1", "en": "old man", "ja": "老人、翁" },
+          "mnemonic": "ueng is the rare old man (wēng) who always walks alone, without an initial.",
+          "mnemonic_ja": "ueng は珍しい翁（wēng）。いつも声母なしで一人歩きします。"
+        },
+        {
+          "id": "py:f:ve", "char": "üe", "label": "final üe", "label_ja": "韻母 üe",
+          "hint": "ü gliding into a clear 'eh'. Written yue without an initial, and ue after j, q, x: 月 yuè, 学 xué.",
+          "hint_ja": "ü からはっきりした「エ」へ。声母なしでは yue、j・q・x の後では ue と書きます：月 yuè、学 xué。",
+          "sample": { "zh": "月", "pinyin": "yuè", "num": "yue4", "en": "month; moon", "ja": "月" },
+          "mnemonic": "üe is the moon (yuè): round lips first, then a smile.",
+          "mnemonic_ja": "üe は月（yuè）。唇を丸めてから、にっこり「エ」。"
+        },
+        {
+          "id": "py:f:van", "char": "üan", "label": "final üan", "label_ja": "韻母 üan",
+          "hint": "ü into 'en' (the a is squeezed, as in ian). Written yuan without an initial, uan after j, q, x: 远 yuǎn, 全 quán.",
+          "hint_ja": "ü から「エン」へ（ian と同じく a は「エ」に近づきます）。声母なしでは yuan、j・q・x の後では uan と書きます：远 yuǎn、全 quán。",
+          "sample": { "zh": "远", "pinyin": "yuǎn", "num": "yuan3", "en": "far", "ja": "遠い" },
+          "mnemonic": "üan is the yuan on a banknote: round lips, then 'en'.",
+          "mnemonic_ja": "üan はお札の「元（yuán）」。唇を丸めてから「エン」。"
+        },
+        {
+          "id": "py:f:vn", "char": "ün", "label": "final ün", "label_ja": "韻母 ün",
+          "hint": "ü then n with the tongue tip up. Written yun without an initial, un after j, q, x: 云 yún, 军 jūn.",
+          "hint_ja": "ü の後、舌先を上につけて n で終わります。声母なしでは yun、j・q・x の後では un と書きます：云 yún、军 jūn。",
+          "sample": { "zh": "云", "pinyin": "yún", "num": "yun2", "en": "cloud", "ja": "雲" },
+          "mnemonic": "ün is a cloud (yún): rounded lips drifting into n.",
+          "mnemonic_ja": "ün は雲（yún）。丸めた唇がふわりと n に流れます。"
+        }
+      ],
+      "words": [
+        { "id": "vocab:py:wo3-我", "zh": "我", "pinyin": "wǒ", "num": "wo3", "meaning": "I; me", "meaning_ja": "私" },
+        { "id": "vocab:py:duo1-多", "zh": "多", "pinyin": "duō", "num": "duo1", "meaning": "many; much", "meaning_ja": "多い" },
+        { "id": "vocab:py:zuo4-做", "zh": "做", "pinyin": "zuò", "num": "zuo4", "meaning": "to do; to make", "meaning_ja": "する、作る" },
+        { "id": "vocab:py:shuo1hua4-说话", "zh": "说话", "pinyin": "shuō huà", "num": "shuo1 hua4", "meaning": "to speak", "meaning_ja": "話す" },
+        { "id": "vocab:py:zhong1guo2-中国", "zh": "中国", "pinyin": "Zhōng guó", "num": "zhong1 guo2", "meaning": "China", "meaning_ja": "中国" },
+        { "id": "vocab:py:kuai4-块", "zh": "块", "pinyin": "kuài", "num": "kuai4", "meaning": "yuan (colloquial); piece", "meaning_ja": "元（口語）；塊" },
+        { "id": "vocab:py:dui4bu5qi3-对不起", "zh": "对不起", "pinyin": "duì bu qǐ", "num": "dui4 bu5 qi3", "meaning": "sorry", "meaning_ja": "すみません、ごめんなさい" },
+        { "id": "vocab:py:shui3-水", "zh": "水", "pinyin": "shuǐ", "num": "shui3", "meaning": "water", "meaning_ja": "水" },
+        { "id": "vocab:py:wan3shang5-晚上", "zh": "晚上", "pinyin": "wǎn shang", "num": "wan3 shang5", "meaning": "evening", "meaning_ja": "夜、晩" },
+        { "id": "vocab:py:yue4-月", "zh": "月", "pinyin": "yuè", "num": "yue4", "meaning": "month; moon", "meaning_ja": "月" },
+        { "id": "vocab:py:xue2sheng5-学生", "zh": "学生", "pinyin": "xué sheng", "num": "xue2 sheng5", "meaning": "student", "meaning_ja": "学生" },
+        { "id": "vocab:py:wen4ti2-问题", "zh": "问题", "pinyin": "wèn tí", "num": "wen4 ti2", "meaning": "question; problem", "meaning_ja": "質問、問題" }
+      ]
+    },
+    {
+      "id": "py-pairs",
+      "kind": "pairs",
+      "title": "Tone pairs",
+      "title_ja": "声調の組み合わせ",
+      "intro": "Most Chinese words have two syllables, so real speech is tones in pairs. Each of the twenty combinations has its own melody, and practising them as pairs is the fastest way to sound natural. Say each sample word until the shape feels automatic.",
+      "intro_ja": "中国語の単語の多くは二音節なので、実際の話し言葉では声調は「組」で現れます。二十通りの組み合わせにはそれぞれのメロディーがあり、組で練習するのが自然に聞こえる一番の近道です。形が体に入るまで見本の単語を繰り返してください。",
+      "note": "A neutral-tone second syllable is short and takes its pitch from the first: high after tone 1 and 2, slightly higher after tone 3, low after tone 4.",
+      "note_ja": "二音節目の軽声は短く、高さは前の音節で決まります。第一声・第二声の後は高め、第三声の後は少し高く、第四声の後は低くなります。",
+      "chars": [
+        { "id": "py:p:1-1", "char": "1-1", "label": "tone 1 + tone 1", "label_ja": "第一声＋第一声",
+          "hint": "Two high notes in a row, held level: a flat plateau.", "hint_ja": "高い音を二つ続けて平らに。高原のように平坦です。",
+          "sample": { "zh": "飞机", "pinyin": "fēi jī", "num": "fei1 ji1", "en": "airplane", "ja": "飛行機" },
+          "mnemonic": "fēi jī: an airplane cruising at a steady altitude.", "mnemonic_ja": "fēi jī：一定の高度で飛ぶ飛行機。" },
+        { "id": "py:p:1-2", "char": "1-2", "label": "tone 1 + tone 2", "label_ja": "第一声＋第二声",
+          "hint": "High and level, then dip to the middle and rise again.", "hint_ja": "高く平らに言ってから、中ほどに落としてもう一度上げます。",
+          "sample": { "zh": "中国", "pinyin": "Zhōng guó", "num": "zhong1 guo2", "en": "China", "ja": "中国" },
+          "mnemonic": "Zhōng guó: a plateau, then a climb.", "mnemonic_ja": "Zhōng guó：高原の後に登り坂。" },
+        { "id": "py:p:1-3", "char": "1-3", "label": "tone 1 + tone 3", "label_ja": "第一声＋第三声",
+          "hint": "High and level, then drop to a low, creaky dip.", "hint_ja": "高く平らに言ってから、低くきしむように落とします。",
+          "sample": { "zh": "开始", "pinyin": "kāi shǐ", "num": "kai1 shi3", "en": "to begin", "ja": "始める、始まる" },
+          "mnemonic": "kāi shǐ: start high, then sink to the floor.", "mnemonic_ja": "kāi shǐ：高く始めて床まで沈みます。" },
+        { "id": "py:p:1-4", "char": "1-4", "label": "tone 1 + tone 4", "label_ja": "第一声＋第四声",
+          "hint": "High and level, then a sharp fall from the same height.", "hint_ja": "高く平らに言ってから、同じ高さから一気に落とします。",
+          "sample": { "zh": "天气", "pinyin": "tiān qì", "num": "tian1 qi4", "en": "weather", "ja": "天気" },
+          "mnemonic": "tiān qì: a plateau with a cliff at the end.", "mnemonic_ja": "tiān qì：高原の端にある崖。" },
+        { "id": "py:p:2-1", "char": "2-1", "label": "tone 2 + tone 1", "label_ja": "第二声＋第一声",
+          "hint": "Rise up to the high note, then hold it level.", "hint_ja": "上がって高い音に着いたら、そのまま平らに保ちます。",
+          "sample": { "zh": "明天", "pinyin": "míng tiān", "num": "ming2 tian1", "en": "tomorrow", "ja": "明日" },
+          "mnemonic": "míng tiān: climb the hill, then walk along the top.", "mnemonic_ja": "míng tiān：丘を登って、頂上を歩きます。" },
+        { "id": "py:p:2-2", "char": "2-2", "label": "tone 2 + tone 2", "label_ja": "第二声＋第二声",
+          "hint": "Two rises: drop back to the middle before the second one.", "hint_ja": "上昇を二回。二回目の前に中ほどまで戻します。",
+          "sample": { "zh": "学习", "pinyin": "xué xí", "num": "xue2 xi2", "en": "to study", "ja": "勉強する" },
+          "mnemonic": "xué xí: two question marks in a row.", "mnemonic_ja": "xué xí：疑問符が二つ並びます。" },
+        { "id": "py:p:2-3", "char": "2-3", "label": "tone 2 + tone 3", "label_ja": "第二声＋第三声",
+          "hint": "Rise, then fall away into a low dip.", "hint_ja": "上がってから、低い谷へ落とします。",
+          "sample": { "zh": "牛奶", "pinyin": "niú nǎi", "num": "niu2 nai3", "en": "milk", "ja": "牛乳" },
+          "mnemonic": "niú nǎi: up the ramp, down into the cellar.", "mnemonic_ja": "niú nǎi：坂を上って、地下室へ下ります。" },
+        { "id": "py:p:2-4", "char": "2-4", "label": "tone 2 + tone 4", "label_ja": "第二声＋第四声",
+          "hint": "Rise to the top, then fall sharply: a peak.", "hint_ja": "上がりきってから一気に落とします。山の頂のような形です。",
+          "sample": { "zh": "学校", "pinyin": "xué xiào", "num": "xue2 xiao4", "en": "school", "ja": "学校" },
+          "mnemonic": "xué xiào: up one side of the mountain, down the other.", "mnemonic_ja": "xué xiào：山を登って、反対側へ下ります。" },
+        { "id": "py:p:3-1", "char": "3-1", "label": "tone 3 + tone 1", "label_ja": "第三声＋第一声",
+          "hint": "The third tone stays low (a half third), then jump up to the high level note.", "hint_ja": "第三声は低く抑えたまま（半三声）、次に高い平らな音へ跳び上がります。",
+          "sample": { "zh": "老师", "pinyin": "lǎo shī", "num": "lao3 shi1", "en": "teacher", "ja": "先生" },
+          "mnemonic": "lǎo shī: crouch low, then stand tall.", "mnemonic_ja": "lǎo shī：低くしゃがんで、すっと立ち上がります。" },
+        { "id": "py:p:3-2", "char": "3-2", "label": "tone 3 + tone 2", "label_ja": "第三声＋第二声",
+          "hint": "Low half third, then a rise from the middle.", "hint_ja": "低い半三声の後、中ほどから上昇します。",
+          "sample": { "zh": "起床", "pinyin": "qǐ chuáng", "num": "qi3 chuang2", "en": "to get up", "ja": "起きる、起床する" },
+          "mnemonic": "qǐ chuáng: low in bed, then up you get.", "mnemonic_ja": "qǐ chuáng：ベッドで低く、それから起き上がります。" },
+        { "id": "py:p:3-3", "char": "3-3", "label": "tone 3 + tone 3", "label_ja": "第三声＋第三声",
+          "hint": "Two third tones never stay as they are: the first becomes a second tone. nǐ hǎo is said ní hǎo.", "hint_ja": "第三声が二つ続くと、前の音節は第二声に変わります。nǐ hǎo は ní hǎo と発音します。",
+          "sample": { "zh": "你好", "pinyin": "nǐ hǎo", "num": "ni3 hao3", "en": "hello", "ja": "こんにちは" },
+          "mnemonic": "nǐ hǎo is really ní hǎo: a rise, then a dip.", "mnemonic_ja": "nǐ hǎo は実際には ní hǎo：上がってから、沈みます。" },
+        { "id": "py:p:3-4", "char": "3-4", "label": "tone 3 + tone 4", "label_ja": "第三声＋第四声",
+          "hint": "Low half third, then a sharp fall from high.", "hint_ja": "低い半三声の後、高いところから一気に落とします。",
+          "sample": { "zh": "考试", "pinyin": "kǎo shì", "num": "kao3 shi4", "en": "exam", "ja": "試験" },
+          "mnemonic": "kǎo shì: a low start, then the hammer drops.", "mnemonic_ja": "kǎo shì：低く始めて、ハンマーが落ちます。" },
+        { "id": "py:p:4-1", "char": "4-1", "label": "tone 4 + tone 1", "label_ja": "第四声＋第一声",
+          "hint": "A sharp fall, then jump back up and hold high.", "hint_ja": "一気に落としてから、高い音に戻して平らに保ちます。",
+          "sample": { "zh": "大家", "pinyin": "dà jiā", "num": "da4 jia1", "en": "everyone", "ja": "皆さん" },
+          "mnemonic": "dà jiā: drop the ball, then hold it up high.", "mnemonic_ja": "dà jiā：ボールを落として、また高く掲げます。" },
+        { "id": "py:p:4-2", "char": "4-2", "label": "tone 4 + tone 2", "label_ja": "第四声＋第二声",
+          "hint": "A sharp fall, then a rise from the middle: a V shape.", "hint_ja": "一気に落としてから、中ほどから上昇します。V の形です。",
+          "sample": { "zh": "问题", "pinyin": "wèn tí", "num": "wen4 ti2", "en": "question; problem", "ja": "質問、問題" },
+          "mnemonic": "wèn tí: down the slide, up the ladder.", "mnemonic_ja": "wèn tí：滑り台を下りて、はしごを登ります。" },
+        { "id": "py:p:4-3", "char": "4-3", "label": "tone 4 + tone 3", "label_ja": "第四声＋第三声",
+          "hint": "A sharp fall, then stay down in a low dip.", "hint_ja": "一気に落としてから、低い谷にとどまります。",
+          "sample": { "zh": "电脑", "pinyin": "diàn nǎo", "num": "dian4 nao3", "en": "computer", "ja": "パソコン" },
+          "mnemonic": "diàn nǎo: fall, then settle on the floor.", "mnemonic_ja": "diàn nǎo：落ちて、床に落ち着きます。" },
+        { "id": "py:p:4-4", "char": "4-4", "label": "tone 4 + tone 4", "label_ja": "第四声＋第四声",
+          "hint": "Two sharp falls; the second one starts a little lower.", "hint_ja": "鋭い下降を二回。二回目は少し低い位置から始まります。",
+          "sample": { "zh": "再见", "pinyin": "zài jiàn", "num": "zai4 jian4", "en": "goodbye", "ja": "さようなら" },
+          "mnemonic": "zài jiàn: two chops of the hand.", "mnemonic_ja": "zài jiàn：手刀を二回振り下ろします。" },
+        { "id": "py:p:1-0", "char": "1-0", "label": "tone 1 + neutral", "label_ja": "第一声＋軽声",
+          "hint": "High and level, then a short light tap a little lower.", "hint_ja": "高く平らに言ってから、少し低いところで軽く短く添えます。",
+          "sample": { "zh": "妈妈", "pinyin": "mā ma", "num": "ma1 ma5", "en": "mom", "ja": "お母さん" },
+          "mnemonic": "mā ma: a long note and a tap.", "mnemonic_ja": "mā ma：長い音と、軽いひと叩き。" },
+        { "id": "py:p:2-0", "char": "2-0", "label": "tone 2 + neutral", "label_ja": "第二声＋軽声",
+          "hint": "Rise, then a short light tap at the middle.", "hint_ja": "上がってから、中ほどの高さで軽く短く添えます。",
+          "sample": { "zh": "朋友", "pinyin": "péng you", "num": "peng2 you5", "en": "friend", "ja": "友達" },
+          "mnemonic": "péng you: a climb and a tap.", "mnemonic_ja": "péng you：登って、軽くひと叩き。" },
+        { "id": "py:p:3-0", "char": "3-0", "label": "tone 3 + neutral", "label_ja": "第三声＋軽声",
+          "hint": "Low half third, then the neutral syllable pops slightly higher.", "hint_ja": "低い半三声の後、軽声はそれより少し高い位置で軽く添えます。",
+          "sample": { "zh": "椅子", "pinyin": "yǐ zi", "num": "yi3 zi5", "en": "chair", "ja": "椅子" },
+          "mnemonic": "yǐ zi: sink low, then a little bounce.", "mnemonic_ja": "yǐ zi：低く沈んで、小さく跳ねます。" },
+        { "id": "py:p:4-0", "char": "4-0", "label": "tone 4 + neutral", "label_ja": "第四声＋軽声",
+          "hint": "A sharp fall, then a short low tap.", "hint_ja": "一気に落としてから、低い位置で軽く短く添えます。",
+          "sample": { "zh": "谢谢", "pinyin": "xiè xie", "num": "xie4 xie5", "en": "thank you", "ja": "ありがとう" },
+          "mnemonic": "xiè xie: a chop and a tap.", "mnemonic_ja": "xiè xie：振り下ろして、軽くひと叩き。" }
+      ],
+      "words": [
+        { "id": "vocab:py:dong1xi5-东西", "zh": "东西", "pinyin": "dōng xi", "num": "dong1 xi5", "meaning": "thing", "meaning_ja": "物" },
+        { "id": "vocab:py:xian4zai4-现在", "zh": "现在", "pinyin": "xiàn zài", "num": "xian4 zai4", "meaning": "now", "meaning_ja": "今" },
+        { "id": "vocab:py:zuo2tian1-昨天", "zh": "昨天", "pinyin": "zuó tiān", "num": "zuo2 tian1", "meaning": "yesterday", "meaning_ja": "昨日" },
+        { "id": "vocab:py:xi3huan5-喜欢", "zh": "喜欢", "pinyin": "xǐ huan", "num": "xi3 huan5", "meaning": "to like", "meaning_ja": "好む、好きだ" },
+        { "id": "vocab:py:han4yu3-汉语", "zh": "汉语", "pinyin": "Hàn yǔ", "num": "han4 yu3", "meaning": "Chinese language", "meaning_ja": "中国語" },
+        { "id": "vocab:py:ping2guo3-苹果", "zh": "苹果", "pinyin": "píng guǒ", "num": "ping2 guo3", "meaning": "apple", "meaning_ja": "りんご" },
+        { "id": "vocab:py:shui3guo3-水果", "zh": "水果", "pinyin": "shuǐ guǒ", "num": "shui3 guo3", "meaning": "fruit", "meaning_ja": "果物" },
+        { "id": "vocab:py:bei3jing1-北京", "zh": "北京", "pinyin": "Běi jīng", "num": "bei3 jing1", "meaning": "Beijing", "meaning_ja": "北京" },
+        { "id": "vocab:py:shang1dian4-商店", "zh": "商店", "pinyin": "shāng diàn", "num": "shang1 dian4", "meaning": "shop", "meaning_ja": "店" },
+        { "id": "vocab:py:gao1xing4-高兴", "zh": "高兴", "pinyin": "gāo xìng", "num": "gao1 xing4", "meaning": "happy; glad", "meaning_ja": "うれしい" },
+        { "id": "vocab:py:piao4liang5-漂亮", "zh": "漂亮", "pinyin": "piào liang", "num": "piao4 liang5", "meaning": "pretty", "meaning_ja": "きれいな" },
+        { "id": "vocab:py:ming2zi5-名字", "zh": "名字", "pinyin": "míng zi", "num": "ming2 zi5", "meaning": "name", "meaning_ja": "名前" }
+      ]
+    },
+    {
+      "id": "py-sandhi",
+      "kind": "sandhi",
+      "title": "Tone changes",
+      "title_ja": "声調の変化",
+      "intro": "A few tones change in connected speech. The rules are small and regular, and dictionaries (and this app) always print the underlying tone, so you need to know them. The big three are the third tone, 不 bù and 一 yī; the fourth is the Beijing -r ending.",
+      "intro_ja": "いくつかの声調は、続けて話すときに変化します。規則は少なく規則的ですが、辞書（とこのアプリ）は常に元の声調を表示するので、知っておく必要があります。重要なのは第三声・不 bù・一 yī の三つで、もう一つは北京風の -r の語尾です。",
+      "chars": [
+        {
+          "id": "py:s:33", "char": "3+3", "label": "third-tone sandhi", "label_ja": "第三声の変調",
+          "hint": "When two third tones meet, the first turns into a second tone. 你好 nǐ hǎo is said ní hǎo; 很好 hěn hǎo is said hén hǎo.",
+          "hint_ja": "第三声が二つ続くと、前の音節は第二声になります。你好 nǐ hǎo は ní hǎo、很好 hěn hǎo は hén hǎo と発音します。",
+          "rule": "3 + 3 → 2 + 3. The written pinyin keeps the original third tone; only the pronunciation changes.",
+          "sample": { "zh": "你好", "pinyin": "nǐ hǎo", "num": "ni3 hao3", "en": "hello", "ja": "こんにちは" },
+          "mnemonic": "Two dips in a row are too much work, so the first one rises instead.",
+          "mnemonic_ja": "谷を二つ続けて下りるのは大変なので、最初の谷は坂に変わります。"
+        },
+        {
+          "id": "py:s:half3", "char": "3+x", "label": "half third tone", "label_ja": "半三声",
+          "hint": "Before any tone other than a third tone, the third tone loses its rise: it just stays low. 老师 lǎo shī, 小时 xiǎo shí, 考试 kǎo shì. The full dip is only heard at the end of a phrase.",
+          "hint_ja": "第三声の後に第三声以外の音節が続くとき、第三声は上がらずに低いままになります。老师 lǎo shī、小时 xiǎo shí、考试 kǎo shì。完全な「下がって上がる」形は、文の終わりでしか聞かれません。",
+          "rule": "3 + (1, 2, 4 or neutral) → low 3 (21) + the next tone. Think of the third tone as a low tone that only rises when it has nothing to do next.",
+          "sample": { "zh": "老师", "pinyin": "lǎo shī", "num": "lao3 shi1", "en": "teacher", "ja": "先生" },
+          "mnemonic": "The third tone is lazy: it only climbs back up when nothing follows.",
+          "mnemonic_ja": "第三声は怠け者。後に何も続かないときだけ、上がり直します。"
+        },
+        {
+          "id": "py:s:bu", "char": "bù→bú", "label": "不 before a fourth tone", "label_ja": "第四声の前の 不",
+          "hint": "不 is bù (fourth tone), but before another fourth tone it becomes bú: 不是 bù shì is said bú shì, 不对 bú duì, 不要 bú yào.",
+          "hint_ja": "不 は本来 bù（第四声）ですが、第四声の前では bú になります。不是 bù shì は bú shì、不对 bú duì、不要 bú yào と発音します。",
+          "rule": "bù + 4 → bú + 4. Before tones 1, 2 and 3 it stays bù: 不吃 bù chī, 不来 bù lái, 不好 bù hǎo.",
+          "sample": { "zh": "不是", "pinyin": "bù shì", "num": "bu4 shi4", "en": "is not", "ja": "〜ではない" },
+          "mnemonic": "Two falls would collide, so 不 bounces up first: bú shì.",
+          "mnemonic_ja": "下降が二つぶつかるので、不 は先に跳ね上がります：bú shì。"
+        },
+        {
+          "id": "py:s:yi", "char": "yī→yí/yì", "label": "一 changes tone", "label_ja": "一 の変調",
+          "hint": "一 is yī on its own and in numbers and ordinals (一, 第一, 十一). Before a fourth tone it becomes yí (一个 yí ge, 一样 yí yàng); before tones 1, 2 and 3 it becomes yì (一天 yì tiān, 一年 yì nián, 一起 yì qǐ).",
+          "hint_ja": "一 は単独・数字・順序（一、第一、十一）では yī です。第四声の前では yí（一个 yí ge、一样 yí yàng）、第一・二・三声の前では yì（一天 yì tiān、一年 yì nián、一起 yì qǐ）になります。",
+          "rule": "yī + 4 → yí; yī + (1, 2, 3) → yì; alone, counting, or in ordinals it stays yī. Dictionaries print yī throughout.",
+          "sample": { "zh": "一个", "pinyin": "yī gè", "num": "yi1 ge4", "en": "one (+ measure word)", "ja": "一つ" },
+          "mnemonic": "一 does the opposite of what follows: it rises before a fall and falls before anything else.",
+          "mnemonic_ja": "一 は後ろと逆を行きます。下降の前では上がり、それ以外の前では下がります。"
+        },
+        {
+          "id": "py:s:er", "char": "-r", "label": "erhua: the -r ending", "label_ja": "儿化：-r の語尾",
+          "hint": "In Beijing-style Mandarin, 儿 is glued to the end of some words as a curled-tongue -r: 花儿 huār, 哪儿 nǎr, 玩儿 wánr. The tone belongs to the main syllable and a final -n or -i is swallowed by the r.",
+          "hint_ja": "北京風の標準語では、一部の単語の末尾に 儿 がそり舌の -r としてくっつきます：花儿 huār、哪儿 nǎr、玩儿 wánr。声調は元の音節のままで、語尾の -n や -i は r に飲み込まれます。",
+          "rule": "syllable + 儿 → syllable + r, written as one syllable (huār, not huā ér). 儿 is a full syllable ér only in words like 儿子 ér zi and 女儿 nǚ ér.",
+          "sample": { "zh": "哪儿", "pinyin": "nǎr", "num": "na3r", "en": "where", "ja": "どこ" },
+          "mnemonic": "The -r is a pirate's growl on the end of the word: nǎr, where?",
+          "mnemonic_ja": "-r は単語の最後に付く海賊のうなり声：nǎr（どこ？）。"
+        }
+      ],
+      "words": [
+        { "id": "vocab:py:hen3hao3-很好", "zh": "很好", "pinyin": "hěn hǎo", "num": "hen3 hao3", "meaning": "very good", "meaning_ja": "とても良い" },
+        { "id": "vocab:py:bu4shi4-不是", "zh": "不是", "pinyin": "bù shì", "num": "bu4 shi4", "meaning": "is not", "meaning_ja": "〜ではない" },
+        { "id": "vocab:py:bu4dui4-不对", "zh": "不对", "pinyin": "bù duì", "num": "bu4 dui4", "meaning": "wrong; incorrect", "meaning_ja": "違う、正しくない" },
+        { "id": "vocab:py:bu4yao4-不要", "zh": "不要", "pinyin": "bù yào", "num": "bu4 yao4", "meaning": "don't; don't want", "meaning_ja": "いらない；〜しないで" },
+        { "id": "vocab:py:yi1ge4-一个", "zh": "一个", "pinyin": "yī gè", "num": "yi1 ge4", "meaning": "one (+ measure word)", "meaning_ja": "一つ" },
+        { "id": "vocab:py:yi1tian1-一天", "zh": "一天", "pinyin": "yī tiān", "num": "yi1 tian1", "meaning": "one day", "meaning_ja": "一日" },
+        { "id": "vocab:py:yi1qi3-一起", "zh": "一起", "pinyin": "yī qǐ", "num": "yi1 qi3", "meaning": "together", "meaning_ja": "一緒に" },
+        { "id": "vocab:py:di4yi1-第一", "zh": "第一", "pinyin": "dì yī", "num": "di4 yi1", "meaning": "first", "meaning_ja": "第一、一番目" },
+        { "id": "vocab:py:na3r-哪儿", "zh": "哪儿", "pinyin": "nǎr", "num": "na3r", "meaning": "where", "meaning_ja": "どこ" },
+        { "id": "vocab:py:hua1r-花儿", "zh": "花儿", "pinyin": "huār", "num": "hua1r", "meaning": "flower", "meaning_ja": "花" },
+        { "id": "vocab:py:yi1dian3r-一点儿", "zh": "一点儿", "pinyin": "yī diǎnr", "num": "yi1 dian3r", "meaning": "a little", "meaning_ja": "少し" },
+        { "id": "vocab:py:wan2r-玩儿", "zh": "玩儿", "pinyin": "wánr", "num": "wan2r", "meaning": "to play; to have fun", "meaning_ja": "遊ぶ" }
+      ]
+    }
+  ]
+}

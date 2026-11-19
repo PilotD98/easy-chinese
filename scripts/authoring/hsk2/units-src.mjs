@@ -1,0 +1,31 @@
+// HSK 2 units: the 168 new characters, hand-planned so that the words of the
+// list become writable early and the characters of a word stay together.
+
+export const UNITS = [
+  { title: 'Already, still, going to', title_ja: 'もう・まだ・これから',
+    chars: ['也', '就', '还', '已', '经', '要', '到', '给', '让', '吧', '可', '以', '真', '得'] },
+  { title: 'Because and but', title_ja: 'だから・でも',
+    chars: ['为', '因', '所', '但', '从', '两', '最', '次', '它', '知', '道', '问', '题'] },
+  { title: 'Faster, newer, better', title_ja: 'もっと速く、もっと新しく',
+    chars: ['走', '间', '始', '新', '找', '快', '比', '向', '希', '望', '非', '常', '孩'] },
+  { title: 'At the company', title_ja: '会社で',
+    chars: ['别', '公', '司', '第', '长', '告', '诉', '事', '情', '号', '件', '张'] },
+  { title: 'Getting ready to go', title_ja: '出かける準備',
+    chars: ['准', '备', '进', '每', '您', '送', '笑', '完', '路', '男', '玩', '正', '门'] },
+  { title: 'Out in the evening', title_ja: '夜の外出',
+    chars: ['穿', '外', '帮', '助', '晚', '错', '卖', '远', '乐', '懂', '药', '黑'] },
+  { title: 'Body and greetings', title_ja: '体とあいさつ',
+    chars: ['身', '体', '元', '介', '绍', '红', '迎', '眼', '睛', '近', '手', '忙', '离'] },
+  { title: 'Rest and motion', title_ja: '休みと運動',
+    chars: ['白', '票', '意', '思', '早', '答', '运', '动', '妻', '鱼', '累', '休', '息', '着'] },
+  { title: 'Home and class', title_ja: '家と授業',
+    chars: ['洗', '船', '房', '丈', '夫', '班', '课', '哥', '咖', '啡', '考', '试', '百'] },
+  { title: 'Colours, snow and papers', title_ja: '色・雪・新聞',
+    chars: ['慢', '旁', '边', '颜', '色', '雪', '妹', '报', '纸', '贵', '场', '表', '弟'] },
+  { title: 'Travel and shopping', title_ja: '旅行と買い物',
+    chars: ['千', '旅', '游', '床', '便', '宜', '唱', '歌', '右', '左', '牛', '奶'] },
+  { title: 'Sports and health', title_ja: 'スポーツと健康',
+    chars: ['自', '行', '鸡', '蛋', '姓', '泳', '跳', '舞', '阴', '病', '斤', '教', '室'] },
+  { title: 'Bus, ball and waiter', title_ja: 'バス・ボール・店員',
+    chars: ['务', '员', '跑', '步', '瓜', '晴', '羊', '肉', '共', '汽', '篮', '球', '踢'] },
+];

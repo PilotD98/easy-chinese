@@ -1,0 +1,576 @@
+[
+ {
+  "id": "unit:hsk2:01",
+  "no": 1,
+  "level": "hsk2",
+  "title": "Already, still, going to",
+  "title_ja": "もう・まだ・これから",
+  "chars": [
+   "hanzi:就",
+   "hanzi:要",
+   "hanzi:也",
+   "hanzi:到",
+   "hanzi:还",
+   "hanzi:给",
+   "hanzi:让",
+   "hanzi:吧",
+   "hanzi:得",
+   "hanzi:可",
+   "hanzi:以",
+   "hanzi:真",
+   "hanzi:已",
+   "hanzi:经"
+  ],
+  "vocab": [
+   "vocab:hsk2:jiu4-就",
+   "vocab:hsk2:yao4-要",
+   "vocab:hsk2:ye3-也",
+   "vocab:hsk2:dao4-到",
+   "vocab:hsk2:hai2-还",
+   "vocab:hsk2:gei3-给",
+   "vocab:hsk2:rang4-让",
+   "vocab:hsk2:ba5-吧",
+   "vocab:hsk2:de5-得",
+   "vocab:hsk2:ke3yi3-可以",
+   "vocab:hsk2:zhen1-真",
+   "vocab:hsk2:yi3jing1-已经",
+   "vocab:hsk2:ke3neng2-可能",
+   "vocab:hsk2:jue2de5-觉得"
+  ],
+  "grammar": [
+   "gram:hsk2:yijing-le",
+   "gram:hsk2:hai",
+   "gram:hsk2:yao-future",
+   "gram:hsk2:keyi-neng"
+  ],
+  "readings": [],
+  "listening": []
+ },
+ {
+  "id": "unit:hsk2:02",
+  "no": 2,
+  "level": "hsk2",
+  "title": "Because and but",
+  "title_ja": "だから・でも",
+  "chars": [
+   "hanzi:为",
+   "hanzi:从",
+   "hanzi:两",
+   "hanzi:最",
+   "hanzi:因",
+   "hanzi:次",
+   "hanzi:知",
+   "hanzi:道",
+   "hanzi:问",
+   "hanzi:题",
+   "hanzi:它",
+   "hanzi:但",
+   "hanzi:所"
+  ],
+  "vocab": [
+   "vocab:hsk2:wei4-为",
+   "vocab:hsk2:cong2-从",
+   "vocab:hsk2:liang3-两",
+   "vocab:hsk2:chu1-出",
+   "vocab:hsk2:zui4-最",
+   "vocab:hsk2:yin1wei4-因为",
+   "vocab:hsk2:zai4-再",
+   "vocab:hsk2:ci4-次",
+   "vocab:hsk2:zhi1dao4-知道",
+   "vocab:hsk2:wen4ti2-问题",
+   "vocab:hsk2:ta1-它",
+   "vocab:hsk2:dan4shi4-但是",
+   "vocab:hsk2:suo3yi3-所以",
+   "vocab:hsk2:wen4-问",
+   "vocab:hsk2:ti2-题"
+  ],
+  "grammar": [
+   "gram:hsk2:yinwei-suoyi",
+   "gram:hsk2:danshi",
+   "gram:hsk2:cong-dao",
+   "gram:hsk2:liang-er"
+  ],
+  "readings": [],
+  "listening": [
+   "listen:hsk2:001"
+  ]
+ },
+ {
+  "id": "unit:hsk2:03",
+  "no": 3,
+  "level": "hsk2",
+  "title": "Faster, newer, better",
+  "title_ja": "もっと速く、もっと新しく",
+  "chars": [
+   "hanzi:走",
+   "hanzi:间",
+   "hanzi:始",
+   "hanzi:新",
+   "hanzi:找",
+   "hanzi:快",
+   "hanzi:比",
+   "hanzi:向",
+   "hanzi:希",
+   "hanzi:望",
+   "hanzi:非",
+   "hanzi:常",
+   "hanzi:孩"
+  ],
+  "vocab": [
+   "vocab:hsk2:zou3-走",
+   "vocab:hsk2:shi2jian1-时间",
+   "vocab:hsk2:kai1shi3-开始",
+   "vocab:hsk2:xin1-新",
+   "vocab:hsk2:zhao3-找",
+   "vocab:hsk2:kuai4-快",
+   "vocab:hsk2:bi3-比",
+   "vocab:hsk2:xiang4-向",
+   "vocab:hsk2:xi1wang4-希望",
+   "vocab:hsk2:fei1chang2-非常",
+   "vocab:hsk2:hai2zi5-孩子"
+  ],
+  "grammar": [
+   "gram:hsk2:bi",
+   "gram:hsk2:meiyou-name",
+   "gram:hsk2:zhen-feichang",
+   "gram:hsk2:kuai-le"
+  ],
+  "readings": [],
+  "listening": []
+ },
+ {
+  "id": "unit:hsk2:04",
+  "no": 4,
+  "level": "hsk2",
+  "title": "At the company",
+  "title_ja": "会社で",
+  "chars": [
+   "hanzi:别",
+   "hanzi:公",
+   "hanzi:司",
+   "hanzi:第",
+   "hanzi:长",
+   "hanzi:告",
+   "hanzi:诉",
+   "hanzi:事",
+   "hanzi:情",
+   "hanzi:号",
+   "hanzi:件",
+   "hanzi:张"
+  ],
+  "vocab": [
+   "vocab:hsk2:yi1qi3-一起",
+   "vocab:hsk2:da4jia1-大家",
+   "vocab:hsk2:bie2-别",
+   "vocab:hsk2:gong1si1-公司",
+   "vocab:hsk2:di4yi1-第一",
+   "vocab:hsk2:chang2-长",
+   "vocab:hsk2:gao4su5-告诉",
+   "vocab:hsk2:shi4qing5-事情",
+   "vocab:hsk2:hao4-号",
+   "vocab:hsk2:jian4-件",
+   "vocab:hsk2:zhang1-张"
+  ],
+  "grammar": [
+   "gram:hsk2:di",
+   "gram:hsk2:ci",
+   "gram:hsk2:bie",
+   "gram:hsk2:jiu"
+  ],
+  "readings": [
+   "read:hsk2:001"
+  ],
+  "listening": []
+ },
+ {
+  "id": "unit:hsk2:05",
+  "no": 5,
+  "level": "hsk2",
+  "title": "Getting ready to go",
+  "title_ja": "出かける準備",
+  "chars": [
+   "hanzi:准",
+   "hanzi:备",
+   "hanzi:进",
+   "hanzi:每",
+   "hanzi:您",
+   "hanzi:送",
+   "hanzi:笑",
+   "hanzi:完",
+   "hanzi:路",
+   "hanzi:男",
+   "hanzi:玩",
+   "hanzi:正",
+   "hanzi:门"
+  ],
+  "vocab": [
+   "vocab:hsk2:gao1-高",
+   "vocab:hsk2:zhun3bei4-准备",
+   "vocab:hsk2:jin4-进",
+   "vocab:hsk2:mei3-每",
+   "vocab:hsk2:nin2-您",
+   "vocab:hsk2:song4-送",
+   "vocab:hsk2:xiao4-笑",
+   "vocab:hsk2:wan2-完",
+   "vocab:hsk2:lu4-路",
+   "vocab:hsk2:nan2ren2-男人",
+   "vocab:hsk2:wan2-玩",
+   "vocab:hsk2:zheng4zai4-正在",
+   "vocab:hsk2:men2-门"
+  ],
+  "grammar": [
+   "gram:hsk2:mei-dou",
+   "gram:hsk2:zhengzai",
+   "gram:hsk2:lai-qu-dir",
+   "gram:hsk2:wan"
+  ],
+  "readings": [],
+  "listening": [
+   "listen:hsk2:002"
+  ]
+ },
+ {
+  "id": "unit:hsk2:06",
+  "no": 6,
+  "level": "hsk2",
+  "title": "Out in the evening",
+  "title_ja": "夜の外出",
+  "chars": [
+   "hanzi:穿",
+   "hanzi:外",
+   "hanzi:帮",
+   "hanzi:助",
+   "hanzi:晚",
+   "hanzi:错",
+   "hanzi:卖",
+   "hanzi:远",
+   "hanzi:乐",
+   "hanzi:懂",
+   "hanzi:药",
+   "hanzi:黑"
+  ],
+  "vocab": [
+   "vocab:hsk2:nü3ren2-女人",
+   "vocab:hsk2:xiao3shi2-小时",
+   "vocab:hsk2:chuan1-穿",
+   "vocab:hsk2:wai4-外",
+   "vocab:hsk2:bang1zhu4-帮助",
+   "vocab:hsk2:wan3shang5-晚上",
+   "vocab:hsk2:cuo4-错",
+   "vocab:hsk2:mai4-卖",
+   "vocab:hsk2:yuan3-远",
+   "vocab:hsk2:kuai4le4-快乐",
+   "vocab:hsk2:dong3-懂",
+   "vocab:hsk2:yao4-药",
+   "vocab:hsk2:hei1-黑"
+  ],
+  "grammar": [
+   "gram:hsk2:jieguo-buyu",
+   "gram:hsk2:gei",
+   "gram:hsk2:rang",
+   "gram:hsk2:de-degree"
+  ],
+  "readings": [
+   "read:hsk2:002"
+  ],
+  "listening": []
+ },
+ {
+  "id": "unit:hsk2:07",
+  "no": 7,
+  "level": "hsk2",
+  "title": "Body and greetings",
+  "title_ja": "体とあいさつ",
+  "chars": [
+   "hanzi:身",
+   "hanzi:体",
+   "hanzi:元",
+   "hanzi:介",
+   "hanzi:绍",
+   "hanzi:红",
+   "hanzi:迎",
+   "hanzi:眼",
+   "hanzi:睛",
+   "hanzi:近",
+   "hanzi:手",
+   "hanzi:忙",
+   "hanzi:离"
+  ],
+  "vocab": [
+   "vocab:hsk2:shen1ti3-身体",
+   "vocab:hsk2:yuan2-元",
+   "vocab:hsk2:jie4shao4-介绍",
+   "vocab:hsk2:hong2-红",
+   "vocab:hsk2:huan1ying2-欢迎",
+   "vocab:hsk2:yan3jing5-眼睛",
+   "vocab:hsk2:jin4-近",
+   "vocab:hsk2:shou3ji1-手机",
+   "vocab:hsk2:mang2-忙",
+   "vocab:hsk2:li2-离"
+  ],
+  "grammar": [
+   "gram:hsk2:li",
+   "gram:hsk2:xiang-dui",
+   "gram:hsk2:yixia",
+   "gram:hsk2:keneng"
+  ],
+  "readings": [],
+  "listening": [
+   "listen:hsk2:003"
+  ]
+ },
+ {
+  "id": "unit:hsk2:08",
+  "no": 8,
+  "level": "hsk2",
+  "title": "Rest and motion",
+  "title_ja": "休みと運動",
+  "chars": [
+   "hanzi:着",
+   "hanzi:白",
+   "hanzi:票",
+   "hanzi:意",
+   "hanzi:思",
+   "hanzi:早",
+   "hanzi:答",
+   "hanzi:运",
+   "hanzi:动",
+   "hanzi:妻",
+   "hanzi:鱼",
+   "hanzi:累",
+   "hanzi:休",
+   "hanzi:息"
+  ],
+  "vocab": [
+   "vocab:hsk2:zhe5-着",
+   "vocab:hsk2:bai2-白",
+   "vocab:hsk2:qu4nian2-去年",
+   "vocab:hsk2:piao4-票",
+   "vocab:hsk2:yi4si5-意思",
+   "vocab:hsk2:zao3shang5-早上",
+   "vocab:hsk2:hui2da2-回答",
+   "vocab:hsk2:yun4dong4-运动",
+   "vocab:hsk2:qi1zi3-妻子",
+   "vocab:hsk2:yu2-鱼",
+   "vocab:hsk2:lei3-累",
+   "vocab:hsk2:xiu1xi5-休息"
+  ],
+  "grammar": [
+   "gram:hsk2:zhe",
+   "gram:hsk2:duration",
+   "gram:hsk2:de-shihou",
+   "gram:hsk2:ba"
+  ],
+  "readings": [
+   "read:hsk2:003"
+  ],
+  "listening": []
+ },
+ {
+  "id": "unit:hsk2:09",
+  "no": 9,
+  "level": "hsk2",
+  "title": "Home and class",
+  "title_ja": "家と授業",
+  "chars": [
+   "hanzi:洗",
+   "hanzi:船",
+   "hanzi:房",
+   "hanzi:丈",
+   "hanzi:夫",
+   "hanzi:班",
+   "hanzi:课",
+   "hanzi:哥",
+   "hanzi:咖",
+   "hanzi:啡",
+   "hanzi:考",
+   "hanzi:试",
+   "hanzi:百"
+  ],
+  "vocab": [
+   "vocab:hsk2:xi3-洗",
+   "vocab:hsk2:chuan2-船",
+   "vocab:hsk2:fang2jian1-房间",
+   "vocab:hsk2:zhang4fu5-丈夫",
+   "vocab:hsk2:shang4ban1-上班",
+   "vocab:hsk2:ke4-课",
+   "vocab:hsk2:ge1ge5-哥哥",
+   "vocab:hsk2:ka1fei1-咖啡",
+   "vocab:hsk2:kao3shi4-考试",
+   "vocab:hsk2:bai3-百"
+  ],
+  "grammar": [
+   "gram:hsk2:youdianr",
+   "gram:hsk2:le-change"
+  ],
+  "readings": [],
+  "listening": [
+   "listen:hsk2:004"
+  ]
+ },
+ {
+  "id": "unit:hsk2:10",
+  "no": 10,
+  "level": "hsk2",
+  "title": "Colours, snow and papers",
+  "title_ja": "色・雪・新聞",
+  "chars": [
+   "hanzi:慢",
+   "hanzi:旁",
+   "hanzi:边",
+   "hanzi:颜",
+   "hanzi:色",
+   "hanzi:雪",
+   "hanzi:妹",
+   "hanzi:报",
+   "hanzi:纸",
+   "hanzi:贵",
+   "hanzi:场",
+   "hanzi:弟",
+   "hanzi:表"
+  ],
+  "vocab": [
+   "vocab:hsk2:sheng1ri4-生日",
+   "vocab:hsk2:jie3jie5-姐姐",
+   "vocab:hsk2:man4-慢",
+   "vocab:hsk2:pang2bian1-旁边",
+   "vocab:hsk2:yan2se4-颜色",
+   "vocab:hsk2:xue3-雪",
+   "vocab:hsk2:mei4mei5-妹妹",
+   "vocab:hsk2:bao4zhi3-报纸",
+   "vocab:hsk2:gui4-贵",
+   "vocab:hsk2:ji1chang3-机场",
+   "vocab:hsk2:di4di5-弟弟",
+   "vocab:hsk2:shou3biao3-手表"
+  ],
+  "grammar": [
+   "gram:hsk2:duo-adj",
+   "gram:hsk2:he-yiqi"
+  ],
+  "readings": [
+   "read:hsk2:004"
+  ],
+  "listening": []
+ },
+ {
+  "id": "unit:hsk2:11",
+  "no": 11,
+  "level": "hsk2",
+  "title": "Travel and shopping",
+  "title_ja": "旅行と買い物",
+  "chars": [
+   "hanzi:千",
+   "hanzi:旅",
+   "hanzi:游",
+   "hanzi:床",
+   "hanzi:便",
+   "hanzi:宜",
+   "hanzi:唱",
+   "hanzi:歌",
+   "hanzi:右",
+   "hanzi:牛",
+   "hanzi:奶",
+   "hanzi:左"
+  ],
+  "vocab": [
+   "vocab:hsk2:qian1-千",
+   "vocab:hsk2:hao3chi1-好吃",
+   "vocab:hsk2:lü3you2-旅游",
+   "vocab:hsk2:qi3chuang2-起床",
+   "vocab:hsk2:pian2yi5-便宜",
+   "vocab:hsk2:chang4ge1-唱歌",
+   "vocab:hsk2:you4bian5-右边",
+   "vocab:hsk2:niu2nai3-牛奶",
+   "vocab:hsk2:zuo3bian5-左边"
+  ],
+  "grammar": [
+   "gram:hsk2:bai-qian",
+   "gram:hsk2:yao-xiang"
+  ],
+  "readings": [],
+  "listening": [
+   "listen:hsk2:005"
+  ]
+ },
+ {
+  "id": "unit:hsk2:12",
+  "no": 12,
+  "level": "hsk2",
+  "title": "Sports and health",
+  "title_ja": "スポーツと健康",
+  "chars": [
+   "hanzi:自",
+   "hanzi:行",
+   "hanzi:鸡",
+   "hanzi:蛋",
+   "hanzi:姓",
+   "hanzi:泳",
+   "hanzi:跳",
+   "hanzi:舞",
+   "hanzi:阴",
+   "hanzi:病",
+   "hanzi:斤",
+   "hanzi:教",
+   "hanzi:室"
+  ],
+  "vocab": [
+   "vocab:hsk2:zi4xing2che1-自行车",
+   "vocab:hsk2:ji1dan4-鸡蛋",
+   "vocab:hsk2:xing4-姓",
+   "vocab:hsk2:you2yong3-游泳",
+   "vocab:hsk2:tiao4wu3-跳舞",
+   "vocab:hsk2:yin1-阴",
+   "vocab:hsk2:sheng1bing4-生病",
+   "vocab:hsk2:gong1jin1-公斤",
+   "vocab:hsk2:jiao4shi4-教室"
+  ],
+  "grammar": [
+   "gram:hsk2:xing",
+   "gram:hsk2:hui-likely"
+  ],
+  "readings": [
+   "read:hsk2:005"
+  ],
+  "listening": []
+ },
+ {
+  "id": "unit:hsk2:13",
+  "no": 13,
+  "level": "hsk2",
+  "title": "Bus, ball and waiter",
+  "title_ja": "バス・ボール・店員",
+  "chars": [
+   "hanzi:踢",
+   "hanzi:务",
+   "hanzi:员",
+   "hanzi:跑",
+   "hanzi:步",
+   "hanzi:瓜",
+   "hanzi:晴",
+   "hanzi:羊",
+   "hanzi:肉",
+   "hanzi:共",
+   "hanzi:汽",
+   "hanzi:篮",
+   "hanzi:球"
+  ],
+  "vocab": [
+   "vocab:hsk2:ti1-踢",
+   "vocab:hsk2:fu2wu4yuan2-服务员",
+   "vocab:hsk2:pao3bu4-跑步",
+   "vocab:hsk2:xi1gua1-西瓜",
+   "vocab:hsk2:qing2-晴",
+   "vocab:hsk2:yang2rou4-羊肉",
+   "vocab:hsk2:gong1gong4qi4che1-公共汽车",
+   "vocab:hsk2:da3lan2qiu2-打篮球"
+  ],
+  "grammar": [
+   "gram:hsk2:serial-verb",
+   "gram:hsk2:le-le"
+  ],
+  "readings": [
+   "read:hsk2:006"
+  ],
+  "listening": []
+ }
+]

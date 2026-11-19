@@ -1,0 +1,162 @@
+{
+  "id": "orientation",
+  "title": "How Chinese works",
+  "title_ja": "中国語のしくみ",
+  "minutes": 6,
+  "sections": [
+    {
+      "id": "characters",
+      "title": "Characters, not letters",
+      "title_ja": "文字はアルファベットではなく漢字",
+      "body": [
+        "Chinese is written in characters (汉字 hànzì), not in an alphabet. Each character is one syllable and usually one unit of meaning: 我 is 'I', 喝 is 'drink', 茶 is 'tea'. Most words are one or two characters long.",
+        "Mainland China and Singapore use simplified characters (国, 学); Taiwan and Hong Kong use traditional ones (國, 學). This app teaches simplified and shows the traditional form where it differs.",
+        "You need roughly 3,000 characters to read a newspaper comfortably. The HSK exams cover about 2,600 of them, and the first 300 already let you read simple dialogues and signs."
+      ],
+      "body_ja": [
+        "中国語はアルファベットではなく漢字（汉字 hànzì）で書きます。一つの漢字が一音節で、たいてい一つの意味のまとまりです：我 は「私」、喝 は「飲む」、茶 は「お茶」。単語の多くは一〜二文字です。",
+        "中国本土とシンガポールでは簡体字（国、学）、台湾と香港では繁体字（國、學）を使います。このアプリは簡体字で教え、形が違う場合は繁体字も表示します。",
+        "新聞を楽に読むには約3,000字が必要です。HSK試験はそのうち約2,600字をカバーし、最初の300字だけでも簡単な会話文や看板が読めるようになります。"
+      ],
+      "example": {
+        "zh": "我喝茶。",
+        "pinyin": "wǒ hē chá.",
+        "en": "I drink tea.",
+        "ja": "私はお茶を飲みます。",
+        "parts": [["我", "subject"], ["喝", "verb"], ["茶", "object"]]
+      }
+    },
+    {
+      "id": "pinyin",
+      "title": "Pinyin is a learning aid",
+      "title_ja": "ピンインは学習の道具",
+      "body": [
+        "Characters do not show you how to say them, so Chinese uses pinyin (拼音 pīnyīn): the Roman alphabet plus tone marks. 你好 is written nǐ hǎo. Every Chinese child learns pinyin first, and it is also what Chinese people type on their phones and computers to get characters.",
+        "Some letters do not sound the way they do in English: q is like 'ch', x is like 'sh', c is 'ts', and zh, ch, sh are said with the tongue curled back. The next stage teaches every sound with audio.",
+        "Pinyin is scaffolding, not the destination. This app shows it alongside new words and gradually hides it as you learn the characters."
+      ],
+      "body_ja": [
+        "漢字は読み方を示してくれないので、中国語ではピンイン（拼音 pīnyīn）を使います。ローマ字に声調記号を付けたもので、你好 は nǐ hǎo と書きます。中国の子どもはまずピンインを習い、大人もスマホやパソコンで漢字を入力するときにピンインを打ちます。",
+        "英語の読み方と違う文字がいくつかあります：q は「チ」、x は「シ」、c は「ツ」、zh・ch・sh は舌をそらせて発音します。次のステージで、すべての音を音声付きで学びます。",
+        "ピンインは足場であって目的地ではありません。このアプリは新しい単語にピンインを添え、漢字を覚えるにつれて少しずつ隠していきます。"
+      ],
+      "example": {
+        "zh": "我是学生。",
+        "pinyin": "wǒ shì xuésheng.",
+        "en": "I am a student.",
+        "ja": "私は学生です。",
+        "parts": [["我", "subject"], ["是", "verb"], ["学生", "object"]]
+      }
+    },
+    {
+      "id": "tones",
+      "title": "Tones change meaning",
+      "title_ja": "声調で意味が変わる",
+      "body": [
+        "Every syllable is spoken with one of four pitch patterns, called tones, or with a light neutral tone. The tone is part of the word: mā (妈) is mother, má (麻) is hemp, mǎ (马) is horse and mà (骂) is to scold.",
+        "English uses pitch for emotion ('Really?' vs 'Really.'); Chinese uses it to tell words apart, so you cannot leave it out. The good news is that there are only four patterns and your ear tunes in quickly.",
+        "Beginners should exaggerate the tones. Native speakers find clear tones with a foreign accent much easier to follow than perfect consonants with flat tones."
+      ],
+      "body_ja": [
+        "すべての音節は四つの音の高低パターン（声調）のどれか、または軽い軽声で発音します。声調は単語の一部です：mā（妈）はお母さん、má（麻）は麻、mǎ（马）は馬、mà（骂）は叱る、という具合です。",
+        "日本語にも「雨」と「飴」のような高低アクセントの区別がありますが、中国語では一音節ごとに声調があり、省くことはできません。幸い、パターンは四つだけで、耳はすぐに慣れます。",
+        "初心者は声調を大げさに発音してください。母語話者にとっては、子音が完璧でも声調が平坦な発音より、なまりがあっても声調がはっきりした発音の方がずっと聞き取りやすいのです。"
+      ],
+      "example": {
+        "zh": "妈 麻 马 骂",
+        "pinyin": "mā má mǎ mà",
+        "en": "mother, hemp, horse, scold",
+        "ja": "お母さん、麻、馬、叱る",
+        "parts": [["妈", "tone1"], ["麻", "tone2"], ["马", "tone3"], ["骂", "tone4"]]
+      }
+    },
+    {
+      "id": "grammar",
+      "title": "No conjugation, no plurals, no articles",
+      "title_ja": "活用も複数形も冠詞もない",
+      "body": [
+        "Chinese words never change form. 吃 chī is eat, eats, ate, eating and eaten; 书 shū is book or books; there is no 'a' or 'the'. You never memorise verb tables or genders.",
+        "Instead, word order and small particles do the work. The basic order is subject, verb, object, like English: 我喝茶 'I drink tea'. 了 le after a verb marks a completed action, 的 de links a possessor to a noun (我的书 'my book'), and 吗 ma at the end turns a statement into a yes/no question.",
+        "Time words come before the verb (我今天去 'I today go'), and the question word stays where the answer would be: 你去哪儿? 'You go where?'."
+      ],
+      "body_ja": [
+        "中国語の単語は形が変わりません。吃 chī は「食べる・食べます・食べた・食べている」のすべてで、书 shū は単数でも複数でも同じ、冠詞もありません。動詞の活用表や性を覚える必要はありません。",
+        "その代わり、語順と小さな助詞が働きます。基本語順は「主語＋動詞＋目的語」で、日本語とは違い動詞が先に来ます：我喝茶「私は飲む、お茶を」。動詞の後の 了 le は動作の完了、的 de は「〜の」（我的书「私の本」）、文末の 吗 ma は文を「はい・いいえ」の疑問文にします。",
+        "時を表す語は動詞の前に置き（我今天去「私は今日行く」）、疑問詞は答えが入る位置にそのまま置きます：你去哪儿?「あなたはどこへ行く？」。この点は日本語と同じです。"
+      ],
+      "example": {
+        "zh": "他吃了饭吗？",
+        "pinyin": "tā chī le fàn ma?",
+        "en": "Has he eaten?",
+        "ja": "彼はご飯を食べましたか。",
+        "parts": [["他", "subject"], ["吃", "verb"], ["了", "particle"], ["饭", "object"], ["吗", "particle"]]
+      }
+    },
+    {
+      "id": "measure-words",
+      "title": "Measure words",
+      "title_ja": "量詞",
+      "body": [
+        "When you count things in Chinese, a measure word sits between the number and the noun: 一个人 yí ge rén 'one person', 三本书 sān běn shū 'three books'. English does this only for some nouns ('two sheets of paper'); Chinese does it for all of them.",
+        "个 ge is the all-purpose measure word and works for people and most objects. Others depend on shape or type: 本 běn for bound books, 杯 bēi for cups of something, 张 zhāng for flat things like tickets and tables.",
+        "Measure words also follow 这 'this' and 那 'that': 这个人 'this person', 那本书 'that book'. When in doubt, use 个; you will be understood."
+      ],
+      "body_ja": [
+        "中国語で物を数えるときは、数字と名詞の間に量詞を入れます：一个人 yí ge rén「一人の人」、三本书 sān běn shū「三冊の本」。日本語の助数詞（一人、三冊）とほぼ同じ仕組みなので、日本語話者にはなじみやすいところです。",
+        "个 ge は万能の量詞で、人やたいていの物に使えます。ほかは形や種類で決まります：本 běn は綴じた本、杯 bēi はコップに入った飲み物、张 zhāng は切符や机のような平らな物。",
+        "量詞は 这「この」や 那「あの」の後にも付きます：这个人「この人」、那本书「あの本」。迷ったら 个 を使えば通じます。"
+      ],
+      "example": {
+        "zh": "我有三本书。",
+        "pinyin": "wǒ yǒu sān běn shū.",
+        "en": "I have three books.",
+        "ja": "私は本を三冊持っています。",
+        "parts": [["我", "subject"], ["有", "verb"], ["本", "measure"], ["书", "object"]]
+      }
+    },
+    {
+      "id": "japanese",
+      "title": "If you know Japanese",
+      "title_ja": "日本語を知っている人へ",
+      "body": [
+        "Japanese kanji came from Chinese characters, so a Japanese reader recognises most of the 2,600 HSK characters on sight and can often guess the meaning of a sign or a menu. That is a huge head start for reading.",
+        "The help stops at meaning. The readings are completely different (学生 is gakusei in Japanese, xuésheng in Chinese), the grammar is unrelated (Chinese puts the verb before the object and has no particles like は or を), and simplified forms can look unfamiliar (车, 书, 见).",
+        "Watch out for false friends: 手纸 is toilet paper, not a letter; 娘 is mother, not daughter; 汤 is soup, not hot water; 走 means walk, not run; 丈夫 means husband, not sturdy; 爱人 is spouse, not lover; 勉强 means reluctantly or barely, not study. This app flags these in the Japanese notes."
+      ],
+      "body_ja": [
+        "日本の漢字は中国の文字から来ているので、日本語話者はHSKの約2,600字のほとんどを見ればわかり、看板やメニューの意味もかなり推測できます。読む力については大きなアドバンテージです。",
+        "ただし、助けになるのは意味までです。読み方は全く違い（学生 は日本語で「がくせい」、中国語で xuésheng）、文法も無関係で（中国語は動詞が目的語の前に来て、「は」「を」のような助詞がありません）、簡体字は見慣れない形のこともあります（车、书、见）。",
+        "「同形異義語」に注意してください：手纸 は手紙ではなくトイレットペーパー、娘 は娘ではなく母、汤 は湯ではなくスープ、走 は走るではなく歩く、丈夫 は丈夫ではなく夫、爱人 は愛人ではなく配偶者、勉强 は勉強ではなく「しぶしぶ・かろうじて」です。このアプリでは日本語の注で印を付けています。"
+      ],
+      "example": {
+        "zh": "我爱人很忙。",
+        "pinyin": "wǒ àiren hěn máng.",
+        "en": "My spouse is very busy.",
+        "ja": "私の配偶者はとても忙しいです。（愛人ではありません）",
+        "parts": [["爱人", "subject"], ["忙", "verb"]]
+      }
+    },
+    {
+      "id": "hsk",
+      "title": "What the HSK levels mean",
+      "title_ja": "HSKのレベルとは",
+      "body": [
+        "HSK (汉语水平考试 Hànyǔ Shuǐpíng Kǎoshì) is the standard Chinese proficiency test, and its word lists are the backbone of this app. HSK 1 has 150 words and about 170 characters: greetings, numbers, family, food, time. HSK 2 adds 150 more and lets you handle simple daily conversations.",
+        "HSK 3 (600 words) covers everyday life and travel; HSK 4 (1,200 words) is enough to chat about most topics and read simple articles. HSK 5 (2,500 words) and HSK 6 (5,000 words) reach newspapers, films and university study.",
+        "The path here follows that order: pinyin first, then HSK 1 to 6, one unit at a time. Most learners reach HSK 2 in a few months of daily practice and HSK 4 in one to two years."
+      ],
+      "body_ja": [
+        "HSK（汉语水平考试 Hànyǔ Shuǐpíng Kǎoshì）は中国語の標準的な能力試験で、その単語リストがこのアプリの骨組みです。HSK1級は150語・約170字で、あいさつ、数字、家族、食べ物、時間など。2級はさらに150語が加わり、簡単な日常会話ができるようになります。",
+        "3級（600語）は日常生活と旅行、4級（1,200語）はたいていの話題で会話し、簡単な記事を読めるレベルです。5級（2,500語）と6級（5,000語）は新聞、映画、大学での学習に届きます。",
+        "このアプリの学習パスもその順番です：まずピンイン、次にHSK1級から6級へ、ユニットごとに進みます。毎日練習すれば、多くの人が数か月で2級、1〜2年で4級に達します。"
+      ],
+      "example": {
+        "zh": "你好！我是学生。",
+        "pinyin": "nǐ hǎo! wǒ shì xuésheng.",
+        "en": "Hello! I am a student.",
+        "ja": "こんにちは！私は学生です。",
+        "parts": [["我", "subject"], ["是", "verb"], ["学生", "object"]]
+      }
+    }
+  ]
+}

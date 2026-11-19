@@ -1,0 +1,124 @@
+// HSK 1 readings and listening drills. Texts use only characters taught by
+// the end of their unit (see units-src.mjs).
+
+export const READINGS = [
+  { id: 'read:hsk1:001', unit: 4, title: '我的家', en: 'My family', ja: '私の家族',
+    text: '我叫小明，我是学生。我家有四个人，爸爸、妈妈、我和我的狗。爸爸是老师，妈妈不是老师。我的狗很小。我的同学都有猫，我没有猫。你家有几个人？',
+    pinyin: 'wǒ jiào xiǎo míng, wǒ shì xué sheng. wǒ jiā yǒu sì gè rén, bà ba、mā ma、wǒ hé wǒ de gǒu. bà ba shì lǎo shī, mā ma bù shì lǎo shī. wǒ de gǒu hěn xiǎo. wǒ de tóng xué dōu yǒu māo, wǒ méi yǒu māo. nǐ jiā yǒu jǐ gè rén?',
+    enText: 'My name is Xiao Ming and I am a student. There are four in my family: Dad, Mum, me and my dog. Dad is a teacher; Mum is not a teacher. My dog is small. My classmates all have cats; I do not have a cat. How many people are there in your family?',
+    jaText: '私は小明といいます。学生です。私の家は四人家族で、父、母、私、そして私の犬です。父は先生で、母は先生ではありません。私の犬は小さいです。クラスメートはみんな猫を飼っていますが、私は猫を飼っていません。あなたの家は何人家族ですか。',
+    questions: [
+      { q: '小明家有几个人？', choices: ['三个人', '四个人', '五个人'], answer: 1, why: 'The text says 我家有四个人 (counting the dog).', why_ja: '本文に我家有四个人とあります（犬を含めて）。' },
+      { q: '谁是老师？', choices: ['爸爸', '妈妈', '小明'], answer: 0, why: '爸爸是老师; Mum is not, and Xiao Ming is a student.', why_ja: '爸爸是老师とあります。母は先生ではなく、小明は学生です。' },
+      { q: '小明有猫吗？', choices: ['他有猫', '他没有猫', '他有三个猫'], answer: 1, why: '我没有猫: it is his classmates who have cats.', why_ja: '我没有猫とあります。猫を飼っているのはクラスメートです。' },
+    ] },
+
+  { id: 'read:hsk1:002', unit: 6, title: '星期三', en: 'Wednesday', ja: '水曜日',
+    text: '今天星期三。上午八点，我去朋友家。我们十一点回家。下午三点，妈妈和我去看爸爸的朋友，他们都是中国人。我们六点回家。妈妈说，明天上午我们去哪儿？我说，明天星期四，我在家。',
+    pinyin: 'jīn tiān xīng qī sān. shàng wǔ bā diǎn, wǒ qù péng you jiā. wǒ men shí yī diǎn huí jiā. xià wǔ sān diǎn, mā ma hé wǒ qù kàn bà ba de péng you, tā men dōu shì zhōng guó rén. wǒ men liù diǎn huí jiā. mā ma shuō, míng tiān shàng wǔ wǒ men qù nǎr? wǒ shuō, míng tiān xīng qī sì, wǒ zài jiā.',
+    enText: 'Today is Wednesday. At eight in the morning I go to my friend\'s house. We come home at eleven. At three in the afternoon Mum and I go to see Dad\'s friends; they are all Chinese. We get home at six. Mum says, "Where are we going tomorrow morning?" I say, "Tomorrow is Thursday; I am staying at home."',
+    jaText: '今日は水曜日です。午前八時に友だちの家に行きます。私たちは十一時に家に帰ります。午後三時に、母と私は父の友だちに会いに行きます。みんな中国人です。私たちは六時に家に帰ります。母が「明日の午前はどこに行く？」と言います。私は「明日は木曜日、家にいるよ」と言います。',
+    questions: [
+      { q: '今天星期几？', choices: ['星期三', '星期四', '星期日'], answer: 0, why: 'The first sentence: 今天星期三.', why_ja: '最初の文に今天星期三とあります。' },
+      { q: '下午他们几点回家？', choices: ['三点', '六点', '十一点'], answer: 1, why: 'In the afternoon: 我们六点回家.', why_ja: '午後は我们六点回家とあります。' },
+      { q: '明天星期几？', choices: ['星期三', '星期四', '星期五'], answer: 1, why: '明天星期四, says the last sentence.', why_ja: '最後の文に明天星期四とあります。' },
+    ] },
+
+  { id: 'read:hsk1:003', unit: 8, title: '买东西', en: 'Shopping', ja: '買い物',
+    text: '今天我和朋友去商店买东西。我想买一些水果和一本书。苹果三块钱，书十五块。朋友不买水果，他买衣服。衣服多少钱？二十块。我们回家喝茶、吃苹果。',
+    pinyin: 'jīn tiān wǒ hé péng you qù shāng diàn mǎi dōng xi. wǒ xiǎng mǎi yī xiē shuǐ guǒ hé yī běn shū. píng guǒ sān kuài qián, shū shí wǔ kuài. péng you bù mǎi shuǐ guǒ, tā mǎi yī fu. yī fu duō shao qián? èr shí kuài. wǒ men huí jiā hē chá、chī píng guǒ.',
+    enText: 'Today my friend and I go to the shop to buy things. I want to buy some fruit and a book. The apples are three yuan and the book is fifteen. My friend does not buy fruit; he buys clothes. How much are the clothes? Twenty yuan. We go home, drink tea and eat apples.',
+    jaText: '今日、私は友だちと店に買い物に行きます。果物を少しと本を一冊買いたいです。リンゴは三元、本は十五元です。友だちは果物を買わず、服を買います。服はいくらでしょう。二十元です。私たちは家に帰ってお茶を飲み、リンゴを食べます。',
+    questions: [
+      { q: '我想买什么？', choices: ['水果和书', '衣服和茶', '苹果和衣服'], answer: 0, why: '我想买一些水果和一本书.', why_ja: '我想买一些水果和一本书とあります。' },
+      { q: '衣服多少钱？', choices: ['三块', '十五块', '二十块'], answer: 2, why: 'The answer to 衣服多少钱 is 二十块.', why_ja: '衣服多少钱の答えは二十块です。' },
+      { q: '谁买衣服？', choices: ['我', '朋友', '妈妈'], answer: 1, why: '朋友不买水果，他买衣服.', why_ja: '朋友不买水果，他买衣服とあります。' },
+    ] },
+
+  { id: 'read:hsk1:004', unit: 10, title: '喂，你在哪儿？', en: 'Hello, where are you?', ja: 'もしもし、どこにいるの？',
+    text: '喂，小明，你在哪儿？我在家里看电视。你看见我的书了吗？我看见了，你的书在桌子上。我的猫呢？猫在椅子下面，狗在你的衣服后面。谢谢你！我下午回家。好，下午见。再见！',
+    pinyin: 'wéi, xiǎo míng, nǐ zài nǎr? wǒ zài jiā lǐ kàn diàn shì. nǐ kàn jiàn wǒ de shū le ma? wǒ kàn jiàn le, nǐ de shū zài zhuō zi shàng. wǒ de māo ne? māo zài yǐ zi xià miàn, gǒu zài nǐ de yī fu hòu miàn. xiè xie nǐ! wǒ xià wǔ huí jiā. hǎo, xià wǔ jiàn. zài jiàn!',
+    enText: '"Hello, Xiao Ming, where are you?" "I am at home watching TV." "Have you seen my book?" "I have; your book is on the table." "And my cat?" "The cat is under the chair, and the dog is behind your clothes." "Thank you! I will be home this afternoon." "OK, see you this afternoon. Bye!"',
+    jaText: '「もしもし、小明、どこにいるの？」「家でテレビを見ているよ。」「私の本を見た？」「見たよ。君の本は机の上にある。」「私の猫は？」「猫は椅子の下、犬は君の服の後ろにいるよ。」「ありがとう！午後に帰るね。」「わかった、午後に。じゃあね！」',
+    questions: [
+      { q: '小明在哪儿？', choices: ['家里', '商店', '朋友家'], answer: 0, why: '我在家里看电视.', why_ja: '我在家里看电视とあります。' },
+      { q: '书在哪儿？', choices: ['桌子上', '椅子下面', '衣服后面'], answer: 0, why: '你的书在桌子上.', why_ja: '你的书在桌子上とあります。' },
+      { q: '狗在哪儿？', choices: ['桌子上', '椅子下面', '衣服后面'], answer: 2, why: '狗在你的衣服后面; the cat is under the chair.', why_ja: '狗在你的衣服后面とあります。椅子の下にいるのは猫です。' },
+    ] },
+
+  { id: 'read:hsk1:005', unit: 12, title: '去北京', en: 'A trip to Beijing', ja: '北京へ行く',
+    text: '我的朋友住在北京。今年五月，我坐飞机去北京看他。我们坐出租车去他家。他家前面有一个饭馆，饭馆的菜很好吃。我们在那儿吃饭、喝茶。北京太大了，人很多，天气很热。我很喜欢北京，明年我想再去。',
+    pinyin: 'wǒ de péng you zhù zài běi jīng. jīn nián wǔ yuè, wǒ zuò fēi jī qù běi jīng kàn tā. wǒ men zuò chū zū chē qù tā jiā. tā jiā qián miàn yǒu yī gè fàn guǎn, fàn guǎn de cài hěn hǎo chī. wǒ men zài nàr chī fàn、hē chá. běi jīng tài dà le, rén hěn duō, tiān qì hěn rè. wǒ hěn xǐ huan běi jīng, míng nián wǒ xiǎng zài qù.',
+    enText: 'My friend lives in Beijing. This May I flew to Beijing to see him. We took a taxi to his home. In front of his home there is a restaurant, and its food is delicious. We ate and drank tea there. Beijing is so big, with lots of people, and the weather is hot. I like Beijing very much; next year I want to go again.',
+    jaText: '私の友だちは北京に住んでいます。今年の五月、私は飛行機で北京へ彼に会いに行きました。私たちはタクシーで彼の家に行きました。彼の家の前にレストランがあり、その料理はとてもおいしいです。私たちはそこで食事をし、お茶を飲みました。北京はとても大きく、人が多く、天気は暑いです。私は北京が大好きで、来年また行きたいです。',
+    questions: [
+      { q: '我怎么去北京？', choices: ['坐飞机', '坐火车', '坐出租车'], answer: 0, why: '我坐飞机去北京看他; the taxi was only to his home.', why_ja: '我坐飞机去北京看他とあります。タクシーは友だちの家まで乗ったものです。' },
+      { q: '饭馆在哪儿？', choices: ['朋友家前面', '朋友家后面', '火车站前面'], answer: 0, why: '他家前面有一个饭馆.', why_ja: '他家前面有一个饭馆とあります。' },
+      { q: '北京的天气怎么样？', choices: ['很冷', '很热', '下雨'], answer: 1, why: '天气很热.', why_ja: '天气很热とあります。' },
+    ] },
+
+  { id: 'read:hsk1:006', unit: 12, title: '去医院', en: 'Going to the hospital', ja: '病院へ行く',
+    text: '昨天天气很冷，下雨了。今天我不想吃饭，不想喝水，我想睡觉。妈妈说，你去医院看医生。我们坐出租车去医院。医生说，没关系，多喝水，多睡觉，少工作。我说，谢谢医生。医生说，不客气。',
+    pinyin: 'zuó tiān tiān qì hěn lěng, xià yǔ le. jīn tiān wǒ bù xiǎng chī fàn, bù xiǎng hē shuǐ, wǒ xiǎng shuì jiào. mā ma shuō, nǐ qù yī yuàn kàn yī shēng. wǒ men zuò chū zū chē qù yī yuàn. yī shēng shuō, méi guān xi, duō hē shuǐ, duō shuì jiào, shǎo gōng zuò. wǒ shuō, xiè xie yī shēng. yī shēng shuō, bù kè qi.',
+    enText: 'Yesterday it was cold and it rained. Today I do not want to eat or drink; I just want to sleep. Mum says, "Go to the hospital and see a doctor." We take a taxi to the hospital. The doctor says, "It is nothing serious. Drink more water, sleep more and work less." I say, "Thank you, doctor." The doctor says, "You are welcome."',
+    jaText: '昨日は天気が寒く、雨が降りました。今日は食べたくも飲みたくもなく、眠りたいだけです。母が「病院に行ってお医者さんに診てもらいなさい」と言います。私たちはタクシーで病院に行きます。医者は「大丈夫です。水を多く飲み、よく眠り、仕事を減らしてください」と言います。私は「ありがとうございます、先生」と言い、医者は「どういたしまして」と言います。',
+    questions: [
+      { q: '昨天天气怎么样？', choices: ['很热', '很冷', '很好'], answer: 1, why: '昨天天气很冷，下雨了.', why_ja: '昨天天气很冷，下雨了とあります。' },
+      { q: '他们怎么去医院？', choices: ['坐出租车', '坐火车', '坐飞机'], answer: 0, why: '我们坐出租车去医院.', why_ja: '我们坐出租车去医院とあります。' },
+      { q: '医生说什么？', choices: ['多喝水', '多吃饭', '多工作'], answer: 0, why: 'The doctor says 多喝水，多睡觉，少工作.', why_ja: '医者は多喝水，多睡觉，少工作と言っています。' },
+    ] },
+];
+
+export const LISTENING = [
+  { id: 'listen:hsk1:001', unit: 3, type: 'dictation', title: 'Dictation: numbers and age', title_ja: '書き取り：数と年齢',
+    items: [
+      { text: '我十岁。', pinyin: 'wǒ shí suì.', en: 'I am ten.', ja: '私は十歳です。' },
+      { text: '我们三个人。', pinyin: 'wǒ men sān gè rén.', en: 'There are three of us.', ja: '私たちは三人です。' },
+      { text: '他叫小明，他八岁。', pinyin: 'tā jiào xiǎo míng, tā bā suì.', en: 'His name is Xiao Ming; he is eight.', ja: '彼は小明といいます。八歳です。' },
+      { text: '十二、二十、九十九。', pinyin: 'shí èr、èr shí、jiǔ shí jiǔ.', en: 'Twelve, twenty, ninety-nine.', ja: '十二、二十、九十九。' },
+      { text: '你几岁？', pinyin: 'nǐ jǐ suì?', en: 'How old are you?', ja: '何歳ですか。' },
+    ] },
+
+  { id: 'listen:hsk1:002', unit: 5, type: 'comprehension', title: 'Listening: where and when', title_ja: '聞き取り：どこで、いつ',
+    items: [
+      { text: '今天星期五，我在家。', pinyin: 'jīn tiān xīng qī wǔ, wǒ zài jiā.', en: 'Today is Friday; I am at home.', ja: '今日は金曜日で、私は家にいます。',
+        questions: [ { q: '他在哪儿？', choices: ['家', '中国', '朋友家'], answer: 0, why: '我在家.', why_ja: '我在家と言っています。' } ] },
+      { text: '明天是六月一日，我在中国。', pinyin: 'míng tiān shì liù yuè yī rì, wǒ zài zhōng guó.', en: 'Tomorrow is June 1st; I will be in China.', ja: '明日は六月一日で、私は中国にいます。',
+        questions: [ { q: '他什么时候在中国？', choices: ['今天', '明天', '昨天'], answer: 1, why: '明天 … 我在中国.', why_ja: '明天…我在中国と言っています。' } ] },
+      { text: '我爸爸不在家，他在朋友家。', pinyin: 'wǒ bà ba bù zài jiā, tā zài péng you jiā.', en: 'My dad is not at home; he is at a friend\'s house.', ja: '父は家にいません。友だちの家にいます。',
+        questions: [ { q: '爸爸在哪儿？', choices: ['家', '朋友家', '中国'], answer: 1, why: '他在朋友家.', why_ja: '他在朋友家と言っています。' } ] },
+      { text: '昨天星期二，今天星期三。', pinyin: 'zuó tiān xīng qī èr, jīn tiān xīng qī sān.', en: 'Yesterday was Tuesday; today is Wednesday.', ja: '昨日は火曜日で、今日は水曜日です。',
+        questions: [ { q: '今天星期几？', choices: ['星期二', '星期三', '星期四'], answer: 1, why: '今天星期三.', why_ja: '今天星期三と言っています。' } ] },
+    ] },
+
+  { id: 'listen:hsk1:003', unit: 7, type: 'dictation', title: 'Dictation: food and drink', title_ja: '書き取り：食べ物と飲み物',
+    items: [
+      { text: '我想喝茶。', pinyin: 'wǒ xiǎng hē chá.', en: 'I want to drink tea.', ja: 'お茶が飲みたいです。' },
+      { text: '她喜欢吃苹果。', pinyin: 'tā xǐ huan chī píng guǒ.', en: 'She likes eating apples.', ja: '彼女はリンゴを食べるのが好きです。' },
+      { text: '我们吃米饭和菜。', pinyin: 'wǒ men chī mǐ fàn hé cài.', en: 'We eat rice and vegetables.', ja: '私たちはご飯とおかずを食べます。' },
+      { text: '你想喝一点儿水吗？', pinyin: 'nǐ xiǎng hē yī diǎnr shuǐ ma?', en: 'Would you like a little water?', ja: '少し水を飲みたいですか。' },
+      { text: '他不喜欢喝茶，他喜欢喝水。', pinyin: 'tā bù xǐ huan hē chá, tā xǐ huan hē shuǐ.', en: 'He does not like tea; he likes water.', ja: '彼はお茶が好きではなく、水が好きです。' },
+    ] },
+
+  { id: 'listen:hsk1:004', unit: 9, type: 'comprehension', title: 'Listening: work and study', title_ja: '聞き取り：仕事と勉強',
+    items: [
+      { text: '我在中国工作，我会说汉语。', pinyin: 'wǒ zài zhōng guó gōng zuò, wǒ huì shuō hàn yǔ.', en: 'I work in China; I can speak Chinese.', ja: '私は中国で働いていて、中国語が話せます。',
+        questions: [ { q: '他在哪儿工作？', choices: ['中国', '家', '商店'], answer: 0, why: '我在中国工作.', why_ja: '我在中国工作と言っています。' } ] },
+      { text: '小明昨天没去工作，他在家看电视了。', pinyin: 'xiǎo míng zuó tiān méi qù gōng zuò, tā zài jiā kàn diàn shì le.', en: 'Xiao Ming did not go to work yesterday; he watched TV at home.', ja: '小明は昨日仕事に行かず、家でテレビを見ました。',
+        questions: [ { q: '小明昨天做什么了？', choices: ['工作', '看电视', '学习汉语'], answer: 1, why: '他在家看电视了.', why_ja: '他在家看电视了と言っています。' } ] },
+      { text: '我不会写汉字，我想学习。', pinyin: 'wǒ bù huì xiě hàn zì, wǒ xiǎng xué xí.', en: 'I cannot write Chinese characters; I want to learn.', ja: '私は漢字が書けません。勉強したいです。',
+        questions: [ { q: '他会写汉字吗？', choices: ['会', '不会', '会一点儿'], answer: 1, why: '我不会写汉字.', why_ja: '我不会写汉字と言っています。' } ] },
+      { text: '我下午三点能来你家。', pinyin: 'wǒ xià wǔ sān diǎn néng lái nǐ jiā.', en: 'I can come to your place at 3 p.m.', ja: '午後三時にあなたの家に行けます。',
+        questions: [ { q: '他几点来？', choices: ['三点', '四点', '五点'], answer: 0, why: '下午三点.', why_ja: '下午三点と言っています。' } ] },
+    ] },
+
+  { id: 'listen:hsk1:005', unit: 11, type: 'shadow', title: 'Shadowing: weather and feelings', title_ja: 'シャドーイング：天気と気持ち',
+    items: [
+      { text: '今天天气怎么样？', pinyin: 'jīn tiān tiān qì zěn me yàng?', en: 'How is the weather today?', ja: '今日の天気はどうですか。' },
+      { text: '今天太热了！', pinyin: 'jīn tiān tài rè le!', en: 'It is so hot today!', ja: '今日は暑すぎます！' },
+      { text: '下雨了，我不去了。', pinyin: 'xià yǔ le, wǒ bù qù le.', en: 'It is raining; I am not going any more.', ja: '雨が降ってきたので、もう行きません。' },
+      { text: '认识你很高兴。', pinyin: 'rèn shi nǐ hěn gāo xìng.', en: 'Nice to meet you.', ja: 'お会いできてうれしいです。' },
+      { text: '对不起！没关系。', pinyin: 'duì bu qǐ! méi guān xi.', en: 'Sorry! It does not matter.', ja: 'ごめんなさい。大丈夫です。' },
+      { text: '谢谢你！不客气。', pinyin: 'xiè xie nǐ! bù kè qi.', en: 'Thank you! You are welcome.', ja: 'ありがとう。どういたしまして。' },
+    ] },
+];

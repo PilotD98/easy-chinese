@@ -1,0 +1,7093 @@
+[
+ {
+  "id": "vocab:hsk3:a5-啊",
+  "zh": "啊",
+  "trad": "啊",
+  "pinyin": "a",
+  "num": "a5",
+  "level": "hsk3",
+  "unit": 1,
+  "order": 120,
+  "meanings": [
+   "modal particle ending sentence, showing affirmation, approval, or consent"
+  ],
+  "pos": [
+   "y",
+   "e"
+  ],
+  "chars": [
+   "hanzi:啊"
+  ],
+  "freq": 47,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:ba3-把",
+  "zh": "把",
+  "trad": "把",
+  "pinyin": "bǎ",
+  "num": "ba3",
+  "level": "hsk3",
+  "unit": 1,
+  "order": 120.01,
+  "meanings": [
+   "to hold; to grasp",
+   "to hold a baby in position to help it urinate or defecate",
+   "handlebar",
+   "classifier: handful, bundle, bunch"
+  ],
+  "pos": [
+   "p",
+   "qv",
+   "v",
+   "m"
+  ],
+  "chars": [
+   "hanzi:把"
+  ],
+  "freq": 50,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:bei4-被",
+  "zh": "被",
+  "trad": "被",
+  "pinyin": "bèi",
+  "num": "bei4",
+  "level": "hsk3",
+  "unit": 1,
+  "order": 120.02,
+  "meanings": [
+   "quilt",
+   "to cover (with)",
+   "used to indicate passive voice (placed before the doer of the action like \"by\" in English passive-voice sentences, or, if the doer is not mentioned, before the verb)",
+   "(since c. 2009) (sarcastic or jocular) used to indicate that the following word should be regarded as being in air quotes (as in 被旅游 to \"go on a trip\")"
+  ],
+  "pos": [
+   "p",
+   "g",
+   "d"
+  ],
+  "chars": [
+   "hanzi:被"
+  ],
+  "freq": 54,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:zi4ji3-自己",
+  "zh": "自己",
+  "trad": "自己",
+  "pinyin": "zì jǐ",
+  "num": "zi4 ji3",
+  "level": "hsk3",
+  "unit": 1,
+  "order": 120.03,
+  "meanings": [
+   "oneself; (attributive) one's own"
+  ],
+  "pos": [
+   "r",
+   "v"
+  ],
+  "chars": [
+   "hanzi:自",
+   "hanzi:己"
+  ],
+  "freq": 56,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:yong4-用",
+  "zh": "用",
+  "trad": "用",
+  "pinyin": "yòng",
+  "num": "yong4",
+  "level": "hsk3",
+  "unit": 1,
+  "order": 120.04,
+  "meanings": [
+   "to use; to make use of; to employ",
+   "(coverb) with; using",
+   "to need; to have to (usu. used in the negative or in questions)",
+   "usefulness; utility"
+  ],
+  "pos": [
+   "v",
+   "p",
+   "g"
+  ],
+  "chars": [
+   "hanzi:用"
+  ],
+  "freq": 79,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:ru2guo3-如果",
+  "zh": "如果",
+  "trad": "如果",
+  "pinyin": "rú guǒ",
+  "num": "ru2 guo3",
+  "level": "hsk3",
+  "unit": 1,
+  "order": 120.05,
+  "meanings": [
+   "if; in case; in the event that"
+  ],
+  "pos": [
+   "c",
+   "v"
+  ],
+  "chars": [
+   "hanzi:如",
+   "hanzi:果"
+  ],
+  "freq": 89,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:you4-又",
+  "zh": "又",
+  "trad": "又",
+  "pinyin": "yòu",
+  "num": "you4",
+  "level": "hsk3",
+  "unit": 1,
+  "order": 120.06,
+  "meanings": [
+   "(once) again",
+   "also",
+   "both... and...",
+   "and yet"
+  ],
+  "pos": [
+   "d",
+   "c"
+  ],
+  "chars": [
+   "hanzi:又"
+  ],
+  "freq": 91,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:zhi3-只",
+  "zh": "只",
+  "trad": "只",
+  "pinyin": "zhǐ",
+  "num": "zhi3",
+  "level": "hsk3",
+  "unit": 1,
+  "order": 120.07,
+  "meanings": [
+   "only; merely; just"
+  ],
+  "pos": [
+   "d",
+   "q"
+  ],
+  "chars": [
+   "hanzi:只"
+  ],
+  "freq": 98,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:geng4-更",
+  "zh": "更",
+  "trad": "更",
+  "pinyin": "gèng",
+  "num": "geng4",
+  "level": "hsk3",
+  "unit": 1,
+  "order": 120.08,
+  "meanings": [
+   "more",
+   "even more",
+   "further",
+   "still"
+  ],
+  "pos": [
+   "d"
+  ],
+  "chars": [
+   "hanzi:更"
+  ],
+  "freq": 127,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:xu1yao4-需要",
+  "zh": "需要",
+  "trad": "需要",
+  "pinyin": "xū yào",
+  "num": "xu1 yao4",
+  "level": "hsk3",
+  "unit": 1,
+  "order": 120.09,
+  "meanings": [
+   "to need; to want; to demand; to require",
+   "needs"
+  ],
+  "pos": [
+   "v",
+   "n",
+   "vn"
+  ],
+  "chars": [
+   "hanzi:需",
+   "hanzi:要"
+  ],
+  "freq": 131,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:de5-地",
+  "zh": "地",
+  "trad": "地",
+  "pinyin": "de",
+  "num": "de5",
+  "level": "hsk3",
+  "unit": 1,
+  "order": 120.1,
+  "meanings": [
+   "-ly",
+   "structural particle: used before a verb or adjective, linking it to preceding modifying adverbial adjunct"
+  ],
+  "pos": [
+   "u",
+   "n"
+  ],
+  "chars": [
+   "hanzi:地"
+  ],
+  "freq": 132,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:cai2-才",
+  "zh": "才",
+  "trad": "才",
+  "pinyin": "cái",
+  "num": "cai2",
+  "level": "hsk3",
+  "unit": 1,
+  "order": 120.11,
+  "meanings": [
+   "ability; talent",
+   "sb of a certain type",
+   "a capable individual",
+   "then and only then"
+  ],
+  "pos": [
+   "d",
+   "c",
+   "n"
+  ],
+  "chars": [
+   "hanzi:才"
+  ],
+  "freq": 133,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:gen1-跟",
+  "zh": "跟",
+  "trad": "跟",
+  "pinyin": "gēn",
+  "num": "gen1",
+  "level": "hsk3",
+  "unit": 1,
+  "order": 120.12,
+  "meanings": [
+   "heel",
+   "to follow closely",
+   "to go with",
+   "(of a woman) to marry sb"
+  ],
+  "pos": [
+   "p",
+   "v"
+  ],
+  "chars": [
+   "hanzi:跟"
+  ],
+  "freq": 135,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:xiang4-像",
+  "zh": "像",
+  "trad": "像",
+  "pinyin": "xiàng",
+  "num": "xiang4",
+  "level": "hsk3",
+  "unit": 1,
+  "order": 120.13,
+  "meanings": [
+   "to resemble",
+   "to be like",
+   "to look as if",
+   "such as"
+  ],
+  "pos": [
+   "v",
+   "p",
+   "n",
+   "d"
+  ],
+  "chars": [
+   "hanzi:像"
+  ],
+  "freq": 151,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:hai2shi5-还是",
+  "zh": "还是",
+  "trad": "還是",
+  "pinyin": "hái shi",
+  "num": "hai2 shi5",
+  "level": "hsk3",
+  "unit": 1,
+  "order": 120.14,
+  "meanings": [
+   "still (as before)",
+   "had better",
+   "unexpectedly",
+   "or"
+  ],
+  "pos": [
+   "c",
+   "d",
+   "v"
+  ],
+  "chars": [
+   "hanzi:还",
+   "hanzi:是"
+  ],
+  "freq": 160,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:ren4wei2-认为",
+  "zh": "认为",
+  "trad": "認為",
+  "pinyin": "rèn wéi",
+  "num": "ren4 wei2",
+  "level": "hsk3",
+  "unit": 2,
+  "order": 220.15,
+  "meanings": [
+   "to believe; to think; to consider; to feel"
+  ],
+  "pos": [
+   "v"
+  ],
+  "chars": [
+   "hanzi:认",
+   "hanzi:为"
+  ],
+  "freq": 168,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:ying1gai1-应该",
+  "zh": "应该",
+  "trad": "應該",
+  "pinyin": "yīng gāi",
+  "num": "ying1 gai1",
+  "level": "hsk3",
+  "unit": 2,
+  "order": 220.16,
+  "meanings": [
+   "ought to; should; must"
+  ],
+  "pos": [
+   "v"
+  ],
+  "chars": [
+   "hanzi:应",
+   "hanzi:该"
+  ],
+  "freq": 174,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:dai4-带",
+  "zh": "带",
+  "trad": "帶",
+  "pinyin": "dài",
+  "num": "dai4",
+  "level": "hsk3",
+  "unit": 2,
+  "order": 220.17,
+  "meanings": [
+   "band",
+   "belt",
+   "girdle",
+   "ribbon"
+  ],
+  "pos": [
+   "v"
+  ],
+  "chars": [
+   "hanzi:带"
+  ],
+  "freq": 177,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:wei4-位",
+  "zh": "位",
+  "trad": "位",
+  "pinyin": "wèi",
+  "num": "wei4",
+  "level": "hsk3",
+  "unit": 2,
+  "order": 220.18,
+  "meanings": [
+   "position",
+   "location",
+   "place",
+   "seat"
+  ],
+  "pos": [
+   "q",
+   "g"
+  ],
+  "chars": [
+   "hanzi:位"
+  ],
+  "freq": 177,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:zhong3-种",
+  "zh": "种",
+  "trad": "種",
+  "pinyin": "zhǒng",
+  "num": "zhong3",
+  "level": "hsk3",
+  "unit": 2,
+  "order": 220.19,
+  "meanings": [
+   "seed",
+   "species",
+   "kind",
+   "type"
+  ],
+  "pos": [
+   "q",
+   "v",
+   "g"
+  ],
+  "chars": [
+   "hanzi:种"
+  ],
+  "freq": 179,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:fa1xian4-发现",
+  "zh": "发现",
+  "trad": "發現",
+  "pinyin": "fā xiàn",
+  "num": "fa1 xian4",
+  "level": "hsk3",
+  "unit": 2,
+  "order": 220.2,
+  "meanings": [
+   "to notice; to become aware of",
+   "to discover; to find; to detect",
+   "a discovery"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ],
+  "chars": [
+   "hanzi:发",
+   "hanzi:现"
+  ],
+  "freq": 189,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:yi1ding4-一定",
+  "zh": "一定",
+  "trad": "一定",
+  "pinyin": "yī dìng",
+  "num": "yi1 ding4",
+  "level": "hsk3",
+  "unit": 2,
+  "order": 220.21,
+  "meanings": [
+   "surely; certainly; definitely",
+   "fixed; settled",
+   "a certain ...; a given ..."
+  ],
+  "pos": [
+   "d",
+   "b"
+  ],
+  "chars": [
+   "hanzi:一",
+   "hanzi:定"
+  ],
+  "freq": 198,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:yi1zhi2-一直",
+  "zh": "一直",
+  "trad": "一直",
+  "pinyin": "yī zhí",
+  "num": "yi1 zhi2",
+  "level": "hsk3",
+  "unit": 2,
+  "order": 220.22,
+  "meanings": [
+   "straight (in a straight line)",
+   "continuously; always; all the way through"
+  ],
+  "pos": [
+   "d"
+  ],
+  "chars": [
+   "hanzi:一",
+   "hanzi:直"
+  ],
+  "freq": 203,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:wei4le5-为了",
+  "zh": "为了",
+  "trad": "為了",
+  "pinyin": "wèi le",
+  "num": "wei4 le5",
+  "level": "hsk3",
+  "unit": 2,
+  "order": 220.23,
+  "meanings": [
+   "for; for the purpose of; in order to"
+  ],
+  "pos": [
+   "p",
+   "v"
+  ],
+  "chars": [
+   "hanzi:为",
+   "hanzi:了"
+  ],
+  "freq": 229,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:yi1yang4-一样",
+  "zh": "一样",
+  "trad": "一樣",
+  "pinyin": "yī yàng",
+  "num": "yi1 yang4",
+  "level": "hsk3",
+  "unit": 2,
+  "order": 220.24,
+  "meanings": [
+   "same",
+   "like",
+   "equal to",
+   "the same as"
+  ],
+  "pos": [
+   "u",
+   "a",
+   "ad"
+  ],
+  "chars": [
+   "hanzi:一",
+   "hanzi:样"
+  ],
+  "freq": 235,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:shi4jie4-世界",
+  "zh": "世界",
+  "trad": "世界",
+  "pinyin": "shì jiè",
+  "num": "shi4 jie4",
+  "level": "hsk3",
+  "unit": 2,
+  "order": 220.25,
+  "meanings": [
+   "world"
+  ],
+  "pos": [
+   "n"
+  ],
+  "chars": [
+   "hanzi:世",
+   "hanzi:界"
+  ],
+  "freq": 238,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:er2qie3-而且",
+  "zh": "而且",
+  "trad": "而且",
+  "pinyin": "ér qiě",
+  "num": "er2 qie3",
+  "level": "hsk3",
+  "unit": 2,
+  "order": 220.26,
+  "meanings": [
+   "(not only ...) but also",
+   "moreover; in addition; furthermore"
+  ],
+  "pos": [
+   "c"
+  ],
+  "chars": [
+   "hanzi:而",
+   "hanzi:且"
+  ],
+  "freq": 239,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:zhong4yao4-重要",
+  "zh": "重要",
+  "trad": "重要",
+  "pinyin": "zhòng yào",
+  "num": "zhong4 yao4",
+  "level": "hsk3",
+  "unit": 2,
+  "order": 220.27,
+  "meanings": [
+   "important; significant; major"
+  ],
+  "pos": [
+   "a"
+  ],
+  "chars": [
+   "hanzi:重",
+   "hanzi:要"
+  ],
+  "freq": 240,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:bi4xu1-必须",
+  "zh": "必须",
+  "trad": "必須",
+  "pinyin": "bì xū",
+  "num": "bi4 xu1",
+  "level": "hsk3",
+  "unit": 2,
+  "order": 220.28,
+  "meanings": [
+   "must; to have to"
+  ],
+  "pos": [
+   "d"
+  ],
+  "chars": [
+   "hanzi:必",
+   "hanzi:须"
+  ],
+  "freq": 241,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:di4fang1-地方",
+  "zh": "地方",
+  "trad": "地方",
+  "pinyin": "dì fāng",
+  "num": "di4 fang1",
+  "level": "hsk3",
+  "unit": 2,
+  "order": 220.29,
+  "meanings": [
+   "region",
+   "regional (away from the central administration)",
+   "local"
+  ],
+  "pos": [
+   "n"
+  ],
+  "chars": [
+   "hanzi:地",
+   "hanzi:方"
+  ],
+  "freq": 254,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:lao3-老",
+  "zh": "老",
+  "trad": "老",
+  "pinyin": "lǎo",
+  "num": "lao3",
+  "level": "hsk3",
+  "unit": 2,
+  "order": 220.3,
+  "meanings": [
+   "prefix used before the surname of a person or a numeral indicating the order of birth of the children in a family or to indicate affection or familiarity",
+   "old (of people)",
+   "venerable (person)",
+   "experienced"
+  ],
+  "pos": [
+   "a",
+   "d",
+   "g"
+  ],
+  "chars": [
+   "hanzi:老"
+  ],
+  "freq": 266,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:qi2ta1-其他",
+  "zh": "其他",
+  "trad": "其他",
+  "pinyin": "qí tā",
+  "num": "qi2 ta1",
+  "level": "hsk3",
+  "unit": 3,
+  "order": 320.31,
+  "meanings": [
+   "other",
+   "(sth or sb) else",
+   "the rest"
+  ],
+  "pos": [
+   "r"
+  ],
+  "chars": [
+   "hanzi:其",
+   "hanzi:他"
+  ],
+  "freq": 267,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:bi3sai4-比赛",
+  "zh": "比赛",
+  "trad": "比賽",
+  "pinyin": "bǐ sài",
+  "num": "bi3 sai4",
+  "level": "hsk3",
+  "unit": 3,
+  "order": 320.32,
+  "meanings": [
+   "competition (sports etc)",
+   "match",
+   "to compete"
+  ],
+  "pos": [
+   "vn",
+   "v"
+  ],
+  "chars": [
+   "hanzi:比",
+   "hanzi:赛"
+  ],
+  "freq": 275,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:ran2hou4-然后",
+  "zh": "然后",
+  "trad": "然後",
+  "pinyin": "rán hòu",
+  "num": "ran2 hou4",
+  "level": "hsk3",
+  "unit": 3,
+  "order": 320.33,
+  "meanings": [
+   "then; after that; afterwards"
+  ],
+  "pos": [
+   "c"
+  ],
+  "chars": [
+   "hanzi:然",
+   "hanzi:后"
+  ],
+  "freq": 275,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:dan1xin1-担心",
+  "zh": "担心",
+  "trad": "擔心",
+  "pinyin": "dān xīn",
+  "num": "dan1 xin1",
+  "level": "hsk3",
+  "unit": 3,
+  "order": 320.34,
+  "meanings": [
+   "anxious",
+   "worried",
+   "uneasy",
+   "to worry"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ],
+  "chars": [
+   "hanzi:担",
+   "hanzi:心"
+  ],
+  "freq": 277,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:tiao2-条",
+  "zh": "条",
+  "trad": "條",
+  "pinyin": "tiáo",
+  "num": "tiao2",
+  "level": "hsk3",
+  "unit": 3,
+  "order": 320.35,
+  "meanings": [
+   "strip",
+   "item",
+   "article",
+   "clause (of law or treaty)"
+  ],
+  "pos": [
+   "q"
+  ],
+  "chars": [
+   "hanzi:条"
+  ],
+  "freq": 277,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:fang4-放",
+  "zh": "放",
+  "trad": "放",
+  "pinyin": "fàng",
+  "num": "fang4",
+  "level": "hsk3",
+  "unit": 3,
+  "order": 320.36,
+  "meanings": [
+   "to put",
+   "to place",
+   "to release",
+   "to free"
+  ],
+  "pos": [
+   "v"
+  ],
+  "chars": [
+   "hanzi:放"
+  ],
+  "freq": 280,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:na2-拿",
+  "zh": "拿",
+  "trad": "拿",
+  "pinyin": "ná",
+  "num": "na2",
+  "level": "hsk3",
+  "unit": 3,
+  "order": 320.37,
+  "meanings": [
+   "to hold",
+   "to seize",
+   "to catch",
+   "to apprehend"
+  ],
+  "pos": [
+   "v"
+  ],
+  "chars": [
+   "hanzi:拿"
+  ],
+  "freq": 287,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:wei4shen2me5-为什么",
+  "zh": "为什么",
+  "trad": "為什麼",
+  "pinyin": "wèi shén me",
+  "num": "wei4 shen2 me5",
+  "level": "hsk3",
+  "unit": 3,
+  "order": 320.38,
+  "meanings": [
+   "why?",
+   "for what reason?"
+  ],
+  "pos": [
+   "r"
+  ],
+  "chars": [
+   "hanzi:为",
+   "hanzi:什",
+   "hanzi:么"
+  ],
+  "freq": 299,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:xian1-先",
+  "zh": "先",
+  "trad": "先",
+  "pinyin": "xiān",
+  "num": "xian1",
+  "level": "hsk3",
+  "unit": 3,
+  "order": 320.39,
+  "meanings": [
+   "beforehand; first; earlier",
+   "at first; originally",
+   "for the time being; for now",
+   "(prefix) my late (in referring to deceased relatives older than oneself)"
+  ],
+  "pos": [
+   "d",
+   "g"
+  ],
+  "chars": [
+   "hanzi:先"
+  ],
+  "freq": 306,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:guan1xi5-关系",
+  "zh": "关系",
+  "trad": "關係",
+  "pinyin": "guān xi",
+  "num": "guan1 xi5",
+  "level": "hsk3",
+  "unit": 3,
+  "order": 320.4,
+  "meanings": [
+   "relation; relationship; connection",
+   "to concern; to involve; to affect",
+   "guanxi (personal connections)"
+  ],
+  "pos": [
+   "n",
+   "v"
+  ],
+  "chars": [
+   "hanzi:关",
+   "hanzi:系"
+  ],
+  "freq": 318,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:chu1xian4-出现",
+  "zh": "出现",
+  "trad": "出現",
+  "pinyin": "chū xiàn",
+  "num": "chu1 xian4",
+  "level": "hsk3",
+  "unit": 3,
+  "order": 320.41,
+  "meanings": [
+   "to appear; to arise; to emerge; to show up"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ],
+  "chars": [
+   "hanzi:出",
+   "hanzi:现"
+  ],
+  "freq": 323,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:liao3jie3-了解",
+  "zh": "了解",
+  "trad": "了解",
+  "pinyin": "liǎo jiě",
+  "num": "liao3 jie3",
+  "level": "hsk3",
+  "unit": 3,
+  "order": 320.42,
+  "meanings": [
+   "to understand; to know about",
+   "to learn about; to find out"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ],
+  "chars": [
+   "hanzi:了",
+   "hanzi:解"
+  ],
+  "freq": 336,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:guo4qu4-过去",
+  "zh": "过去",
+  "trad": "過去",
+  "pinyin": "guò qù",
+  "num": "guo4 qu4",
+  "level": "hsk3",
+  "unit": 3,
+  "order": 320.43,
+  "meanings": [
+   "(in the) past; former; previous",
+   "to go over; to pass by"
+  ],
+  "pos": [
+   "v",
+   "t"
+  ],
+  "chars": [
+   "hanzi:过",
+   "hanzi:去"
+  ],
+  "freq": 353,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:can1jia1-参加",
+  "zh": "参加",
+  "trad": "參加",
+  "pinyin": "cān jiā",
+  "num": "can1 jia1",
+  "level": "hsk3",
+  "unit": 3,
+  "order": 320.44,
+  "meanings": [
+   "to participate; to take part; to join"
+  ],
+  "pos": [
+   "v"
+  ],
+  "chars": [
+   "hanzi:参",
+   "hanzi:加"
+  ],
+  "freq": 355,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:guo2jia1-国家",
+  "zh": "国家",
+  "trad": "國家",
+  "pinyin": "guó jiā",
+  "num": "guo2 jia1",
+  "level": "hsk3",
+  "unit": 3,
+  "order": 320.45,
+  "meanings": [
+   "country; nation; state"
+  ],
+  "pos": [
+   "n"
+  ],
+  "chars": [
+   "hanzi:国",
+   "hanzi:家"
+  ],
+  "freq": 356,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:jue2ding4-决定",
+  "zh": "决定",
+  "trad": "決定",
+  "pinyin": "jué dìng",
+  "num": "jue2 ding4",
+  "level": "hsk3",
+  "unit": 3,
+  "order": 320.46,
+  "meanings": [
+   "to decide; to determine; to make up one's mind",
+   "decision"
+  ],
+  "pos": [
+   "v",
+   "n"
+  ],
+  "chars": [
+   "hanzi:决",
+   "hanzi:定"
+  ],
+  "freq": 366,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:fen1-分",
+  "zh": "分",
+  "trad": "分",
+  "pinyin": "fēn",
+  "num": "fen1",
+  "level": "hsk3",
+  "unit": 4,
+  "order": 420.47,
+  "meanings": [
+   "to divide; to separate",
+   "to distribute; to allocate",
+   "to distinguish (good and bad)",
+   "fraction"
+  ],
+  "pos": [
+   "t",
+   "qt",
+   "v",
+   "g",
+   "n",
+   "d"
+  ],
+  "chars": [
+   "hanzi:分"
+  ],
+  "freq": 372,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:xuan3ze2-选择",
+  "zh": "选择",
+  "trad": "選擇",
+  "pinyin": "xuǎn zé",
+  "num": "xuan3 ze2",
+  "level": "hsk3",
+  "unit": 3,
+  "order": 320.48,
+  "meanings": [
+   "to select; to pick",
+   "choice; option; alternative"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ],
+  "chars": [
+   "hanzi:选",
+   "hanzi:择"
+  ],
+  "freq": 373,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:huo4zhe3-或者",
+  "zh": "或者",
+  "trad": "或者",
+  "pinyin": "huò zhě",
+  "num": "huo4 zhe3",
+  "level": "hsk3",
+  "unit": 4,
+  "order": 420.49,
+  "meanings": [
+   "or",
+   "possibly; maybe; perhaps"
+  ],
+  "pos": [
+   "c",
+   "d"
+  ],
+  "chars": [
+   "hanzi:或",
+   "hanzi:者"
+  ],
+  "freq": 382,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:ji1hui4-机会",
+  "zh": "机会",
+  "trad": "機會",
+  "pinyin": "jī huì",
+  "num": "ji1 hui4",
+  "level": "hsk3",
+  "unit": 4,
+  "order": 420.5,
+  "meanings": [
+   "opportunity",
+   "chance",
+   "occasion"
+  ],
+  "pos": [
+   "n"
+  ],
+  "chars": [
+   "hanzi:机",
+   "hanzi:会"
+  ],
+  "freq": 393,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:bie2ren5-别人",
+  "zh": "别人",
+  "trad": "別人",
+  "pinyin": "bié ren",
+  "num": "bie2 ren5",
+  "level": "hsk3",
+  "unit": 4,
+  "order": 420.51,
+  "meanings": [
+   "other people; others; other person"
+  ],
+  "pos": [
+   "r"
+  ],
+  "chars": [
+   "hanzi:别",
+   "hanzi:人"
+  ],
+  "freq": 397,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:zhan4-站",
+  "zh": "站",
+  "trad": "站",
+  "pinyin": "zhàn",
+  "num": "zhan4",
+  "level": "hsk3",
+  "unit": 4,
+  "order": 420.52,
+  "meanings": [
+   "station",
+   "to stand",
+   "to halt",
+   "to stop"
+  ],
+  "pos": [
+   "v",
+   "n",
+   "q"
+  ],
+  "chars": [
+   "hanzi:站"
+  ],
+  "freq": 399,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:shi3-使",
+  "zh": "使",
+  "trad": "使",
+  "pinyin": "shǐ",
+  "num": "shi3",
+  "level": "hsk3",
+  "unit": 4,
+  "order": 420.53,
+  "meanings": [
+   "to make",
+   "to cause",
+   "to enable",
+   "to use"
+  ],
+  "pos": [
+   "v"
+  ],
+  "chars": [
+   "hanzi:使"
+  ],
+  "freq": 400,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:qi2shi2-其实",
+  "zh": "其实",
+  "trad": "其實",
+  "pinyin": "qí shí",
+  "num": "qi2 shi2",
+  "level": "hsk3",
+  "unit": 4,
+  "order": 420.54,
+  "meanings": [
+   "actually; in fact; really"
+  ],
+  "pos": [
+   "d"
+  ],
+  "chars": [
+   "hanzi:其",
+   "hanzi:实"
+  ],
+  "freq": 405,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:yi3hou4-以后",
+  "zh": "以后",
+  "trad": "以後",
+  "pinyin": "yǐ hòu",
+  "num": "yi3 hou4",
+  "level": "hsk3",
+  "unit": 4,
+  "order": 420.55,
+  "meanings": [
+   "after",
+   "later",
+   "afterwards",
+   "following"
+  ],
+  "pos": [
+   "f"
+  ],
+  "chars": [
+   "hanzi:以",
+   "hanzi:后"
+  ],
+  "freq": 407,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:yao1qiu2-要求",
+  "zh": "要求",
+  "trad": "要求",
+  "pinyin": "yāo qiú",
+  "num": "yao1 qiu2",
+  "level": "hsk3",
+  "unit": 4,
+  "order": 420.56,
+  "meanings": [
+   "to request",
+   "to require",
+   "requirement",
+   "to stake a claim"
+  ],
+  "pos": [
+   "v",
+   "n"
+  ],
+  "chars": [
+   "hanzi:要",
+   "hanzi:求"
+  ],
+  "freq": 409,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:xin4-信",
+  "zh": "信",
+  "trad": "信",
+  "pinyin": "xìn",
+  "num": "xin4",
+  "level": "hsk3",
+  "unit": 4,
+  "order": 420.57,
+  "meanings": [
+   "letter",
+   "mail",
+   "to trust",
+   "to believe"
+  ],
+  "pos": [
+   "n",
+   "v"
+  ],
+  "chars": [
+   "hanzi:信"
+  ],
+  "freq": 419,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:dang1ran2-当然",
+  "zh": "当然",
+  "trad": "當然",
+  "pinyin": "dāng rán",
+  "num": "dang1 ran2",
+  "level": "hsk3",
+  "unit": 4,
+  "order": 420.58,
+  "meanings": [
+   "only natural",
+   "as it should be",
+   "certainly",
+   "of course"
+  ],
+  "pos": [
+   "d",
+   "b"
+  ],
+  "chars": [
+   "hanzi:当",
+   "hanzi:然"
+  ],
+  "freq": 423,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:jie1-接",
+  "zh": "接",
+  "trad": "接",
+  "pinyin": "jiē",
+  "num": "jie1",
+  "level": "hsk3",
+  "unit": 4,
+  "order": 420.59,
+  "meanings": [
+   "to receive",
+   "to answer (the phone)",
+   "to meet or welcome sb",
+   "to connect"
+  ],
+  "pos": [
+   "v"
+  ],
+  "chars": [
+   "hanzi:接"
+  ],
+  "freq": 425,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:xiang1xin4-相信",
+  "zh": "相信",
+  "trad": "相信",
+  "pinyin": "xiāng xìn",
+  "num": "xiang1 xin4",
+  "level": "hsk3",
+  "unit": 4,
+  "order": 420,
+  "meanings": [
+   "to believe; to be convinced; to accept as true"
+  ],
+  "pos": [
+   "v"
+  ],
+  "chars": [
+   "hanzi:相",
+   "hanzi:信"
+  ],
+  "freq": 431,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:hua1-花",
+  "zh": "花",
+  "trad": "花",
+  "pinyin": "huā",
+  "num": "hua1",
+  "level": "hsk3",
+  "unit": 4,
+  "order": 420.01,
+  "meanings": [
+   "flower",
+   "blossom",
+   "fancy pattern",
+   "florid"
+  ],
+  "pos": [
+   "v",
+   "n",
+   "a"
+  ],
+  "chars": [
+   "hanzi:花"
+  ],
+  "freq": 435,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:sui1ran2-虽然",
+  "zh": "虽然",
+  "trad": "雖然",
+  "pinyin": "suī rán",
+  "num": "sui1 ran2",
+  "level": "hsk3",
+  "unit": 4,
+  "order": 420.02,
+  "meanings": [
+   "although; even though (often used correlatively with 可是 or 但是 etc)"
+  ],
+  "pos": [
+   "c"
+  ],
+  "chars": [
+   "hanzi:虽",
+   "hanzi:然"
+  ],
+  "freq": 440,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:jie3jue2-解决",
+  "zh": "解决",
+  "trad": "解決",
+  "pinyin": "jiě jué",
+  "num": "jie3 jue2",
+  "level": "hsk3",
+  "unit": 3,
+  "order": 320.03,
+  "meanings": [
+   "to solve; to resolve; to settle (a problem)",
+   "to eliminate; to wipe out (an enemy, bandits etc)"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ],
+  "chars": [
+   "hanzi:解",
+   "hanzi:决"
+  ],
+  "freq": 458,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:guan1yu2-关于",
+  "zh": "关于",
+  "trad": "關於",
+  "pinyin": "guān yú",
+  "num": "guan1 yu2",
+  "level": "hsk3",
+  "unit": 4,
+  "order": 420.04,
+  "meanings": [
+   "pertaining to",
+   "concerning",
+   "with regard to",
+   "about"
+  ],
+  "pos": [
+   "p"
+  ],
+  "chars": [
+   "hanzi:关",
+   "hanzi:于"
+  ],
+  "freq": 478,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:wan2cheng2-完成",
+  "zh": "完成",
+  "trad": "完成",
+  "pinyin": "wán chéng",
+  "num": "wan2 cheng2",
+  "level": "hsk3",
+  "unit": 4,
+  "order": 420.05,
+  "meanings": [
+   "to complete; to accomplish"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ],
+  "chars": [
+   "hanzi:完",
+   "hanzi:成"
+  ],
+  "freq": 486,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:jie2shu4-结束",
+  "zh": "结束",
+  "trad": "結束",
+  "pinyin": "jié shù",
+  "num": "jie2 shu4",
+  "level": "hsk3",
+  "unit": 4,
+  "order": 420.06,
+  "meanings": [
+   "to end; to finish; to conclude"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ],
+  "chars": [
+   "hanzi:结",
+   "hanzi:束"
+  ],
+  "freq": 498,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:nu3li4-努力",
+  "zh": "努力",
+  "trad": "努力",
+  "pinyin": "nǔ lì",
+  "num": "nu3 li4",
+  "level": "hsk3",
+  "unit": 5,
+  "order": 520.07,
+  "meanings": [
+   "to make an effort; to try hard; to strive",
+   "hard-working; conscientious"
+  ],
+  "pos": [
+   "ad",
+   "an",
+   "a"
+  ],
+  "chars": [
+   "hanzi:努",
+   "hanzi:力"
+  ],
+  "freq": 505,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:yi3qian2-以前",
+  "zh": "以前",
+  "trad": "以前",
+  "pinyin": "yǐ qián",
+  "num": "yi3 qian2",
+  "level": "hsk3",
+  "unit": 5,
+  "order": 520.08,
+  "meanings": [
+   "before",
+   "formerly",
+   "previous",
+   "ago"
+  ],
+  "pos": [
+   "f"
+  ],
+  "chars": [
+   "hanzi:以",
+   "hanzi:前"
+  ],
+  "freq": 524,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:ban4fa3-办法",
+  "zh": "办法",
+  "trad": "辦法",
+  "pinyin": "bàn fǎ",
+  "num": "ban4 fa3",
+  "level": "hsk3",
+  "unit": 5,
+  "order": 520.09,
+  "meanings": [
+   "way of handling sth; means; measure; (practical) solution to a problem"
+  ],
+  "pos": [
+   "n"
+  ],
+  "chars": [
+   "hanzi:办",
+   "hanzi:法"
+  ],
+  "freq": 538,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:te4bie2-特别",
+  "zh": "特别",
+  "trad": "特別",
+  "pinyin": "tè bié",
+  "num": "te4 bie2",
+  "level": "hsk3",
+  "unit": 5,
+  "order": 520.1,
+  "meanings": [
+   "unusual; special",
+   "very; especially; particularly",
+   "expressly; for a specific purpose",
+   "(often followed by 是) in particular"
+  ],
+  "pos": [
+   "d",
+   "a"
+  ],
+  "chars": [
+   "hanzi:特",
+   "hanzi:别"
+  ],
+  "freq": 541,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:nan2-难",
+  "zh": "难",
+  "trad": "難",
+  "pinyin": "nán",
+  "num": "nan2",
+  "level": "hsk3",
+  "unit": 5,
+  "order": 520.11,
+  "meanings": [
+   "difficult (to...)",
+   "problem",
+   "difficulty",
+   "difficult"
+  ],
+  "pos": [
+   "ad",
+   "a",
+   "v",
+   "g"
+  ],
+  "chars": [
+   "hanzi:难"
+  ],
+  "freq": 544,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:zhu4yi4-注意",
+  "zh": "注意",
+  "trad": "注意",
+  "pinyin": "zhù yì",
+  "num": "zhu4 yi4",
+  "level": "hsk3",
+  "unit": 5,
+  "order": 520.12,
+  "meanings": [
+   "to take note of; to pay attention to"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ],
+  "chars": [
+   "hanzi:注",
+   "hanzi:意"
+  ],
+  "freq": 547,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:jiang3-讲",
+  "zh": "讲",
+  "trad": "講",
+  "pinyin": "jiǎng",
+  "num": "jiang3",
+  "level": "hsk3",
+  "unit": 5,
+  "order": 520.13,
+  "meanings": [
+   "to speak",
+   "to explain",
+   "to negotiate",
+   "to emphasize"
+  ],
+  "pos": [
+   "v"
+  ],
+  "chars": [
+   "hanzi:讲"
+  ],
+  "freq": 555,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:li2kai1-离开",
+  "zh": "离开",
+  "trad": "離開",
+  "pinyin": "lí kāi",
+  "num": "li2 kai1",
+  "level": "hsk3",
+  "unit": 5,
+  "order": 520.14,
+  "meanings": [
+   "to depart; to leave"
+  ],
+  "pos": [
+   "v"
+  ],
+  "chars": [
+   "hanzi:离",
+   "hanzi:开"
+  ],
+  "freq": 557,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:wan4-万",
+  "zh": "万",
+  "trad": "萬",
+  "pinyin": "wàn",
+  "num": "wan4",
+  "level": "hsk3",
+  "unit": 5,
+  "order": 520.15,
+  "meanings": [
+   "ten thousand",
+   "a great number"
+  ],
+  "pos": [
+   "m",
+   "t"
+  ],
+  "chars": [
+   "hanzi:万"
+  ],
+  "freq": 557,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:yi3wei2-以为",
+  "zh": "以为",
+  "trad": "以為",
+  "pinyin": "yǐ wéi",
+  "num": "yi3 wei2",
+  "level": "hsk3",
+  "unit": 5,
+  "order": 520.16,
+  "meanings": [
+   "to think; to believe (often with the implication that the belief is mistaken – unless referring to one's own current belief)"
+  ],
+  "pos": [
+   "v"
+  ],
+  "chars": [
+   "hanzi:以",
+   "hanzi:为"
+  ],
+  "freq": 567,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:yue4-越",
+  "zh": "越",
+  "trad": "越",
+  "pinyin": "yuè",
+  "num": "yue4",
+  "level": "hsk3",
+  "unit": 5,
+  "order": 520.17,
+  "meanings": [
+   "to exceed",
+   "to climb over",
+   "to surpass",
+   "the more... the more"
+  ],
+  "pos": [
+   "d",
+   "g",
+   "b"
+  ],
+  "chars": [
+   "hanzi:越"
+  ],
+  "freq": 574,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:cheng2shi4-城市",
+  "zh": "城市",
+  "trad": "城市",
+  "pinyin": "chéng shì",
+  "num": "cheng2 shi4",
+  "level": "hsk3",
+  "unit": 5,
+  "order": 520.18,
+  "meanings": [
+   "city; town"
+  ],
+  "pos": [
+   "n"
+  ],
+  "chars": [
+   "hanzi:城",
+   "hanzi:市"
+  ],
+  "freq": 593,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:ying3xiang3-影响",
+  "zh": "影响",
+  "trad": "影響",
+  "pinyin": "yǐng xiǎng",
+  "num": "ying3 xiang3",
+  "level": "hsk3",
+  "unit": 5,
+  "order": 520.19,
+  "meanings": [
+   "influence",
+   "effect",
+   "to influence",
+   "to affect (usually adversely)"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ],
+  "chars": [
+   "hanzi:影",
+   "hanzi:响"
+  ],
+  "freq": 598,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:you2xi4-游戏",
+  "zh": "游戏",
+  "trad": "遊戲",
+  "pinyin": "yóu xì",
+  "num": "you2 xi4",
+  "level": "hsk3",
+  "unit": 5,
+  "order": 520.2,
+  "meanings": [
+   "game",
+   "to play"
+  ],
+  "pos": [
+   "n",
+   "v"
+  ],
+  "chars": [
+   "hanzi:游",
+   "hanzi:戏"
+  ],
+  "freq": 603,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:ma3-马",
+  "zh": "马",
+  "trad": "馬",
+  "pinyin": "mǎ",
+  "num": "ma3",
+  "level": "hsk3",
+  "unit": 5,
+  "order": 520.21,
+  "meanings": [
+   "horse",
+   "horse or cavalry piece in Chinese chess",
+   "knight in Western chess"
+  ],
+  "pos": [
+   "n",
+   "nr",
+   "b"
+  ],
+  "chars": [
+   "hanzi:马"
+  ],
+  "freq": 605,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:bi3jiao4-比较",
+  "zh": "比较",
+  "trad": "比較",
+  "pinyin": "bǐ jiào",
+  "num": "bi3 jiao4",
+  "level": "hsk3",
+  "unit": 6,
+  "order": 620.22,
+  "meanings": [
+   "to compare",
+   "to contrast",
+   "comparatively",
+   "relatively"
+  ],
+  "pos": [
+   "d",
+   "vn",
+   "v"
+  ],
+  "chars": [
+   "hanzi:比",
+   "hanzi:较"
+  ],
+  "freq": 607,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:zui4jin4-最近",
+  "zh": "最近",
+  "trad": "最近",
+  "pinyin": "zuì jìn",
+  "num": "zui4 jin4",
+  "level": "hsk3",
+  "unit": 6,
+  "order": 620.23,
+  "meanings": [
+   "recently",
+   "soon",
+   "nearest"
+  ],
+  "pos": [
+   "t"
+  ],
+  "chars": [
+   "hanzi:最",
+   "hanzi:近"
+  ],
+  "freq": 612,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:huan4-换",
+  "zh": "换",
+  "trad": "換",
+  "pinyin": "huàn",
+  "num": "huan4",
+  "level": "hsk3",
+  "unit": 6,
+  "order": 620.24,
+  "meanings": [
+   "to exchange",
+   "to change (clothes etc)",
+   "to substitute",
+   "to switch"
+  ],
+  "pos": [
+   "v"
+  ],
+  "chars": [
+   "hanzi:换"
+  ],
+  "freq": 618,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:zhong1yu2-终于",
+  "zh": "终于",
+  "trad": "終於",
+  "pinyin": "zhōng yú",
+  "num": "zhong1 yu2",
+  "level": "hsk3",
+  "unit": 6,
+  "order": 620.25,
+  "meanings": [
+   "at last",
+   "in the end",
+   "finally",
+   "eventually"
+  ],
+  "pos": [
+   "d"
+  ],
+  "chars": [
+   "hanzi:终",
+   "hanzi:于"
+  ],
+  "freq": 625,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:lian3-脸",
+  "zh": "脸",
+  "trad": "臉",
+  "pinyin": "liǎn",
+  "num": "lian3",
+  "level": "hsk3",
+  "unit": 6,
+  "order": 620.26,
+  "meanings": [
+   "face"
+  ],
+  "pos": [
+   "n",
+   "q"
+  ],
+  "chars": [
+   "hanzi:脸"
+  ],
+  "freq": 629,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:kou3-口",
+  "zh": "口",
+  "trad": "口",
+  "pinyin": "kǒu",
+  "num": "kou3",
+  "level": "hsk3",
+  "unit": 6,
+  "order": 620.27,
+  "meanings": [
+   "mouth",
+   "classifier for things with mouths (people, domestic animals, cannons, wells etc)",
+   "classifier for bites or mouthfuls"
+  ],
+  "pos": [
+   "q",
+   "n"
+  ],
+  "chars": [
+   "hanzi:口"
+  ],
+  "freq": 637,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:chu2le5-除了",
+  "zh": "除了",
+  "trad": "除了",
+  "pinyin": "chú le",
+  "num": "chu2 le5",
+  "level": "hsk3",
+  "unit": 6,
+  "order": 620.28,
+  "meanings": [
+   "apart from; besides; in addition to (used to exclude, as in 除了他，除了他，谁也没来 \"apart from him, nobody came\", or to include, as in 除了英語，除了英语，他也会法语 \"in addition to English, he also knows French\")",
+   "(used to introduce one of two habitual alternatives in the pattern 除了 + A + 就是 + B, \"either A or B\")"
+  ],
+  "pos": [
+   "p"
+  ],
+  "chars": [
+   "hanzi:除",
+   "hanzi:了"
+  ],
+  "freq": 638,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:zong3shi4-总是",
+  "zh": "总是",
+  "trad": "總是",
+  "pinyin": "zǒng shì",
+  "num": "zong3 shi4",
+  "level": "hsk3",
+  "unit": 6,
+  "order": 620.29,
+  "meanings": [
+   "always"
+  ],
+  "pos": [
+   "d",
+   "v"
+  ],
+  "chars": [
+   "hanzi:总",
+   "hanzi:是"
+  ],
+  "freq": 638,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:shuang1-双",
+  "zh": "双",
+  "trad": "雙",
+  "pinyin": "shuāng",
+  "num": "shuang1",
+  "level": "hsk3",
+  "unit": 6,
+  "order": 620.3,
+  "meanings": [
+   "two",
+   "double",
+   "pair",
+   "both"
+  ],
+  "pos": [
+   "m",
+   "q"
+  ],
+  "chars": [
+   "hanzi:双"
+  ],
+  "freq": 642,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:tu1ran2-突然",
+  "zh": "突然",
+  "trad": "突然",
+  "pinyin": "tū rán",
+  "num": "tu1 ran2",
+  "level": "hsk3",
+  "unit": 6,
+  "order": 620.31,
+  "meanings": [
+   "sudden; abrupt; unexpected"
+  ],
+  "pos": [
+   "ad",
+   "a"
+  ],
+  "chars": [
+   "hanzi:突",
+   "hanzi:然"
+  ],
+  "freq": 644,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:duan4-段",
+  "zh": "段",
+  "trad": "段",
+  "pinyin": "duàn",
+  "num": "duan4",
+  "level": "hsk3",
+  "unit": 6,
+  "order": 620.32,
+  "meanings": [
+   "paragraph",
+   "section",
+   "segment",
+   "stage (of a process)"
+  ],
+  "pos": [
+   "q",
+   "g"
+  ],
+  "chars": [
+   "hanzi:段"
+  ],
+  "freq": 647,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:jian3cha2-检查",
+  "zh": "检查",
+  "trad": "檢查",
+  "pinyin": "jiǎn chá",
+  "num": "jian3 cha2",
+  "level": "hsk3",
+  "unit": 6,
+  "order": 620.33,
+  "meanings": [
+   "inspection",
+   "to examine",
+   "to inspect"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ],
+  "chars": [
+   "hanzi:检",
+   "hanzi:查"
+  ],
+  "freq": 659,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:mi3-米",
+  "zh": "米",
+  "trad": "米",
+  "pinyin": "mǐ",
+  "num": "mi3",
+  "level": "hsk3",
+  "unit": 7,
+  "order": 720.34,
+  "meanings": [
+   "uncooked rice",
+   "meter (unit of length)",
+   "(slang) Chinese yuan"
+  ],
+  "pos": [
+   "n",
+   "q"
+  ],
+  "chars": [
+   "hanzi:米"
+  ],
+  "freq": 663,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:rong2yi4-容易",
+  "zh": "容易",
+  "trad": "容易",
+  "pinyin": "róng yì",
+  "num": "rong2 yi4",
+  "level": "hsk3",
+  "unit": 6,
+  "order": 620.35,
+  "meanings": [
+   "easy; straightforward",
+   "likely; liable to; apt to"
+  ],
+  "pos": [
+   "a",
+   "ad"
+  ],
+  "chars": [
+   "hanzi:容",
+   "hanzi:易"
+  ],
+  "freq": 664,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:ming2bai5-明白",
+  "zh": "明白",
+  "trad": "明白",
+  "pinyin": "míng bai",
+  "num": "ming2 bai5",
+  "level": "hsk3",
+  "unit": 7,
+  "order": 720.36,
+  "meanings": [
+   "clear; obvious; unequivocal",
+   "sensible; reasonable",
+   "to understand; to realize"
+  ],
+  "pos": [
+   "v",
+   "a",
+   "an"
+  ],
+  "chars": [
+   "hanzi:明",
+   "hanzi:白"
+  ],
+  "freq": 676,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:gen1ju4-根据",
+  "zh": "根据",
+  "trad": "根據",
+  "pinyin": "gēn jù",
+  "num": "gen1 ju4",
+  "level": "hsk3",
+  "unit": 7,
+  "order": 720.37,
+  "meanings": [
+   "according to",
+   "based on",
+   "basis",
+   "foundation"
+  ],
+  "pos": [
+   "p",
+   "n",
+   "v"
+  ],
+  "chars": [
+   "hanzi:根",
+   "hanzi:据"
+  ],
+  "freq": 694,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:ji4de5-记得",
+  "zh": "记得",
+  "trad": "記得",
+  "pinyin": "jì de",
+  "num": "ji4 de5",
+  "level": "hsk3",
+  "unit": 7,
+  "order": 720.38,
+  "meanings": [
+   "to remember"
+  ],
+  "pos": [
+   "v"
+  ],
+  "chars": [
+   "hanzi:记",
+   "hanzi:得"
+  ],
+  "freq": 699,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:liang4-辆",
+  "zh": "辆",
+  "trad": "輛",
+  "pinyin": "liàng",
+  "num": "liang4",
+  "level": "hsk3",
+  "unit": 7,
+  "order": 720.39,
+  "meanings": [
+   "classifier for vehicles"
+  ],
+  "pos": [
+   "q"
+  ],
+  "chars": [
+   "hanzi:辆"
+  ],
+  "freq": 699,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:jian3dan1-简单",
+  "zh": "简单",
+  "trad": "簡單",
+  "pinyin": "jiǎn dān",
+  "num": "jian3 dan1",
+  "level": "hsk3",
+  "unit": 7,
+  "order": 720.4,
+  "meanings": [
+   "simple; not complicated"
+  ],
+  "pos": [
+   "a",
+   "ad"
+  ],
+  "chars": [
+   "hanzi:简",
+   "hanzi:单"
+  ],
+  "freq": 726,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:ban4-半",
+  "zh": "半",
+  "trad": "半",
+  "pinyin": "bàn",
+  "num": "ban4",
+  "level": "hsk3",
+  "unit": 7,
+  "order": 720.41,
+  "meanings": [
+   "half",
+   "semi-",
+   "incomplete",
+   "(after a number) and a half"
+  ],
+  "pos": [
+   "m"
+  ],
+  "chars": [
+   "hanzi:半"
+  ],
+  "freq": 727,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:yuan4yi4-愿意",
+  "zh": "愿意",
+  "trad": "願意",
+  "pinyin": "yuàn yì",
+  "num": "yuan4 yi4",
+  "level": "hsk3",
+  "unit": 7,
+  "order": 720.42,
+  "meanings": [
+   "to wish",
+   "to want",
+   "ready",
+   "willing (to do sth)"
+  ],
+  "pos": [
+   "v"
+  ],
+  "chars": [
+   "hanzi:愿",
+   "hanzi:意"
+  ],
+  "freq": 738,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:yin1yue4-音乐",
+  "zh": "音乐",
+  "trad": "音樂",
+  "pinyin": "yīn yuè",
+  "num": "yin1 yue4",
+  "level": "hsk3",
+  "unit": 7,
+  "order": 720.43,
+  "meanings": [
+   "music"
+  ],
+  "pos": [
+   "n"
+  ],
+  "chars": [
+   "hanzi:音",
+   "hanzi:乐"
+  ],
+  "freq": 742,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:bao1-包",
+  "zh": "包",
+  "trad": "包",
+  "pinyin": "bāo",
+  "num": "bao1",
+  "level": "hsk3",
+  "unit": 7,
+  "order": 720.44,
+  "meanings": [
+   "to cover",
+   "to wrap",
+   "to hold",
+   "to include"
+  ],
+  "pos": [
+   "v",
+   "n",
+   "q"
+  ],
+  "chars": [
+   "hanzi:包"
+  ],
+  "freq": 755,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:lou2-楼",
+  "zh": "楼",
+  "trad": "樓",
+  "pinyin": "lóu",
+  "num": "lou2",
+  "level": "hsk3",
+  "unit": 7,
+  "order": 720.45,
+  "meanings": [
+   "house with more than 1 story",
+   "storied building",
+   "floor"
+  ],
+  "pos": [
+   "n"
+  ],
+  "chars": [
+   "hanzi:楼"
+  ],
+  "freq": 765,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:qing1chu5-清楚",
+  "zh": "清楚",
+  "trad": "清楚",
+  "pinyin": "qīng chu",
+  "num": "qing1 chu5",
+  "level": "hsk3",
+  "unit": 7,
+  "order": 720.46,
+  "meanings": [
+   "clear",
+   "distinct",
+   "to understand thoroughly",
+   "to be clear about"
+  ],
+  "pos": [
+   "a",
+   "v",
+   "ad"
+  ],
+  "chars": [
+   "hanzi:清",
+   "hanzi:楚"
+  ],
+  "freq": 766,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:zhao4pian4-照片",
+  "zh": "照片",
+  "trad": "照片",
+  "pinyin": "zhào piàn",
+  "num": "zhao4 pian4",
+  "level": "hsk3",
+  "unit": 7,
+  "order": 720.47,
+  "meanings": [
+   "photograph"
+  ],
+  "pos": [
+   "n"
+  ],
+  "chars": [
+   "hanzi:照",
+   "hanzi:片"
+  ],
+  "freq": 766,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:yin2hang2-银行",
+  "zh": "银行",
+  "trad": "銀行",
+  "pinyin": "yín háng",
+  "num": "yin2 hang2",
+  "level": "hsk3",
+  "unit": 7,
+  "order": 720.48,
+  "meanings": [
+   "bank"
+  ],
+  "pos": [
+   "n"
+  ],
+  "chars": [
+   "hanzi:银",
+   "hanzi:行"
+  ],
+  "freq": 769,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:gu4shi5-故事",
+  "zh": "故事",
+  "trad": "故事",
+  "pinyin": "gù shi",
+  "num": "gu4 shi5",
+  "level": "hsk3",
+  "unit": 8,
+  "order": 820.49,
+  "meanings": [
+   "narrative; story; tale"
+  ],
+  "pos": [
+   "n"
+  ],
+  "chars": [
+   "hanzi:故",
+   "hanzi:事"
+  ],
+  "freq": 772,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:yi1ban1-一般",
+  "zh": "一般",
+  "trad": "一般",
+  "pinyin": "yī bān",
+  "num": "yi1 ban1",
+  "level": "hsk3",
+  "unit": 8,
+  "order": 820.5,
+  "meanings": [
+   "same",
+   "ordinary",
+   "so-so",
+   "common"
+  ],
+  "pos": [
+   "a",
+   "ad",
+   "u"
+  ],
+  "chars": [
+   "hanzi:一",
+   "hanzi:般"
+  ],
+  "freq": 798,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:ke3ai4-可爱",
+  "zh": "可爱",
+  "trad": "可愛",
+  "pinyin": "kě ài",
+  "num": "ke3 ai4",
+  "level": "hsk3",
+  "unit": 8,
+  "order": 820.51,
+  "meanings": [
+   "adorable",
+   "cute",
+   "lovely"
+  ],
+  "pos": [
+   "a"
+  ],
+  "chars": [
+   "hanzi:可",
+   "hanzi:爱"
+  ],
+  "freq": 799,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:xin1wen2-新闻",
+  "zh": "新闻",
+  "trad": "新聞",
+  "pinyin": "xīn wén",
+  "num": "xin1 wen2",
+  "level": "hsk3",
+  "unit": 8,
+  "order": 820.52,
+  "meanings": [
+   "news"
+  ],
+  "pos": [
+   "n"
+  ],
+  "chars": [
+   "hanzi:新",
+   "hanzi:闻"
+  ],
+  "freq": 805,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:sheng1yin1-声音",
+  "zh": "声音",
+  "trad": "聲音",
+  "pinyin": "shēng yīn",
+  "num": "sheng1 yin1",
+  "level": "hsk3",
+  "unit": 8,
+  "order": 820.53,
+  "meanings": [
+   "sound; voice"
+  ],
+  "pos": [
+   "n"
+  ],
+  "chars": [
+   "hanzi:声",
+   "hanzi:音"
+  ],
+  "freq": 841,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:ma3shang4-马上",
+  "zh": "马上",
+  "trad": "馬上",
+  "pinyin": "mǎ shàng",
+  "num": "ma3 shang4",
+  "level": "hsk3",
+  "unit": 5,
+  "order": 520.54,
+  "meanings": [
+   "at once",
+   "right away",
+   "immediately",
+   "on horseback (i.e. by military force)"
+  ],
+  "pos": [
+   "d",
+   "s"
+  ],
+  "chars": [
+   "hanzi:马",
+   "hanzi:上"
+  ],
+  "freq": 847,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:biao3shi4-表示",
+  "zh": "表示",
+  "trad": "表示",
+  "pinyin": "biǎo shì",
+  "num": "biao3 shi4",
+  "level": "hsk3",
+  "unit": 8,
+  "order": 820.55,
+  "meanings": [
+   "(of sb) to express; to state; to show",
+   "(of sth) to indicate; to signify; to show",
+   "expression; manifestation"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ],
+  "chars": [
+   "hanzi:表",
+   "hanzi:示"
+  ],
+  "freq": 854,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:jing1guo4-经过",
+  "zh": "经过",
+  "trad": "經過",
+  "pinyin": "jīng guò",
+  "num": "jing1 guo4",
+  "level": "hsk3",
+  "unit": 3,
+  "order": 320.56,
+  "meanings": [
+   "to pass",
+   "to go through",
+   "process",
+   "course"
+  ],
+  "pos": [
+   "p",
+   "v",
+   "n"
+  ],
+  "chars": [
+   "hanzi:经",
+   "hanzi:过"
+  ],
+  "freq": 867,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:li4shi3-历史",
+  "zh": "历史",
+  "trad": "歷史",
+  "pinyin": "lì shǐ",
+  "num": "li4 shi3",
+  "level": "hsk3",
+  "unit": 8,
+  "order": 820.57,
+  "meanings": [
+   "history"
+  ],
+  "pos": [
+   "n"
+  ],
+  "chars": [
+   "hanzi:历",
+   "hanzi:史"
+  ],
+  "freq": 882,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:ku1-哭",
+  "zh": "哭",
+  "trad": "哭",
+  "pinyin": "kū",
+  "num": "ku1",
+  "level": "hsk3",
+  "unit": 8,
+  "order": 820.58,
+  "meanings": [
+   "to cry; to weep"
+  ],
+  "pos": [
+   "v"
+  ],
+  "chars": [
+   "hanzi:哭"
+  ],
+  "freq": 898,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:gan3-敢",
+  "zh": "敢",
+  "trad": "敢",
+  "pinyin": "gǎn",
+  "num": "gan3",
+  "level": "hsk3",
+  "unit": 8,
+  "order": 820.59,
+  "meanings": [
+   "to dare",
+   "daring",
+   "(polite) may I venture"
+  ],
+  "pos": [
+   "v",
+   "g"
+  ],
+  "chars": [
+   "hanzi:敢"
+  ],
+  "freq": 902,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:hui4yi4-会议",
+  "zh": "会议",
+  "trad": "會議",
+  "pinyin": "huì yì",
+  "num": "hui4 yi4",
+  "level": "hsk3",
+  "unit": 8,
+  "order": 820,
+  "meanings": [
+   "meeting",
+   "conference"
+  ],
+  "pos": [
+   "n"
+  ],
+  "chars": [
+   "hanzi:会",
+   "hanzi:议"
+  ],
+  "freq": 928,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:jing1chang2-经常",
+  "zh": "经常",
+  "trad": "經常",
+  "pinyin": "jīng cháng",
+  "num": "jing1 chang2",
+  "level": "hsk3",
+  "unit": 8,
+  "order": 820.01,
+  "meanings": [
+   "frequently; constantly; regularly; often",
+   "day-to-day; everyday; daily"
+  ],
+  "pos": [
+   "d",
+   "b"
+  ],
+  "chars": [
+   "hanzi:经",
+   "hanzi:常"
+  ],
+  "freq": 940,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:di1-低",
+  "zh": "低",
+  "trad": "低",
+  "pinyin": "dī",
+  "num": "di1",
+  "level": "hsk3",
+  "unit": 8,
+  "order": 820.02,
+  "meanings": [
+   "low",
+   "beneath",
+   "to lower (one's head)",
+   "to let droop"
+  ],
+  "pos": [
+   "a",
+   "ad",
+   "v"
+  ],
+  "chars": [
+   "hanzi:低"
+  ],
+  "freq": 951,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:jie2mu4-节目",
+  "zh": "节目",
+  "trad": "節目",
+  "pinyin": "jié mù",
+  "num": "jie2 mu4",
+  "level": "hsk3",
+  "unit": 8,
+  "order": 820.03,
+  "meanings": [
+   "(TV or radio) program; show",
+   "item; act; segment; number (on the program of a concert, variety show or cultural event)",
+   "a planned activity (in one's schedule)"
+  ],
+  "pos": [
+   "n"
+  ],
+  "chars": [
+   "hanzi:节",
+   "hanzi:目"
+  ],
+  "freq": 951,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:jian4kang1-健康",
+  "zh": "健康",
+  "trad": "健康",
+  "pinyin": "jiàn kāng",
+  "num": "jian4 kang1",
+  "level": "hsk3",
+  "unit": 8,
+  "order": 820.04,
+  "meanings": [
+   "health",
+   "healthy"
+  ],
+  "pos": [
+   "a",
+   "an",
+   "ad"
+  ],
+  "chars": [
+   "hanzi:健",
+   "hanzi:康"
+  ],
+  "freq": 952,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:zuo4yong4-作用",
+  "zh": "作用",
+  "trad": "作用",
+  "pinyin": "zuò yòng",
+  "num": "zuo4 yong4",
+  "level": "hsk3",
+  "unit": 1,
+  "order": 120.05,
+  "meanings": [
+   "to act on; to affect",
+   "action; function; activity",
+   "impact; result; effect",
+   "purpose; intent"
+  ],
+  "pos": [
+   "n",
+   "v"
+  ],
+  "chars": [
+   "hanzi:作",
+   "hanzi:用"
+  ],
+  "freq": 955,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:xi1-西",
+  "zh": "西",
+  "trad": "西",
+  "pinyin": "xī",
+  "num": "xi1",
+  "level": "hsk3",
+  "unit": 9,
+  "order": 920.06,
+  "meanings": [
+   "west"
+  ],
+  "pos": [
+   "f",
+   "b"
+  ],
+  "chars": [
+   "hanzi:西"
+  ],
+  "freq": 958,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:cha4-差",
+  "zh": "差",
+  "trad": "差",
+  "pinyin": "chà",
+  "num": "cha4",
+  "level": "hsk3",
+  "unit": 9,
+  "order": 920.07,
+  "meanings": [
+   "different",
+   "wrong; mistaken",
+   "to fall short; to lack",
+   "not up to standard; inferior"
+  ],
+  "pos": [
+   "a",
+   "v",
+   "g"
+  ],
+  "chars": [
+   "hanzi:差"
+  ],
+  "freq": 968,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:jie2hun1-结婚",
+  "zh": "结婚",
+  "trad": "結婚",
+  "pinyin": "jié hūn",
+  "num": "jie2 hun1",
+  "level": "hsk3",
+  "unit": 9,
+  "order": 920.08,
+  "meanings": [
+   "to marry; to get married"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ],
+  "chars": [
+   "hanzi:结",
+   "hanzi:婚"
+  ],
+  "freq": 982,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:duan3-短",
+  "zh": "短",
+  "trad": "短",
+  "pinyin": "duǎn",
+  "num": "duan3",
+  "level": "hsk3",
+  "unit": 9,
+  "order": 920.09,
+  "meanings": [
+   "short",
+   "brief",
+   "to lack",
+   "weak point"
+  ],
+  "pos": [
+   "a"
+  ],
+  "chars": [
+   "hanzi:短"
+  ],
+  "freq": 983,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:tong2yi4-同意",
+  "zh": "同意",
+  "trad": "同意",
+  "pinyin": "tóng yì",
+  "num": "tong2 yi4",
+  "level": "hsk3",
+  "unit": 9,
+  "order": 920.1,
+  "meanings": [
+   "to agree",
+   "to consent",
+   "to approve"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ],
+  "chars": [
+   "hanzi:同",
+   "hanzi:意"
+  ],
+  "freq": 985,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:jiao1-教",
+  "zh": "教",
+  "trad": "教",
+  "pinyin": "jiāo",
+  "num": "jiao1",
+  "level": "hsk3",
+  "unit": 9,
+  "order": 920.11,
+  "meanings": [
+   "to teach; to instruct"
+  ],
+  "pos": [
+   "v",
+   "g"
+  ],
+  "chars": [
+   "hanzi:教"
+  ],
+  "freq": 988,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:ji1hu1-几乎",
+  "zh": "几乎",
+  "trad": "幾乎",
+  "pinyin": "jī hū",
+  "num": "ji1 hu1",
+  "level": "hsk3",
+  "unit": 9,
+  "order": 920.12,
+  "meanings": [
+   "almost; nearly; practically"
+  ],
+  "pos": [
+   "d"
+  ],
+  "chars": [
+   "hanzi:几",
+   "hanzi:乎"
+  ],
+  "freq": 1001,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:fu4jin4-附近",
+  "zh": "附近",
+  "trad": "附近",
+  "pinyin": "fù jìn",
+  "num": "fu4 jin4",
+  "level": "hsk3",
+  "unit": 9,
+  "order": 920.13,
+  "meanings": [
+   "nearby; neighboring",
+   "(in the) vicinity (of); neighborhood"
+  ],
+  "pos": [
+   "f"
+  ],
+  "chars": [
+   "hanzi:附",
+   "hanzi:近"
+  ],
+  "freq": 1020,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:ren4zhen1-认真",
+  "zh": "认真",
+  "trad": "認真",
+  "pinyin": "rèn zhēn",
+  "num": "ren4 zhen1",
+  "level": "hsk3",
+  "unit": 9,
+  "order": 920.14,
+  "meanings": [
+   "conscientious",
+   "earnest",
+   "serious",
+   "to take seriously"
+  ],
+  "pos": [
+   "a",
+   "ad"
+  ],
+  "chars": [
+   "hanzi:认",
+   "hanzi:真"
+  ],
+  "freq": 1020,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:jiao3-脚",
+  "zh": "脚",
+  "trad": "腳",
+  "pinyin": "jiǎo",
+  "num": "jiao3",
+  "level": "hsk3",
+  "unit": 9,
+  "order": 920.15,
+  "meanings": [
+   "foot",
+   "leg (of an animal or an object)",
+   "base (of an object)",
+   "classifier for kicks"
+  ],
+  "pos": [
+   "n",
+   "q"
+  ],
+  "chars": [
+   "hanzi:脚"
+  ],
+  "freq": 1024,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:zhu3yao4-主要",
+  "zh": "主要",
+  "trad": "主要",
+  "pinyin": "zhǔ yào",
+  "num": "zhu3 yao4",
+  "level": "hsk3",
+  "unit": 9,
+  "order": 920.16,
+  "meanings": [
+   "main; principal; major; primary"
+  ],
+  "pos": [
+   "b",
+   "d"
+  ],
+  "chars": [
+   "hanzi:主",
+   "hanzi:要"
+  ],
+  "freq": 1031,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:yu4dao4-遇到",
+  "zh": "遇到",
+  "trad": "遇到",
+  "pinyin": "yù dào",
+  "num": "yu4 dao4",
+  "level": "hsk3",
+  "unit": 9,
+  "order": 920.17,
+  "meanings": [
+   "to meet; to run into; to come across"
+  ],
+  "pos": [
+   "v"
+  ],
+  "chars": [
+   "hanzi:遇",
+   "hanzi:到"
+  ],
+  "freq": 1063,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:nian2qing1-年轻",
+  "zh": "年轻",
+  "trad": "年輕",
+  "pinyin": "nián qīng",
+  "num": "nian2 qing1",
+  "level": "hsk3",
+  "unit": 9,
+  "order": 920.18,
+  "meanings": [
+   "young"
+  ],
+  "pos": [
+   "a"
+  ],
+  "chars": [
+   "hanzi:年",
+   "hanzi:轻"
+  ],
+  "freq": 1100,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:jiu3-久",
+  "zh": "久",
+  "trad": "久",
+  "pinyin": "jiǔ",
+  "num": "jiu3",
+  "level": "hsk3",
+  "unit": 9,
+  "order": 920.19,
+  "meanings": [
+   "(of a period of time) long"
+  ],
+  "pos": [
+   "a",
+   "g",
+   "ad"
+  ],
+  "chars": [
+   "hanzi:久"
+  ],
+  "freq": 1103,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:hua4-画",
+  "zh": "画",
+  "trad": "畫",
+  "pinyin": "huà",
+  "num": "hua4",
+  "level": "hsk3",
+  "unit": 9,
+  "order": 920.2,
+  "meanings": [
+   "to draw; to paint",
+   "picture; painting",
+   "to draw (a line) (variant of 划)",
+   "stroke of a Chinese character (variant of 划)"
+  ],
+  "pos": [
+   "n",
+   "v",
+   "q"
+  ],
+  "chars": [
+   "hanzi:画"
+  ],
+  "freq": 1119,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:biao3yan3-表演",
+  "zh": "表演",
+  "trad": "表演",
+  "pinyin": "biǎo yǎn",
+  "num": "biao3 yan3",
+  "level": "hsk3",
+  "unit": 9,
+  "order": 920.21,
+  "meanings": [
+   "play",
+   "show",
+   "performance",
+   "exhibition"
+  ],
+  "pos": [
+   "vn",
+   "v"
+  ],
+  "chars": [
+   "hanzi:表",
+   "hanzi:演"
+  ],
+  "freq": 1127,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:guan1-关",
+  "zh": "关",
+  "trad": "關",
+  "pinyin": "guān",
+  "num": "guan1",
+  "level": "hsk3",
+  "unit": 10,
+  "order": 1020.22,
+  "meanings": [
+   "mountain pass",
+   "to close; to shut; to turn off",
+   "to confine; to lock (sb) up; to shut (sb in a room, a bird in a cage etc)",
+   "to concern; to involve"
+  ],
+  "pos": [
+   "v",
+   "n",
+   "nr"
+  ],
+  "chars": [
+   "hanzi:关"
+  ],
+  "freq": 1129,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:gang1cai2-刚才",
+  "zh": "刚才",
+  "trad": "剛才",
+  "pinyin": "gāng cái",
+  "num": "gang1 cai2",
+  "level": "hsk3",
+  "unit": 9,
+  "order": 920.23,
+  "meanings": [
+   "just now",
+   "a moment ago"
+  ],
+  "pos": [
+   "t"
+  ],
+  "chars": [
+   "hanzi:刚",
+   "hanzi:才"
+  ],
+  "freq": 1149,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:ban4gong1shi4-办公室",
+  "zh": "办公室",
+  "trad": "辦公室",
+  "pinyin": "bàn gōng shì",
+  "num": "ban4 gong1 shi4",
+  "level": "hsk3",
+  "unit": 5,
+  "order": 520.24,
+  "meanings": [
+   "office; business premises"
+  ],
+  "pos": [
+   "n"
+  ],
+  "chars": [
+   "hanzi:办",
+   "hanzi:公",
+   "hanzi:室"
+  ],
+  "freq": 1162,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:huan2jing4-环境",
+  "zh": "环境",
+  "trad": "環境",
+  "pinyin": "huán jìng",
+  "num": "huan2 jing4",
+  "level": "hsk3",
+  "unit": 9,
+  "order": 920.25,
+  "meanings": [
+   "environment",
+   "circumstances",
+   "surroundings",
+   "ambient"
+  ],
+  "pos": [
+   "n"
+  ],
+  "chars": [
+   "hanzi:环",
+   "hanzi:境"
+  ],
+  "freq": 1171,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:guan1xin1-关心",
+  "zh": "关心",
+  "trad": "關心",
+  "pinyin": "guān xīn",
+  "num": "guan1 xin1",
+  "level": "hsk3",
+  "unit": 3,
+  "order": 320.26,
+  "meanings": [
+   "to be concerned about; to care about"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ],
+  "chars": [
+   "hanzi:关",
+   "hanzi:心"
+  ],
+  "freq": 1190,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:zhu4-祝",
+  "zh": "祝",
+  "trad": "祝",
+  "pinyin": "zhù",
+  "num": "zhu4",
+  "level": "hsk3",
+  "unit": 10,
+  "order": 1020.27,
+  "meanings": [
+   "to pray for",
+   "to wish (sb bon voyage, happy birthday etc)",
+   "person who invokes the spirits during sacrificial ceremonies"
+  ],
+  "pos": [
+   "v",
+   "nr"
+  ],
+  "chars": [
+   "hanzi:祝"
+  ],
+  "freq": 1197,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:ceng2-层",
+  "zh": "层",
+  "trad": "層",
+  "pinyin": "céng",
+  "num": "ceng2",
+  "level": "hsk3",
+  "unit": 10,
+  "order": 1020.28,
+  "meanings": [
+   "to pile on top of one another",
+   "layer; stratum",
+   "floor (of a building); story",
+   "(math.) sheaf"
+  ],
+  "pos": [
+   "qv",
+   "n"
+  ],
+  "chars": [
+   "hanzi:层"
+  ],
+  "freq": 1202,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:tui3-腿",
+  "zh": "腿",
+  "trad": "骽",
+  "pinyin": "tuǐ",
+  "num": "tui3",
+  "level": "hsk3",
+  "unit": 10,
+  "order": 1020.29,
+  "meanings": [
+   "hip bone"
+  ],
+  "pos": [
+   "n"
+  ],
+  "chars": [
+   "hanzi:腿"
+  ],
+  "freq": 1216,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:ban1-班",
+  "zh": "班",
+  "trad": "班",
+  "pinyin": "bān",
+  "num": "ban1",
+  "level": "hsk3",
+  "unit": 10,
+  "order": 1020.3,
+  "meanings": [
+   "team; class; grade",
+   "(military) squad",
+   "work shift",
+   "classifier for groups of people and scheduled transport vehicles"
+  ],
+  "pos": [
+   "n",
+   "q",
+   "nr"
+  ],
+  "chars": [
+   "hanzi:班"
+  ],
+  "freq": 1238,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:huai4-坏",
+  "zh": "坏",
+  "trad": "壞",
+  "pinyin": "huài",
+  "num": "huai4",
+  "level": "hsk3",
+  "unit": 10,
+  "order": 1020.31,
+  "meanings": [
+   "bad",
+   "spoiled",
+   "broken",
+   "to break down"
+  ],
+  "pos": [
+   "a",
+   "v"
+  ],
+  "chars": [
+   "hanzi:坏"
+  ],
+  "freq": 1239,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:yi1bian1-一边",
+  "zh": "一边",
+  "trad": "一邊",
+  "pinyin": "yī biān",
+  "num": "yi1 bian1",
+  "level": "hsk3",
+  "unit": 10,
+  "order": 1020.32,
+  "meanings": [
+   "one side",
+   "either side",
+   "on the one hand",
+   "on the other hand"
+  ],
+  "pos": [
+   "d",
+   "f"
+  ],
+  "chars": [
+   "hanzi:一",
+   "hanzi:边"
+  ],
+  "freq": 1241,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:xie2-鞋",
+  "zh": "鞋",
+  "trad": "鞋",
+  "pinyin": "xié",
+  "num": "xie2",
+  "level": "hsk3",
+  "unit": 10,
+  "order": 1020.33,
+  "meanings": [
+   "shoe"
+  ],
+  "pos": [
+   "n"
+  ],
+  "chars": [
+   "hanzi:鞋"
+  ],
+  "freq": 1249,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:xi2guan4-习惯",
+  "zh": "习惯",
+  "trad": "習慣",
+  "pinyin": "xí guàn",
+  "num": "xi2 guan4",
+  "level": "hsk3",
+  "unit": 10,
+  "order": 1020.34,
+  "meanings": [
+   "habit",
+   "custom",
+   "usual practice",
+   "to be used to"
+  ],
+  "pos": [
+   "n",
+   "v"
+  ],
+  "chars": [
+   "hanzi:习",
+   "hanzi:惯"
+  ],
+  "freq": 1251,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:bian4hua4-变化",
+  "zh": "变化",
+  "trad": "變化",
+  "pinyin": "biàn huà",
+  "num": "bian4 hua4",
+  "level": "hsk3",
+  "unit": 10,
+  "order": 1020.35,
+  "meanings": [
+   "(intransitive) to change; to vary",
+   "change; variation"
+  ],
+  "pos": [
+   "vn",
+   "v"
+  ],
+  "chars": [
+   "hanzi:变",
+   "hanzi:化"
+  ],
+  "freq": 1262,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:zhou1mo4-周末",
+  "zh": "周末",
+  "trad": "週末",
+  "pinyin": "zhōu mò",
+  "num": "zhou1 mo4",
+  "level": "hsk3",
+  "unit": 10,
+  "order": 1020.36,
+  "meanings": [
+   "weekend"
+  ],
+  "pos": [
+   "t"
+  ],
+  "chars": [
+   "hanzi:周",
+   "hanzi:末"
+  ],
+  "freq": 1269,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:wang4ji4-忘记",
+  "zh": "忘记",
+  "trad": "忘記",
+  "pinyin": "wàng jì",
+  "num": "wang4 ji4",
+  "level": "hsk3",
+  "unit": 10,
+  "order": 1020.37,
+  "meanings": [
+   "to forget"
+  ],
+  "pos": [
+   "v"
+  ],
+  "chars": [
+   "hanzi:忘",
+   "hanzi:记"
+  ],
+  "freq": 1335,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:da3suan4-打算",
+  "zh": "打算",
+  "trad": "打算",
+  "pinyin": "dǎ suàn",
+  "num": "da3 suan4",
+  "level": "hsk3",
+  "unit": 10,
+  "order": 1020.38,
+  "meanings": [
+   "to plan",
+   "to intend",
+   "to calculate",
+   "plan"
+  ],
+  "pos": [
+   "v",
+   "n",
+   "vn"
+  ],
+  "chars": [
+   "hanzi:打",
+   "hanzi:算"
+  ],
+  "freq": 1374,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:ji2-极",
+  "zh": "极",
+  "trad": "極",
+  "pinyin": "jí",
+  "num": "ji2",
+  "level": "hsk3",
+  "unit": 10,
+  "order": 1020.39,
+  "meanings": [
+   "extremely",
+   "pole (geography, physics)",
+   "utmost",
+   "top"
+  ],
+  "pos": [
+   "d",
+   "g"
+  ],
+  "chars": [
+   "hanzi:极"
+  ],
+  "freq": 1404,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:xiao3xin1-小心",
+  "zh": "小心",
+  "trad": "小心",
+  "pinyin": "xiǎo xīn",
+  "num": "xiao3 xin1",
+  "level": "hsk3",
+  "unit": 3,
+  "order": 320.4,
+  "meanings": [
+   "to be careful",
+   "to take care"
+  ],
+  "pos": [
+   "a",
+   "v",
+   "ad"
+  ],
+  "chars": [
+   "hanzi:小",
+   "hanzi:心"
+  ],
+  "freq": 1411,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:ju3xing2-举行",
+  "zh": "举行",
+  "trad": "舉行",
+  "pinyin": "jǔ xíng",
+  "num": "ju3 xing2",
+  "level": "hsk3",
+  "unit": 10,
+  "order": 1020.41,
+  "meanings": [
+   "to hold (a meeting, ceremony etc)"
+  ],
+  "pos": [
+   "v"
+  ],
+  "chars": [
+   "hanzi:举",
+   "hanzi:行"
+  ],
+  "freq": 1431,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:dong4wu4-动物",
+  "zh": "动物",
+  "trad": "動物",
+  "pinyin": "dòng wù",
+  "num": "dong4 wu4",
+  "level": "hsk3",
+  "unit": 10,
+  "order": 1020.42,
+  "meanings": [
+   "animal"
+  ],
+  "pos": [
+   "n"
+  ],
+  "chars": [
+   "hanzi:动",
+   "hanzi:物"
+  ],
+  "freq": 1438,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:e4-饿",
+  "zh": "饿",
+  "trad": "餓",
+  "pinyin": "è",
+  "num": "e4",
+  "level": "hsk3",
+  "unit": 11,
+  "order": 1120.43,
+  "meanings": [
+   "hungry",
+   "to starve (sb)"
+  ],
+  "pos": [
+   "v",
+   "a"
+  ],
+  "chars": [
+   "hanzi:饿"
+  ],
+  "freq": 1477,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:shu4-树",
+  "zh": "树",
+  "trad": "樹",
+  "pinyin": "shù",
+  "num": "shu4",
+  "level": "hsk3",
+  "unit": 11,
+  "order": 1120.44,
+  "meanings": [
+   "tree",
+   "to cultivate",
+   "to set up"
+  ],
+  "pos": [
+   "n",
+   "v"
+  ],
+  "chars": [
+   "hanzi:树"
+  ],
+  "freq": 1481,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:shui3ping2-水平",
+  "zh": "水平",
+  "trad": "水平",
+  "pinyin": "shuǐ píng",
+  "num": "shui3 ping2",
+  "level": "hsk3",
+  "unit": 11,
+  "order": 1120.45,
+  "meanings": [
+   "horizontal; level",
+   "a standard; a level (of ability, development etc)"
+  ],
+  "pos": [
+   "n"
+  ],
+  "chars": [
+   "hanzi:水",
+   "hanzi:平"
+  ],
+  "freq": 1490,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:jie4-借",
+  "zh": "借",
+  "trad": "借",
+  "pinyin": "jiè",
+  "num": "jie4",
+  "level": "hsk3",
+  "unit": 11,
+  "order": 1120.46,
+  "meanings": [
+   "to borrow",
+   "(used in combination with 给 or 出 etc) to lend",
+   "to make use of; to avail oneself of",
+   "(sometimes followed by 着) by; with"
+  ],
+  "pos": [
+   "v",
+   "p"
+  ],
+  "chars": [
+   "hanzi:借"
+  ],
+  "freq": 1495,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:dong1-东",
+  "zh": "东",
+  "trad": "東",
+  "pinyin": "dōng",
+  "num": "dong1",
+  "level": "hsk3",
+  "unit": 11,
+  "order": 1120.47,
+  "meanings": [
+   "east",
+   "host (i.e. sitting on east side of guest)",
+   "landlord"
+  ],
+  "pos": [
+   "f",
+   "b"
+  ],
+  "chars": [
+   "hanzi:东"
+  ],
+  "freq": 1509,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:tou2fa5-头发",
+  "zh": "头发",
+  "trad": "頭髮",
+  "pinyin": "tóu fa",
+  "num": "tou2 fa5",
+  "level": "hsk3",
+  "unit": 11,
+  "order": 1120.48,
+  "meanings": [
+   "hair (on the head)"
+  ],
+  "pos": [
+   "n"
+  ],
+  "chars": [
+   "hanzi:头",
+   "hanzi:发"
+  ],
+  "freq": 1533,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:hai4pa4-害怕",
+  "zh": "害怕",
+  "trad": "害怕",
+  "pinyin": "hài pà",
+  "num": "hai4 pa4",
+  "level": "hsk3",
+  "unit": 11,
+  "order": 1120.49,
+  "meanings": [
+   "to be afraid; to be scared"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ],
+  "chars": [
+   "hanzi:害",
+   "hanzi:怕"
+  ],
+  "freq": 1536,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:niao3-鸟",
+  "zh": "鸟",
+  "trad": "鳥",
+  "pinyin": "niǎo",
+  "num": "niao3",
+  "level": "hsk3",
+  "unit": 11,
+  "order": 1120.5,
+  "meanings": [
+   "bird",
+   "\"bird\" radical in Chinese characters (Kangxi radical 196)",
+   "(intensifier) damned",
+   "goddamn"
+  ],
+  "pos": [
+   "n"
+  ],
+  "chars": [
+   "hanzi:鸟"
+  ],
+  "freq": 1593,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:lan2-蓝",
+  "zh": "蓝",
+  "trad": "藍",
+  "pinyin": "lán",
+  "num": "lan2",
+  "level": "hsk3",
+  "unit": 11,
+  "order": 1120.51,
+  "meanings": [
+   "blue",
+   "indigo plant"
+  ],
+  "pos": [
+   "a",
+   "g"
+  ],
+  "chars": [
+   "hanzi:蓝"
+  ],
+  "freq": 1615,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:zhao4gu5-照顾",
+  "zh": "照顾",
+  "trad": "照顧",
+  "pinyin": "zhào gu",
+  "num": "zhao4 gu5",
+  "level": "hsk3",
+  "unit": 11,
+  "order": 1120.52,
+  "meanings": [
+   "to take care of",
+   "to show consideration",
+   "to attend to",
+   "to look after"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ],
+  "chars": [
+   "hanzi:照",
+   "hanzi:顾"
+  ],
+  "freq": 1631,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:wen2hua4-文化",
+  "zh": "文化",
+  "trad": "文化",
+  "pinyin": "wén huà",
+  "num": "wen2 hua4",
+  "level": "hsk3",
+  "unit": 11,
+  "order": 1120.53,
+  "meanings": [
+   "culture",
+   "civilization",
+   "cultural"
+  ],
+  "pos": [
+   "n"
+  ],
+  "chars": [
+   "hanzi:文",
+   "hanzi:化"
+  ],
+  "freq": 1632,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:teng2-疼",
+  "zh": "疼",
+  "trad": "疼",
+  "pinyin": "téng",
+  "num": "teng2",
+  "level": "hsk3",
+  "unit": 11,
+  "order": 1120.54,
+  "meanings": [
+   "(it) hurts; sore",
+   "to love dearly"
+  ],
+  "pos": [
+   "v",
+   "a"
+  ],
+  "chars": [
+   "hanzi:疼"
+  ],
+  "freq": 1641,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:qi2guai4-奇怪",
+  "zh": "奇怪",
+  "trad": "奇怪",
+  "pinyin": "qí guài",
+  "num": "qi2 guai4",
+  "level": "hsk3",
+  "unit": 11,
+  "order": 1120.55,
+  "meanings": [
+   "strange",
+   "odd",
+   "to marvel",
+   "to be baffled"
+  ],
+  "pos": [
+   "v",
+   "a"
+  ],
+  "chars": [
+   "hanzi:奇",
+   "hanzi:怪"
+  ],
+  "freq": 1655,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:li3wu4-礼物",
+  "zh": "礼物",
+  "trad": "禮物",
+  "pinyin": "lǐ wù",
+  "num": "li3 wu4",
+  "level": "hsk3",
+  "unit": 11,
+  "order": 1120.56,
+  "meanings": [
+   "gift; present"
+  ],
+  "pos": [
+   "n"
+  ],
+  "chars": [
+   "hanzi:礼",
+   "hanzi:物"
+  ],
+  "freq": 1673,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:nan2-南",
+  "zh": "南",
+  "trad": "南",
+  "pinyin": "nán",
+  "num": "nan2",
+  "level": "hsk3",
+  "unit": 12,
+  "order": 1220.57,
+  "meanings": [
+   "south"
+  ],
+  "pos": [
+   "b",
+   "f"
+  ],
+  "chars": [
+   "hanzi:南"
+  ],
+  "freq": 1709,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:ti2gao1-提高",
+  "zh": "提高",
+  "trad": "提高",
+  "pinyin": "tí gāo",
+  "num": "ti2 gao1",
+  "level": "hsk3",
+  "unit": 12,
+  "order": 1220.58,
+  "meanings": [
+   "to raise",
+   "to increase",
+   "to improve"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ],
+  "chars": [
+   "hanzi:提",
+   "hanzi:高"
+  ],
+  "freq": 1724,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:man3yi4-满意",
+  "zh": "满意",
+  "trad": "滿意",
+  "pinyin": "mǎn yì",
+  "num": "man3 yi4",
+  "level": "hsk3",
+  "unit": 12,
+  "order": 1220.59,
+  "meanings": [
+   "satisfied",
+   "pleased",
+   "to one's satisfaction"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ],
+  "chars": [
+   "hanzi:满",
+   "hanzi:意"
+  ],
+  "freq": 1761,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:jiu4-旧",
+  "zh": "旧",
+  "trad": "舊",
+  "pinyin": "jiù",
+  "num": "jiu4",
+  "level": "hsk3",
+  "unit": 12,
+  "order": 1220,
+  "meanings": [
+   "old",
+   "opposite: new 新",
+   "former",
+   "worn (with age)"
+  ],
+  "pos": [
+   "a",
+   "g"
+  ],
+  "chars": [
+   "hanzi:旧"
+  ],
+  "freq": 1787,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:si1ji1-司机",
+  "zh": "司机",
+  "trad": "司機",
+  "pinyin": "sī jī",
+  "num": "si1 ji1",
+  "level": "hsk3",
+  "unit": 12,
+  "order": 1220.01,
+  "meanings": [
+   "chauffeur; driver"
+  ],
+  "pos": [
+   "n"
+  ],
+  "chars": [
+   "hanzi:司",
+   "hanzi:机"
+  ],
+  "freq": 1804,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:huang2-黄",
+  "zh": "黄",
+  "trad": "黃",
+  "pinyin": "huáng",
+  "num": "huang2",
+  "level": "hsk3",
+  "unit": 12,
+  "order": 1220.02,
+  "meanings": [
+   "yellow",
+   "pornographic",
+   "to fall through"
+  ],
+  "pos": [
+   "nr",
+   "a",
+   "b"
+  ],
+  "chars": [
+   "hanzi:黄"
+  ],
+  "freq": 1809,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:jing1li3-经理",
+  "zh": "经理",
+  "trad": "經理",
+  "pinyin": "jīng lǐ",
+  "num": "jing1 li3",
+  "level": "hsk3",
+  "unit": 12,
+  "order": 1220.03,
+  "meanings": [
+   "manager",
+   "director"
+  ],
+  "pos": [
+   "n"
+  ],
+  "chars": [
+   "hanzi:经",
+   "hanzi:理"
+  ],
+  "freq": 1838,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:xing4qu4-兴趣",
+  "zh": "兴趣",
+  "trad": "興趣",
+  "pinyin": "xìng qù",
+  "num": "xing4 qu4",
+  "level": "hsk3",
+  "unit": 12,
+  "order": 1220.04,
+  "meanings": [
+   "interest (desire to know about sth)",
+   "interest (thing in which one is interested); hobby"
+  ],
+  "pos": [
+   "n"
+  ],
+  "chars": [
+   "hanzi:兴",
+   "hanzi:趣"
+  ],
+  "freq": 1847,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:bang1mang2-帮忙",
+  "zh": "帮忙",
+  "trad": "幫忙",
+  "pinyin": "bāng máng",
+  "num": "bang1 mang2",
+  "level": "hsk3",
+  "unit": 12,
+  "order": 1220.05,
+  "meanings": [
+   "to help",
+   "to lend a hand",
+   "to do a favor",
+   "to do a good turn"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ],
+  "chars": [
+   "hanzi:帮",
+   "hanzi:忙"
+  ],
+  "freq": 1860,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:dian4zi3-电子",
+  "zh": "电子",
+  "trad": "電子",
+  "pinyin": "diàn zǐ",
+  "num": "dian4 zi3",
+  "level": "hsk3",
+  "unit": 12,
+  "order": 1220.06,
+  "meanings": [
+   "electron",
+   "electronic"
+  ],
+  "pos": [
+   "n"
+  ],
+  "chars": [
+   "hanzi:电",
+   "hanzi:子"
+  ],
+  "freq": 1874,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:jian4mian4-见面",
+  "zh": "见面",
+  "trad": "見面",
+  "pinyin": "jiàn miàn",
+  "num": "jian4 mian4",
+  "level": "hsk3",
+  "unit": 12,
+  "order": 1220.07,
+  "meanings": [
+   "to meet; to see each other"
+  ],
+  "pos": [
+   "v"
+  ],
+  "chars": [
+   "hanzi:见",
+   "hanzi:面"
+  ],
+  "freq": 1876,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:cheng2ji4-成绩",
+  "zh": "成绩",
+  "trad": "成績",
+  "pinyin": "chéng jì",
+  "num": "cheng2 ji4",
+  "level": "hsk3",
+  "unit": 12,
+  "order": 1220.08,
+  "meanings": [
+   "achievement",
+   "performance records",
+   "grades"
+  ],
+  "pos": [
+   "n"
+  ],
+  "chars": [
+   "hanzi:成",
+   "hanzi:绩"
+  ],
+  "freq": 1888,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:zhong1jian1-中间",
+  "zh": "中间",
+  "trad": "中間",
+  "pinyin": "zhōng jiān",
+  "num": "zhong1 jian1",
+  "level": "hsk3",
+  "unit": 13,
+  "order": 1320.09,
+  "meanings": [
+   "the middle; the inside",
+   "in the middle; within; between; among",
+   "during; in the meantime"
+  ],
+  "pos": [
+   "f"
+  ],
+  "chars": [
+   "hanzi:中",
+   "hanzi:间"
+  ],
+  "freq": 1889,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:cong1ming5-聪明",
+  "zh": "聪明",
+  "trad": "聰明",
+  "pinyin": "cōng ming",
+  "num": "cong1 ming5",
+  "level": "hsk3",
+  "unit": 12,
+  "order": 1220.1,
+  "meanings": [
+   "intelligent; clever; bright",
+   "acute (of sight and hearing)"
+  ],
+  "pos": [
+   "a",
+   "an"
+  ],
+  "chars": [
+   "hanzi:聪",
+   "hanzi:明"
+  ],
+  "freq": 1918,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:duo1me5-多么",
+  "zh": "多么",
+  "trad": "多麼",
+  "pinyin": "duō me",
+  "num": "duo1 me5",
+  "level": "hsk3",
+  "unit": 13,
+  "order": 1320.11,
+  "meanings": [
+   "how (wonderful etc)",
+   "what (a great idea etc)",
+   "however (difficult it may be etc)",
+   "(in interrogative sentences) how (much etc)"
+  ],
+  "pos": [
+   "d",
+   "a"
+  ],
+  "chars": [
+   "hanzi:多",
+   "hanzi:么"
+  ],
+  "freq": 1940,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:deng1-灯",
+  "zh": "灯",
+  "trad": "燈",
+  "pinyin": "dēng",
+  "num": "deng1",
+  "level": "hsk3",
+  "unit": 12,
+  "order": 1220.12,
+  "meanings": [
+   "lamp",
+   "light",
+   "lantern"
+  ],
+  "pos": [
+   "n"
+  ],
+  "chars": [
+   "hanzi:灯"
+  ],
+  "freq": 2001,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:tai4yang5-太阳",
+  "zh": "太阳",
+  "trad": "太陽",
+  "pinyin": "tài yang",
+  "num": "tai4 yang5",
+  "level": "hsk3",
+  "unit": 12,
+  "order": 1220.13,
+  "meanings": [
+   "sun",
+   "sunlight; sunshine",
+   "temple (on the side of the human head) (abbr. for 太阳穴)"
+  ],
+  "pos": [
+   "n"
+  ],
+  "chars": [
+   "hanzi:太",
+   "hanzi:阳"
+  ],
+  "freq": 2001,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:fang1bian4-方便",
+  "zh": "方便",
+  "trad": "方便",
+  "pinyin": "fāng biàn",
+  "num": "fang1 bian4",
+  "level": "hsk3",
+  "unit": 2,
+  "order": 220.14,
+  "meanings": [
+   "convenient; suitable",
+   "to facilitate; to make things easy",
+   "having money to spare",
+   "(euphemism) to relieve oneself"
+  ],
+  "pos": [
+   "v",
+   "a",
+   "an"
+  ],
+  "chars": [
+   "hanzi:方",
+   "hanzi:便"
+  ],
+  "freq": 2014,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:tang2-糖",
+  "zh": "糖",
+  "trad": "糖",
+  "pinyin": "táng",
+  "num": "tang2",
+  "level": "hsk3",
+  "unit": 12,
+  "order": 1220.15,
+  "meanings": [
+   "sugar",
+   "sweets",
+   "candy"
+  ],
+  "pos": [
+   "n"
+  ],
+  "chars": [
+   "hanzi:糖"
+  ],
+  "freq": 2036,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:xiang1tong2-相同",
+  "zh": "相同",
+  "trad": "相同",
+  "pinyin": "xiāng tóng",
+  "num": "xiang1 tong2",
+  "level": "hsk3",
+  "unit": 4,
+  "order": 420.16,
+  "meanings": [
+   "identical; same"
+  ],
+  "pos": [
+   "a"
+  ],
+  "chars": [
+   "hanzi:相",
+   "hanzi:同"
+  ],
+  "freq": 2110,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:sheng1qi4-生气",
+  "zh": "生气",
+  "trad": "生氣",
+  "pinyin": "shēng qì",
+  "num": "sheng1 qi4",
+  "level": "hsk3",
+  "unit": 13,
+  "order": 1320.17,
+  "meanings": [
+   "to get angry; to be furious",
+   "vitality; liveliness"
+  ],
+  "pos": [
+   "a",
+   "n",
+   "v",
+   "an"
+  ],
+  "chars": [
+   "hanzi:生",
+   "hanzi:气"
+  ],
+  "freq": 2113,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:gong1yuan2-公园",
+  "zh": "公园",
+  "trad": "公園",
+  "pinyin": "gōng yuán",
+  "num": "gong1 yuan2",
+  "level": "hsk3",
+  "unit": 12,
+  "order": 1220.18,
+  "meanings": [
+   "park (for public recreation)"
+  ],
+  "pos": [
+   "n"
+  ],
+  "chars": [
+   "hanzi:公",
+   "hanzi:园"
+  ],
+  "freq": 2134,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:re4qing2-热情",
+  "zh": "热情",
+  "trad": "熱情",
+  "pinyin": "rè qíng",
+  "num": "re4 qing2",
+  "level": "hsk3",
+  "unit": 13,
+  "order": 1320.19,
+  "meanings": [
+   "cordial",
+   "enthusiastic",
+   "passion",
+   "passionate"
+  ],
+  "pos": [
+   "an",
+   "a",
+   "ad"
+  ],
+  "chars": [
+   "hanzi:热",
+   "hanzi:情"
+  ],
+  "freq": 2149,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:yi1hui4r55-一会儿",
+  "zh": "一会儿",
+  "trad": "一會兒",
+  "pinyin": "yī huì r 5",
+  "num": "yi1 hui4 r5 5",
+  "level": "hsk3",
+  "unit": 13,
+  "order": 1320.2,
+  "meanings": [
+   "a moment",
+   "a while",
+   "in a moment",
+   "now...now..."
+  ],
+  "pos": [
+   "mq"
+  ],
+  "chars": [
+   "hanzi:一",
+   "hanzi:会",
+   "hanzi:儿"
+  ],
+  "freq": 2207,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:qi2-骑",
+  "zh": "骑",
+  "trad": "騎",
+  "pinyin": "qí",
+  "num": "qi2",
+  "level": "hsk3",
+  "unit": 12,
+  "order": 1220.21,
+  "meanings": [
+   "to sit astride",
+   "to ride (a horse, bike etc)",
+   "classifier for saddle horses"
+  ],
+  "pos": [
+   "v"
+  ],
+  "chars": [
+   "hanzi:骑"
+  ],
+  "freq": 2231,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:he2-河",
+  "zh": "河",
+  "trad": "河",
+  "pinyin": "hé",
+  "num": "he2",
+  "level": "hsk3",
+  "unit": 12,
+  "order": 1220.22,
+  "meanings": [
+   "river"
+  ],
+  "pos": [
+   "n"
+  ],
+  "chars": [
+   "hanzi:河"
+  ],
+  "freq": 2245,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:ban1-搬",
+  "zh": "搬",
+  "trad": "搬",
+  "pinyin": "bān",
+  "num": "ban1",
+  "level": "hsk3",
+  "unit": 13,
+  "order": 1320.23,
+  "meanings": [
+   "to move (i.e. relocate oneself)",
+   "to move (sth relatively heavy or bulky)",
+   "to shift",
+   "to copy indiscriminately"
+  ],
+  "pos": [
+   "v"
+  ],
+  "chars": [
+   "hanzi:搬"
+  ],
+  "freq": 2254,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:tong2shi4-同事",
+  "zh": "同事",
+  "trad": "同事",
+  "pinyin": "tóng shì",
+  "num": "tong2 shi4",
+  "level": "hsk3",
+  "unit": 14,
+  "order": 1420.24,
+  "meanings": [
+   "colleague; co-worker"
+  ],
+  "pos": [
+   "n"
+  ],
+  "chars": [
+   "hanzi:同",
+   "hanzi:事"
+  ],
+  "freq": 2337,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:shu1fu5-舒服",
+  "zh": "舒服",
+  "trad": "舒服",
+  "pinyin": "shū fu",
+  "num": "shu1 fu5",
+  "level": "hsk3",
+  "unit": 13,
+  "order": 1320.25,
+  "meanings": [
+   "comfortable",
+   "feeling well"
+  ],
+  "pos": [
+   "a"
+  ],
+  "chars": [
+   "hanzi:舒",
+   "hanzi:服"
+  ],
+  "freq": 2343,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:ti3yu4-体育",
+  "zh": "体育",
+  "trad": "體育",
+  "pinyin": "tǐ yù",
+  "num": "ti3 yu4",
+  "level": "hsk3",
+  "unit": 13,
+  "order": 1320.26,
+  "meanings": [
+   "sports",
+   "physical education"
+  ],
+  "pos": [
+   "n"
+  ],
+  "chars": [
+   "hanzi:体",
+   "hanzi:育"
+  ],
+  "freq": 2354,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:jue2-角",
+  "zh": "角",
+  "trad": "角",
+  "pinyin": "jué",
+  "num": "jue2",
+  "level": "hsk3",
+  "unit": 13,
+  "order": 1320.27,
+  "meanings": [
+   "role (theater)",
+   "to compete",
+   "ancient three legged wine vessel",
+   "third note of pentatonic scale"
+  ],
+  "pos": [
+   "n",
+   "q",
+   "g"
+  ],
+  "chars": [
+   "hanzi:角"
+  ],
+  "freq": 2370,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:pan2-胖",
+  "zh": "胖",
+  "trad": "胖",
+  "pinyin": "pán",
+  "num": "pan2",
+  "level": "hsk3",
+  "unit": 13,
+  "order": 1320.28,
+  "meanings": [
+   "healthy",
+   "at ease"
+  ],
+  "pos": [
+   "a"
+  ],
+  "chars": [
+   "hanzi:胖"
+  ],
+  "freq": 2396,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:gan1jing4-干净",
+  "zh": "干净",
+  "trad": "乾淨",
+  "pinyin": "gān jìng",
+  "num": "gan1 jing4",
+  "level": "hsk3",
+  "unit": 13,
+  "order": 1320.29,
+  "meanings": [
+   "clean",
+   "neat"
+  ],
+  "pos": [
+   "a",
+   "ad"
+  ],
+  "chars": [
+   "hanzi:干",
+   "hanzi:净"
+  ],
+  "freq": 2430,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:fang4xin1-放心",
+  "zh": "放心",
+  "trad": "放心",
+  "pinyin": "fàng xīn",
+  "num": "fang4 xin1",
+  "level": "hsk3",
+  "unit": 3,
+  "order": 320.3,
+  "meanings": [
+   "to feel relieved",
+   "to feel reassured",
+   "to be at ease"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ],
+  "chars": [
+   "hanzi:放",
+   "hanzi:心"
+  ],
+  "freq": 2458,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:cao3-草",
+  "zh": "草",
+  "trad": "草",
+  "pinyin": "cǎo",
+  "num": "cao3",
+  "level": "hsk3",
+  "unit": 13,
+  "order": 1320.31,
+  "meanings": [
+   "grass",
+   "straw",
+   "manuscript",
+   "draft (of a document)"
+  ],
+  "pos": [
+   "n"
+  ],
+  "chars": [
+   "hanzi:草"
+  ],
+  "freq": 2467,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:tian2-甜",
+  "zh": "甜",
+  "trad": "甜",
+  "pinyin": "tián",
+  "num": "tian2",
+  "level": "hsk3",
+  "unit": 13,
+  "order": 1320.32,
+  "meanings": [
+   "sweet",
+   "(fig.) pleasant; endearing; lovely"
+  ],
+  "pos": [
+   "a"
+  ],
+  "chars": [
+   "hanzi:甜"
+  ],
+  "freq": 2472,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:an1jing4-安静",
+  "zh": "安静",
+  "trad": "安靜",
+  "pinyin": "ān jìng",
+  "num": "an1 jing4",
+  "level": "hsk3",
+  "unit": 13,
+  "order": 1320.33,
+  "meanings": [
+   "quiet",
+   "peaceful",
+   "calm"
+  ],
+  "pos": [
+   "a"
+  ],
+  "chars": [
+   "hanzi:安",
+   "hanzi:静"
+  ],
+  "freq": 2501,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:zuo4ye4-作业",
+  "zh": "作业",
+  "trad": "作業",
+  "pinyin": "zuò yè",
+  "num": "zuo4 ye4",
+  "level": "hsk3",
+  "unit": 13,
+  "order": 1320.34,
+  "meanings": [
+   "school assignment",
+   "homework",
+   "work",
+   "task"
+  ],
+  "pos": [
+   "n",
+   "v",
+   "vn"
+  ],
+  "chars": [
+   "hanzi:作",
+   "hanzi:业"
+  ],
+  "freq": 2574,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:shou4-瘦",
+  "zh": "瘦",
+  "trad": "瘦",
+  "pinyin": "shòu",
+  "num": "shou4",
+  "level": "hsk3",
+  "unit": 13,
+  "order": 1320.35,
+  "meanings": [
+   "thin",
+   "to lose weight",
+   "(of clothing) tight",
+   "(of meat) lean"
+  ],
+  "pos": [
+   "a"
+  ],
+  "chars": [
+   "hanzi:瘦"
+  ],
+  "freq": 2595,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:lü4-绿",
+  "zh": "绿",
+  "trad": "綠",
+  "pinyin": "lǜ",
+  "num": "lü4",
+  "level": "hsk3",
+  "unit": 13,
+  "order": 1320.36,
+  "meanings": [
+   "green",
+   "(slang) (derived from 绿帽子) to cheat on (one's spouse or boyfriend or girlfriend)"
+  ],
+  "pos": [
+   "a",
+   "an"
+  ],
+  "chars": [
+   "hanzi:绿"
+  ],
+  "freq": 2608,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:pi2jiu3-啤酒",
+  "zh": "啤酒",
+  "trad": "啤酒",
+  "pinyin": "pí jiǔ",
+  "num": "pi2 jiu3",
+  "level": "hsk3",
+  "unit": 14,
+  "order": 1420.37,
+  "meanings": [
+   "beer (loanword)"
+  ],
+  "pos": [
+   "n"
+  ],
+  "chars": [
+   "hanzi:啤",
+   "hanzi:酒"
+  ],
+  "freq": 2622,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:dan4gao1-蛋糕",
+  "zh": "蛋糕",
+  "trad": "蛋糕",
+  "pinyin": "dàn gāo",
+  "num": "dan4 gao1",
+  "level": "hsk3",
+  "unit": 14,
+  "order": 1420.38,
+  "meanings": [
+   "cake"
+  ],
+  "pos": [
+   "n"
+  ],
+  "chars": [
+   "hanzi:蛋",
+   "hanzi:糕"
+  ],
+  "freq": 2650,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:xin1xian1-新鲜",
+  "zh": "新鲜",
+  "trad": "新鮮",
+  "pinyin": "xīn xiān",
+  "num": "xin1 xian1",
+  "level": "hsk3",
+  "unit": 14,
+  "order": 1420.39,
+  "meanings": [
+   "fresh (experience, food etc)",
+   "freshness",
+   "novel",
+   "uncommon"
+  ],
+  "pos": [
+   "a"
+  ],
+  "chars": [
+   "hanzi:新",
+   "hanzi:鲜"
+  ],
+  "freq": 2651,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:nan2guo4-难过",
+  "zh": "难过",
+  "trad": "難過",
+  "pinyin": "nán guò",
+  "num": "nan2 guo4",
+  "level": "hsk3",
+  "unit": 5,
+  "order": 520.4,
+  "meanings": [
+   "to feel sad",
+   "to feel unwell",
+   "(of life) to be difficult"
+  ],
+  "pos": [
+   "a"
+  ],
+  "chars": [
+   "hanzi:难",
+   "hanzi:过"
+  ],
+  "freq": 2714,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:ke4ren2-客人",
+  "zh": "客人",
+  "trad": "客人",
+  "pinyin": "kè rén",
+  "num": "ke4 ren2",
+  "level": "hsk3",
+  "unit": 15,
+  "order": 1520.41,
+  "meanings": [
+   "visitor; guest",
+   "customer"
+  ],
+  "pos": [
+   "n"
+  ],
+  "chars": [
+   "hanzi:客",
+   "hanzi:人"
+  ],
+  "freq": 2750,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:nai3nai5-奶奶",
+  "zh": "奶奶",
+  "trad": "奶奶",
+  "pinyin": "nǎi nai",
+  "num": "nai3 nai5",
+  "level": "hsk3",
+  "unit": 15,
+  "order": 1520.42,
+  "meanings": [
+   "(informal) grandma (paternal grandmother)",
+   "(respectful) mistress of the house",
+   "(coll.) boobies",
+   "breasts"
+  ],
+  "pos": [
+   "n"
+  ],
+  "chars": [
+   "hanzi:奶"
+  ],
+  "freq": 2809,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:wan3-碗",
+  "zh": "碗",
+  "trad": "碗",
+  "pinyin": "wǎn",
+  "num": "wan3",
+  "level": "hsk3",
+  "unit": 14,
+  "order": 1420.43,
+  "meanings": [
+   "bowl",
+   "cup"
+  ],
+  "pos": [
+   "n",
+   "q"
+  ],
+  "chars": [
+   "hanzi:碗"
+  ],
+  "freq": 2866,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:shu4xue2-数学",
+  "zh": "数学",
+  "trad": "數學",
+  "pinyin": "shù xué",
+  "num": "shu4 xue2",
+  "level": "hsk3",
+  "unit": 14,
+  "order": 1420.44,
+  "meanings": [
+   "mathematics"
+  ],
+  "pos": [
+   "n"
+  ],
+  "chars": [
+   "hanzi:数",
+   "hanzi:学"
+  ],
+  "freq": 3024,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:di4tie3-地铁",
+  "zh": "地铁",
+  "trad": "地鐵",
+  "pinyin": "dì tiě",
+  "num": "di4 tie3",
+  "level": "hsk3",
+  "unit": 14,
+  "order": 1420.45,
+  "meanings": [
+   "underground railway; subway",
+   "subway train"
+  ],
+  "pos": [
+   "n"
+  ],
+  "chars": [
+   "hanzi:地",
+   "hanzi:铁"
+  ],
+  "freq": 3046,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:shua1-刷",
+  "zh": "刷",
+  "trad": "刷",
+  "pinyin": "shuā",
+  "num": "shua1",
+  "level": "hsk3",
+  "unit": 14,
+  "order": 1420.46,
+  "meanings": [
+   "a brush",
+   "to paint; to daub",
+   "to brush; to scrub",
+   "(fig.) to remove; to eliminate (from a contest); to fire (from a job)"
+  ],
+  "pos": [
+   "v",
+   "o"
+  ],
+  "chars": [
+   "hanzi:刷"
+  ],
+  "freq": 3060,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:chu2fang2-厨房",
+  "zh": "厨房",
+  "trad": "廚房",
+  "pinyin": "chú fáng",
+  "num": "chu2 fang2",
+  "level": "hsk3",
+  "unit": 14,
+  "order": 1420.47,
+  "meanings": [
+   "kitchen"
+  ],
+  "pos": [
+   "n"
+  ],
+  "chars": [
+   "hanzi:厨",
+   "hanzi:房"
+  ],
+  "freq": 3076,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:lian4xi2-练习",
+  "zh": "练习",
+  "trad": "練習",
+  "pinyin": "liàn xí",
+  "num": "lian4 xi2",
+  "level": "hsk3",
+  "unit": 14,
+  "order": 1420.48,
+  "meanings": [
+   "to practice",
+   "exercise",
+   "drill",
+   "practice"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ],
+  "chars": [
+   "hanzi:练",
+   "hanzi:习"
+  ],
+  "freq": 3084,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:ye2ye5-爷爷",
+  "zh": "爷爷",
+  "trad": "爺爺",
+  "pinyin": "yé ye",
+  "num": "ye2 ye5",
+  "level": "hsk3",
+  "unit": 14,
+  "order": 1420.49,
+  "meanings": [
+   "(coll.) paternal grandfather; grandpa"
+  ],
+  "pos": [
+   "n"
+  ],
+  "chars": [
+   "hanzi:爷"
+  ],
+  "freq": 3099,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:yun2-云",
+  "zh": "云",
+  "trad": "云",
+  "pinyin": "yún",
+  "num": "yun2",
+  "level": "hsk3",
+  "unit": 14,
+  "order": 1420.5,
+  "meanings": [
+   "(classical) to say"
+  ],
+  "pos": [
+   "n",
+   "g",
+   "b"
+  ],
+  "chars": [
+   "hanzi:云"
+  ],
+  "freq": 3335,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:lin2ju1-邻居",
+  "zh": "邻居",
+  "trad": "鄰居",
+  "pinyin": "lín jū",
+  "num": "lin2 ju1",
+  "level": "hsk3",
+  "unit": 14,
+  "order": 1420.51,
+  "meanings": [
+   "neighbor"
+  ],
+  "pos": [
+   "n"
+  ],
+  "chars": [
+   "hanzi:邻",
+   "hanzi:居"
+  ],
+  "freq": 3360,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:xiao4zhang3-校长",
+  "zh": "校长",
+  "trad": "校長",
+  "pinyin": "xiào zhǎng",
+  "num": "xiao4 zhang3",
+  "level": "hsk3",
+  "unit": 15,
+  "order": 1520.52,
+  "meanings": [
+   "(college, university) president",
+   "headmaster"
+  ],
+  "pos": [
+   "n"
+  ],
+  "chars": [
+   "hanzi:校",
+   "hanzi:长"
+  ],
+  "freq": 3365,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:hua1yuan2-花园",
+  "zh": "花园",
+  "trad": "花園",
+  "pinyin": "huā yuán",
+  "num": "hua1 yuan2",
+  "level": "hsk3",
+  "unit": 12,
+  "order": 1220.53,
+  "meanings": [
+   "garden (for flowers, ornamental plants etc); (landscaped) park; yard with decorative plants"
+  ],
+  "pos": [
+   "n"
+  ],
+  "chars": [
+   "hanzi:花",
+   "hanzi:园"
+  ],
+  "freq": 3403,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:er3duo5-耳朵",
+  "zh": "耳朵",
+  "trad": "耳朵",
+  "pinyin": "ěr duo",
+  "num": "er3 duo5",
+  "level": "hsk3",
+  "unit": 14,
+  "order": 1420.54,
+  "meanings": [
+   "ear",
+   "handle (on a cup)"
+  ],
+  "pos": [
+   "n"
+  ],
+  "chars": [
+   "hanzi:耳",
+   "hanzi:朵"
+  ],
+  "freq": 3451,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:jie2ri4-节日",
+  "zh": "节日",
+  "trad": "節日",
+  "pinyin": "jié rì",
+  "num": "jie2 ri4",
+  "level": "hsk3",
+  "unit": 8,
+  "order": 820.55,
+  "meanings": [
+   "holiday",
+   "festival"
+  ],
+  "pos": [
+   "n"
+  ],
+  "chars": [
+   "hanzi:节",
+   "hanzi:日"
+  ],
+  "freq": 3477,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:bi2zi5-鼻子",
+  "zh": "鼻子",
+  "trad": "鼻子",
+  "pinyin": "bí zi",
+  "num": "bi2 zi5",
+  "level": "hsk3",
+  "unit": 15,
+  "order": 1520.56,
+  "meanings": [
+   "nose"
+  ],
+  "pos": [
+   "n"
+  ],
+  "chars": [
+   "hanzi:鼻",
+   "hanzi:子"
+  ],
+  "freq": 3484,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:shu1shu5-叔叔",
+  "zh": "叔叔",
+  "trad": "叔叔",
+  "pinyin": "shū shu",
+  "num": "shu1 shu5",
+  "level": "hsk3",
+  "unit": 15,
+  "order": 1520.57,
+  "meanings": [
+   "father's younger brother; paternal uncle",
+   "form of address used by children for a male one generation older"
+  ],
+  "pos": [
+   "n"
+  ],
+  "chars": [
+   "hanzi:叔"
+  ],
+  "freq": 3510,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:xi3zao3-洗澡",
+  "zh": "洗澡",
+  "trad": "洗澡",
+  "pinyin": "xǐ zǎo",
+  "num": "xi3 zao3",
+  "level": "hsk3",
+  "unit": 15,
+  "order": 1520.58,
+  "meanings": [
+   "to bathe",
+   "to take a shower"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ],
+  "chars": [
+   "hanzi:洗",
+   "hanzi:澡"
+  ],
+  "freq": 3512,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:di4tu2-地图",
+  "zh": "地图",
+  "trad": "地圖",
+  "pinyin": "dì tú",
+  "num": "di4 tu2",
+  "level": "hsk3",
+  "unit": 15,
+  "order": 1520.59,
+  "meanings": [
+   "map"
+  ],
+  "pos": [
+   "n"
+  ],
+  "chars": [
+   "hanzi:地",
+   "hanzi:图"
+  ],
+  "freq": 3548,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:mao4zi5-帽子",
+  "zh": "帽子",
+  "trad": "帽子",
+  "pinyin": "mào zi",
+  "num": "mao4 zi5",
+  "level": "hsk3",
+  "unit": 15,
+  "order": 1520,
+  "meanings": [
+   "hat",
+   "cap",
+   "(fig.) label",
+   "bad name"
+  ],
+  "pos": [
+   "n"
+  ],
+  "chars": [
+   "hanzi:帽",
+   "hanzi:子"
+  ],
+  "freq": 3553,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:jie1dao4-街道",
+  "zh": "街道",
+  "trad": "街道",
+  "pinyin": "jiē dào",
+  "num": "jie1 dao4",
+  "level": "hsk3",
+  "unit": 15,
+  "order": 1520.01,
+  "meanings": [
+   "street",
+   "subdistrict",
+   "residential district"
+  ],
+  "pos": [
+   "n"
+  ],
+  "chars": [
+   "hanzi:街",
+   "hanzi:道"
+  ],
+  "freq": 3604,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:gan3mao4-感冒",
+  "zh": "感冒",
+  "trad": "感冒",
+  "pinyin": "gǎn mào",
+  "num": "gan3 mao4",
+  "level": "hsk3",
+  "unit": 15,
+  "order": 1520.02,
+  "meanings": [
+   "to catch cold",
+   "(common) cold",
+   "(coll.) to be interested in (often used in the negative)",
+   "(Tw) to detest"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ],
+  "chars": [
+   "hanzi:感",
+   "hanzi:冒"
+  ],
+  "freq": 3621,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:chi2dao4-迟到",
+  "zh": "迟到",
+  "trad": "遲到",
+  "pinyin": "chí dào",
+  "num": "chi2 dao4",
+  "level": "hsk3",
+  "unit": 15,
+  "order": 1520.03,
+  "meanings": [
+   "to arrive late"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ],
+  "chars": [
+   "hanzi:迟",
+   "hanzi:到"
+  ],
+  "freq": 3667,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:ke4-刻",
+  "zh": "刻",
+  "trad": "刻",
+  "pinyin": "kè",
+  "num": "ke4",
+  "level": "hsk3",
+  "unit": 15,
+  "order": 1520.04,
+  "meanings": [
+   "quarter (hour)",
+   "moment",
+   "to carve",
+   "to engrave"
+  ],
+  "pos": [
+   "v",
+   "qt"
+  ],
+  "chars": [
+   "hanzi:刻"
+  ],
+  "freq": 3756,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:duan4lian4-锻炼",
+  "zh": "锻炼",
+  "trad": "鍛鍊",
+  "pinyin": "duàn liàn",
+  "num": "duan4 lian4",
+  "level": "hsk3",
+  "unit": 15,
+  "order": 1520.05,
+  "meanings": [
+   "to toughen",
+   "to temper",
+   "to engage in physical exercise",
+   "to work out"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ],
+  "chars": [
+   "hanzi:锻",
+   "hanzi:炼"
+  ],
+  "freq": 3764,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:ku4zi5-裤子",
+  "zh": "裤子",
+  "trad": "褲子",
+  "pinyin": "kù zi",
+  "num": "ku4 zi5",
+  "level": "hsk3",
+  "unit": 15,
+  "order": 1520.06,
+  "meanings": [
+   "trousers; pants"
+  ],
+  "pos": [
+   "n"
+  ],
+  "chars": [
+   "hanzi:裤",
+   "hanzi:子"
+  ],
+  "freq": 3765,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:xia4-夏",
+  "zh": "夏",
+  "trad": "夏",
+  "pinyin": "xià",
+  "num": "xia4",
+  "level": "hsk3",
+  "unit": 15,
+  "order": 1520.07,
+  "meanings": [
+   "summer"
+  ],
+  "pos": [
+   "tg",
+   "g",
+   "nr"
+  ],
+  "chars": [
+   "hanzi:夏"
+  ],
+  "freq": 3828,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:tu2shu1guan3-图书馆",
+  "zh": "图书馆",
+  "trad": "圖書館",
+  "pinyin": "tú shū guǎn",
+  "num": "tu2 shu1 guan3",
+  "level": "hsk3",
+  "unit": 15,
+  "order": 1520.08,
+  "meanings": [
+   "library"
+  ],
+  "pos": [
+   "n"
+  ],
+  "chars": [
+   "hanzi:图",
+   "hanzi:书",
+   "hanzi:馆"
+  ],
+  "freq": 3836,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:dian4ti1-电梯",
+  "zh": "电梯",
+  "trad": "電梯",
+  "pinyin": "diàn tī",
+  "num": "dian4 ti1",
+  "level": "hsk3",
+  "unit": 15,
+  "order": 1520.09,
+  "meanings": [
+   "elevator",
+   "escalator"
+  ],
+  "pos": [
+   "n"
+  ],
+  "chars": [
+   "hanzi:电",
+   "hanzi:梯"
+  ],
+  "freq": 3894,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:gua1-刮",
+  "zh": "刮",
+  "trad": "刮",
+  "pinyin": "guā",
+  "num": "gua1",
+  "level": "hsk3",
+  "unit": 16,
+  "order": 1620.1,
+  "meanings": [
+   "to scrape",
+   "to blow",
+   "to shave",
+   "to plunder"
+  ],
+  "pos": [
+   "v"
+  ],
+  "chars": [
+   "hanzi:刮"
+  ],
+  "freq": 3910,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:ai3-矮",
+  "zh": "矮",
+  "trad": "矮",
+  "pinyin": "ǎi",
+  "num": "ai3",
+  "level": "hsk3",
+  "unit": 16,
+  "order": 1620.11,
+  "meanings": [
+   "(of a person) short",
+   "(of a wall etc) low",
+   "(of rank) inferior (to); lower (than)"
+  ],
+  "pos": [
+   "a",
+   "v"
+  ],
+  "chars": [
+   "hanzi:矮"
+  ],
+  "freq": 3952,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:yan3jing4-眼镜",
+  "zh": "眼镜",
+  "trad": "眼鏡",
+  "pinyin": "yǎn jìng",
+  "num": "yan3 jing4",
+  "level": "hsk3",
+  "unit": 16,
+  "order": 1620.12,
+  "meanings": [
+   "spectacles",
+   "eyeglasses"
+  ],
+  "pos": [
+   "n"
+  ],
+  "chars": [
+   "hanzi:眼",
+   "hanzi:镜"
+  ],
+  "freq": 3998,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:shang4wang3-上网",
+  "zh": "上网",
+  "trad": "上網",
+  "pinyin": "shàng wǎng",
+  "num": "shang4 wang3",
+  "level": "hsk3",
+  "unit": 16,
+  "order": 1620.13,
+  "meanings": [
+   "to go online",
+   "to connect to the Internet",
+   "(of a document etc) to be uploaded to the Internet",
+   "(tennis, volleyball etc) to move in close to the net"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ],
+  "chars": [
+   "hanzi:上",
+   "hanzi:网"
+  ],
+  "freq": 4061,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:chun1-春",
+  "zh": "春",
+  "trad": "春",
+  "pinyin": "chūn",
+  "num": "chun1",
+  "level": "hsk3",
+  "unit": 16,
+  "order": 1620.14,
+  "meanings": [
+   "spring (season)",
+   "gay",
+   "joyful",
+   "youthful"
+  ],
+  "pos": [
+   "tg"
+  ],
+  "chars": [
+   "hanzi:春"
+  ],
+  "freq": 4065,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:mian4bao1-面包",
+  "zh": "面包",
+  "trad": "麵包",
+  "pinyin": "miàn bāo",
+  "num": "mian4 bao1",
+  "level": "hsk3",
+  "unit": 7,
+  "order": 720.15,
+  "meanings": [
+   "bread"
+  ],
+  "pos": [
+   "n"
+  ],
+  "chars": [
+   "hanzi:面",
+   "hanzi:包"
+  ],
+  "freq": 4138,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:bing1xiang1-冰箱",
+  "zh": "冰箱",
+  "trad": "冰箱",
+  "pinyin": "bīng xiāng",
+  "num": "bing1 xiang1",
+  "level": "hsk3",
+  "unit": 16,
+  "order": 1620.16,
+  "meanings": [
+   "refrigerator",
+   "(old) icebox"
+  ],
+  "pos": [
+   "n"
+  ],
+  "chars": [
+   "hanzi:冰",
+   "hanzi:箱"
+  ],
+  "freq": 4168,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:a1yi2-阿姨",
+  "zh": "阿姨",
+  "trad": "阿姨",
+  "pinyin": "ā yí",
+  "num": "a1 yi2",
+  "level": "hsk3",
+  "unit": 16,
+  "order": 1620.17,
+  "meanings": [
+   "maternal aunt",
+   "term of address for a woman of one's mother's generation",
+   "childcare worker; nanny",
+   "domestic worker"
+  ],
+  "pos": [
+   "n"
+  ],
+  "chars": [
+   "hanzi:阿",
+   "hanzi:姨"
+  ],
+  "freq": 4355,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:chao1shi4-超市",
+  "zh": "超市",
+  "trad": "超市",
+  "pinyin": "chāo shì",
+  "num": "chao1 shi4",
+  "level": "hsk3",
+  "unit": 16,
+  "order": 1620.18,
+  "meanings": [
+   "supermarket (abbr. for 超级市场)"
+  ],
+  "pos": [
+   "n"
+  ],
+  "chars": [
+   "hanzi:超",
+   "hanzi:市"
+  ],
+  "freq": 4427,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:zhao2ji2-着急",
+  "zh": "着急",
+  "trad": "著急",
+  "pinyin": "zháo jí",
+  "num": "zhao2 ji2",
+  "level": "hsk3",
+  "unit": 16,
+  "order": 1620.19,
+  "meanings": [
+   "to worry; to feel anxious",
+   "to feel a sense of urgency; to be in a hurry",
+   "Taiwan pr."
+  ],
+  "pos": [
+   "a",
+   "ad"
+  ],
+  "chars": [
+   "hanzi:着",
+   "hanzi:急"
+  ],
+  "freq": 4461,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:ji4jie2-季节",
+  "zh": "季节",
+  "trad": "季節",
+  "pinyin": "jì jié",
+  "num": "ji4 jie2",
+  "level": "hsk3",
+  "unit": 16,
+  "order": 1620.2,
+  "meanings": [
+   "time",
+   "season",
+   "period"
+  ],
+  "pos": [
+   "n"
+  ],
+  "chars": [
+   "hanzi:季",
+   "hanzi:节"
+  ],
+  "freq": 4724,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:bao3-饱",
+  "zh": "饱",
+  "trad": "飽",
+  "pinyin": "bǎo",
+  "num": "bao3",
+  "level": "hsk3",
+  "unit": 16,
+  "order": 1620.21,
+  "meanings": [
+   "to eat till full",
+   "satisfied"
+  ],
+  "pos": [
+   "a",
+   "ad",
+   "v"
+  ],
+  "chars": [
+   "hanzi:饱"
+  ],
+  "freq": 4742,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:kong1tiao2-空调",
+  "zh": "空调",
+  "trad": "空調",
+  "pinyin": "kōng tiáo",
+  "num": "kong1 tiao2",
+  "level": "hsk3",
+  "unit": 16,
+  "order": 1620.22,
+  "meanings": [
+   "air conditioning",
+   "air conditioner (including units that have a heating mode)"
+  ],
+  "pos": [
+   "n"
+  ],
+  "chars": [
+   "hanzi:空",
+   "hanzi:调"
+  ],
+  "freq": 4763,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:yi1gong4-一共",
+  "zh": "一共",
+  "trad": "一共",
+  "pinyin": "yī gòng",
+  "num": "yi1 gong4",
+  "level": "hsk3",
+  "unit": 17,
+  "order": 1720.23,
+  "meanings": [
+   "in total; altogether"
+  ],
+  "pos": [
+   "d"
+  ],
+  "chars": [
+   "hanzi:一",
+   "hanzi:共"
+  ],
+  "freq": 4765,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:yue4liang5-月亮",
+  "zh": "月亮",
+  "trad": "月亮",
+  "pinyin": "yuè liang",
+  "num": "yue4 liang5",
+  "level": "hsk3",
+  "unit": 17,
+  "order": 1720.24,
+  "meanings": [
+   "the moon"
+  ],
+  "pos": [
+   "n"
+  ],
+  "chars": [
+   "hanzi:月",
+   "hanzi:亮"
+  ],
+  "freq": 4781,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:bei3fang1-北方",
+  "zh": "北方",
+  "trad": "北方",
+  "pinyin": "běi fāng",
+  "num": "bei3 fang1",
+  "level": "hsk3",
+  "unit": 2,
+  "order": 220.25,
+  "meanings": [
+   "north",
+   "the northern part a country",
+   "China north of the Yellow River"
+  ],
+  "pos": [
+   "s",
+   "f"
+  ],
+  "chars": [
+   "hanzi:北",
+   "hanzi:方"
+  ],
+  "freq": 4879,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:ai4hao4-爱好",
+  "zh": "爱好",
+  "trad": "愛好",
+  "pinyin": "ài hào",
+  "num": "ai4 hao4",
+  "level": "hsk3",
+  "unit": 18,
+  "order": 1820.26,
+  "meanings": [
+   "to like; to be fond of; to take pleasure in; to be keen on",
+   "interest; hobby"
+  ],
+  "pos": [
+   "n",
+   "v"
+  ],
+  "chars": [
+   "hanzi:爱",
+   "hanzi:好"
+  ],
+  "freq": 4902,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:chen4shan1-衬衫",
+  "zh": "衬衫",
+  "trad": "襯衫",
+  "pinyin": "chèn shān",
+  "num": "chen4 shan1",
+  "level": "hsk3",
+  "unit": 17,
+  "order": 1720.27,
+  "meanings": [
+   "shirt",
+   "blouse"
+  ],
+  "pos": [
+   "n"
+  ],
+  "chars": [
+   "hanzi:衬",
+   "hanzi:衫"
+  ],
+  "freq": 4988,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:bin1guan3-宾馆",
+  "zh": "宾馆",
+  "trad": "賓館",
+  "pinyin": "bīn guǎn",
+  "num": "bin1 guan3",
+  "level": "hsk3",
+  "unit": 17,
+  "order": 1720.28,
+  "meanings": [
+   "guesthouse",
+   "lodge",
+   "hotel"
+  ],
+  "pos": [
+   "n"
+  ],
+  "chars": [
+   "hanzi:宾",
+   "hanzi:馆"
+  ],
+  "freq": 4994,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:dong1-冬",
+  "zh": "冬",
+  "trad": "鼕",
+  "pinyin": "dōng",
+  "num": "dong1",
+  "level": "hsk3",
+  "unit": 17,
+  "order": 1720.29,
+  "meanings": [
+   "rat-a-tat"
+  ],
+  "pos": [
+   "tg"
+  ],
+  "chars": [
+   "hanzi:冬"
+  ],
+  "freq": 5272,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:qun2zi5-裙子",
+  "zh": "裙子",
+  "trad": "裙子",
+  "pinyin": "qún zi",
+  "num": "qun2 zi5",
+  "level": "hsk3",
+  "unit": 17,
+  "order": 1720.3,
+  "meanings": [
+   "skirt"
+  ],
+  "pos": [
+   "n"
+  ],
+  "chars": [
+   "hanzi:裙",
+   "hanzi:子"
+  ],
+  "freq": 5466,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:xiang1jiao1-香蕉",
+  "zh": "香蕉",
+  "trad": "香蕉",
+  "pinyin": "xiāng jiāo",
+  "num": "xiang1 jiao1",
+  "level": "hsk3",
+  "unit": 17,
+  "order": 1720.31,
+  "meanings": [
+   "banana"
+  ],
+  "pos": [
+   "n"
+  ],
+  "chars": [
+   "hanzi:香",
+   "hanzi:蕉"
+  ],
+  "freq": 5473,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:qiu1-秋",
+  "zh": "秋",
+  "trad": "秋",
+  "pinyin": "qiū",
+  "num": "qiu1",
+  "level": "hsk3",
+  "unit": 17,
+  "order": 1720.32,
+  "meanings": [
+   "autumn",
+   "fall",
+   "harvest time"
+  ],
+  "pos": [
+   "tg",
+   "g"
+  ],
+  "chars": [
+   "hanzi:秋"
+  ],
+  "freq": 5603,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:fa1shao1-发烧",
+  "zh": "发烧",
+  "trad": "發燒",
+  "pinyin": "fā shāo",
+  "num": "fa1 shao1",
+  "level": "hsk3",
+  "unit": 17,
+  "order": 1720.33,
+  "meanings": [
+   "to have a high temperature (from illness); to have a fever",
+   "(fig.) to be fascinated with; to obsess over",
+   "(fig.) flourishing; thriving; popular"
+  ],
+  "pos": [
+   "v",
+   "vn",
+   "b"
+  ],
+  "chars": [
+   "hanzi:发",
+   "hanzi:烧"
+  ],
+  "freq": 5836,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:san3-伞",
+  "zh": "伞",
+  "trad": "繖",
+  "pinyin": "sǎn",
+  "num": "san3",
+  "level": "hsk3",
+  "unit": 17,
+  "order": 1720.34,
+  "meanings": [
+   "damask silk"
+  ],
+  "pos": [
+   "n"
+  ],
+  "chars": [
+   "hanzi:伞"
+  ],
+  "freq": 6101,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:you3ming2-有名",
+  "zh": "有名",
+  "trad": "有名",
+  "pinyin": "yǒu míng",
+  "num": "you3 ming2",
+  "level": "hsk3",
+  "unit": 18,
+  "order": 1820.35,
+  "meanings": [
+   "famous",
+   "well-known"
+  ],
+  "pos": [
+   "a"
+  ],
+  "chars": [
+   "hanzi:有",
+   "hanzi:名"
+  ],
+  "freq": 6219,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:da3sao3-打扫",
+  "zh": "打扫",
+  "trad": "打掃",
+  "pinyin": "dǎ sǎo",
+  "num": "da3 sao3",
+  "level": "hsk3",
+  "unit": 17,
+  "order": 1720.36,
+  "meanings": [
+   "to clean",
+   "to sweep"
+  ],
+  "pos": [
+   "v"
+  ],
+  "chars": [
+   "hanzi:打",
+   "hanzi:扫"
+  ],
+  "freq": 6258,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:pu2tao5-葡萄",
+  "zh": "葡萄",
+  "trad": "葡萄",
+  "pinyin": "pú tao",
+  "num": "pu2 tao5",
+  "level": "hsk3",
+  "unit": 17,
+  "order": 1720.37,
+  "meanings": [
+   "grape"
+  ],
+  "pos": [
+   "n"
+  ],
+  "chars": [
+   "hanzi:葡",
+   "hanzi:萄"
+  ],
+  "freq": 6422,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:fu4xi2-复习",
+  "zh": "复习",
+  "trad": "復習",
+  "pinyin": "fù xí",
+  "num": "fu4 xi2",
+  "level": "hsk3",
+  "unit": 17,
+  "order": 1720.38,
+  "meanings": [
+   "to review",
+   "revision"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ],
+  "chars": [
+   "hanzi:复",
+   "hanzi:习"
+  ],
+  "freq": 6867,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:xiong2mao1-熊猫",
+  "zh": "熊猫",
+  "trad": "熊貓",
+  "pinyin": "xióng māo",
+  "num": "xiong2 mao1",
+  "level": "hsk3",
+  "unit": 17,
+  "order": 1720.39,
+  "meanings": [
+   "panda"
+  ],
+  "pos": [
+   "n",
+   "nz"
+  ],
+  "chars": [
+   "hanzi:熊",
+   "hanzi:猫"
+  ],
+  "freq": 7123,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:hu4zhao4-护照",
+  "zh": "护照",
+  "trad": "護照",
+  "pinyin": "hù zhào",
+  "num": "hu4 zhao4",
+  "level": "hsk3",
+  "unit": 18,
+  "order": 1820.4,
+  "meanings": [
+   "passport"
+  ],
+  "pos": [
+   "n"
+  ],
+  "chars": [
+   "hanzi:护",
+   "hanzi:照"
+  ],
+  "freq": 7152,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:cai4dan1-菜单",
+  "zh": "菜单",
+  "trad": "菜單",
+  "pinyin": "cài dān",
+  "num": "cai4 dan1",
+  "level": "hsk3",
+  "unit": 7,
+  "order": 720.41,
+  "meanings": [
+   "menu"
+  ],
+  "pos": [
+   "n"
+  ],
+  "chars": [
+   "hanzi:菜",
+   "hanzi:单"
+  ],
+  "freq": 7509,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:nian2ji2-年级",
+  "zh": "年级",
+  "trad": "年級",
+  "pinyin": "nián jí",
+  "num": "nian2 ji2",
+  "level": "hsk3",
+  "unit": 18,
+  "order": 1820.42,
+  "meanings": [
+   "grade",
+   "year (in school, college etc)"
+  ],
+  "pos": [
+   "n"
+  ],
+  "chars": [
+   "hanzi:年",
+   "hanzi:级"
+  ],
+  "freq": 7644,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:guo3zhi1-果汁",
+  "zh": "果汁",
+  "trad": "果汁",
+  "pinyin": "guǒ zhī",
+  "num": "guo3 zhi1",
+  "level": "hsk3",
+  "unit": 18,
+  "order": 1820.43,
+  "meanings": [
+   "fruit juice"
+  ],
+  "pos": [
+   "n"
+  ],
+  "chars": [
+   "hanzi:果",
+   "hanzi:汁"
+  ],
+  "freq": 7765,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:mian4tiao2-面条",
+  "zh": "面条",
+  "trad": "麵條",
+  "pinyin": "miàn tiáo",
+  "num": "mian4 tiao2",
+  "level": "hsk3",
+  "unit": 3,
+  "order": 320.44,
+  "meanings": [
+   "noodles"
+  ],
+  "pos": [
+   "n"
+  ],
+  "chars": [
+   "hanzi:面",
+   "hanzi:条"
+  ],
+  "freq": 8961,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:pan2zi5-盘子",
+  "zh": "盘子",
+  "trad": "盤子",
+  "pinyin": "pán zi",
+  "num": "pan2 zi5",
+  "level": "hsk3",
+  "unit": 18,
+  "order": 1820.45,
+  "meanings": [
+   "tray",
+   "plate",
+   "dish"
+  ],
+  "pos": [
+   "n"
+  ],
+  "chars": [
+   "hanzi:盘",
+   "hanzi:子"
+  ],
+  "freq": 9039,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:qian1bi3-铅笔",
+  "zh": "铅笔",
+  "trad": "鉛筆",
+  "pinyin": "qiān bǐ",
+  "num": "qian1 bi3",
+  "level": "hsk3",
+  "unit": 18,
+  "order": 1820.46,
+  "meanings": [
+   "(lead) pencil"
+  ],
+  "pos": [
+   "n"
+  ],
+  "chars": [
+   "hanzi:铅",
+   "hanzi:笔"
+  ],
+  "freq": 9108,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:ke3-渴",
+  "zh": "渴",
+  "trad": "渴",
+  "pinyin": "kě",
+  "num": "ke3",
+  "level": "hsk3",
+  "unit": 18,
+  "order": 1820.47,
+  "meanings": [
+   "thirsty"
+  ],
+  "pos": [
+   "a",
+   "v"
+  ],
+  "chars": [
+   "hanzi:渴"
+  ],
+  "freq": 9442,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:xi3shou3jian1-洗手间",
+  "zh": "洗手间",
+  "trad": "洗手間",
+  "pinyin": "xǐ shǒu jiān",
+  "num": "xi3 shou3 jian1",
+  "level": "hsk3",
+  "unit": 19,
+  "order": 1920.48,
+  "meanings": [
+   "toilet",
+   "lavatory",
+   "washroom"
+  ],
+  "pos": [
+   "n"
+  ],
+  "chars": [
+   "hanzi:洗",
+   "hanzi:手",
+   "hanzi:间"
+  ],
+  "freq": 9674,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:ci2yu3-词语",
+  "zh": "词语",
+  "trad": "詞語",
+  "pinyin": "cí yǔ",
+  "num": "ci2 yu3",
+  "level": "hsk3",
+  "unit": 18,
+  "order": 1820.49,
+  "meanings": [
+   "word (general term including monosyllables through to short phrases)",
+   "term (e.g. technical term)",
+   "expression"
+  ],
+  "pos": [
+   "n"
+  ],
+  "chars": [
+   "hanzi:词",
+   "hanzi:语"
+  ],
+  "freq": 10379,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:ju4zi5-句子",
+  "zh": "句子",
+  "trad": "句子",
+  "pinyin": "jù zi",
+  "num": "ju4 zi5",
+  "level": "hsk3",
+  "unit": 18,
+  "order": 1820.5,
+  "meanings": [
+   "sentence"
+  ],
+  "pos": [
+   "n"
+  ],
+  "chars": [
+   "hanzi:句",
+   "hanzi:子"
+  ],
+  "freq": 10428,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:zhao4xiang4ji1-照相机",
+  "zh": "照相机",
+  "trad": "照相機",
+  "pinyin": "zhào xiàng jī",
+  "num": "zhao4 xiang4 ji1",
+  "level": "hsk3",
+  "unit": 7,
+  "order": 720.51,
+  "meanings": [
+   "camera"
+  ],
+  "pos": [
+   "n"
+  ],
+  "chars": [
+   "hanzi:照",
+   "hanzi:相",
+   "hanzi:机"
+  ],
+  "freq": 10452,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:kuai4zi5-筷子",
+  "zh": "筷子",
+  "trad": "筷子",
+  "pinyin": "kuài zi",
+  "num": "kuai4 zi5",
+  "level": "hsk3",
+  "unit": 18,
+  "order": 1820.52,
+  "meanings": [
+   "chopsticks"
+  ],
+  "pos": [
+   "n"
+  ],
+  "chars": [
+   "hanzi:筷",
+   "hanzi:子"
+  ],
+  "freq": 10486,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:zi4dian3-字典",
+  "zh": "字典",
+  "trad": "字典",
+  "pinyin": "zì diǎn",
+  "num": "zi4 dian3",
+  "level": "hsk3",
+  "unit": 18,
+  "order": 1820.53,
+  "meanings": [
+   "Chinese character dictionary (containing entries for single characters, contrasted with a 词典, which has entries for words of one or more characters)",
+   "(coll.) dictionary"
+  ],
+  "pos": [
+   "n"
+  ],
+  "chars": [
+   "hanzi:字",
+   "hanzi:典"
+  ],
+  "freq": 13961,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:pu3tong1hua4-普通话",
+  "zh": "普通话",
+  "trad": "普通話",
+  "pinyin": "pǔ tōng huà",
+  "num": "pu3 tong1 hua4",
+  "level": "hsk3",
+  "unit": 18,
+  "order": 1820.54,
+  "meanings": [
+   "Putonghua; standard Mandarin"
+  ],
+  "pos": [
+   "n"
+  ],
+  "chars": [
+   "hanzi:普",
+   "hanzi:通",
+   "hanzi:话"
+  ],
+  "freq": 14869,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:pa2shan1-爬山",
+  "zh": "爬山",
+  "trad": "爬山",
+  "pinyin": "pá shān",
+  "num": "pa2 shan1",
+  "level": "hsk3",
+  "unit": 18,
+  "order": 1820.55,
+  "meanings": [
+   "to go for a hike (esp. in the hills or mountains)"
+  ],
+  "pos": [
+   "v",
+   "vn"
+  ],
+  "chars": [
+   "hanzi:爬",
+   "hanzi:山"
+  ],
+  "freq": 15470,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:hei1ban3-黑板",
+  "zh": "黑板",
+  "trad": "黑板",
+  "pinyin": "hēi bǎn",
+  "num": "hei1 ban3",
+  "level": "hsk3",
+  "unit": 19,
+  "order": 1920.56,
+  "meanings": [
+   "blackboard"
+  ],
+  "pos": [
+   "n"
+  ],
+  "chars": [
+   "hanzi:黑",
+   "hanzi:板"
+  ],
+  "freq": 15524,
+  "verified": true
+ },
+ {
+  "id": "vocab:hsk3:xing2li5xiang1-行李箱",
+  "zh": "行李箱",
+  "trad": "行李箱",
+  "pinyin": "xíng li xiāng",
+  "num": "xing2 li5 xiang1",
+  "level": "hsk3",
+  "unit": 19,
+  "order": 1920.57,
+  "meanings": [
+   "suitcase",
+   "baggage compartment",
+   "overhead bin",
+   "(car) trunk"
+  ],
+  "pos": [
+   "n"
+  ],
+  "chars": [
+   "hanzi:行",
+   "hanzi:李",
+   "hanzi:箱"
+  ],
+  "freq": 16680,
+  "verified": true
+ }
+]

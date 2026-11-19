@@ -1,0 +1,30 @@
+// HSK 1 units: hand-planned order of the 178 new characters.
+// A word becomes available in the unit where its last character is taught,
+// so the characters that make up one word are kept in the same unit.
+
+export const UNITS = [
+  { title: 'Hello: you, me and them', title_ja: 'こんにちは：わたし、あなた、かれら',
+    chars: ['我', '你', '他', '她', '好', '是', '不', '的', '吗', '呢', '人', '们', '学', '生', '老', '师'] },
+  { title: 'Names and friends', title_ja: '名前と友だち',
+    chars: ['这', '那', '个', '什', '么', '谁', '叫', '名', '字', '中', '国', '朋', '友', '小', '明'] },
+  { title: 'Numbers and age', title_ja: '数と年齢',
+    chars: ['一', '二', '三', '四', '五', '六', '七', '八', '九', '十', '零', '几', '多', '少', '岁'] },
+  { title: 'My family', title_ja: 'わたしの家族',
+    chars: ['有', '没', '家', '爸', '妈', '儿', '子', '女', '大', '狗', '猫', '都', '和', '很', '同'] },
+  { title: 'Days and dates', title_ja: '日付と曜日',
+    chars: ['今', '天', '昨', '月', '日', '年', '星', '期', '现', '在', '时', '候', '哪'] },
+  { title: 'Clock time, coming and going', title_ja: '時刻と行き来',
+    chars: ['点', '分', '钟', '上', '下', '午', '去', '来', '回', '看', '听', '说', '话'] },
+  { title: 'Food and drink', title_ja: '食べ物と飲み物',
+    chars: ['吃', '喝', '米', '饭', '菜', '水', '果', '苹', '茶', '杯', '喜', '欢', '爱', '想'] },
+  { title: 'Shopping', title_ja: '買い物',
+    chars: ['买', '东', '西', '钱', '块', '商', '店', '些', '本', '书', '请', '谢', '衣', '服', '汉', '语'] },
+  { title: 'Study and work', title_ja: '勉強と仕事',
+    chars: ['工', '作', '做', '写', '读', '习', '电', '脑', '视', '影', '打', '怎', '了', '会', '能'] },
+  { title: 'At home and on the phone', title_ja: '家の中と電話',
+    chars: ['里', '前', '后', '面', '桌', '椅', '开', '睡', '觉', '见', '先', '姐', '喂', '再', '认', '识'] },
+  { title: 'Weather and feelings', title_ja: '天気と気持ち',
+    chars: ['热', '冷', '雨', '气', '客', '漂', '亮', '高', '兴', '太', '对', '起', '关', '系', '样'] },
+  { title: 'Getting around town', title_ja: '町での移動',
+    chars: ['北', '京', '医', '院', '校', '住', '坐', '车', '火', '站', '出', '租', '飞', '机', '馆'] },
+];

@@ -1,0 +1,7805 @@
+[
+ {
+  "id": "hanzi:啊",
+  "char": "啊",
+  "trad": "啊",
+  "level": "hsk3",
+  "unit": 1,
+  "order": 100,
+  "pinyin": [
+   "a"
+  ],
+  "num": [
+   "a5"
+  ],
+  "meanings": [
+   "modal particle ending sentence, showing affirmation, approval, or consent"
+  ],
+  "strokes": 10,
+  "radical": "口",
+  "components": [
+   "口",
+   "阿"
+  ],
+  "hint": "mouth",
+  "examples": [
+   "vocab:hsk3:a5-啊"
+  ]
+ },
+ {
+  "id": "hanzi:把",
+  "char": "把",
+  "trad": "把",
+  "level": "hsk3",
+  "unit": 1,
+  "order": 101,
+  "pinyin": [
+   "bǎ"
+  ],
+  "num": [
+   "ba3"
+  ],
+  "meanings": [
+   "hold",
+   "hold a baby in position to help it urinate or defecate",
+   "handlebar"
+  ],
+  "strokes": 7,
+  "radical": "扌",
+  "components": [
+   "扌",
+   "巴"
+  ],
+  "hint": "hand",
+  "examples": [
+   "vocab:hsk3:ba3-把"
+  ]
+ },
+ {
+  "id": "hanzi:被",
+  "char": "被",
+  "trad": "被",
+  "level": "hsk3",
+  "unit": 1,
+  "order": 102,
+  "pinyin": [
+   "bèi"
+  ],
+  "num": [
+   "bei4"
+  ],
+  "meanings": [
+   "quilt",
+   "cover (with)",
+   "used to indicate passive voice (placed before the doer of the action like \"by\" in English passive-voice sentences, or, if the doer is not mentioned, before the verb)"
+  ],
+  "strokes": 10,
+  "radical": "衤",
+  "components": [
+   "衤",
+   "皮"
+  ],
+  "hint": "cloth",
+  "examples": [
+   "vocab:hsk3:bei4-被"
+  ]
+ },
+ {
+  "id": "hanzi:己",
+  "char": "己",
+  "trad": "己",
+  "level": "hsk3",
+  "unit": 1,
+  "order": 103,
+  "pinyin": [
+   "jǐ"
+  ],
+  "num": [
+   "ji3"
+  ],
+  "meanings": [
+   "self",
+   "oneself",
+   "sixth of the ten Heavenly Stems 十天干"
+  ],
+  "strokes": 3,
+  "radical": "己",
+  "components": [
+   "乚"
+  ],
+  "hint": "A loom woven with thread",
+  "examples": [
+   "vocab:hsk3:zi4ji3-自己"
+  ]
+ },
+ {
+  "id": "hanzi:用",
+  "char": "用",
+  "trad": "用",
+  "level": "hsk3",
+  "unit": 1,
+  "order": 104,
+  "pinyin": [
+   "yòng"
+  ],
+  "num": [
+   "yong4"
+  ],
+  "meanings": [
+   "use",
+   "(coverb) with",
+   "need"
+  ],
+  "strokes": 5,
+  "radical": "用",
+  "components": [
+   "冂"
+  ],
+  "examples": [
+   "vocab:hsk3:yong4-用",
+   "vocab:hsk3:zuo4yong4-作用"
+  ]
+ },
+ {
+  "id": "hanzi:如",
+  "char": "如",
+  "trad": "如",
+  "level": "hsk3",
+  "unit": 1,
+  "order": 105,
+  "pinyin": [
+   "rú"
+  ],
+  "num": [
+   "ru2"
+  ],
+  "meanings": [
+   "as",
+   "as if",
+   "such as"
+  ],
+  "strokes": 6,
+  "radical": "女",
+  "components": [
+   "女",
+   "口"
+  ],
+  "hint": "A wife 女 following her husband's words 口",
+  "examples": [
+   "vocab:hsk3:ru2guo3-如果"
+  ]
+ },
+ {
+  "id": "hanzi:又",
+  "char": "又",
+  "trad": "又",
+  "level": "hsk3",
+  "unit": 1,
+  "order": 106,
+  "pinyin": [
+   "yòu"
+  ],
+  "num": [
+   "you4"
+  ],
+  "meanings": [
+   "(once) again",
+   "also",
+   "both... and..."
+  ],
+  "strokes": 2,
+  "radical": "又",
+  "components": [],
+  "hint": "A right hand, representing a pair; compare 左",
+  "examples": [
+   "vocab:hsk3:you4-又"
+  ]
+ },
+ {
+  "id": "hanzi:只",
+  "char": "只",
+  "trad": "只",
+  "level": "hsk3",
+  "unit": 1,
+  "order": 107,
+  "pinyin": [
+   "zhǐ"
+  ],
+  "num": [
+   "zhi3"
+  ],
+  "meanings": [
+   "only"
+  ],
+  "strokes": 5,
+  "radical": "口",
+  "components": [
+   "口",
+   "八"
+  ],
+  "hint": "Simple words 八 coming from the mouth 口",
+  "examples": [
+   "vocab:hsk3:zhi3-只"
+  ]
+ },
+ {
+  "id": "hanzi:更",
+  "char": "更",
+  "trad": "更",
+  "level": "hsk3",
+  "unit": 1,
+  "order": 108,
+  "pinyin": [
+   "gèng"
+  ],
+  "num": [
+   "geng4"
+  ],
+  "meanings": [
+   "more",
+   "even more",
+   "further"
+  ],
+  "strokes": 7,
+  "radical": "曰",
+  "components": [
+   "一",
+   "曰",
+   "乂"
+  ],
+  "examples": [
+   "vocab:hsk3:geng4-更"
+  ]
+ },
+ {
+  "id": "hanzi:需",
+  "char": "需",
+  "trad": "需",
+  "level": "hsk3",
+  "unit": 1,
+  "order": 109,
+  "pinyin": [
+   "xū"
+  ],
+  "num": [
+   "xu1"
+  ],
+  "meanings": [
+   "require",
+   "need",
+   "want"
+  ],
+  "strokes": 14,
+  "radical": "雨",
+  "components": [
+   "雨",
+   "而"
+  ],
+  "hint": "Rain 雨 needed for crops to grow",
+  "examples": [
+   "vocab:hsk3:xu1yao4-需要"
+  ]
+ },
+ {
+  "id": "hanzi:地",
+  "char": "地",
+  "trad": "地",
+  "level": "hsk3",
+  "unit": 1,
+  "order": 110,
+  "pinyin": [
+   "dì",
+   "de"
+  ],
+  "num": [
+   "di4",
+   "de5"
+  ],
+  "meanings": [
+   "earth",
+   "ground",
+   "field"
+  ],
+  "strokes": 6,
+  "radical": "土",
+  "components": [
+   "土",
+   "也"
+  ],
+  "hint": "earth",
+  "examples": [
+   "vocab:hsk3:de5-地",
+   "vocab:hsk3:di4fang1-地方"
+  ]
+ },
+ {
+  "id": "hanzi:才",
+  "char": "才",
+  "trad": "才",
+  "level": "hsk3",
+  "unit": 1,
+  "order": 111,
+  "pinyin": [
+   "cái"
+  ],
+  "num": [
+   "cai2"
+  ],
+  "meanings": [
+   "ability",
+   "sb of a certain type",
+   "a capable individual"
+  ],
+  "strokes": 3,
+  "radical": "扌",
+  "components": [
+   "扌"
+  ],
+  "hint": "A sprout growing in the ground, representing a budding talent",
+  "examples": [
+   "vocab:hsk3:cai2-才",
+   "vocab:hsk3:gang1cai2-刚才"
+  ]
+ },
+ {
+  "id": "hanzi:跟",
+  "char": "跟",
+  "trad": "跟",
+  "level": "hsk3",
+  "unit": 1,
+  "order": 112,
+  "pinyin": [
+   "gēn"
+  ],
+  "num": [
+   "gen1"
+  ],
+  "meanings": [
+   "heel",
+   "follow closely",
+   "go with"
+  ],
+  "strokes": 13,
+  "radical": "足",
+  "components": [
+   "足",
+   "艮"
+  ],
+  "hint": "foot",
+  "examples": [
+   "vocab:hsk3:gen1-跟"
+  ]
+ },
+ {
+  "id": "hanzi:像",
+  "char": "像",
+  "trad": "像",
+  "level": "hsk3",
+  "unit": 1,
+  "order": 113,
+  "pinyin": [
+   "xiàng"
+  ],
+  "num": [
+   "xiang4"
+  ],
+  "meanings": [
+   "resemble",
+   "be like",
+   "look as if"
+  ],
+  "strokes": 13,
+  "radical": "亻",
+  "components": [
+   "亻",
+   "象"
+  ],
+  "hint": "person",
+  "examples": [
+   "vocab:hsk3:xiang4-像"
+  ]
+ },
+ {
+  "id": "hanzi:应",
+  "char": "应",
+  "trad": "應",
+  "level": "hsk3",
+  "unit": 1,
+  "order": 114,
+  "pinyin": [
+   "yīng"
+  ],
+  "num": [
+   "ying1"
+  ],
+  "meanings": [
+   "agree (to do sth)",
+   "should",
+   "ought to"
+  ],
+  "strokes": 7,
+  "radical": "广",
+  "components": [
+   "广",
+   "⺍",
+   "一"
+  ],
+  "examples": [
+   "vocab:hsk3:ying1gai1-应该"
+  ]
+ },
+ {
+  "id": "hanzi:该",
+  "char": "该",
+  "trad": "該",
+  "level": "hsk3",
+  "unit": 2,
+  "order": 200,
+  "pinyin": [
+   "gāi"
+  ],
+  "num": [
+   "gai1"
+  ],
+  "meanings": [
+   "should",
+   "ought to",
+   "probably"
+  ],
+  "strokes": 8,
+  "radical": "讠",
+  "components": [
+   "讠",
+   "亥"
+  ],
+  "hint": "speech",
+  "examples": [
+   "vocab:hsk3:ying1gai1-应该"
+  ]
+ },
+ {
+  "id": "hanzi:带",
+  "char": "带",
+  "trad": "帶",
+  "level": "hsk3",
+  "unit": 2,
+  "order": 201,
+  "pinyin": [
+   "dài"
+  ],
+  "num": [
+   "dai4"
+  ],
+  "meanings": [
+   "band",
+   "belt",
+   "girdle"
+  ],
+  "strokes": 9,
+  "radical": "巾",
+  "components": [
+   "卅",
+   "冖",
+   "巾"
+  ],
+  "hint": "A belt, creasing one's robe above 卅 but not below 巾",
+  "examples": [
+   "vocab:hsk3:dai4-带"
+  ]
+ },
+ {
+  "id": "hanzi:位",
+  "char": "位",
+  "trad": "位",
+  "level": "hsk3",
+  "unit": 2,
+  "order": 202,
+  "pinyin": [
+   "wèi"
+  ],
+  "num": [
+   "wei4"
+  ],
+  "meanings": [
+   "position",
+   "location",
+   "place"
+  ],
+  "strokes": 7,
+  "radical": "亻",
+  "components": [
+   "亻",
+   "立"
+  ],
+  "hint": "The place where a person 亻 stands 立",
+  "examples": [
+   "vocab:hsk3:wei4-位"
+  ]
+ },
+ {
+  "id": "hanzi:种",
+  "char": "种",
+  "trad": "種",
+  "level": "hsk3",
+  "unit": 2,
+  "order": 203,
+  "pinyin": [
+   "zhǒng"
+  ],
+  "num": [
+   "zhong3"
+  ],
+  "meanings": [
+   "seed",
+   "species",
+   "kind"
+  ],
+  "strokes": 9,
+  "radical": "禾",
+  "components": [
+   "禾",
+   "中"
+  ],
+  "hint": "grain",
+  "examples": [
+   "vocab:hsk3:zhong3-种"
+  ]
+ },
+ {
+  "id": "hanzi:发",
+  "char": "发",
+  "trad": "發",
+  "level": "hsk3",
+  "unit": 2,
+  "order": 204,
+  "pinyin": [
+   "fā",
+   "fa"
+  ],
+  "num": [
+   "fa1",
+   "fa5"
+  ],
+  "meanings": [
+   "send out",
+   "show (one's feeling)",
+   "issue"
+  ],
+  "strokes": 5,
+  "radical": "又",
+  "components": [
+   "又"
+  ],
+  "examples": [
+   "vocab:hsk3:fa1xian4-发现",
+   "vocab:hsk3:tou2fa5-头发"
+  ]
+ },
+ {
+  "id": "hanzi:定",
+  "char": "定",
+  "trad": "定",
+  "level": "hsk3",
+  "unit": 2,
+  "order": 205,
+  "pinyin": [
+   "dìng"
+  ],
+  "num": [
+   "ding4"
+  ],
+  "meanings": [
+   "fix",
+   "subscribe to (a newspaper etc)",
+   "congeal"
+  ],
+  "strokes": 8,
+  "radical": "宀",
+  "components": [
+   "宀",
+   "疋"
+  ],
+  "hint": "A person 疋 settling under a roof 宀",
+  "examples": [
+   "vocab:hsk3:yi1ding4-一定",
+   "vocab:hsk3:jue2ding4-决定"
+  ]
+ },
+ {
+  "id": "hanzi:直",
+  "char": "直",
+  "trad": "直",
+  "level": "hsk3",
+  "unit": 2,
+  "order": 206,
+  "pinyin": [
+   "zhí"
+  ],
+  "num": [
+   "zhi2"
+  ],
+  "meanings": [
+   "straight",
+   "straighten",
+   "fair and reasonable"
+  ],
+  "strokes": 8,
+  "radical": "目",
+  "components": [
+   "十",
+   "目",
+   "一"
+  ],
+  "hint": "To look someone in the eye 目",
+  "examples": [
+   "vocab:hsk3:yi1zhi2-一直"
+  ]
+ },
+ {
+  "id": "hanzi:世",
+  "char": "世",
+  "trad": "世",
+  "level": "hsk3",
+  "unit": 2,
+  "order": 207,
+  "pinyin": [
+   "shì"
+  ],
+  "num": [
+   "shi4"
+  ],
+  "meanings": [
+   "life",
+   "age",
+   "generation"
+  ],
+  "strokes": 5,
+  "radical": "一",
+  "components": [
+   "廿"
+  ],
+  "hint": "Three leaves on a branch",
+  "examples": [
+   "vocab:hsk3:shi4jie4-世界"
+  ]
+ },
+ {
+  "id": "hanzi:界",
+  "char": "界",
+  "trad": "界",
+  "level": "hsk3",
+  "unit": 2,
+  "order": 208,
+  "pinyin": [
+   "jiè"
+  ],
+  "num": [
+   "jie4"
+  ],
+  "meanings": [
+   "boundary",
+   "limit",
+   "domain"
+  ],
+  "strokes": 9,
+  "radical": "田",
+  "components": [
+   "田",
+   "介"
+  ],
+  "hint": "farm",
+  "examples": [
+   "vocab:hsk3:shi4jie4-世界"
+  ]
+ },
+ {
+  "id": "hanzi:而",
+  "char": "而",
+  "trad": "而",
+  "level": "hsk3",
+  "unit": 2,
+  "order": 209,
+  "pinyin": [
+   "ér"
+  ],
+  "num": [
+   "er2"
+  ],
+  "meanings": [
+   "and",
+   "as well as",
+   "and so"
+  ],
+  "strokes": 6,
+  "radical": "而",
+  "components": [],
+  "examples": [
+   "vocab:hsk3:er2qie3-而且"
+  ]
+ },
+ {
+  "id": "hanzi:且",
+  "char": "且",
+  "trad": "且",
+  "level": "hsk3",
+  "unit": 2,
+  "order": 210,
+  "pinyin": [
+   "qiě"
+  ],
+  "num": [
+   "qie3"
+  ],
+  "meanings": [
+   "and",
+   "moreover",
+   "yet"
+  ],
+  "strokes": 5,
+  "radical": "一",
+  "components": [
+   "月",
+   "一"
+  ],
+  "hint": "A stone altar",
+  "examples": [
+   "vocab:hsk3:er2qie3-而且"
+  ]
+ },
+ {
+  "id": "hanzi:重",
+  "char": "重",
+  "trad": "重",
+  "level": "hsk3",
+  "unit": 2,
+  "order": 211,
+  "pinyin": [
+   "zhòng"
+  ],
+  "num": [
+   "zhong4"
+  ],
+  "meanings": [
+   "heavy",
+   "serious",
+   "attach importance to"
+  ],
+  "strokes": 9,
+  "radical": "里",
+  "components": [
+   "千",
+   "里"
+  ],
+  "hint": "A burden carried for a thousand 千 miles 里",
+  "examples": [
+   "vocab:hsk3:zhong4yao4-重要"
+  ]
+ },
+ {
+  "id": "hanzi:必",
+  "char": "必",
+  "trad": "必",
+  "level": "hsk3",
+  "unit": 2,
+  "order": 212,
+  "pinyin": [
+   "bì"
+  ],
+  "num": [
+   "bi4"
+  ],
+  "meanings": [
+   "must"
+  ],
+  "strokes": 5,
+  "radical": "心",
+  "components": [
+   "心",
+   "丿"
+  ],
+  "examples": [
+   "vocab:hsk3:bi4xu1-必须"
+  ]
+ },
+ {
+  "id": "hanzi:须",
+  "char": "须",
+  "trad": "須",
+  "level": "hsk3",
+  "unit": 2,
+  "order": 213,
+  "pinyin": [
+   "xū"
+  ],
+  "num": [
+   "xu1"
+  ],
+  "meanings": [
+   "must",
+   "have to",
+   "wait"
+  ],
+  "strokes": 9,
+  "radical": "彡",
+  "components": [
+   "彡",
+   "页"
+  ],
+  "hint": "Hair 彡 growing on the face 页",
+  "examples": [
+   "vocab:hsk3:bi4xu1-必须"
+  ]
+ },
+ {
+  "id": "hanzi:方",
+  "char": "方",
+  "trad": "方",
+  "level": "hsk3",
+  "unit": 2,
+  "order": 214,
+  "pinyin": [
+   "fāng"
+  ],
+  "num": [
+   "fang1"
+  ],
+  "meanings": [
+   "square",
+   "power or involution (math.)",
+   "upright"
+  ],
+  "strokes": 4,
+  "radical": "方",
+  "components": [
+   "亠"
+  ],
+  "examples": [
+   "vocab:hsk3:di4fang1-地方",
+   "vocab:hsk3:fang1bian4-方便",
+   "vocab:hsk3:bei3fang1-北方"
+  ]
+ },
+ {
+  "id": "hanzi:其",
+  "char": "其",
+  "trad": "其",
+  "level": "hsk3",
+  "unit": 3,
+  "order": 300,
+  "pinyin": [
+   "qí"
+  ],
+  "num": [
+   "qi2"
+  ],
+  "meanings": [
+   "his",
+   "her",
+   "its"
+  ],
+  "strokes": 8,
+  "radical": "八",
+  "components": [
+   "甘",
+   "一",
+   "八"
+  ],
+  "examples": [
+   "vocab:hsk3:qi2ta1-其他",
+   "vocab:hsk3:qi2shi2-其实"
+  ]
+ },
+ {
+  "id": "hanzi:赛",
+  "char": "赛",
+  "trad": "賽",
+  "level": "hsk3",
+  "unit": 3,
+  "order": 301,
+  "pinyin": [
+   "sài"
+  ],
+  "num": [
+   "sai4"
+  ],
+  "meanings": [
+   "compete",
+   "competition",
+   "match"
+  ],
+  "strokes": 14,
+  "radical": "贝",
+  "components": [
+   "宀",
+   "贝"
+  ],
+  "hint": "money",
+  "examples": [
+   "vocab:hsk3:bi3sai4-比赛"
+  ]
+ },
+ {
+  "id": "hanzi:然",
+  "char": "然",
+  "trad": "然",
+  "level": "hsk3",
+  "unit": 3,
+  "order": 302,
+  "pinyin": [
+   "rán"
+  ],
+  "num": [
+   "ran2"
+  ],
+  "meanings": [
+   "correct",
+   "right",
+   "so"
+  ],
+  "strokes": 12,
+  "radical": "灬",
+  "components": [
+   "肰",
+   "灬"
+  ],
+  "hint": "fire",
+  "examples": [
+   "vocab:hsk3:ran2hou4-然后",
+   "vocab:hsk3:dang1ran2-当然"
+  ]
+ },
+ {
+  "id": "hanzi:担",
+  "char": "担",
+  "trad": "擔",
+  "level": "hsk3",
+  "unit": 3,
+  "order": 303,
+  "pinyin": [
+   "dān"
+  ],
+  "num": [
+   "dan1"
+  ],
+  "meanings": [
+   "undertake",
+   "carry",
+   "shoulder"
+  ],
+  "strokes": 8,
+  "radical": "扌",
+  "components": [
+   "扌",
+   "旦"
+  ],
+  "hint": "hand",
+  "examples": [
+   "vocab:hsk3:dan1xin1-担心"
+  ]
+ },
+ {
+  "id": "hanzi:心",
+  "char": "心",
+  "trad": "心",
+  "level": "hsk3",
+  "unit": 3,
+  "order": 304,
+  "pinyin": [
+   "xīn"
+  ],
+  "num": [
+   "xin1"
+  ],
+  "meanings": [
+   "heart",
+   "mind",
+   "intention"
+  ],
+  "strokes": 4,
+  "radical": "心",
+  "components": [],
+  "hint": "A heart",
+  "examples": [
+   "vocab:hsk3:dan1xin1-担心",
+   "vocab:hsk3:guan1xin1-关心",
+   "vocab:hsk3:xiao3xin1-小心",
+   "vocab:hsk3:fang4xin1-放心"
+  ]
+ },
+ {
+  "id": "hanzi:条",
+  "char": "条",
+  "trad": "條",
+  "level": "hsk3",
+  "unit": 3,
+  "order": 305,
+  "pinyin": [
+   "tiáo"
+  ],
+  "num": [
+   "tiao2"
+  ],
+  "meanings": [
+   "strip",
+   "item",
+   "article"
+  ],
+  "strokes": 7,
+  "radical": "木",
+  "components": [
+   "夂",
+   "木"
+  ],
+  "examples": [
+   "vocab:hsk3:tiao2-条",
+   "vocab:hsk3:mian4tiao2-面条"
+  ]
+ },
+ {
+  "id": "hanzi:放",
+  "char": "放",
+  "trad": "放",
+  "level": "hsk3",
+  "unit": 3,
+  "order": 306,
+  "pinyin": [
+   "fàng"
+  ],
+  "num": [
+   "fang4"
+  ],
+  "meanings": [
+   "put",
+   "place",
+   "release"
+  ],
+  "strokes": 8,
+  "radical": "攵",
+  "components": [
+   "方",
+   "攵"
+  ],
+  "hint": "let go",
+  "examples": [
+   "vocab:hsk3:fang4-放",
+   "vocab:hsk3:fang4xin1-放心"
+  ]
+ },
+ {
+  "id": "hanzi:拿",
+  "char": "拿",
+  "trad": "㧱",
+  "level": "hsk3",
+  "unit": 3,
+  "order": 307,
+  "pinyin": [
+   "ná"
+  ],
+  "num": [
+   "na2"
+  ],
+  "meanings": [
+   "hold",
+   "seize",
+   "catch"
+  ],
+  "strokes": 10,
+  "radical": "手",
+  "components": [
+   "合",
+   "手"
+  ],
+  "hint": "hand",
+  "examples": [
+   "vocab:hsk3:na2-拿"
+  ]
+ },
+ {
+  "id": "hanzi:解",
+  "char": "解",
+  "trad": "解",
+  "level": "hsk3",
+  "unit": 3,
+  "order": 308,
+  "pinyin": [
+   "jiě"
+  ],
+  "num": [
+   "jie3"
+  ],
+  "meanings": [
+   "divide",
+   "break up",
+   "split"
+  ],
+  "strokes": 13,
+  "radical": "角",
+  "components": [
+   "角",
+   "刀",
+   "牛"
+  ],
+  "hint": "To cut 刀 the horns 角 off of an ox 牛; 角 also provides the pronunciation",
+  "examples": [
+   "vocab:hsk3:liao3jie3-了解",
+   "vocab:hsk3:jie3jue2-解决"
+  ]
+ },
+ {
+  "id": "hanzi:过",
+  "char": "过",
+  "trad": "過",
+  "level": "hsk3",
+  "unit": 3,
+  "order": 309,
+  "pinyin": [
+   "guò"
+  ],
+  "num": [
+   "guo4"
+  ],
+  "meanings": [
+   "cross",
+   "go over",
+   "pass (time)"
+  ],
+  "strokes": 6,
+  "radical": "辶",
+  "components": [
+   "辶",
+   "寸"
+  ],
+  "hint": "walk",
+  "examples": [
+   "vocab:hsk3:guo4qu4-过去",
+   "vocab:hsk3:jing1guo4-经过"
+  ]
+ },
+ {
+  "id": "hanzi:参",
+  "char": "参",
+  "trad": "㕘",
+  "level": "hsk3",
+  "unit": 3,
+  "order": 310,
+  "pinyin": [
+   "cān"
+  ],
+  "num": [
+   "can1"
+  ],
+  "meanings": [
+   "take part in",
+   "participate",
+   "join"
+  ],
+  "strokes": 8,
+  "radical": "厶",
+  "components": [
+   "厶",
+   "大",
+   "彡"
+  ],
+  "examples": [
+   "vocab:hsk3:can1jia1-参加"
+  ]
+ },
+ {
+  "id": "hanzi:加",
+  "char": "加",
+  "trad": "加",
+  "level": "hsk3",
+  "unit": 3,
+  "order": 311,
+  "pinyin": [
+   "jiā"
+  ],
+  "num": [
+   "jia1"
+  ],
+  "meanings": [
+   "add",
+   "(math.) plus",
+   "increase"
+  ],
+  "strokes": 5,
+  "radical": "力",
+  "components": [
+   "力",
+   "口"
+  ],
+  "hint": "Supporting a cause with the strength 力 of one's words 口",
+  "examples": [
+   "vocab:hsk3:can1jia1-参加"
+  ]
+ },
+ {
+  "id": "hanzi:决",
+  "char": "决",
+  "trad": "決",
+  "level": "hsk3",
+  "unit": 3,
+  "order": 312,
+  "pinyin": [
+   "jué"
+  ],
+  "num": [
+   "jue2"
+  ],
+  "meanings": [
+   "decide",
+   "determine",
+   "execute (sb)"
+  ],
+  "strokes": 6,
+  "radical": "冫",
+  "components": [
+   "冫",
+   "夬"
+  ],
+  "examples": [
+   "vocab:hsk3:jue2ding4-决定",
+   "vocab:hsk3:jie3jue2-解决"
+  ]
+ },
+ {
+  "id": "hanzi:选",
+  "char": "选",
+  "trad": "選",
+  "level": "hsk3",
+  "unit": 3,
+  "order": 313,
+  "pinyin": [
+   "xuǎn"
+  ],
+  "num": [
+   "xuan3"
+  ],
+  "meanings": [
+   "choose",
+   "pick",
+   "select"
+  ],
+  "strokes": 9,
+  "radical": "辶",
+  "components": [
+   "辶",
+   "先"
+  ],
+  "hint": "walk",
+  "examples": [
+   "vocab:hsk3:xuan3ze2-选择"
+  ]
+ },
+ {
+  "id": "hanzi:择",
+  "char": "择",
+  "trad": "擇",
+  "level": "hsk3",
+  "unit": 3,
+  "order": 314,
+  "pinyin": [
+   "zé"
+  ],
+  "num": [
+   "ze2"
+  ],
+  "meanings": [
+   "select",
+   "choose",
+   "pick over"
+  ],
+  "strokes": 8,
+  "radical": "扌",
+  "components": [
+   "扌"
+  ],
+  "examples": [
+   "vocab:hsk3:xuan3ze2-选择"
+  ]
+ },
+ {
+  "id": "hanzi:或",
+  "char": "或",
+  "trad": "或",
+  "level": "hsk3",
+  "unit": 4,
+  "order": 400,
+  "pinyin": [
+   "huò"
+  ],
+  "num": [
+   "huo4"
+  ],
+  "meanings": [
+   "maybe",
+   "perhaps",
+   "might"
+  ],
+  "strokes": 8,
+  "radical": "戈",
+  "components": [
+   "戈",
+   "口",
+   "一"
+  ],
+  "hint": "To defend yourself 口 with a spear 戈; \"or else\"",
+  "examples": [
+   "vocab:hsk3:huo4zhe3-或者"
+  ]
+ },
+ {
+  "id": "hanzi:者",
+  "char": "者",
+  "trad": "者",
+  "level": "hsk3",
+  "unit": 4,
+  "order": 401,
+  "pinyin": [
+   "zhě"
+  ],
+  "num": [
+   "zhe3"
+  ],
+  "meanings": [
+   "(after a verb or adjective) one who (is) ...",
+   "(after a noun) person involved in ...",
+   "-er"
+  ],
+  "strokes": 8,
+  "radical": "耂",
+  "components": [
+   "耂",
+   "日"
+  ],
+  "examples": [
+   "vocab:hsk3:huo4zhe3-或者"
+  ]
+ },
+ {
+  "id": "hanzi:使",
+  "char": "使",
+  "trad": "使",
+  "level": "hsk3",
+  "unit": 4,
+  "order": 402,
+  "pinyin": [
+   "shǐ"
+  ],
+  "num": [
+   "shi3"
+  ],
+  "meanings": [
+   "make",
+   "cause",
+   "enable"
+  ],
+  "strokes": 8,
+  "radical": "亻",
+  "components": [
+   "亻",
+   "吏"
+  ],
+  "hint": "A person 亻 working for the government 吏",
+  "examples": [
+   "vocab:hsk3:shi3-使"
+  ]
+ },
+ {
+  "id": "hanzi:实",
+  "char": "实",
+  "trad": "實",
+  "level": "hsk3",
+  "unit": 4,
+  "order": 403,
+  "pinyin": [
+   "shí"
+  ],
+  "num": [
+   "shi2"
+  ],
+  "meanings": [
+   "real",
+   "true",
+   "honest"
+  ],
+  "strokes": 8,
+  "radical": "宀",
+  "components": [
+   "宀",
+   "头"
+  ],
+  "examples": [
+   "vocab:hsk3:qi2shi2-其实"
+  ]
+ },
+ {
+  "id": "hanzi:求",
+  "char": "求",
+  "trad": "求",
+  "level": "hsk3",
+  "unit": 4,
+  "order": 404,
+  "pinyin": [
+   "qiú"
+  ],
+  "num": [
+   "qiu2"
+  ],
+  "meanings": [
+   "seek",
+   "look for",
+   "request"
+  ],
+  "strokes": 7,
+  "radical": "氺",
+  "components": [
+   "一",
+   "氺"
+  ],
+  "examples": [
+   "vocab:hsk3:yao1qiu2-要求"
+  ]
+ },
+ {
+  "id": "hanzi:信",
+  "char": "信",
+  "trad": "信",
+  "level": "hsk3",
+  "unit": 4,
+  "order": 405,
+  "pinyin": [
+   "xìn"
+  ],
+  "num": [
+   "xin4"
+  ],
+  "meanings": [
+   "letter",
+   "mail",
+   "trust"
+  ],
+  "strokes": 9,
+  "radical": "亻",
+  "components": [
+   "亻",
+   "言"
+  ],
+  "examples": [
+   "vocab:hsk3:xin4-信",
+   "vocab:hsk3:xiang1xin4-相信"
+  ]
+ },
+ {
+  "id": "hanzi:当",
+  "char": "当",
+  "trad": "噹",
+  "level": "hsk3",
+  "unit": 4,
+  "order": 406,
+  "pinyin": [
+   "dāng"
+  ],
+  "num": [
+   "dang1"
+  ],
+  "meanings": [
+   "ding dong (bell)",
+   "be",
+   "act as"
+  ],
+  "strokes": 6,
+  "radical": "⺌",
+  "components": [
+   "⺌",
+   "彐"
+  ],
+  "examples": [
+   "vocab:hsk3:dang1ran2-当然"
+  ]
+ },
+ {
+  "id": "hanzi:接",
+  "char": "接",
+  "trad": "接",
+  "level": "hsk3",
+  "unit": 4,
+  "order": 407,
+  "pinyin": [
+   "jiē"
+  ],
+  "num": [
+   "jie1"
+  ],
+  "meanings": [
+   "receive",
+   "answer (the phone)",
+   "meet or welcome sb"
+  ],
+  "strokes": 11,
+  "radical": "扌",
+  "components": [
+   "扌",
+   "妾"
+  ],
+  "hint": "hand",
+  "examples": [
+   "vocab:hsk3:jie1-接"
+  ]
+ },
+ {
+  "id": "hanzi:相",
+  "char": "相",
+  "trad": "相",
+  "level": "hsk3",
+  "unit": 4,
+  "order": 408,
+  "pinyin": [
+   "xiāng",
+   "xiàng"
+  ],
+  "num": [
+   "xiang1",
+   "xiang4"
+  ],
+  "meanings": [
+   "each other",
+   "one another",
+   "mutually"
+  ],
+  "strokes": 9,
+  "radical": "目",
+  "components": [
+   "木",
+   "目"
+  ],
+  "hint": "To stare 目 at a tree 木, meaning to observe",
+  "examples": [
+   "vocab:hsk3:xiang1xin4-相信",
+   "vocab:hsk3:xiang1tong2-相同"
+  ]
+ },
+ {
+  "id": "hanzi:花",
+  "char": "花",
+  "trad": "花",
+  "level": "hsk3",
+  "unit": 4,
+  "order": 409,
+  "pinyin": [
+   "huā"
+  ],
+  "num": [
+   "hua1"
+  ],
+  "meanings": [
+   "flower",
+   "blossom",
+   "fancy pattern"
+  ],
+  "strokes": 7,
+  "radical": "艹",
+  "components": [
+   "艹",
+   "化"
+  ],
+  "hint": "A flower 艹 in bloom 化; 化 also provides the pronunciation",
+  "examples": [
+   "vocab:hsk3:hua1-花",
+   "vocab:hsk3:hua1yuan2-花园"
+  ]
+ },
+ {
+  "id": "hanzi:虽",
+  "char": "虽",
+  "trad": "雖",
+  "level": "hsk3",
+  "unit": 4,
+  "order": 410,
+  "pinyin": [
+   "suī"
+  ],
+  "num": [
+   "sui1"
+  ],
+  "meanings": [
+   "although",
+   "even though"
+  ],
+  "strokes": 9,
+  "radical": "虫",
+  "components": [
+   "口",
+   "虫"
+  ],
+  "examples": [
+   "vocab:hsk3:sui1ran2-虽然"
+  ]
+ },
+ {
+  "id": "hanzi:于",
+  "char": "于",
+  "trad": "于",
+  "level": "hsk3",
+  "unit": 4,
+  "order": 411,
+  "pinyin": [
+   "yú"
+  ],
+  "num": [
+   "yu2"
+  ],
+  "meanings": [
+   "go",
+   "take",
+   "sentence-final interrogative particle"
+  ],
+  "strokes": 3,
+  "radical": "二",
+  "components": [
+   "二",
+   "亅"
+  ],
+  "examples": [
+   "vocab:hsk3:guan1yu2-关于",
+   "vocab:hsk3:zhong1yu2-终于"
+  ]
+ },
+ {
+  "id": "hanzi:成",
+  "char": "成",
+  "trad": "成",
+  "level": "hsk3",
+  "unit": 4,
+  "order": 412,
+  "pinyin": [
+   "chéng"
+  ],
+  "num": [
+   "cheng2"
+  ],
+  "meanings": [
+   "succeed",
+   "finish",
+   "complete"
+  ],
+  "strokes": 6,
+  "radical": "戈",
+  "components": [
+   "丁",
+   "戈"
+  ],
+  "examples": [
+   "vocab:hsk3:wan2cheng2-完成",
+   "vocab:hsk3:cheng2ji4-成绩"
+  ]
+ },
+ {
+  "id": "hanzi:结",
+  "char": "结",
+  "trad": "結",
+  "level": "hsk3",
+  "unit": 4,
+  "order": 413,
+  "pinyin": [
+   "jié"
+  ],
+  "num": [
+   "jie2"
+  ],
+  "meanings": [
+   "knot",
+   "sturdy",
+   "bond"
+  ],
+  "strokes": 9,
+  "radical": "纟",
+  "components": [
+   "纟",
+   "吉"
+  ],
+  "hint": "thread",
+  "examples": [
+   "vocab:hsk3:jie2shu4-结束",
+   "vocab:hsk3:jie2hun1-结婚"
+  ]
+ },
+ {
+  "id": "hanzi:束",
+  "char": "束",
+  "trad": "束",
+  "level": "hsk3",
+  "unit": 4,
+  "order": 414,
+  "pinyin": [
+   "shù"
+  ],
+  "num": [
+   "shu4"
+  ],
+  "meanings": [
+   "bind",
+   "bunch",
+   "bundle"
+  ],
+  "strokes": 7,
+  "radical": "木",
+  "components": [
+   "木",
+   "口"
+  ],
+  "hint": "Lumber 木 bound by rope 口",
+  "examples": [
+   "vocab:hsk3:jie2shu4-结束"
+  ]
+ },
+ {
+  "id": "hanzi:努",
+  "char": "努",
+  "trad": "努",
+  "level": "hsk3",
+  "unit": 5,
+  "order": 500,
+  "pinyin": [
+   "nǔ"
+  ],
+  "num": [
+   "nu3"
+  ],
+  "meanings": [
+   "exert",
+   "strive"
+  ],
+  "strokes": 7,
+  "radical": "力",
+  "components": [
+   "奴",
+   "力"
+  ],
+  "hint": "strength",
+  "examples": [
+   "vocab:hsk3:nu3li4-努力"
+  ]
+ },
+ {
+  "id": "hanzi:力",
+  "char": "力",
+  "trad": "力",
+  "level": "hsk3",
+  "unit": 5,
+  "order": 501,
+  "pinyin": [
+   "lì"
+  ],
+  "num": [
+   "li4"
+  ],
+  "meanings": [
+   "power",
+   "force",
+   "strength"
+  ],
+  "strokes": 2,
+  "radical": "力",
+  "components": [
+   "丿"
+  ],
+  "hint": "A plow's head representing strength",
+  "examples": [
+   "vocab:hsk3:nu3li4-努力"
+  ]
+ },
+ {
+  "id": "hanzi:办",
+  "char": "办",
+  "trad": "辦",
+  "level": "hsk3",
+  "unit": 5,
+  "order": 502,
+  "pinyin": [
+   "bàn"
+  ],
+  "num": [
+   "ban4"
+  ],
+  "meanings": [
+   "take care of (a matter)",
+   "establish",
+   "(law) to handle"
+  ],
+  "strokes": 4,
+  "radical": "力",
+  "components": [
+   "力",
+   "八"
+  ],
+  "hint": "strength",
+  "examples": [
+   "vocab:hsk3:ban4fa3-办法",
+   "vocab:hsk3:ban4gong1shi4-办公室"
+  ]
+ },
+ {
+  "id": "hanzi:法",
+  "char": "法",
+  "trad": "㳒",
+  "level": "hsk3",
+  "unit": 5,
+  "order": 503,
+  "pinyin": [
+   "fǎ"
+  ],
+  "num": [
+   "fa3"
+  ],
+  "meanings": [
+   "law",
+   "method",
+   "way"
+  ],
+  "strokes": 8,
+  "radical": "氵",
+  "components": [
+   "氵",
+   "去"
+  ],
+  "hint": "The course 去 followed by a stream 氵",
+  "examples": [
+   "vocab:hsk3:ban4fa3-办法"
+  ]
+ },
+ {
+  "id": "hanzi:特",
+  "char": "特",
+  "trad": "特",
+  "level": "hsk3",
+  "unit": 5,
+  "order": 504,
+  "pinyin": [
+   "tè"
+  ],
+  "num": [
+   "te4"
+  ],
+  "meanings": [
+   "special",
+   "unique",
+   "distinguished"
+  ],
+  "strokes": 10,
+  "radical": "牛",
+  "components": [
+   "牛",
+   "寺"
+  ],
+  "hint": "ox",
+  "examples": [
+   "vocab:hsk3:te4bie2-特别"
+  ]
+ },
+ {
+  "id": "hanzi:难",
+  "char": "难",
+  "trad": "難",
+  "level": "hsk3",
+  "unit": 5,
+  "order": 505,
+  "pinyin": [
+   "nán"
+  ],
+  "num": [
+   "nan2"
+  ],
+  "meanings": [
+   "difficult (to...)",
+   "problem",
+   "difficulty"
+  ],
+  "strokes": 10,
+  "radical": "又",
+  "components": [
+   "又",
+   "隹"
+  ],
+  "hint": "A hand 又 trying to grasp at a bird 隹",
+  "examples": [
+   "vocab:hsk3:nan2-难",
+   "vocab:hsk3:nan2guo4-难过"
+  ]
+ },
+ {
+  "id": "hanzi:注",
+  "char": "注",
+  "trad": "注",
+  "level": "hsk3",
+  "unit": 5,
+  "order": 506,
+  "pinyin": [
+   "zhù"
+  ],
+  "num": [
+   "zhu4"
+  ],
+  "meanings": [
+   "classifier for stakes, sums of money, transactions or beams of light",
+   "annotate",
+   "an annotation"
+  ],
+  "strokes": 8,
+  "radical": "氵",
+  "components": [
+   "氵",
+   "主"
+  ],
+  "hint": "water",
+  "examples": [
+   "vocab:hsk3:zhu4yi4-注意"
+  ]
+ },
+ {
+  "id": "hanzi:讲",
+  "char": "讲",
+  "trad": "講",
+  "level": "hsk3",
+  "unit": 5,
+  "order": 507,
+  "pinyin": [
+   "jiǎng"
+  ],
+  "num": [
+   "jiang3"
+  ],
+  "meanings": [
+   "speak",
+   "explain",
+   "negotiate"
+  ],
+  "strokes": 6,
+  "radical": "讠",
+  "components": [
+   "讠",
+   "井"
+  ],
+  "hint": "speech",
+  "examples": [
+   "vocab:hsk3:jiang3-讲"
+  ]
+ },
+ {
+  "id": "hanzi:万",
+  "char": "万",
+  "trad": "万",
+  "level": "hsk3",
+  "unit": 5,
+  "order": 508,
+  "pinyin": [
+   "wàn"
+  ],
+  "num": [
+   "wan4"
+  ],
+  "meanings": [
+   "ten thousand",
+   "a great number"
+  ],
+  "strokes": 3,
+  "radical": "一",
+  "components": [
+   "一"
+  ],
+  "examples": [
+   "vocab:hsk3:wan4-万"
+  ]
+ },
+ {
+  "id": "hanzi:越",
+  "char": "越",
+  "trad": "越",
+  "level": "hsk3",
+  "unit": 5,
+  "order": 509,
+  "pinyin": [
+   "yuè"
+  ],
+  "num": [
+   "yue4"
+  ],
+  "meanings": [
+   "exceed",
+   "climb over",
+   "surpass"
+  ],
+  "strokes": 12,
+  "radical": "走",
+  "components": [
+   "走",
+   "戉"
+  ],
+  "hint": "run",
+  "examples": [
+   "vocab:hsk3:yue4-越"
+  ]
+ },
+ {
+  "id": "hanzi:城",
+  "char": "城",
+  "trad": "城",
+  "level": "hsk3",
+  "unit": 5,
+  "order": 510,
+  "pinyin": [
+   "chéng"
+  ],
+  "num": [
+   "cheng2"
+  ],
+  "meanings": [
+   "city walls",
+   "city",
+   "town"
+  ],
+  "strokes": 9,
+  "radical": "土",
+  "components": [
+   "土",
+   "成"
+  ],
+  "hint": "earth",
+  "examples": [
+   "vocab:hsk3:cheng2shi4-城市"
+  ]
+ },
+ {
+  "id": "hanzi:市",
+  "char": "市",
+  "trad": "市",
+  "level": "hsk3",
+  "unit": 5,
+  "order": 511,
+  "pinyin": [
+   "shì"
+  ],
+  "num": [
+   "shi4"
+  ],
+  "meanings": [
+   "market",
+   "city",
+   "municipality (administrative unit)"
+  ],
+  "strokes": 5,
+  "radical": "巾",
+  "components": [
+   "亠",
+   "巾"
+  ],
+  "examples": [
+   "vocab:hsk3:cheng2shi4-城市",
+   "vocab:hsk3:chao1shi4-超市"
+  ]
+ },
+ {
+  "id": "hanzi:响",
+  "char": "响",
+  "trad": "響",
+  "level": "hsk3",
+  "unit": 5,
+  "order": 512,
+  "pinyin": [
+   "xiǎng"
+  ],
+  "num": [
+   "xiang3"
+  ],
+  "meanings": [
+   "echo",
+   "sound",
+   "noise"
+  ],
+  "strokes": 9,
+  "radical": "口",
+  "components": [
+   "口",
+   "向"
+  ],
+  "hint": "mouth",
+  "examples": [
+   "vocab:hsk3:ying3xiang3-影响"
+  ]
+ },
+ {
+  "id": "hanzi:戏",
+  "char": "戏",
+  "trad": "戯",
+  "level": "hsk3",
+  "unit": 5,
+  "order": 513,
+  "pinyin": [
+   "xì"
+  ],
+  "num": [
+   "xi4"
+  ],
+  "meanings": [
+   "trick",
+   "drama",
+   "play"
+  ],
+  "strokes": 6,
+  "radical": "戈",
+  "components": [
+   "又",
+   "戈"
+  ],
+  "hint": "A hand 又 doing tricks with a spear 戈",
+  "examples": [
+   "vocab:hsk3:you2xi4-游戏"
+  ]
+ },
+ {
+  "id": "hanzi:马",
+  "char": "马",
+  "trad": "馬",
+  "level": "hsk3",
+  "unit": 5,
+  "order": 514,
+  "pinyin": [
+   "mǎ"
+  ],
+  "num": [
+   "ma3"
+  ],
+  "meanings": [
+   "horse",
+   "horse or cavalry piece in Chinese chess",
+   "knight in Western chess"
+  ],
+  "strokes": 3,
+  "radical": "马",
+  "components": [
+   "一"
+  ],
+  "hint": "Simplified form of 馬, a horse galloping to the left",
+  "examples": [
+   "vocab:hsk3:ma3-马",
+   "vocab:hsk3:ma3shang4-马上"
+  ]
+ },
+ {
+  "id": "hanzi:较",
+  "char": "较",
+  "trad": "較",
+  "level": "hsk3",
+  "unit": 6,
+  "order": 600,
+  "pinyin": [
+   "jiào"
+  ],
+  "num": [
+   "jiao4"
+  ],
+  "meanings": [
+   "compared to",
+   "(before an adjective) relatively"
+  ],
+  "strokes": 10,
+  "radical": "车",
+  "components": [
+   "车",
+   "交"
+  ],
+  "hint": "cart",
+  "examples": [
+   "vocab:hsk3:bi3jiao4-比较"
+  ]
+ },
+ {
+  "id": "hanzi:换",
+  "char": "换",
+  "trad": "換",
+  "level": "hsk3",
+  "unit": 6,
+  "order": 601,
+  "pinyin": [
+   "huàn"
+  ],
+  "num": [
+   "huan4"
+  ],
+  "meanings": [
+   "exchange",
+   "change (clothes etc)",
+   "substitute"
+  ],
+  "strokes": 10,
+  "radical": "扌",
+  "components": [
+   "扌",
+   "奂"
+  ],
+  "hint": "hand",
+  "examples": [
+   "vocab:hsk3:huan4-换"
+  ]
+ },
+ {
+  "id": "hanzi:终",
+  "char": "终",
+  "trad": "終",
+  "level": "hsk3",
+  "unit": 6,
+  "order": 602,
+  "pinyin": [
+   "zhōng"
+  ],
+  "num": [
+   "zhong1"
+  ],
+  "meanings": [
+   "end",
+   "finish"
+  ],
+  "strokes": 8,
+  "radical": "纟",
+  "components": [
+   "纟",
+   "冬"
+  ],
+  "hint": "thread",
+  "examples": [
+   "vocab:hsk3:zhong1yu2-终于"
+  ]
+ },
+ {
+  "id": "hanzi:脸",
+  "char": "脸",
+  "trad": "臉",
+  "level": "hsk3",
+  "unit": 6,
+  "order": 603,
+  "pinyin": [
+   "liǎn"
+  ],
+  "num": [
+   "lian3"
+  ],
+  "meanings": [
+   "face"
+  ],
+  "strokes": 11,
+  "radical": "⺼",
+  "components": [
+   "⺼",
+   "佥"
+  ],
+  "hint": "flesh",
+  "examples": [
+   "vocab:hsk3:lian3-脸"
+  ]
+ },
+ {
+  "id": "hanzi:口",
+  "char": "口",
+  "trad": "口",
+  "level": "hsk3",
+  "unit": 6,
+  "order": 604,
+  "pinyin": [
+   "kǒu"
+  ],
+  "num": [
+   "kou3"
+  ],
+  "meanings": [
+   "mouth",
+   "classifier for things with mouths (people, domestic animals, cannons, wells etc)",
+   "classifier for bites or mouthfuls"
+  ],
+  "strokes": 3,
+  "radical": "口",
+  "components": [
+   "冂",
+   "一"
+  ],
+  "hint": "An open mouth",
+  "examples": [
+   "vocab:hsk3:kou3-口"
+  ]
+ },
+ {
+  "id": "hanzi:除",
+  "char": "除",
+  "trad": "除",
+  "level": "hsk3",
+  "unit": 6,
+  "order": 605,
+  "pinyin": [
+   "chú"
+  ],
+  "num": [
+   "chu2"
+  ],
+  "meanings": [
+   "get rid of",
+   "remove",
+   "exclude"
+  ],
+  "strokes": 9,
+  "radical": "阝",
+  "components": [
+   "阝",
+   "余"
+  ],
+  "hint": "The waste 余 produced by a city 阝",
+  "examples": [
+   "vocab:hsk3:chu2le5-除了"
+  ]
+ },
+ {
+  "id": "hanzi:总",
+  "char": "总",
+  "trad": "總",
+  "level": "hsk3",
+  "unit": 6,
+  "order": 606,
+  "pinyin": [
+   "zǒng"
+  ],
+  "num": [
+   "zong3"
+  ],
+  "meanings": [
+   "sum up",
+   "in every case",
+   "anyway"
+  ],
+  "strokes": 9,
+  "radical": "心",
+  "components": [
+   "丷",
+   "口",
+   "心"
+  ],
+  "hint": "Many mouths 口 speaking with one mind 心",
+  "examples": [
+   "vocab:hsk3:zong3shi4-总是"
+  ]
+ },
+ {
+  "id": "hanzi:双",
+  "char": "双",
+  "trad": "双",
+  "level": "hsk3",
+  "unit": 6,
+  "order": 607,
+  "pinyin": [
+   "shuāng"
+  ],
+  "num": [
+   "shuang1"
+  ],
+  "meanings": [
+   "two",
+   "double",
+   "pair"
+  ],
+  "strokes": 4,
+  "radical": "又",
+  "components": [
+   "又"
+  ],
+  "hint": "Two hands 又 side-by-side",
+  "examples": [
+   "vocab:hsk3:shuang1-双"
+  ]
+ },
+ {
+  "id": "hanzi:突",
+  "char": "突",
+  "trad": "突",
+  "level": "hsk3",
+  "unit": 6,
+  "order": 608,
+  "pinyin": [
+   "tū"
+  ],
+  "num": [
+   "tu1"
+  ],
+  "meanings": [
+   "dash",
+   "move forward quickly",
+   "bulge"
+  ],
+  "strokes": 9,
+  "radical": "穴",
+  "components": [
+   "穴",
+   "犬"
+  ],
+  "hint": "A dog 犬 rushing out of a cave 穴",
+  "examples": [
+   "vocab:hsk3:tu1ran2-突然"
+  ]
+ },
+ {
+  "id": "hanzi:段",
+  "char": "段",
+  "trad": "段",
+  "level": "hsk3",
+  "unit": 6,
+  "order": 609,
+  "pinyin": [
+   "duàn"
+  ],
+  "num": [
+   "duan4"
+  ],
+  "meanings": [
+   "paragraph",
+   "section",
+   "segment"
+  ],
+  "strokes": 9,
+  "radical": "殳",
+  "components": [
+   "殳"
+  ],
+  "hint": "A hand using a chisel 殳 to cut stone",
+  "examples": [
+   "vocab:hsk3:duan4-段"
+  ]
+ },
+ {
+  "id": "hanzi:检",
+  "char": "检",
+  "trad": "檢",
+  "level": "hsk3",
+  "unit": 6,
+  "order": 610,
+  "pinyin": [
+   "jiǎn"
+  ],
+  "num": [
+   "jian3"
+  ],
+  "meanings": [
+   "check",
+   "examine",
+   "inspect"
+  ],
+  "strokes": 11,
+  "radical": "木",
+  "components": [
+   "木",
+   "佥"
+  ],
+  "hint": "wood",
+  "examples": [
+   "vocab:hsk3:jian3cha2-检查"
+  ]
+ },
+ {
+  "id": "hanzi:查",
+  "char": "查",
+  "trad": "查",
+  "level": "hsk3",
+  "unit": 6,
+  "order": 611,
+  "pinyin": [
+   "chá"
+  ],
+  "num": [
+   "cha2"
+  ],
+  "meanings": [
+   "research",
+   "check",
+   "investigate"
+  ],
+  "strokes": 9,
+  "radical": "木",
+  "components": [
+   "木",
+   "旦"
+  ],
+  "examples": [
+   "vocab:hsk3:jian3cha2-检查"
+  ]
+ },
+ {
+  "id": "hanzi:容",
+  "char": "容",
+  "trad": "容",
+  "level": "hsk3",
+  "unit": 6,
+  "order": 612,
+  "pinyin": [
+   "róng"
+  ],
+  "num": [
+   "rong2"
+  ],
+  "meanings": [
+   "hold",
+   "contain",
+   "allow"
+  ],
+  "strokes": 10,
+  "radical": "宀",
+  "components": [
+   "宀",
+   "谷"
+  ],
+  "hint": "roof",
+  "examples": [
+   "vocab:hsk3:rong2yi4-容易"
+  ]
+ },
+ {
+  "id": "hanzi:易",
+  "char": "易",
+  "trad": "易",
+  "level": "hsk3",
+  "unit": 6,
+  "order": 613,
+  "pinyin": [
+   "yì"
+  ],
+  "num": [
+   "yi4"
+  ],
+  "meanings": [
+   "easy",
+   "amiable",
+   "change"
+  ],
+  "strokes": 8,
+  "radical": "日",
+  "components": [
+   "日",
+   "勿"
+  ],
+  "examples": [
+   "vocab:hsk3:rong2yi4-容易"
+  ]
+ },
+ {
+  "id": "hanzi:根",
+  "char": "根",
+  "trad": "根",
+  "level": "hsk3",
+  "unit": 6,
+  "order": 614,
+  "pinyin": [
+   "gēn"
+  ],
+  "num": [
+   "gen1"
+  ],
+  "meanings": [
+   "root",
+   "basis",
+   "classifier for long slender objects, e.g. cigarettes, guitar strings"
+  ],
+  "strokes": 10,
+  "radical": "木",
+  "components": [
+   "木",
+   "艮"
+  ],
+  "hint": "tree",
+  "examples": [
+   "vocab:hsk3:gen1ju4-根据"
+  ]
+ },
+ {
+  "id": "hanzi:据",
+  "char": "据",
+  "trad": "㨿",
+  "level": "hsk3",
+  "unit": 7,
+  "order": 700,
+  "pinyin": [
+   "jù"
+  ],
+  "num": [
+   "ju4"
+  ],
+  "meanings": [
+   "according to",
+   "act in accordance with",
+   "depend on"
+  ],
+  "strokes": 11,
+  "radical": "扌",
+  "components": [
+   "扌",
+   "居"
+  ],
+  "hint": "hand",
+  "examples": [
+   "vocab:hsk3:gen1ju4-根据"
+  ]
+ },
+ {
+  "id": "hanzi:记",
+  "char": "记",
+  "trad": "記",
+  "level": "hsk3",
+  "unit": 7,
+  "order": 701,
+  "pinyin": [
+   "jì"
+  ],
+  "num": [
+   "ji4"
+  ],
+  "meanings": [
+   "record",
+   "note",
+   "memorize"
+  ],
+  "strokes": 5,
+  "radical": "讠",
+  "components": [
+   "讠",
+   "己"
+  ],
+  "hint": "A private 己 note 讠; 己 also provides the pronunciation",
+  "examples": [
+   "vocab:hsk3:ji4de5-记得",
+   "vocab:hsk3:wang4ji4-忘记"
+  ]
+ },
+ {
+  "id": "hanzi:辆",
+  "char": "辆",
+  "trad": "輛",
+  "level": "hsk3",
+  "unit": 7,
+  "order": 702,
+  "pinyin": [
+   "liàng"
+  ],
+  "num": [
+   "liang4"
+  ],
+  "meanings": [
+   "classifier for vehicles"
+  ],
+  "strokes": 11,
+  "radical": "车",
+  "components": [
+   "车",
+   "两"
+  ],
+  "hint": "Two 两 carts 车; 两 also provides the pronunciation",
+  "examples": [
+   "vocab:hsk3:liang4-辆"
+  ]
+ },
+ {
+  "id": "hanzi:简",
+  "char": "简",
+  "trad": "簡",
+  "level": "hsk3",
+  "unit": 7,
+  "order": 703,
+  "pinyin": [
+   "jiǎn"
+  ],
+  "num": [
+   "jian3"
+  ],
+  "meanings": [
+   "simple",
+   "uncomplicated",
+   "letter"
+  ],
+  "strokes": 13,
+  "radical": "⺮",
+  "components": [
+   "⺮",
+   "间"
+  ],
+  "hint": "bamboo",
+  "examples": [
+   "vocab:hsk3:jian3dan1-简单"
+  ]
+ },
+ {
+  "id": "hanzi:单",
+  "char": "单",
+  "trad": "單",
+  "level": "hsk3",
+  "unit": 7,
+  "order": 704,
+  "pinyin": [
+   "dān"
+  ],
+  "num": [
+   "dan1"
+  ],
+  "meanings": [
+   "bill",
+   "list",
+   "form"
+  ],
+  "strokes": 8,
+  "radical": "丷",
+  "components": [
+   "丷"
+  ],
+  "examples": [
+   "vocab:hsk3:jian3dan1-简单",
+   "vocab:hsk3:cai4dan1-菜单"
+  ]
+ },
+ {
+  "id": "hanzi:半",
+  "char": "半",
+  "trad": "半",
+  "level": "hsk3",
+  "unit": 7,
+  "order": 705,
+  "pinyin": [
+   "bàn"
+  ],
+  "num": [
+   "ban4"
+  ],
+  "meanings": [
+   "half",
+   "semi-",
+   "incomplete"
+  ],
+  "strokes": 5,
+  "radical": "十",
+  "components": [
+   "丷",
+   "牛"
+  ],
+  "hint": "A cow 牛 splitting 丷 wood in half",
+  "examples": [
+   "vocab:hsk3:ban4-半"
+  ]
+ },
+ {
+  "id": "hanzi:愿",
+  "char": "愿",
+  "trad": "愿",
+  "level": "hsk3",
+  "unit": 7,
+  "order": 706,
+  "pinyin": [
+   "yuàn"
+  ],
+  "num": [
+   "yuan4"
+  ],
+  "meanings": [
+   "honest and prudent",
+   "be willing",
+   "wish (that sth may happen)"
+  ],
+  "strokes": 14,
+  "radical": "心",
+  "components": [
+   "原",
+   "心"
+  ],
+  "hint": "heart",
+  "examples": [
+   "vocab:hsk3:yuan4yi4-愿意"
+  ]
+ },
+ {
+  "id": "hanzi:音",
+  "char": "音",
+  "trad": "音",
+  "level": "hsk3",
+  "unit": 7,
+  "order": 707,
+  "pinyin": [
+   "yīn"
+  ],
+  "num": [
+   "yin1"
+  ],
+  "meanings": [
+   "sound",
+   "noise",
+   "note (of musical scale)"
+  ],
+  "strokes": 9,
+  "radical": "音",
+  "components": [
+   "立",
+   "日"
+  ],
+  "hint": "A tongue 立 forming a sound in the mouth 日",
+  "examples": [
+   "vocab:hsk3:yin1yue4-音乐",
+   "vocab:hsk3:sheng1yin1-声音"
+  ]
+ },
+ {
+  "id": "hanzi:包",
+  "char": "包",
+  "trad": "包",
+  "level": "hsk3",
+  "unit": 7,
+  "order": 708,
+  "pinyin": [
+   "bāo"
+  ],
+  "num": [
+   "bao1"
+  ],
+  "meanings": [
+   "cover",
+   "wrap",
+   "hold"
+  ],
+  "strokes": 5,
+  "radical": "勹",
+  "components": [
+   "勹",
+   "巳"
+  ],
+  "hint": "To swaddle 勹 a baby 巳; 勹 also provides the pronunciation",
+  "examples": [
+   "vocab:hsk3:bao1-包",
+   "vocab:hsk3:mian4bao1-面包"
+  ]
+ },
+ {
+  "id": "hanzi:楼",
+  "char": "楼",
+  "trad": "樓",
+  "level": "hsk3",
+  "unit": 7,
+  "order": 709,
+  "pinyin": [
+   "lóu"
+  ],
+  "num": [
+   "lou2"
+  ],
+  "meanings": [
+   "house with more than 1 story",
+   "storied building",
+   "floor"
+  ],
+  "strokes": 13,
+  "radical": "木",
+  "components": [
+   "木",
+   "娄"
+  ],
+  "hint": "wood",
+  "examples": [
+   "vocab:hsk3:lou2-楼"
+  ]
+ },
+ {
+  "id": "hanzi:清",
+  "char": "清",
+  "trad": "清",
+  "level": "hsk3",
+  "unit": 7,
+  "order": 710,
+  "pinyin": [
+   "qīng"
+  ],
+  "num": [
+   "qing1"
+  ],
+  "meanings": [
+   "(of water etc) clear",
+   "quiet",
+   "pure"
+  ],
+  "strokes": 11,
+  "radical": "氵",
+  "components": [
+   "氵",
+   "青"
+  ],
+  "hint": "water",
+  "examples": [
+   "vocab:hsk3:qing1chu5-清楚"
+  ]
+ },
+ {
+  "id": "hanzi:楚",
+  "char": "楚",
+  "trad": "楚",
+  "level": "hsk3",
+  "unit": 7,
+  "order": 711,
+  "pinyin": [
+   "chu"
+  ],
+  "num": [
+   "chu5"
+  ],
+  "meanings": [
+   "distinct",
+   "clear",
+   "orderly"
+  ],
+  "strokes": 13,
+  "radical": "木",
+  "components": [
+   "林",
+   "疋"
+  ],
+  "examples": [
+   "vocab:hsk3:qing1chu5-清楚"
+  ]
+ },
+ {
+  "id": "hanzi:照",
+  "char": "照",
+  "trad": "炤",
+  "level": "hsk3",
+  "unit": 7,
+  "order": 712,
+  "pinyin": [
+   "zhào"
+  ],
+  "num": [
+   "zhao4"
+  ],
+  "meanings": [
+   "shine",
+   "illuminate",
+   "according to"
+  ],
+  "strokes": 13,
+  "radical": "灬",
+  "components": [
+   "昭",
+   "灬"
+  ],
+  "hint": "fire",
+  "examples": [
+   "vocab:hsk3:zhao4pian4-照片",
+   "vocab:hsk3:zhao4xiang4ji1-照相机"
+  ]
+ },
+ {
+  "id": "hanzi:片",
+  "char": "片",
+  "trad": "片",
+  "level": "hsk3",
+  "unit": 7,
+  "order": 713,
+  "pinyin": [
+   "piàn"
+  ],
+  "num": [
+   "pian4"
+  ],
+  "meanings": [
+   "thin piece",
+   "flake",
+   "a slice"
+  ],
+  "strokes": 4,
+  "radical": "片",
+  "components": [],
+  "hint": "Half of a tree trunk; compare 爿",
+  "examples": [
+   "vocab:hsk3:zhao4pian4-照片"
+  ]
+ },
+ {
+  "id": "hanzi:银",
+  "char": "银",
+  "trad": "銀",
+  "level": "hsk3",
+  "unit": 7,
+  "order": 714,
+  "pinyin": [
+   "yín"
+  ],
+  "num": [
+   "yin2"
+  ],
+  "meanings": [
+   "silver",
+   "silver-colored",
+   "relating to money or currency"
+  ],
+  "strokes": 11,
+  "radical": "钅",
+  "components": [
+   "钅",
+   "艮"
+  ],
+  "hint": "money",
+  "examples": [
+   "vocab:hsk3:yin2hang2-银行"
+  ]
+ },
+ {
+  "id": "hanzi:故",
+  "char": "故",
+  "trad": "故",
+  "level": "hsk3",
+  "unit": 8,
+  "order": 800,
+  "pinyin": [
+   "gù"
+  ],
+  "num": [
+   "gu4"
+  ],
+  "meanings": [
+   "happening",
+   "instance",
+   "reason"
+  ],
+  "strokes": 9,
+  "radical": "攵",
+  "components": [
+   "古",
+   "攵"
+  ],
+  "hint": "tap",
+  "examples": [
+   "vocab:hsk3:gu4shi5-故事"
+  ]
+ },
+ {
+  "id": "hanzi:般",
+  "char": "般",
+  "trad": "般",
+  "level": "hsk3",
+  "unit": 8,
+  "order": 801,
+  "pinyin": [
+   "bān"
+  ],
+  "num": [
+   "ban1"
+  ],
+  "meanings": [
+   "sort",
+   "kind",
+   "class"
+  ],
+  "strokes": 10,
+  "radical": "舟",
+  "components": [
+   "舟",
+   "殳"
+  ],
+  "hint": "Using a tool 殳 to sort items on a tray 舟",
+  "examples": [
+   "vocab:hsk3:yi1ban1-一般"
+  ]
+ },
+ {
+  "id": "hanzi:闻",
+  "char": "闻",
+  "trad": "聞",
+  "level": "hsk3",
+  "unit": 8,
+  "order": 802,
+  "pinyin": [
+   "wén"
+  ],
+  "num": [
+   "wen2"
+  ],
+  "meanings": [
+   "hear",
+   "news",
+   "well-known"
+  ],
+  "strokes": 9,
+  "radical": "门",
+  "components": [
+   "门",
+   "耳"
+  ],
+  "hint": "ear",
+  "examples": [
+   "vocab:hsk3:xin1wen2-新闻"
+  ]
+ },
+ {
+  "id": "hanzi:声",
+  "char": "声",
+  "trad": "聲",
+  "level": "hsk3",
+  "unit": 8,
+  "order": 803,
+  "pinyin": [
+   "shēng"
+  ],
+  "num": [
+   "sheng1"
+  ],
+  "meanings": [
+   "sound",
+   "voice",
+   "tone"
+  ],
+  "strokes": 7,
+  "radical": "士",
+  "components": [
+   "士"
+  ],
+  "hint": "Simplified form of 聲; see that character for the etymology",
+  "examples": [
+   "vocab:hsk3:sheng1yin1-声音"
+  ]
+ },
+ {
+  "id": "hanzi:示",
+  "char": "示",
+  "trad": "示",
+  "level": "hsk3",
+  "unit": 8,
+  "order": 804,
+  "pinyin": [
+   "shì"
+  ],
+  "num": [
+   "shi4"
+  ],
+  "meanings": [
+   "show",
+   "reveal"
+  ],
+  "strokes": 5,
+  "radical": "示",
+  "components": [
+   "二",
+   "小"
+  ],
+  "hint": "An altar",
+  "examples": [
+   "vocab:hsk3:biao3shi4-表示"
+  ]
+ },
+ {
+  "id": "hanzi:历",
+  "char": "历",
+  "trad": "厤",
+  "level": "hsk3",
+  "unit": 8,
+  "order": 805,
+  "pinyin": [
+   "lì"
+  ],
+  "num": [
+   "li4"
+  ],
+  "meanings": [
+   "calendar",
+   "experience",
+   "undergo"
+  ],
+  "strokes": 4,
+  "radical": "厂",
+  "components": [
+   "厂",
+   "力"
+  ],
+  "hint": "calendar",
+  "examples": [
+   "vocab:hsk3:li4shi3-历史"
+  ]
+ },
+ {
+  "id": "hanzi:史",
+  "char": "史",
+  "trad": "史",
+  "level": "hsk3",
+  "unit": 8,
+  "order": 806,
+  "pinyin": [
+   "shǐ"
+  ],
+  "num": [
+   "shi3"
+  ],
+  "meanings": [
+   "history",
+   "annals",
+   "title of an official historian in ancient China"
+  ],
+  "strokes": 5,
+  "radical": "口",
+  "components": [
+   "口",
+   "乂"
+  ],
+  "hint": "A hand 乂 using a pen to record a history",
+  "examples": [
+   "vocab:hsk3:li4shi3-历史"
+  ]
+ },
+ {
+  "id": "hanzi:哭",
+  "char": "哭",
+  "trad": "哭",
+  "level": "hsk3",
+  "unit": 8,
+  "order": 807,
+  "pinyin": [
+   "kū"
+  ],
+  "num": [
+   "ku1"
+  ],
+  "meanings": [
+   "cry"
+  ],
+  "strokes": 10,
+  "radical": "口",
+  "components": [
+   "口",
+   "犬"
+  ],
+  "hint": "To shed a tear from your eyes 口 over a person 犬",
+  "examples": [
+   "vocab:hsk3:ku1-哭"
+  ]
+ },
+ {
+  "id": "hanzi:敢",
+  "char": "敢",
+  "trad": "敢",
+  "level": "hsk3",
+  "unit": 8,
+  "order": 808,
+  "pinyin": [
+   "gǎn"
+  ],
+  "num": [
+   "gan3"
+  ],
+  "meanings": [
+   "dare",
+   "daring",
+   "(polite) may I venture"
+  ],
+  "strokes": 11,
+  "radical": "攵",
+  "components": [
+   "耳",
+   "攵"
+  ],
+  "hint": "A hand with a stick 攵 striking a beast 耳",
+  "examples": [
+   "vocab:hsk3:gan3-敢"
+  ]
+ },
+ {
+  "id": "hanzi:议",
+  "char": "议",
+  "trad": "議",
+  "level": "hsk3",
+  "unit": 8,
+  "order": 809,
+  "pinyin": [
+   "yì"
+  ],
+  "num": [
+   "yi4"
+  ],
+  "meanings": [
+   "comment on",
+   "discuss",
+   "suggest"
+  ],
+  "strokes": 5,
+  "radical": "讠",
+  "components": [
+   "讠",
+   "义"
+  ],
+  "hint": "speech",
+  "examples": [
+   "vocab:hsk3:hui4yi4-会议"
+  ]
+ },
+ {
+  "id": "hanzi:低",
+  "char": "低",
+  "trad": "低",
+  "level": "hsk3",
+  "unit": 8,
+  "order": 810,
+  "pinyin": [
+   "dī"
+  ],
+  "num": [
+   "di1"
+  ],
+  "meanings": [
+   "low",
+   "beneath",
+   "lower (one's head)"
+  ],
+  "strokes": 7,
+  "radical": "亻",
+  "components": [
+   "亻",
+   "氐"
+  ],
+  "examples": [
+   "vocab:hsk3:di1-低"
+  ]
+ },
+ {
+  "id": "hanzi:节",
+  "char": "节",
+  "trad": "節",
+  "level": "hsk3",
+  "unit": 8,
+  "order": 811,
+  "pinyin": [
+   "jié"
+  ],
+  "num": [
+   "jie2"
+  ],
+  "meanings": [
+   "joint",
+   "solar term (one of the 24 divisions of the year in the traditional Chinese calendar)",
+   "seasonal festival"
+  ],
+  "strokes": 5,
+  "radical": "艹",
+  "components": [
+   "艹"
+  ],
+  "hint": "Simplified form of 節; sections of bamboo ⺮",
+  "examples": [
+   "vocab:hsk3:jie2mu4-节目",
+   "vocab:hsk3:jie2ri4-节日"
+  ]
+ },
+ {
+  "id": "hanzi:目",
+  "char": "目",
+  "trad": "目",
+  "level": "hsk3",
+  "unit": 8,
+  "order": 812,
+  "pinyin": [
+   "mù"
+  ],
+  "num": [
+   "mu4"
+  ],
+  "meanings": [
+   "eye",
+   "eye (of a net)",
+   "mesh size"
+  ],
+  "strokes": 5,
+  "radical": "目",
+  "components": [
+   "口",
+   "二"
+  ],
+  "hint": "An eye drawn on its side",
+  "examples": [
+   "vocab:hsk3:jie2mu4-节目"
+  ]
+ },
+ {
+  "id": "hanzi:健",
+  "char": "健",
+  "trad": "健",
+  "level": "hsk3",
+  "unit": 8,
+  "order": 813,
+  "pinyin": [
+   "jiàn"
+  ],
+  "num": [
+   "jian4"
+  ],
+  "meanings": [
+   "healthy",
+   "invigorate",
+   "strengthen"
+  ],
+  "strokes": 10,
+  "radical": "亻",
+  "components": [
+   "亻",
+   "建"
+  ],
+  "hint": "Someone 亻 who can build 建 things; 建 also provides the pronunciation",
+  "examples": [
+   "vocab:hsk3:jian4kang1-健康"
+  ]
+ },
+ {
+  "id": "hanzi:康",
+  "char": "康",
+  "trad": "康",
+  "level": "hsk3",
+  "unit": 8,
+  "order": 814,
+  "pinyin": [
+   "kāng"
+  ],
+  "num": [
+   "kang1"
+  ],
+  "meanings": [
+   "healthy",
+   "peaceful",
+   "abundant"
+  ],
+  "strokes": 11,
+  "radical": "广",
+  "components": [
+   "广",
+   "隶"
+  ],
+  "hint": "A home 广 with a servant 隶",
+  "examples": [
+   "vocab:hsk3:jian4kang1-健康"
+  ]
+ },
+ {
+  "id": "hanzi:差",
+  "char": "差",
+  "trad": "差",
+  "level": "hsk3",
+  "unit": 9,
+  "order": 900,
+  "pinyin": [
+   "chà"
+  ],
+  "num": [
+   "cha4"
+  ],
+  "meanings": [
+   "different",
+   "wrong",
+   "fall short"
+  ],
+  "strokes": 9,
+  "radical": "工",
+  "components": [
+   "羊",
+   "工"
+  ],
+  "hint": "Work 工 done by a sheep 羊; incompetence",
+  "examples": [
+   "vocab:hsk3:cha4-差"
+  ]
+ },
+ {
+  "id": "hanzi:婚",
+  "char": "婚",
+  "trad": "婚",
+  "level": "hsk3",
+  "unit": 9,
+  "order": 901,
+  "pinyin": [
+   "hūn"
+  ],
+  "num": [
+   "hun1"
+  ],
+  "meanings": [
+   "to get married",
+   "marriage",
+   "wedding"
+  ],
+  "strokes": 11,
+  "radical": "女",
+  "components": [
+   "女",
+   "昏"
+  ],
+  "hint": "woman",
+  "examples": [
+   "vocab:hsk3:jie2hun1-结婚"
+  ]
+ },
+ {
+  "id": "hanzi:短",
+  "char": "短",
+  "trad": "短",
+  "level": "hsk3",
+  "unit": 9,
+  "order": 902,
+  "pinyin": [
+   "duǎn"
+  ],
+  "num": [
+   "duan3"
+  ],
+  "meanings": [
+   "short",
+   "brief",
+   "lack"
+  ],
+  "strokes": 12,
+  "radical": "矢",
+  "components": [
+   "矢",
+   "豆"
+  ],
+  "hint": "dart",
+  "examples": [
+   "vocab:hsk3:duan3-短"
+  ]
+ },
+ {
+  "id": "hanzi:乎",
+  "char": "乎",
+  "trad": "乎",
+  "level": "hsk3",
+  "unit": 9,
+  "order": 903,
+  "pinyin": [
+   "hū"
+  ],
+  "num": [
+   "hu1"
+  ],
+  "meanings": [
+   "(classical particle similar to 于) in",
+   "at",
+   "from"
+  ],
+  "strokes": 5,
+  "radical": "丿",
+  "components": [
+   "丿",
+   "丷"
+  ],
+  "examples": [
+   "vocab:hsk3:ji1hu1-几乎"
+  ]
+ },
+ {
+  "id": "hanzi:附",
+  "char": "附",
+  "trad": "坿",
+  "level": "hsk3",
+  "unit": 9,
+  "order": 904,
+  "pinyin": [
+   "fù"
+  ],
+  "num": [
+   "fu4"
+  ],
+  "meanings": [
+   "add",
+   "be close to"
+  ],
+  "strokes": 7,
+  "radical": "阝",
+  "components": [
+   "阝",
+   "付"
+  ],
+  "hint": "place",
+  "examples": [
+   "vocab:hsk3:fu4jin4-附近"
+  ]
+ },
+ {
+  "id": "hanzi:脚",
+  "char": "脚",
+  "trad": "腳",
+  "level": "hsk3",
+  "unit": 9,
+  "order": 905,
+  "pinyin": [
+   "jiǎo"
+  ],
+  "num": [
+   "jiao3"
+  ],
+  "meanings": [
+   "foot",
+   "leg (of an animal or an object)",
+   "base (of an object)"
+  ],
+  "strokes": 11,
+  "radical": "⺼",
+  "components": [
+   "⺼",
+   "却"
+  ],
+  "hint": "flesh",
+  "examples": [
+   "vocab:hsk3:jiao3-脚"
+  ]
+ },
+ {
+  "id": "hanzi:主",
+  "char": "主",
+  "trad": "主",
+  "level": "hsk3",
+  "unit": 9,
+  "order": 906,
+  "pinyin": [
+   "zhǔ"
+  ],
+  "num": [
+   "zhu3"
+  ],
+  "meanings": [
+   "owner",
+   "master",
+   "host"
+  ],
+  "strokes": 5,
+  "radical": "丶",
+  "components": [
+   "丶",
+   "王"
+  ],
+  "hint": "A lamp 王 with a flame 丶",
+  "examples": [
+   "vocab:hsk3:zhu3yao4-主要"
+  ]
+ },
+ {
+  "id": "hanzi:遇",
+  "char": "遇",
+  "trad": "遇",
+  "level": "hsk3",
+  "unit": 9,
+  "order": 907,
+  "pinyin": [
+   "yù"
+  ],
+  "num": [
+   "yu4"
+  ],
+  "meanings": [
+   "to meet",
+   "to encounter",
+   "to come across"
+  ],
+  "strokes": 12,
+  "radical": "辶",
+  "components": [
+   "辶",
+   "禺"
+  ],
+  "hint": "walk",
+  "examples": [
+   "vocab:hsk3:yu4dao4-遇到"
+  ]
+ },
+ {
+  "id": "hanzi:轻",
+  "char": "轻",
+  "trad": "輕",
+  "level": "hsk3",
+  "unit": 9,
+  "order": 908,
+  "pinyin": [
+   "qīng"
+  ],
+  "num": [
+   "qing1"
+  ],
+  "meanings": [
+   "light",
+   "easy",
+   "gentle"
+  ],
+  "strokes": 9,
+  "radical": "车",
+  "components": [
+   "车",
+   "又",
+   "工"
+  ],
+  "hint": "cart",
+  "examples": [
+   "vocab:hsk3:nian2qing1-年轻"
+  ]
+ },
+ {
+  "id": "hanzi:久",
+  "char": "久",
+  "trad": "久",
+  "level": "hsk3",
+  "unit": 9,
+  "order": 909,
+  "pinyin": [
+   "jiǔ"
+  ],
+  "num": [
+   "jiu3"
+  ],
+  "meanings": [
+   "(of a period of time) long"
+  ],
+  "strokes": 3,
+  "radical": "丿",
+  "components": [
+   "勹"
+  ],
+  "examples": [
+   "vocab:hsk3:jiu3-久"
+  ]
+ },
+ {
+  "id": "hanzi:画",
+  "char": "画",
+  "trad": "畫",
+  "level": "hsk3",
+  "unit": 9,
+  "order": 910,
+  "pinyin": [
+   "huà"
+  ],
+  "num": [
+   "hua4"
+  ],
+  "meanings": [
+   "draw",
+   "picture",
+   "draw (a line) (variant of 划)"
+  ],
+  "strokes": 8,
+  "radical": "田",
+  "components": [
+   "一",
+   "凵",
+   "田"
+  ],
+  "hint": "A painting on an easel; compare 畫, which includes the brush",
+  "examples": [
+   "vocab:hsk3:hua4-画"
+  ]
+ },
+ {
+  "id": "hanzi:演",
+  "char": "演",
+  "trad": "演",
+  "level": "hsk3",
+  "unit": 9,
+  "order": 911,
+  "pinyin": [
+   "yǎn"
+  ],
+  "num": [
+   "yan3"
+  ],
+  "meanings": [
+   "perform (a play etc)"
+  ],
+  "strokes": 14,
+  "radical": "氵",
+  "components": [
+   "氵",
+   "寅"
+  ],
+  "hint": "water",
+  "examples": [
+   "vocab:hsk3:biao3yan3-表演"
+  ]
+ },
+ {
+  "id": "hanzi:刚",
+  "char": "刚",
+  "trad": "剛",
+  "level": "hsk3",
+  "unit": 9,
+  "order": 912,
+  "pinyin": [
+   "gāng"
+  ],
+  "num": [
+   "gang1"
+  ],
+  "meanings": [
+   "exactly",
+   "barely",
+   "just"
+  ],
+  "strokes": 6,
+  "radical": "刂",
+  "components": [
+   "冈",
+   "刂"
+  ],
+  "hint": "knife",
+  "examples": [
+   "vocab:hsk3:gang1cai2-刚才"
+  ]
+ },
+ {
+  "id": "hanzi:环",
+  "char": "环",
+  "trad": "環",
+  "level": "hsk3",
+  "unit": 9,
+  "order": 913,
+  "pinyin": [
+   "huán"
+  ],
+  "num": [
+   "huan2"
+  ],
+  "meanings": [
+   "ring",
+   "hoop",
+   "loop"
+  ],
+  "strokes": 8,
+  "radical": "王",
+  "components": [
+   "王",
+   "不"
+  ],
+  "hint": "jade",
+  "examples": [
+   "vocab:hsk3:huan2jing4-环境"
+  ]
+ },
+ {
+  "id": "hanzi:境",
+  "char": "境",
+  "trad": "境",
+  "level": "hsk3",
+  "unit": 9,
+  "order": 914,
+  "pinyin": [
+   "jìng"
+  ],
+  "num": [
+   "jing4"
+  ],
+  "meanings": [
+   "border",
+   "place",
+   "condition"
+  ],
+  "strokes": 14,
+  "radical": "土",
+  "components": [
+   "土",
+   "竟"
+  ],
+  "hint": "earth",
+  "examples": [
+   "vocab:hsk3:huan2jing4-环境"
+  ]
+ },
+ {
+  "id": "hanzi:祝",
+  "char": "祝",
+  "trad": "祝",
+  "level": "hsk3",
+  "unit": 10,
+  "order": 1000,
+  "pinyin": [
+   "zhù"
+  ],
+  "num": [
+   "zhu4"
+  ],
+  "meanings": [
+   "pray for",
+   "wish (sb bon voyage, happy birthday etc)",
+   "person who invokes the spirits during sacrificial ceremonies"
+  ],
+  "strokes": 9,
+  "radical": "礻",
+  "components": [
+   "礻",
+   "兄"
+  ],
+  "hint": "A person 兄 praying before an altar 礻",
+  "examples": [
+   "vocab:hsk3:zhu4-祝"
+  ]
+ },
+ {
+  "id": "hanzi:层",
+  "char": "层",
+  "trad": "層",
+  "level": "hsk3",
+  "unit": 10,
+  "order": 1001,
+  "pinyin": [
+   "céng"
+  ],
+  "num": [
+   "ceng2"
+  ],
+  "meanings": [
+   "pile on top of one another",
+   "layer",
+   "floor (of a building)"
+  ],
+  "strokes": 7,
+  "radical": "尸",
+  "components": [
+   "尸",
+   "云"
+  ],
+  "hint": "Simplified form of 層; 曾 provides the pronunciation",
+  "examples": [
+   "vocab:hsk3:ceng2-层"
+  ]
+ },
+ {
+  "id": "hanzi:腿",
+  "char": "腿",
+  "trad": "腿",
+  "level": "hsk3",
+  "unit": 10,
+  "order": 1002,
+  "pinyin": [
+   "tuǐ"
+  ],
+  "num": [
+   "tui3"
+  ],
+  "meanings": [
+   "leg",
+   "hip bone"
+  ],
+  "strokes": 13,
+  "radical": "⺼",
+  "components": [
+   "⺼",
+   "退"
+  ],
+  "hint": "Flesh ⺼ used to walk 退; 退 also provides the pronunciation",
+  "examples": [
+   "vocab:hsk3:tui3-腿"
+  ]
+ },
+ {
+  "id": "hanzi:坏",
+  "char": "坏",
+  "trad": "壞",
+  "level": "hsk3",
+  "unit": 10,
+  "order": 1003,
+  "pinyin": [
+   "huài"
+  ],
+  "num": [
+   "huai4"
+  ],
+  "meanings": [
+   "bad",
+   "spoiled",
+   "broken"
+  ],
+  "strokes": 7,
+  "radical": "土",
+  "components": [
+   "土",
+   "不"
+  ],
+  "hint": "earth",
+  "examples": [
+   "vocab:hsk3:huai4-坏"
+  ]
+ },
+ {
+  "id": "hanzi:鞋",
+  "char": "鞋",
+  "trad": "鞋",
+  "level": "hsk3",
+  "unit": 10,
+  "order": 1004,
+  "pinyin": [
+   "xié"
+  ],
+  "num": [
+   "xie2"
+  ],
+  "meanings": [
+   "shoe"
+  ],
+  "strokes": 15,
+  "radical": "革",
+  "components": [
+   "革",
+   "圭"
+  ],
+  "hint": "leather",
+  "examples": [
+   "vocab:hsk3:xie2-鞋"
+  ]
+ },
+ {
+  "id": "hanzi:惯",
+  "char": "惯",
+  "trad": "慣",
+  "level": "hsk3",
+  "unit": 10,
+  "order": 1005,
+  "pinyin": [
+   "guàn"
+  ],
+  "num": [
+   "guan4"
+  ],
+  "meanings": [
+   "accustomed to",
+   "used to",
+   "indulge"
+  ],
+  "strokes": 11,
+  "radical": "忄",
+  "components": [
+   "忄",
+   "贯"
+  ],
+  "hint": "heart",
+  "examples": [
+   "vocab:hsk3:xi2guan4-习惯"
+  ]
+ },
+ {
+  "id": "hanzi:变",
+  "char": "变",
+  "trad": "變",
+  "level": "hsk3",
+  "unit": 10,
+  "order": 1006,
+  "pinyin": [
+   "biàn"
+  ],
+  "num": [
+   "bian4"
+  ],
+  "meanings": [
+   "change",
+   "become different",
+   "transform"
+  ],
+  "strokes": 8,
+  "radical": "又",
+  "components": [
+   "亦",
+   "又"
+  ],
+  "examples": [
+   "vocab:hsk3:bian4hua4-变化"
+  ]
+ },
+ {
+  "id": "hanzi:化",
+  "char": "化",
+  "trad": "化",
+  "level": "hsk3",
+  "unit": 10,
+  "order": 1007,
+  "pinyin": [
+   "huà"
+  ],
+  "num": [
+   "hua4"
+  ],
+  "meanings": [
+   "make into",
+   "change into",
+   "-ization"
+  ],
+  "strokes": 4,
+  "radical": "匕",
+  "components": [
+   "亻",
+   "匕"
+  ],
+  "examples": [
+   "vocab:hsk3:bian4hua4-变化",
+   "vocab:hsk3:wen2hua4-文化"
+  ]
+ },
+ {
+  "id": "hanzi:周",
+  "char": "周",
+  "trad": "周",
+  "level": "hsk3",
+  "unit": 10,
+  "order": 1008,
+  "pinyin": [
+   "zhōu"
+  ],
+  "num": [
+   "zhou1"
+  ],
+  "meanings": [
+   "make a circuit",
+   "circle",
+   "circumference"
+  ],
+  "strokes": 8,
+  "radical": "口",
+  "components": [
+   "冂",
+   "土",
+   "口"
+  ],
+  "hint": "Border 冂 around land 土 with a well 口",
+  "examples": [
+   "vocab:hsk3:zhou1mo4-周末"
+  ]
+ },
+ {
+  "id": "hanzi:末",
+  "char": "末",
+  "trad": "末",
+  "level": "hsk3",
+  "unit": 10,
+  "order": 1009,
+  "pinyin": [
+   "mò"
+  ],
+  "num": [
+   "mo4"
+  ],
+  "meanings": [
+   "tip",
+   "end",
+   "final stage"
+  ],
+  "strokes": 5,
+  "radical": "木",
+  "components": [
+   "木",
+   "一"
+  ],
+  "hint": "The top 一 of a tree 木",
+  "examples": [
+   "vocab:hsk3:zhou1mo4-周末"
+  ]
+ },
+ {
+  "id": "hanzi:忘",
+  "char": "忘",
+  "trad": "忘",
+  "level": "hsk3",
+  "unit": 10,
+  "order": 1010,
+  "pinyin": [
+   "wàng"
+  ],
+  "num": [
+   "wang4"
+  ],
+  "meanings": [
+   "forget",
+   "overlook",
+   "neglect"
+  ],
+  "strokes": 7,
+  "radical": "心",
+  "components": [
+   "亡",
+   "心"
+  ],
+  "hint": "heart",
+  "examples": [
+   "vocab:hsk3:wang4ji4-忘记"
+  ]
+ },
+ {
+  "id": "hanzi:算",
+  "char": "算",
+  "trad": "算",
+  "level": "hsk3",
+  "unit": 10,
+  "order": 1011,
+  "pinyin": [
+   "suàn"
+  ],
+  "num": [
+   "suan4"
+  ],
+  "meanings": [
+   "calculate",
+   "include",
+   "count"
+  ],
+  "strokes": 14,
+  "radical": "⺮",
+  "components": [
+   "⺮",
+   "具"
+  ],
+  "hint": "A bamboo ⺮ abacus 具",
+  "examples": [
+   "vocab:hsk3:da3suan4-打算"
+  ]
+ },
+ {
+  "id": "hanzi:极",
+  "char": "极",
+  "trad": "極",
+  "level": "hsk3",
+  "unit": 10,
+  "order": 1012,
+  "pinyin": [
+   "jí"
+  ],
+  "num": [
+   "ji2"
+  ],
+  "meanings": [
+   "extremely",
+   "pole (geography, physics)",
+   "utmost"
+  ],
+  "strokes": 7,
+  "radical": "木",
+  "components": [
+   "木",
+   "及"
+  ],
+  "hint": "wood",
+  "examples": [
+   "vocab:hsk3:ji2-极"
+  ]
+ },
+ {
+  "id": "hanzi:举",
+  "char": "举",
+  "trad": "擧",
+  "level": "hsk3",
+  "unit": 10,
+  "order": 1013,
+  "pinyin": [
+   "jǔ"
+  ],
+  "num": [
+   "ju3"
+  ],
+  "meanings": [
+   "lift",
+   "hold up",
+   "cite"
+  ],
+  "strokes": 9,
+  "radical": "丶",
+  "components": [
+   "兴",
+   "扌"
+  ],
+  "hint": "hand",
+  "examples": [
+   "vocab:hsk3:ju3xing2-举行"
+  ]
+ },
+ {
+  "id": "hanzi:物",
+  "char": "物",
+  "trad": "物",
+  "level": "hsk3",
+  "unit": 10,
+  "order": 1014,
+  "pinyin": [
+   "wù"
+  ],
+  "num": [
+   "wu4"
+  ],
+  "meanings": [
+   "thing",
+   "substance",
+   "matter"
+  ],
+  "strokes": 8,
+  "radical": "牛",
+  "components": [
+   "牛",
+   "勿"
+  ],
+  "hint": "ox",
+  "examples": [
+   "vocab:hsk3:dong4wu4-动物",
+   "vocab:hsk3:li3wu4-礼物"
+  ]
+ },
+ {
+  "id": "hanzi:饿",
+  "char": "饿",
+  "trad": "餓",
+  "level": "hsk3",
+  "unit": 11,
+  "order": 1100,
+  "pinyin": [
+   "è"
+  ],
+  "num": [
+   "e4"
+  ],
+  "meanings": [
+   "hungry",
+   "starve (sb)"
+  ],
+  "strokes": 10,
+  "radical": "饣",
+  "components": [
+   "饣",
+   "我"
+  ],
+  "hint": "To want 我 food 饣; 我 also provides the pronunciation",
+  "examples": [
+   "vocab:hsk3:e4-饿"
+  ]
+ },
+ {
+  "id": "hanzi:树",
+  "char": "树",
+  "trad": "樹",
+  "level": "hsk3",
+  "unit": 11,
+  "order": 1101,
+  "pinyin": [
+   "shù"
+  ],
+  "num": [
+   "shu4"
+  ],
+  "meanings": [
+   "tree",
+   "cultivate",
+   "set up"
+  ],
+  "strokes": 9,
+  "radical": "木",
+  "components": [
+   "木",
+   "对"
+  ],
+  "hint": "tree",
+  "examples": [
+   "vocab:hsk3:shu4-树"
+  ]
+ },
+ {
+  "id": "hanzi:平",
+  "char": "平",
+  "trad": "平",
+  "level": "hsk3",
+  "unit": 11,
+  "order": 1102,
+  "pinyin": [
+   "píng"
+  ],
+  "num": [
+   "ping2"
+  ],
+  "meanings": [
+   "flat",
+   "make even",
+   "equal"
+  ],
+  "strokes": 5,
+  "radical": "广",
+  "components": [
+   "干",
+   "丷"
+  ],
+  "hint": "A leveling scale",
+  "examples": [
+   "vocab:hsk3:shui3ping2-水平"
+  ]
+ },
+ {
+  "id": "hanzi:借",
+  "char": "借",
+  "trad": "借",
+  "level": "hsk3",
+  "unit": 11,
+  "order": 1103,
+  "pinyin": [
+   "jiè"
+  ],
+  "num": [
+   "jie4"
+  ],
+  "meanings": [
+   "borrow",
+   "(used in combination with 给 or 出 etc) to lend",
+   "make use of"
+  ],
+  "strokes": 10,
+  "radical": "亻",
+  "components": [
+   "亻",
+   "昔"
+  ],
+  "hint": "person",
+  "examples": [
+   "vocab:hsk3:jie4-借"
+  ]
+ },
+ {
+  "id": "hanzi:头",
+  "char": "头",
+  "trad": "頭",
+  "level": "hsk3",
+  "unit": 11,
+  "order": 1104,
+  "pinyin": [
+   "tóu"
+  ],
+  "num": [
+   "tou2"
+  ],
+  "meanings": [
+   "head",
+   "hair style",
+   "the top"
+  ],
+  "strokes": 5,
+  "radical": "大",
+  "components": [
+   "⺀",
+   "大"
+  ],
+  "hint": "high",
+  "examples": [
+   "vocab:hsk3:tou2fa5-头发"
+  ]
+ },
+ {
+  "id": "hanzi:害",
+  "char": "害",
+  "trad": "害",
+  "level": "hsk3",
+  "unit": 11,
+  "order": 1105,
+  "pinyin": [
+   "hài"
+  ],
+  "num": [
+   "hai4"
+  ],
+  "meanings": [
+   "do harm to",
+   "cause trouble to",
+   "harm"
+  ],
+  "strokes": 10,
+  "radical": "宀",
+  "components": [
+   "宀",
+   "丰",
+   "口"
+  ],
+  "examples": [
+   "vocab:hsk3:hai4pa4-害怕"
+  ]
+ },
+ {
+  "id": "hanzi:怕",
+  "char": "怕",
+  "trad": "怕",
+  "level": "hsk3",
+  "unit": 11,
+  "order": 1106,
+  "pinyin": [
+   "pà"
+  ],
+  "num": [
+   "pa4"
+  ],
+  "meanings": [
+   "be afraid",
+   "fear",
+   "dread"
+  ],
+  "strokes": 8,
+  "radical": "忄",
+  "components": [
+   "忄",
+   "白"
+  ],
+  "hint": "heart",
+  "examples": [
+   "vocab:hsk3:hai4pa4-害怕"
+  ]
+ },
+ {
+  "id": "hanzi:鸟",
+  "char": "鸟",
+  "trad": "鳥",
+  "level": "hsk3",
+  "unit": 11,
+  "order": 1107,
+  "pinyin": [
+   "niǎo"
+  ],
+  "num": [
+   "niao3"
+  ],
+  "meanings": [
+   "bird",
+   "\"bird\" radical in Chinese characters (Kangxi radical 196)",
+   "(intensifier) damned"
+  ],
+  "strokes": 5,
+  "radical": "鸟",
+  "components": [],
+  "hint": "Simplified form of 烏, a bird",
+  "examples": [
+   "vocab:hsk3:niao3-鸟"
+  ]
+ },
+ {
+  "id": "hanzi:蓝",
+  "char": "蓝",
+  "trad": "藍",
+  "level": "hsk3",
+  "unit": 11,
+  "order": 1108,
+  "pinyin": [
+   "lán"
+  ],
+  "num": [
+   "lan2"
+  ],
+  "meanings": [
+   "blue",
+   "indigo plant"
+  ],
+  "strokes": 13,
+  "radical": "艹",
+  "components": [
+   "艹",
+   "监"
+  ],
+  "hint": "plant",
+  "examples": [
+   "vocab:hsk3:lan2-蓝"
+  ]
+ },
+ {
+  "id": "hanzi:顾",
+  "char": "顾",
+  "trad": "顧",
+  "level": "hsk3",
+  "unit": 11,
+  "order": 1109,
+  "pinyin": [
+   "gu"
+  ],
+  "num": [
+   "gu5"
+  ],
+  "meanings": [
+   "look after"
+  ],
+  "strokes": 10,
+  "radical": "页",
+  "components": [
+   "厄",
+   "页"
+  ],
+  "hint": "head",
+  "examples": [
+   "vocab:hsk3:zhao4gu5-照顾"
+  ]
+ },
+ {
+  "id": "hanzi:文",
+  "char": "文",
+  "trad": "文",
+  "level": "hsk3",
+  "unit": 11,
+  "order": 1110,
+  "pinyin": [
+   "wén"
+  ],
+  "num": [
+   "wen2"
+  ],
+  "meanings": [
+   "language",
+   "culture",
+   "writing"
+  ],
+  "strokes": 4,
+  "radical": "文",
+  "components": [
+   "亠",
+   "乂"
+  ],
+  "hint": "A tattooed chest, representing writing",
+  "examples": [
+   "vocab:hsk3:wen2hua4-文化"
+  ]
+ },
+ {
+  "id": "hanzi:疼",
+  "char": "疼",
+  "trad": "疼",
+  "level": "hsk3",
+  "unit": 11,
+  "order": 1111,
+  "pinyin": [
+   "téng"
+  ],
+  "num": [
+   "teng2"
+  ],
+  "meanings": [
+   "(it) hurts",
+   "love dearly"
+  ],
+  "strokes": 10,
+  "radical": "疒",
+  "components": [
+   "疒",
+   "冬"
+  ],
+  "hint": "sickness",
+  "examples": [
+   "vocab:hsk3:teng2-疼"
+  ]
+ },
+ {
+  "id": "hanzi:奇",
+  "char": "奇",
+  "trad": "奇",
+  "level": "hsk3",
+  "unit": 11,
+  "order": 1112,
+  "pinyin": [
+   "qí"
+  ],
+  "num": [
+   "qi2"
+  ],
+  "meanings": [
+   "strange",
+   "odd",
+   "weird"
+  ],
+  "strokes": 8,
+  "radical": "大",
+  "components": [
+   "大",
+   "可"
+  ],
+  "hint": "A person 大 riding a horse 可",
+  "examples": [
+   "vocab:hsk3:qi2guai4-奇怪"
+  ]
+ },
+ {
+  "id": "hanzi:怪",
+  "char": "怪",
+  "trad": "怪",
+  "level": "hsk3",
+  "unit": 11,
+  "order": 1113,
+  "pinyin": [
+   "guài"
+  ],
+  "num": [
+   "guai4"
+  ],
+  "meanings": [
+   "odd",
+   "find strange",
+   "blame"
+  ],
+  "strokes": 8,
+  "radical": "忄",
+  "components": [
+   "忄",
+   "圣"
+  ],
+  "examples": [
+   "vocab:hsk3:qi2guai4-奇怪"
+  ]
+ },
+ {
+  "id": "hanzi:礼",
+  "char": "礼",
+  "trad": "禮",
+  "level": "hsk3",
+  "unit": 11,
+  "order": 1114,
+  "pinyin": [
+   "lǐ"
+  ],
+  "num": [
+   "li3"
+  ],
+  "meanings": [
+   "gift",
+   "rite",
+   "ceremony"
+  ],
+  "strokes": 5,
+  "radical": "礻",
+  "components": [
+   "礻",
+   "乚"
+  ],
+  "hint": "spirit",
+  "examples": [
+   "vocab:hsk3:li3wu4-礼物"
+  ]
+ },
+ {
+  "id": "hanzi:南",
+  "char": "南",
+  "trad": "南",
+  "level": "hsk3",
+  "unit": 12,
+  "order": 1200,
+  "pinyin": [
+   "nán"
+  ],
+  "num": [
+   "nan2"
+  ],
+  "meanings": [
+   "south"
+  ],
+  "strokes": 9,
+  "radical": "十",
+  "components": [
+   "十",
+   "冂",
+   "丷",
+   "干"
+  ],
+  "hint": "A musical bell",
+  "examples": [
+   "vocab:hsk3:nan2-南"
+  ]
+ },
+ {
+  "id": "hanzi:提",
+  "char": "提",
+  "trad": "提",
+  "level": "hsk3",
+  "unit": 12,
+  "order": 1201,
+  "pinyin": [
+   "tí"
+  ],
+  "num": [
+   "ti2"
+  ],
+  "meanings": [
+   "carry (hanging down from the hand)",
+   "lift",
+   "put forward"
+  ],
+  "strokes": 12,
+  "radical": "扌",
+  "components": [
+   "扌",
+   "是"
+  ],
+  "hint": "hand",
+  "examples": [
+   "vocab:hsk3:ti2gao1-提高"
+  ]
+ },
+ {
+  "id": "hanzi:满",
+  "char": "满",
+  "trad": "滿",
+  "level": "hsk3",
+  "unit": 12,
+  "order": 1202,
+  "pinyin": [
+   "mǎn"
+  ],
+  "num": [
+   "man3"
+  ],
+  "meanings": [
+   "fill",
+   "full",
+   "filled"
+  ],
+  "strokes": 13,
+  "radical": "氵",
+  "components": [
+   "氵",
+   "艹",
+   "两"
+  ],
+  "hint": "water",
+  "examples": [
+   "vocab:hsk3:man3yi4-满意"
+  ]
+ },
+ {
+  "id": "hanzi:旧",
+  "char": "旧",
+  "trad": "舊",
+  "level": "hsk3",
+  "unit": 12,
+  "order": 1203,
+  "pinyin": [
+   "jiù"
+  ],
+  "num": [
+   "jiu4"
+  ],
+  "meanings": [
+   "old",
+   "opposite: new 新",
+   "former"
+  ],
+  "strokes": 5,
+  "radical": "日",
+  "components": [
+   "丨",
+   "日"
+  ],
+  "hint": "Older than 丨 the sun 日",
+  "examples": [
+   "vocab:hsk3:jiu4-旧"
+  ]
+ },
+ {
+  "id": "hanzi:黄",
+  "char": "黄",
+  "trad": "黃",
+  "level": "hsk3",
+  "unit": 12,
+  "order": 1204,
+  "pinyin": [
+   "huáng"
+  ],
+  "num": [
+   "huang2"
+  ],
+  "meanings": [
+   "yellow",
+   "pornographic",
+   "fall through"
+  ],
+  "strokes": 11,
+  "radical": "黄",
+  "components": [
+   "由",
+   "八"
+  ],
+  "hint": "A jade pendant",
+  "examples": [
+   "vocab:hsk3:huang2-黄"
+  ]
+ },
+ {
+  "id": "hanzi:理",
+  "char": "理",
+  "trad": "理",
+  "level": "hsk3",
+  "unit": 12,
+  "order": 1205,
+  "pinyin": [
+   "lǐ"
+  ],
+  "num": [
+   "li3"
+  ],
+  "meanings": [
+   "texture",
+   "grain (of wood)",
+   "inner essence"
+  ],
+  "strokes": 11,
+  "radical": "王",
+  "components": [
+   "王",
+   "里"
+  ],
+  "hint": "king",
+  "examples": [
+   "vocab:hsk3:jing1li3-经理"
+  ]
+ },
+ {
+  "id": "hanzi:趣",
+  "char": "趣",
+  "trad": "趣",
+  "level": "hsk3",
+  "unit": 12,
+  "order": 1206,
+  "pinyin": [
+   "qù"
+  ],
+  "num": [
+   "qu4"
+  ],
+  "meanings": [
+   "interesting",
+   "interest"
+  ],
+  "strokes": 15,
+  "radical": "走",
+  "components": [
+   "走",
+   "取"
+  ],
+  "hint": "walk",
+  "examples": [
+   "vocab:hsk3:xing4qu4-兴趣"
+  ]
+ },
+ {
+  "id": "hanzi:绩",
+  "char": "绩",
+  "trad": "績",
+  "level": "hsk3",
+  "unit": 12,
+  "order": 1207,
+  "pinyin": [
+   "jì"
+  ],
+  "num": [
+   "ji4"
+  ],
+  "meanings": [
+   "spin (hemp etc)",
+   "merit",
+   "accomplishment"
+  ],
+  "strokes": 11,
+  "radical": "纟",
+  "components": [
+   "纟",
+   "责"
+  ],
+  "hint": "To complete 纟 one's duties 责; 责 also provides the pronunciation",
+  "examples": [
+   "vocab:hsk3:cheng2ji4-成绩"
+  ]
+ },
+ {
+  "id": "hanzi:聪",
+  "char": "聪",
+  "trad": "聰",
+  "level": "hsk3",
+  "unit": 12,
+  "order": 1208,
+  "pinyin": [
+   "cōng"
+  ],
+  "num": [
+   "cong1"
+  ],
+  "meanings": [
+   "sharp (of sight and hearing)",
+   "intelligent",
+   "clever"
+  ],
+  "strokes": 15,
+  "radical": "耳",
+  "components": [
+   "耳",
+   "总"
+  ],
+  "hint": "ear",
+  "examples": [
+   "vocab:hsk3:cong1ming5-聪明"
+  ]
+ },
+ {
+  "id": "hanzi:灯",
+  "char": "灯",
+  "trad": "燈",
+  "level": "hsk3",
+  "unit": 12,
+  "order": 1209,
+  "pinyin": [
+   "dēng"
+  ],
+  "num": [
+   "deng1"
+  ],
+  "meanings": [
+   "lamp",
+   "light",
+   "lantern"
+  ],
+  "strokes": 6,
+  "radical": "火",
+  "components": [
+   "火",
+   "丁"
+  ],
+  "hint": "fire",
+  "examples": [
+   "vocab:hsk3:deng1-灯"
+  ]
+ },
+ {
+  "id": "hanzi:阳",
+  "char": "阳",
+  "trad": "陽",
+  "level": "hsk3",
+  "unit": 12,
+  "order": 1210,
+  "pinyin": [
+   "yang"
+  ],
+  "num": [
+   "yang5"
+  ],
+  "meanings": [
+   "positive (electric.)",
+   "sun",
+   "male principle (Taoism)"
+  ],
+  "strokes": 6,
+  "radical": "阝",
+  "components": [
+   "阝",
+   "日"
+  ],
+  "hint": "The place 阝 of the sun 日; compare 阴",
+  "examples": [
+   "vocab:hsk3:tai4yang5-太阳"
+  ]
+ },
+ {
+  "id": "hanzi:糖",
+  "char": "糖",
+  "trad": "糖",
+  "level": "hsk3",
+  "unit": 12,
+  "order": 1211,
+  "pinyin": [
+   "táng"
+  ],
+  "num": [
+   "tang2"
+  ],
+  "meanings": [
+   "sugar",
+   "sweets",
+   "candy"
+  ],
+  "strokes": 16,
+  "radical": "米",
+  "components": [
+   "米",
+   "唐"
+  ],
+  "hint": "rice",
+  "examples": [
+   "vocab:hsk3:tang2-糖"
+  ]
+ },
+ {
+  "id": "hanzi:园",
+  "char": "园",
+  "trad": "園",
+  "level": "hsk3",
+  "unit": 12,
+  "order": 1212,
+  "pinyin": [
+   "yuán"
+  ],
+  "num": [
+   "yuan2"
+  ],
+  "meanings": [
+   "land used for growing plants",
+   "site used for public recreation"
+  ],
+  "strokes": 7,
+  "radical": "囗",
+  "components": [
+   "囗",
+   "元"
+  ],
+  "hint": "enclosure",
+  "examples": [
+   "vocab:hsk3:gong1yuan2-公园",
+   "vocab:hsk3:hua1yuan2-花园"
+  ]
+ },
+ {
+  "id": "hanzi:骑",
+  "char": "骑",
+  "trad": "騎",
+  "level": "hsk3",
+  "unit": 12,
+  "order": 1213,
+  "pinyin": [
+   "qí"
+  ],
+  "num": [
+   "qi2"
+  ],
+  "meanings": [
+   "sit astride",
+   "ride (a horse, bike etc)",
+   "classifier for saddle horses"
+  ],
+  "strokes": 11,
+  "radical": "马",
+  "components": [
+   "马",
+   "奇"
+  ],
+  "hint": "horse",
+  "examples": [
+   "vocab:hsk3:qi2-骑"
+  ]
+ },
+ {
+  "id": "hanzi:河",
+  "char": "河",
+  "trad": "河",
+  "level": "hsk3",
+  "unit": 12,
+  "order": 1214,
+  "pinyin": [
+   "hé"
+  ],
+  "num": [
+   "he2"
+  ],
+  "meanings": [
+   "river"
+  ],
+  "strokes": 8,
+  "radical": "氵",
+  "components": [
+   "氵",
+   "可"
+  ],
+  "hint": "water",
+  "examples": [
+   "vocab:hsk3:he2-河"
+  ]
+ },
+ {
+  "id": "hanzi:搬",
+  "char": "搬",
+  "trad": "搬",
+  "level": "hsk3",
+  "unit": 13,
+  "order": 1300,
+  "pinyin": [
+   "bān"
+  ],
+  "num": [
+   "ban1"
+  ],
+  "meanings": [
+   "move (i.e. relocate oneself)",
+   "move (sth relatively heavy or bulky)",
+   "shift"
+  ],
+  "strokes": 13,
+  "radical": "扌",
+  "components": [
+   "扌",
+   "般"
+  ],
+  "hint": "hand",
+  "examples": [
+   "vocab:hsk3:ban1-搬"
+  ]
+ },
+ {
+  "id": "hanzi:舒",
+  "char": "舒",
+  "trad": "舒",
+  "level": "hsk3",
+  "unit": 13,
+  "order": 1301,
+  "pinyin": [
+   "shū"
+  ],
+  "num": [
+   "shu1"
+  ],
+  "meanings": [
+   "stretch",
+   "unfold",
+   "relax"
+  ],
+  "strokes": 12,
+  "radical": "舌",
+  "components": [
+   "舍",
+   "予"
+  ],
+  "hint": "home",
+  "examples": [
+   "vocab:hsk3:shu1fu5-舒服"
+  ]
+ },
+ {
+  "id": "hanzi:育",
+  "char": "育",
+  "trad": "育",
+  "level": "hsk3",
+  "unit": 13,
+  "order": 1302,
+  "pinyin": [
+   "yù"
+  ],
+  "num": [
+   "yu4"
+  ],
+  "meanings": [
+   "have children",
+   "raise or bring up",
+   "educate"
+  ],
+  "strokes": 8,
+  "radical": "⺼",
+  "components": [
+   "亠",
+   "厶",
+   "⺼"
+  ],
+  "hint": "A pregnant woman with a baby ⺼ in her womb",
+  "examples": [
+   "vocab:hsk3:ti3yu4-体育"
+  ]
+ },
+ {
+  "id": "hanzi:角",
+  "char": "角",
+  "trad": "角",
+  "level": "hsk3",
+  "unit": 13,
+  "order": 1303,
+  "pinyin": [
+   "jué"
+  ],
+  "num": [
+   "jue2"
+  ],
+  "meanings": [
+   "role (theater)",
+   "compete",
+   "ancient three legged wine vessel"
+  ],
+  "strokes": 7,
+  "radical": "角",
+  "components": [
+   "⺈",
+   "用"
+  ],
+  "hint": "A rhinoceros or other animal horn",
+  "examples": [
+   "vocab:hsk3:jue2-角"
+  ]
+ },
+ {
+  "id": "hanzi:胖",
+  "char": "胖",
+  "trad": "胖",
+  "level": "hsk3",
+  "unit": 13,
+  "order": 1304,
+  "pinyin": [
+   "pán"
+  ],
+  "num": [
+   "pan2"
+  ],
+  "meanings": [
+   "healthy",
+   "at ease"
+  ],
+  "strokes": 9,
+  "radical": "⺼",
+  "components": [
+   "⺼",
+   "半"
+  ],
+  "hint": "flesh",
+  "examples": [
+   "vocab:hsk3:pan2-胖"
+  ]
+ },
+ {
+  "id": "hanzi:干",
+  "char": "干",
+  "trad": "乹",
+  "level": "hsk3",
+  "unit": 13,
+  "order": 1305,
+  "pinyin": [
+   "gān"
+  ],
+  "num": [
+   "gan1"
+  ],
+  "meanings": [
+   "dry",
+   "dried food",
+   "empty"
+  ],
+  "strokes": 3,
+  "radical": "十",
+  "components": [
+   "一",
+   "十"
+  ],
+  "hint": "A club or axe",
+  "examples": [
+   "vocab:hsk3:gan1jing4-干净"
+  ]
+ },
+ {
+  "id": "hanzi:净",
+  "char": "净",
+  "trad": "凈",
+  "level": "hsk3",
+  "unit": 13,
+  "order": 1306,
+  "pinyin": [
+   "jìng"
+  ],
+  "num": [
+   "jing4"
+  ],
+  "meanings": [
+   "clean",
+   "completely",
+   "only"
+  ],
+  "strokes": 8,
+  "radical": "冫",
+  "components": [
+   "冫",
+   "争"
+  ],
+  "hint": "water",
+  "examples": [
+   "vocab:hsk3:gan1jing4-干净"
+  ]
+ },
+ {
+  "id": "hanzi:草",
+  "char": "草",
+  "trad": "艸",
+  "level": "hsk3",
+  "unit": 13,
+  "order": 1307,
+  "pinyin": [
+   "cǎo"
+  ],
+  "num": [
+   "cao3"
+  ],
+  "meanings": [
+   "grass",
+   "straw",
+   "manuscript"
+  ],
+  "strokes": 9,
+  "radical": "艹",
+  "components": [
+   "艹",
+   "早"
+  ],
+  "hint": "grass",
+  "examples": [
+   "vocab:hsk3:cao3-草"
+  ]
+ },
+ {
+  "id": "hanzi:甜",
+  "char": "甜",
+  "trad": "甜",
+  "level": "hsk3",
+  "unit": 13,
+  "order": 1308,
+  "pinyin": [
+   "tián"
+  ],
+  "num": [
+   "tian2"
+  ],
+  "meanings": [
+   "sweet",
+   "(fig.) pleasant"
+  ],
+  "strokes": 11,
+  "radical": "甘",
+  "components": [
+   "舌",
+   "甘"
+  ],
+  "hint": "Something tasty 甘 to the tongue 舌",
+  "examples": [
+   "vocab:hsk3:tian2-甜"
+  ]
+ },
+ {
+  "id": "hanzi:安",
+  "char": "安",
+  "trad": "安",
+  "level": "hsk3",
+  "unit": 13,
+  "order": 1309,
+  "pinyin": [
+   "ān"
+  ],
+  "num": [
+   "an1"
+  ],
+  "meanings": [
+   "calm",
+   "safe",
+   "content"
+  ],
+  "strokes": 6,
+  "radical": "宀",
+  "components": [
+   "宀",
+   "女"
+  ],
+  "hint": "A woman 女 safe in a house 宀",
+  "examples": [
+   "vocab:hsk3:an1jing4-安静"
+  ]
+ },
+ {
+  "id": "hanzi:静",
+  "char": "静",
+  "trad": "靜",
+  "level": "hsk3",
+  "unit": 13,
+  "order": 1310,
+  "pinyin": [
+   "jìng"
+  ],
+  "num": [
+   "jing4"
+  ],
+  "meanings": [
+   "still",
+   "calm",
+   "quiet"
+  ],
+  "strokes": 14,
+  "radical": "青",
+  "components": [
+   "青",
+   "争"
+  ],
+  "hint": "nature",
+  "examples": [
+   "vocab:hsk3:an1jing4-安静"
+  ]
+ },
+ {
+  "id": "hanzi:业",
+  "char": "业",
+  "trad": "業",
+  "level": "hsk3",
+  "unit": 13,
+  "order": 1311,
+  "pinyin": [
+   "yè"
+  ],
+  "num": [
+   "ye4"
+  ],
+  "meanings": [
+   "line of business",
+   "industry",
+   "occupation"
+  ],
+  "strokes": 5,
+  "radical": "一",
+  "components": [
+   "一"
+  ],
+  "examples": [
+   "vocab:hsk3:zuo4ye4-作业"
+  ]
+ },
+ {
+  "id": "hanzi:瘦",
+  "char": "瘦",
+  "trad": "瘦",
+  "level": "hsk3",
+  "unit": 13,
+  "order": 1312,
+  "pinyin": [
+   "shòu"
+  ],
+  "num": [
+   "shou4"
+  ],
+  "meanings": [
+   "thin",
+   "lose weight",
+   "(of clothing) tight"
+  ],
+  "strokes": 14,
+  "radical": "疒",
+  "components": [
+   "疒",
+   "叟"
+  ],
+  "hint": "sickness",
+  "examples": [
+   "vocab:hsk3:shou4-瘦"
+  ]
+ },
+ {
+  "id": "hanzi:绿",
+  "char": "绿",
+  "trad": "綠",
+  "level": "hsk3",
+  "unit": 13,
+  "order": 1313,
+  "pinyin": [
+   "lǜ"
+  ],
+  "num": [
+   "lü4"
+  ],
+  "meanings": [
+   "green",
+   "(slang) (derived from 绿帽子) to cheat on (one's spouse or boyfriend or girlfriend)"
+  ],
+  "strokes": 11,
+  "radical": "纟",
+  "components": [
+   "纟",
+   "录"
+  ],
+  "hint": "silk",
+  "examples": [
+   "vocab:hsk3:lü4-绿"
+  ]
+ },
+ {
+  "id": "hanzi:啤",
+  "char": "啤",
+  "trad": "啤",
+  "level": "hsk3",
+  "unit": 13,
+  "order": 1314,
+  "pinyin": [
+   "pí"
+  ],
+  "num": [
+   "pi2"
+  ],
+  "meanings": [
+   "beer"
+  ],
+  "strokes": 11,
+  "radical": "口",
+  "components": [
+   "口",
+   "卑"
+  ],
+  "hint": "mouth",
+  "examples": [
+   "vocab:hsk3:pi2jiu3-啤酒"
+  ]
+ },
+ {
+  "id": "hanzi:酒",
+  "char": "酒",
+  "trad": "酒",
+  "level": "hsk3",
+  "unit": 14,
+  "order": 1400,
+  "pinyin": [
+   "jiǔ"
+  ],
+  "num": [
+   "jiu3"
+  ],
+  "meanings": [
+   "wine (esp. rice wine)",
+   "liquor",
+   "spirits"
+  ],
+  "strokes": 10,
+  "radical": "酉",
+  "components": [
+   "氵",
+   "酉"
+  ],
+  "hint": "A jar 酉 of wine 氵; 酉 also provides the pronunciation",
+  "examples": [
+   "vocab:hsk3:pi2jiu3-啤酒"
+  ]
+ },
+ {
+  "id": "hanzi:糕",
+  "char": "糕",
+  "trad": "糕",
+  "level": "hsk3",
+  "unit": 14,
+  "order": 1401,
+  "pinyin": [
+   "gāo"
+  ],
+  "num": [
+   "gao1"
+  ],
+  "meanings": [
+   "cake"
+  ],
+  "strokes": 16,
+  "radical": "米",
+  "components": [
+   "米",
+   "羔"
+  ],
+  "hint": "rice",
+  "examples": [
+   "vocab:hsk3:dan4gao1-蛋糕"
+  ]
+ },
+ {
+  "id": "hanzi:鲜",
+  "char": "鲜",
+  "trad": "尟",
+  "level": "hsk3",
+  "unit": 14,
+  "order": 1402,
+  "pinyin": [
+   "xiān"
+  ],
+  "num": [
+   "xian1"
+  ],
+  "meanings": [
+   "fresh",
+   "bright (in color)",
+   "delicious"
+  ],
+  "strokes": 14,
+  "radical": "鱼",
+  "components": [
+   "鱼",
+   "羊"
+  ],
+  "hint": "fish",
+  "examples": [
+   "vocab:hsk3:xin1xian1-新鲜"
+  ]
+ },
+ {
+  "id": "hanzi:碗",
+  "char": "碗",
+  "trad": "㼝",
+  "level": "hsk3",
+  "unit": 14,
+  "order": 1403,
+  "pinyin": [
+   "wǎn"
+  ],
+  "num": [
+   "wan3"
+  ],
+  "meanings": [
+   "bowl",
+   "cup"
+  ],
+  "strokes": 13,
+  "radical": "石",
+  "components": [
+   "石",
+   "宛"
+  ],
+  "hint": "stone",
+  "examples": [
+   "vocab:hsk3:wan3-碗"
+  ]
+ },
+ {
+  "id": "hanzi:数",
+  "char": "数",
+  "trad": "數",
+  "level": "hsk3",
+  "unit": 14,
+  "order": 1404,
+  "pinyin": [
+   "shù"
+  ],
+  "num": [
+   "shu4"
+  ],
+  "meanings": [
+   "number",
+   "several"
+  ],
+  "strokes": 13,
+  "radical": "攵",
+  "components": [
+   "娄",
+   "攵"
+  ],
+  "hint": "script",
+  "examples": [
+   "vocab:hsk3:shu4xue2-数学"
+  ]
+ },
+ {
+  "id": "hanzi:铁",
+  "char": "铁",
+  "trad": "鐵",
+  "level": "hsk3",
+  "unit": 14,
+  "order": 1405,
+  "pinyin": [
+   "tiě"
+  ],
+  "num": [
+   "tie3"
+  ],
+  "meanings": [
+   "iron (metal)",
+   "arms",
+   "weapons"
+  ],
+  "strokes": 10,
+  "radical": "钅",
+  "components": [
+   "钅",
+   "失"
+  ],
+  "hint": "metal",
+  "examples": [
+   "vocab:hsk3:di4tie3-地铁"
+  ]
+ },
+ {
+  "id": "hanzi:刷",
+  "char": "刷",
+  "trad": "刷",
+  "level": "hsk3",
+  "unit": 14,
+  "order": 1406,
+  "pinyin": [
+   "shuā"
+  ],
+  "num": [
+   "shua1"
+  ],
+  "meanings": [
+   "a brush",
+   "paint",
+   "brush"
+  ],
+  "strokes": 8,
+  "radical": "刂",
+  "components": [
+   "尸",
+   "巾",
+   "刂"
+  ],
+  "hint": "A person bent over 尸 with a towel 巾",
+  "examples": [
+   "vocab:hsk3:shua1-刷"
+  ]
+ },
+ {
+  "id": "hanzi:厨",
+  "char": "厨",
+  "trad": "㕑",
+  "level": "hsk3",
+  "unit": 14,
+  "order": 1407,
+  "pinyin": [
+   "chú"
+  ],
+  "num": [
+   "chu2"
+  ],
+  "meanings": [
+   "kitchen"
+  ],
+  "strokes": 12,
+  "radical": "厂",
+  "components": [
+   "厂",
+   "豆",
+   "寸"
+  ],
+  "hint": "building",
+  "examples": [
+   "vocab:hsk3:chu2fang2-厨房"
+  ]
+ },
+ {
+  "id": "hanzi:练",
+  "char": "练",
+  "trad": "練",
+  "level": "hsk3",
+  "unit": 14,
+  "order": 1408,
+  "pinyin": [
+   "liàn"
+  ],
+  "num": [
+   "lian4"
+  ],
+  "meanings": [
+   "practice",
+   "train",
+   "drill"
+  ],
+  "strokes": 8,
+  "radical": "纟",
+  "components": [
+   "纟",
+   "柬"
+  ],
+  "hint": "thread",
+  "examples": [
+   "vocab:hsk3:lian4xi2-练习"
+  ]
+ },
+ {
+  "id": "hanzi:爷",
+  "char": "爷",
+  "trad": "爺",
+  "level": "hsk3",
+  "unit": 14,
+  "order": 1409,
+  "pinyin": [
+   "yé",
+   "ye"
+  ],
+  "num": [
+   "ye2",
+   "ye5"
+  ],
+  "meanings": [
+   "grandpa",
+   "old gentleman"
+  ],
+  "strokes": 6,
+  "radical": "父",
+  "components": [
+   "父",
+   "卩"
+  ],
+  "hint": "father",
+  "examples": [
+   "vocab:hsk3:ye2ye5-爷爷"
+  ]
+ },
+ {
+  "id": "hanzi:云",
+  "char": "云",
+  "trad": "云",
+  "level": "hsk3",
+  "unit": 14,
+  "order": 1410,
+  "pinyin": [
+   "yún"
+  ],
+  "num": [
+   "yun2"
+  ],
+  "meanings": [
+   "cloud"
+  ],
+  "strokes": 4,
+  "radical": "二",
+  "components": [
+   "二",
+   "厶"
+  ],
+  "hint": "A cloud",
+  "examples": [
+   "vocab:hsk3:yun2-云"
+  ]
+ },
+ {
+  "id": "hanzi:邻",
+  "char": "邻",
+  "trad": "鄰",
+  "level": "hsk3",
+  "unit": 14,
+  "order": 1411,
+  "pinyin": [
+   "lín"
+  ],
+  "num": [
+   "lin2"
+  ],
+  "meanings": [
+   "neighbor",
+   "adjacent",
+   "close to"
+  ],
+  "strokes": 7,
+  "radical": "阝",
+  "components": [
+   "令",
+   "阝"
+  ],
+  "hint": "town",
+  "examples": [
+   "vocab:hsk3:lin2ju1-邻居"
+  ]
+ },
+ {
+  "id": "hanzi:居",
+  "char": "居",
+  "trad": "居",
+  "level": "hsk3",
+  "unit": 14,
+  "order": 1412,
+  "pinyin": [
+   "jū"
+  ],
+  "num": [
+   "ju1"
+  ],
+  "meanings": [
+   "to live",
+   "to reside",
+   "to dwell"
+  ],
+  "strokes": 8,
+  "radical": "户",
+  "components": [
+   "户",
+   "古"
+  ],
+  "hint": "door",
+  "examples": [
+   "vocab:hsk3:lin2ju1-邻居"
+  ]
+ },
+ {
+  "id": "hanzi:耳",
+  "char": "耳",
+  "trad": "耳",
+  "level": "hsk3",
+  "unit": 14,
+  "order": 1413,
+  "pinyin": [
+   "ěr"
+  ],
+  "num": [
+   "er3"
+  ],
+  "meanings": [
+   "ear",
+   "handle (archaeology)",
+   "and that is all (Classical Chinese)"
+  ],
+  "strokes": 6,
+  "radical": "耳",
+  "components": [
+   "二"
+  ],
+  "hint": "An ear",
+  "examples": [
+   "vocab:hsk3:er3duo5-耳朵"
+  ]
+ },
+ {
+  "id": "hanzi:朵",
+  "char": "朵",
+  "trad": "朵",
+  "level": "hsk3",
+  "unit": 14,
+  "order": 1414,
+  "pinyin": [
+   "duo"
+  ],
+  "num": [
+   "duo5"
+  ],
+  "meanings": [
+   "flower",
+   "earlobe",
+   "fig. item on both sides"
+  ],
+  "strokes": 6,
+  "radical": "木",
+  "components": [
+   "几",
+   "木"
+  ],
+  "hint": "Flowers 几 blooming on a tree 木",
+  "examples": [
+   "vocab:hsk3:er3duo5-耳朵"
+  ]
+ },
+ {
+  "id": "hanzi:鼻",
+  "char": "鼻",
+  "trad": "鼻",
+  "level": "hsk3",
+  "unit": 15,
+  "order": 1500,
+  "pinyin": [
+   "bí"
+  ],
+  "num": [
+   "bi2"
+  ],
+  "meanings": [
+   "nose"
+  ],
+  "strokes": 14,
+  "radical": "鼻",
+  "components": [
+   "自",
+   "畀"
+  ],
+  "hint": "self",
+  "examples": [
+   "vocab:hsk3:bi2zi5-鼻子"
+  ]
+ },
+ {
+  "id": "hanzi:叔",
+  "char": "叔",
+  "trad": "叔",
+  "level": "hsk3",
+  "unit": 15,
+  "order": 1501,
+  "pinyin": [
+   "shū",
+   "shu"
+  ],
+  "num": [
+   "shu1",
+   "shu5"
+  ],
+  "meanings": [
+   "uncle",
+   "father's younger brother",
+   "husband's younger brother"
+  ],
+  "strokes": 8,
+  "radical": "又",
+  "components": [
+   "上",
+   "小",
+   "又"
+  ],
+  "hint": "The smaller 小 brother",
+  "examples": [
+   "vocab:hsk3:shu1shu5-叔叔"
+  ]
+ },
+ {
+  "id": "hanzi:澡",
+  "char": "澡",
+  "trad": "澡",
+  "level": "hsk3",
+  "unit": 15,
+  "order": 1502,
+  "pinyin": [
+   "zǎo"
+  ],
+  "num": [
+   "zao3"
+  ],
+  "meanings": [
+   "bath"
+  ],
+  "strokes": 16,
+  "radical": "氵",
+  "components": [
+   "氵",
+   "喿"
+  ],
+  "hint": "water",
+  "examples": [
+   "vocab:hsk3:xi3zao3-洗澡"
+  ]
+ },
+ {
+  "id": "hanzi:图",
+  "char": "图",
+  "trad": "圖",
+  "level": "hsk3",
+  "unit": 15,
+  "order": 1503,
+  "pinyin": [
+   "tú"
+  ],
+  "num": [
+   "tu2"
+  ],
+  "meanings": [
+   "diagram",
+   "picture",
+   "drawing"
+  ],
+  "strokes": 8,
+  "radical": "囗",
+  "components": [
+   "囗",
+   "冬"
+  ],
+  "hint": "Simplified form of 圖; a map of a district's 啚 borders 囗",
+  "examples": [
+   "vocab:hsk3:di4tu2-地图",
+   "vocab:hsk3:tu2shu1guan3-图书馆"
+  ]
+ },
+ {
+  "id": "hanzi:帽",
+  "char": "帽",
+  "trad": "㡌",
+  "level": "hsk3",
+  "unit": 15,
+  "order": 1504,
+  "pinyin": [
+   "mào"
+  ],
+  "num": [
+   "mao4"
+  ],
+  "meanings": [
+   "hat",
+   "cap"
+  ],
+  "strokes": 12,
+  "radical": "巾",
+  "components": [
+   "巾",
+   "冒"
+  ],
+  "hint": "towel",
+  "examples": [
+   "vocab:hsk3:mao4zi5-帽子"
+  ]
+ },
+ {
+  "id": "hanzi:街",
+  "char": "街",
+  "trad": "街",
+  "level": "hsk3",
+  "unit": 15,
+  "order": 1505,
+  "pinyin": [
+   "jiē"
+  ],
+  "num": [
+   "jie1"
+  ],
+  "meanings": [
+   "street"
+  ],
+  "strokes": 12,
+  "radical": "行",
+  "components": [
+   "行",
+   "圭"
+  ],
+  "hint": "walk",
+  "examples": [
+   "vocab:hsk3:jie1dao4-街道"
+  ]
+ },
+ {
+  "id": "hanzi:感",
+  "char": "感",
+  "trad": "感",
+  "level": "hsk3",
+  "unit": 15,
+  "order": 1506,
+  "pinyin": [
+   "gǎn"
+  ],
+  "num": [
+   "gan3"
+  ],
+  "meanings": [
+   "feel",
+   "move",
+   "touch"
+  ],
+  "strokes": 13,
+  "radical": "心",
+  "components": [
+   "咸",
+   "心"
+  ],
+  "hint": "Two hearts 心 beating together 咸",
+  "examples": [
+   "vocab:hsk3:gan3mao4-感冒"
+  ]
+ },
+ {
+  "id": "hanzi:冒",
+  "char": "冒",
+  "trad": "冐",
+  "level": "hsk3",
+  "unit": 15,
+  "order": 1507,
+  "pinyin": [
+   "mào"
+  ],
+  "num": [
+   "mao4"
+  ],
+  "meanings": [
+   "emit",
+   "brave",
+   "falsely adopt (sb's identity etc)"
+  ],
+  "strokes": 9,
+  "radical": "冂",
+  "components": [
+   "日",
+   "目"
+  ],
+  "examples": [
+   "vocab:hsk3:gan3mao4-感冒"
+  ]
+ },
+ {
+  "id": "hanzi:迟",
+  "char": "迟",
+  "trad": "遲",
+  "level": "hsk3",
+  "unit": 15,
+  "order": 1508,
+  "pinyin": [
+   "chí"
+  ],
+  "num": [
+   "chi2"
+  ],
+  "meanings": [
+   "late",
+   "delayed",
+   "slow"
+  ],
+  "strokes": 7,
+  "radical": "辶",
+  "components": [
+   "辶",
+   "尺"
+  ],
+  "hint": "walk",
+  "examples": [
+   "vocab:hsk3:chi2dao4-迟到"
+  ]
+ },
+ {
+  "id": "hanzi:刻",
+  "char": "刻",
+  "trad": "刻",
+  "level": "hsk3",
+  "unit": 15,
+  "order": 1509,
+  "pinyin": [
+   "kè"
+  ],
+  "num": [
+   "ke4"
+  ],
+  "meanings": [
+   "quarter (hour)",
+   "moment",
+   "carve"
+  ],
+  "strokes": 8,
+  "radical": "刂",
+  "components": [
+   "亥",
+   "刂"
+  ],
+  "hint": "knife",
+  "examples": [
+   "vocab:hsk3:ke4-刻"
+  ]
+ },
+ {
+  "id": "hanzi:锻",
+  "char": "锻",
+  "trad": "鍛",
+  "level": "hsk3",
+  "unit": 15,
+  "order": 1510,
+  "pinyin": [
+   "duàn"
+  ],
+  "num": [
+   "duan4"
+  ],
+  "meanings": [
+   "forge",
+   "discipline",
+   "wrought"
+  ],
+  "strokes": 14,
+  "radical": "钅",
+  "components": [
+   "钅",
+   "段"
+  ],
+  "hint": "metal",
+  "examples": [
+   "vocab:hsk3:duan4lian4-锻炼"
+  ]
+ },
+ {
+  "id": "hanzi:炼",
+  "char": "炼",
+  "trad": "煉",
+  "level": "hsk3",
+  "unit": 15,
+  "order": 1511,
+  "pinyin": [
+   "liàn"
+  ],
+  "num": [
+   "lian4"
+  ],
+  "meanings": [
+   "refine",
+   "heat or forge (in fire)",
+   "polish (wording)"
+  ],
+  "strokes": 9,
+  "radical": "火",
+  "components": [
+   "火",
+   "柬"
+  ],
+  "hint": "fire",
+  "examples": [
+   "vocab:hsk3:duan4lian4-锻炼"
+  ]
+ },
+ {
+  "id": "hanzi:裤",
+  "char": "裤",
+  "trad": "袴",
+  "level": "hsk3",
+  "unit": 15,
+  "order": 1512,
+  "pinyin": [
+   "kù"
+  ],
+  "num": [
+   "ku4"
+  ],
+  "meanings": [
+   "underpants",
+   "trousers",
+   "pants"
+  ],
+  "strokes": 12,
+  "radical": "衤",
+  "components": [
+   "衤",
+   "库"
+  ],
+  "hint": "clothes",
+  "examples": [
+   "vocab:hsk3:ku4zi5-裤子"
+  ]
+ },
+ {
+  "id": "hanzi:夏",
+  "char": "夏",
+  "trad": "夏",
+  "level": "hsk3",
+  "unit": 15,
+  "order": 1513,
+  "pinyin": [
+   "xià"
+  ],
+  "num": [
+   "xia4"
+  ],
+  "meanings": [
+   "summer"
+  ],
+  "strokes": 10,
+  "radical": "夊",
+  "components": [
+   "一",
+   "自",
+   "夂"
+  ],
+  "examples": [
+   "vocab:hsk3:xia4-夏"
+  ]
+ },
+ {
+  "id": "hanzi:梯",
+  "char": "梯",
+  "trad": "梯",
+  "level": "hsk3",
+  "unit": 15,
+  "order": 1514,
+  "pinyin": [
+   "tī"
+  ],
+  "num": [
+   "ti1"
+  ],
+  "meanings": [
+   "ladder",
+   "steps",
+   "stairs"
+  ],
+  "strokes": 11,
+  "radical": "木",
+  "components": [
+   "木",
+   "弟"
+  ],
+  "hint": "wood",
+  "examples": [
+   "vocab:hsk3:dian4ti1-电梯"
+  ]
+ },
+ {
+  "id": "hanzi:刮",
+  "char": "刮",
+  "trad": "刮",
+  "level": "hsk3",
+  "unit": 16,
+  "order": 1600,
+  "pinyin": [
+   "guā"
+  ],
+  "num": [
+   "gua1"
+  ],
+  "meanings": [
+   "scrape",
+   "blow",
+   "shave"
+  ],
+  "strokes": 8,
+  "radical": "刂",
+  "components": [
+   "舌",
+   "刂"
+  ],
+  "hint": "knife",
+  "examples": [
+   "vocab:hsk3:gua1-刮"
+  ]
+ },
+ {
+  "id": "hanzi:矮",
+  "char": "矮",
+  "trad": "矮",
+  "level": "hsk3",
+  "unit": 16,
+  "order": 1601,
+  "pinyin": [
+   "ǎi"
+  ],
+  "num": [
+   "ai3"
+  ],
+  "meanings": [
+   "(of a person) short",
+   "(of a wall etc) low",
+   "(of rank) inferior (to)"
+  ],
+  "strokes": 13,
+  "radical": "矢",
+  "components": [
+   "矢",
+   "委"
+  ],
+  "hint": "dart",
+  "examples": [
+   "vocab:hsk3:ai3-矮"
+  ]
+ },
+ {
+  "id": "hanzi:镜",
+  "char": "镜",
+  "trad": "鏡",
+  "level": "hsk3",
+  "unit": 16,
+  "order": 1602,
+  "pinyin": [
+   "jìng"
+  ],
+  "num": [
+   "jing4"
+  ],
+  "meanings": [
+   "mirror",
+   "lens"
+  ],
+  "strokes": 16,
+  "radical": "钅",
+  "components": [
+   "钅",
+   "竟"
+  ],
+  "hint": "metal",
+  "examples": [
+   "vocab:hsk3:yan3jing4-眼镜"
+  ]
+ },
+ {
+  "id": "hanzi:网",
+  "char": "网",
+  "trad": "網",
+  "level": "hsk3",
+  "unit": 16,
+  "order": 1603,
+  "pinyin": [
+   "wǎng"
+  ],
+  "num": [
+   "wang3"
+  ],
+  "meanings": [
+   "net",
+   "network"
+  ],
+  "strokes": 6,
+  "radical": "网",
+  "components": [
+   "冂",
+   "乂"
+  ],
+  "hint": "A net for catching fish",
+  "examples": [
+   "vocab:hsk3:shang4wang3-上网"
+  ]
+ },
+ {
+  "id": "hanzi:春",
+  "char": "春",
+  "trad": "旾",
+  "level": "hsk3",
+  "unit": 16,
+  "order": 1604,
+  "pinyin": [
+   "chūn"
+  ],
+  "num": [
+   "chun1"
+  ],
+  "meanings": [
+   "spring (season)",
+   "gay",
+   "joyful"
+  ],
+  "strokes": 9,
+  "radical": "日",
+  "components": [
+   "日"
+  ],
+  "hint": "sun",
+  "examples": [
+   "vocab:hsk3:chun1-春"
+  ]
+ },
+ {
+  "id": "hanzi:冰",
+  "char": "冰",
+  "trad": "冰",
+  "level": "hsk3",
+  "unit": 16,
+  "order": 1605,
+  "pinyin": [
+   "bīng"
+  ],
+  "num": [
+   "bing1"
+  ],
+  "meanings": [
+   "ice",
+   "chill sth",
+   "(of an object or substance) to feel cold"
+  ],
+  "strokes": 6,
+  "radical": "冫",
+  "components": [
+   "冫",
+   "水"
+  ],
+  "hint": "Ice-cold冫 water 水",
+  "examples": [
+   "vocab:hsk3:bing1xiang1-冰箱"
+  ]
+ },
+ {
+  "id": "hanzi:箱",
+  "char": "箱",
+  "trad": "箱",
+  "level": "hsk3",
+  "unit": 16,
+  "order": 1606,
+  "pinyin": [
+   "xiāng"
+  ],
+  "num": [
+   "xiang1"
+  ],
+  "meanings": [
+   "box",
+   "trunk",
+   "chest"
+  ],
+  "strokes": 15,
+  "radical": "⺮",
+  "components": [
+   "⺮",
+   "相"
+  ],
+  "hint": "bamboo",
+  "examples": [
+   "vocab:hsk3:bing1xiang1-冰箱",
+   "vocab:hsk3:xing2li5xiang1-行李箱"
+  ]
+ },
+ {
+  "id": "hanzi:阿",
+  "char": "阿",
+  "trad": "阿",
+  "level": "hsk3",
+  "unit": 16,
+  "order": 1607,
+  "pinyin": [
+   "ā"
+  ],
+  "num": [
+   "a1"
+  ],
+  "meanings": [
+   "prefix used before monosyllabic names, kinship terms etc to indicate familiarity"
+  ],
+  "strokes": 7,
+  "radical": "阝",
+  "components": [
+   "阝",
+   "可"
+  ],
+  "hint": "place",
+  "examples": [
+   "vocab:hsk3:a1yi2-阿姨"
+  ]
+ },
+ {
+  "id": "hanzi:姨",
+  "char": "姨",
+  "trad": "姨",
+  "level": "hsk3",
+  "unit": 16,
+  "order": 1608,
+  "pinyin": [
+   "yí"
+  ],
+  "num": [
+   "yi2"
+  ],
+  "meanings": [
+   "mother's sister",
+   "aunt"
+  ],
+  "strokes": 9,
+  "radical": "女",
+  "components": [
+   "女",
+   "夷"
+  ],
+  "hint": "woman",
+  "examples": [
+   "vocab:hsk3:a1yi2-阿姨"
+  ]
+ },
+ {
+  "id": "hanzi:超",
+  "char": "超",
+  "trad": "超",
+  "level": "hsk3",
+  "unit": 16,
+  "order": 1609,
+  "pinyin": [
+   "chāo"
+  ],
+  "num": [
+   "chao1"
+  ],
+  "meanings": [
+   "exceed",
+   "overtake",
+   "surpass"
+  ],
+  "strokes": 12,
+  "radical": "走",
+  "components": [
+   "走",
+   "召"
+  ],
+  "hint": "run",
+  "examples": [
+   "vocab:hsk3:chao1shi4-超市"
+  ]
+ },
+ {
+  "id": "hanzi:急",
+  "char": "急",
+  "trad": "急",
+  "level": "hsk3",
+  "unit": 16,
+  "order": 1610,
+  "pinyin": [
+   "jí"
+  ],
+  "num": [
+   "ji2"
+  ],
+  "meanings": [
+   "urgent",
+   "pressing",
+   "rapid"
+  ],
+  "strokes": 9,
+  "radical": "心",
+  "components": [
+   "刍",
+   "心"
+  ],
+  "hint": "heart",
+  "examples": [
+   "vocab:hsk3:zhao2ji2-着急"
+  ]
+ },
+ {
+  "id": "hanzi:季",
+  "char": "季",
+  "trad": "季",
+  "level": "hsk3",
+  "unit": 16,
+  "order": 1611,
+  "pinyin": [
+   "jì"
+  ],
+  "num": [
+   "ji4"
+  ],
+  "meanings": [
+   "season",
+   "the last month of a season",
+   "fourth or youngest amongst brothers"
+  ],
+  "strokes": 8,
+  "radical": "子",
+  "components": [
+   "禾",
+   "子"
+  ],
+  "hint": "The time for planting seeds 子 of grain 禾",
+  "examples": [
+   "vocab:hsk3:ji4jie2-季节"
+  ]
+ },
+ {
+  "id": "hanzi:饱",
+  "char": "饱",
+  "trad": "飽",
+  "level": "hsk3",
+  "unit": 16,
+  "order": 1612,
+  "pinyin": [
+   "bǎo"
+  ],
+  "num": [
+   "bao3"
+  ],
+  "meanings": [
+   "eat till full",
+   "satisfied"
+  ],
+  "strokes": 8,
+  "radical": "饣",
+  "components": [
+   "饣",
+   "包"
+  ],
+  "hint": "food",
+  "examples": [
+   "vocab:hsk3:bao3-饱"
+  ]
+ },
+ {
+  "id": "hanzi:空",
+  "char": "空",
+  "trad": "空",
+  "level": "hsk3",
+  "unit": 16,
+  "order": 1613,
+  "pinyin": [
+   "kōng"
+  ],
+  "num": [
+   "kong1"
+  ],
+  "meanings": [
+   "empty",
+   "air",
+   "sky"
+  ],
+  "strokes": 8,
+  "radical": "穴",
+  "components": [
+   "穴",
+   "工"
+  ],
+  "hint": "cave",
+  "examples": [
+   "vocab:hsk3:kong1tiao2-空调"
+  ]
+ },
+ {
+  "id": "hanzi:调",
+  "char": "调",
+  "trad": "調",
+  "level": "hsk3",
+  "unit": 16,
+  "order": 1614,
+  "pinyin": [
+   "tiáo"
+  ],
+  "num": [
+   "tiao2"
+  ],
+  "meanings": [
+   "harmonize",
+   "reconcile",
+   "blend"
+  ],
+  "strokes": 10,
+  "radical": "讠",
+  "components": [
+   "讠",
+   "周"
+  ],
+  "hint": "speech",
+  "examples": [
+   "vocab:hsk3:kong1tiao2-空调"
+  ]
+ },
+ {
+  "id": "hanzi:衬",
+  "char": "衬",
+  "trad": "襯",
+  "level": "hsk3",
+  "unit": 17,
+  "order": 1700,
+  "pinyin": [
+   "chèn"
+  ],
+  "num": [
+   "chen4"
+  ],
+  "meanings": [
+   "(of garments) against the skin",
+   "line",
+   "lining"
+  ],
+  "strokes": 8,
+  "radical": "衤",
+  "components": [
+   "衤",
+   "寸"
+  ],
+  "hint": "clothes",
+  "examples": [
+   "vocab:hsk3:chen4shan1-衬衫"
+  ]
+ },
+ {
+  "id": "hanzi:衫",
+  "char": "衫",
+  "trad": "衫",
+  "level": "hsk3",
+  "unit": 17,
+  "order": 1701,
+  "pinyin": [
+   "shān"
+  ],
+  "num": [
+   "shan1"
+  ],
+  "meanings": [
+   "garment",
+   "jacket with open slits in place of sleeves"
+  ],
+  "strokes": 8,
+  "radical": "衤",
+  "components": [
+   "衤",
+   "彡"
+  ],
+  "hint": "clothes",
+  "examples": [
+   "vocab:hsk3:chen4shan1-衬衫"
+  ]
+ },
+ {
+  "id": "hanzi:宾",
+  "char": "宾",
+  "trad": "賓",
+  "level": "hsk3",
+  "unit": 17,
+  "order": 1702,
+  "pinyin": [
+   "bīn"
+  ],
+  "num": [
+   "bin1"
+  ],
+  "meanings": [
+   "visitor",
+   "guest",
+   "object (in grammar)"
+  ],
+  "strokes": 10,
+  "radical": "宀",
+  "components": [
+   "宀",
+   "兵"
+  ],
+  "hint": "A solider 兵 quartered under one's roof 宀",
+  "examples": [
+   "vocab:hsk3:bin1guan3-宾馆"
+  ]
+ },
+ {
+  "id": "hanzi:冬",
+  "char": "冬",
+  "trad": "冬",
+  "level": "hsk3",
+  "unit": 17,
+  "order": 1703,
+  "pinyin": [
+   "dōng"
+  ],
+  "num": [
+   "dong1"
+  ],
+  "meanings": [
+   "winter",
+   "rat-a-tat"
+  ],
+  "strokes": 5,
+  "radical": "⺀",
+  "components": [
+   "夂",
+   "⺀"
+  ],
+  "hint": "A man walking 夂 on ice ⺀",
+  "examples": [
+   "vocab:hsk3:dong1-冬"
+  ]
+ },
+ {
+  "id": "hanzi:裙",
+  "char": "裙",
+  "trad": "帬",
+  "level": "hsk3",
+  "unit": 17,
+  "order": 1704,
+  "pinyin": [
+   "qún"
+  ],
+  "num": [
+   "qun2"
+  ],
+  "meanings": [
+   "skirt",
+   "petticoat",
+   "apron"
+  ],
+  "strokes": 12,
+  "radical": "衤",
+  "components": [
+   "衤",
+   "君"
+  ],
+  "hint": "clothes",
+  "examples": [
+   "vocab:hsk3:qun2zi5-裙子"
+  ]
+ },
+ {
+  "id": "hanzi:香",
+  "char": "香",
+  "trad": "香",
+  "level": "hsk3",
+  "unit": 17,
+  "order": 1705,
+  "pinyin": [
+   "xiāng"
+  ],
+  "num": [
+   "xiang1"
+  ],
+  "meanings": [
+   "fragrant",
+   "sweet smelling",
+   "aromatic"
+  ],
+  "strokes": 9,
+  "radical": "香",
+  "components": [
+   "禾",
+   "日"
+  ],
+  "hint": "A herb 禾 with a sweet 甘 smell",
+  "examples": [
+   "vocab:hsk3:xiang1jiao1-香蕉"
+  ]
+ },
+ {
+  "id": "hanzi:蕉",
+  "char": "蕉",
+  "trad": "蕉",
+  "level": "hsk3",
+  "unit": 17,
+  "order": 1706,
+  "pinyin": [
+   "jiāo"
+  ],
+  "num": [
+   "jiao1"
+  ],
+  "meanings": [
+   "banana"
+  ],
+  "strokes": 15,
+  "radical": "艹",
+  "components": [
+   "艹",
+   "焦"
+  ],
+  "hint": "plant",
+  "examples": [
+   "vocab:hsk3:xiang1jiao1-香蕉"
+  ]
+ },
+ {
+  "id": "hanzi:秋",
+  "char": "秋",
+  "trad": "秋",
+  "level": "hsk3",
+  "unit": 17,
+  "order": 1707,
+  "pinyin": [
+   "qiū"
+  ],
+  "num": [
+   "qiu1"
+  ],
+  "meanings": [
+   "autumn",
+   "fall",
+   "harvest time"
+  ],
+  "strokes": 9,
+  "radical": "禾",
+  "components": [
+   "禾",
+   "火"
+  ],
+  "hint": "The time of year when farmers would burn 禾 crops 火",
+  "examples": [
+   "vocab:hsk3:qiu1-秋"
+  ]
+ },
+ {
+  "id": "hanzi:烧",
+  "char": "烧",
+  "trad": "燒",
+  "level": "hsk3",
+  "unit": 17,
+  "order": 1708,
+  "pinyin": [
+   "shāo"
+  ],
+  "num": [
+   "shao1"
+  ],
+  "meanings": [
+   "burn",
+   "heat (over a fire)",
+   "braise"
+  ],
+  "strokes": 10,
+  "radical": "火",
+  "components": [
+   "火",
+   "尧"
+  ],
+  "hint": "fire",
+  "examples": [
+   "vocab:hsk3:fa1shao1-发烧"
+  ]
+ },
+ {
+  "id": "hanzi:伞",
+  "char": "伞",
+  "trad": "傘",
+  "level": "hsk3",
+  "unit": 17,
+  "order": 1709,
+  "pinyin": [
+   "sǎn"
+  ],
+  "num": [
+   "san3"
+  ],
+  "meanings": [
+   "umbrella",
+   "parasol",
+   "damask silk"
+  ],
+  "strokes": 6,
+  "radical": "人",
+  "components": [
+   "人"
+  ],
+  "hint": "An umbrella",
+  "examples": [
+   "vocab:hsk3:san3-伞"
+  ]
+ },
+ {
+  "id": "hanzi:扫",
+  "char": "扫",
+  "trad": "掃",
+  "level": "hsk3",
+  "unit": 17,
+  "order": 1710,
+  "pinyin": [
+   "sǎo"
+  ],
+  "num": [
+   "sao3"
+  ],
+  "meanings": [
+   "sweep (with a brush or broom)",
+   "sweep away",
+   "sweep (one's eyes etc) over"
+  ],
+  "strokes": 6,
+  "radical": "扌",
+  "components": [
+   "扌",
+   "彐"
+  ],
+  "hint": "Simplified form of 掃; to use 扌 a broom 帚; 帚 also provides the pronunciation",
+  "examples": [
+   "vocab:hsk3:da3sao3-打扫"
+  ]
+ },
+ {
+  "id": "hanzi:葡",
+  "char": "葡",
+  "trad": "葡",
+  "level": "hsk3",
+  "unit": 17,
+  "order": 1711,
+  "pinyin": [
+   "pú"
+  ],
+  "num": [
+   "pu2"
+  ],
+  "meanings": [
+   "grapes",
+   "Portugal",
+   "Portuguese"
+  ],
+  "strokes": 12,
+  "radical": "艹",
+  "components": [
+   "艹",
+   "匍"
+  ],
+  "hint": "plant",
+  "examples": [
+   "vocab:hsk3:pu2tao5-葡萄"
+  ]
+ },
+ {
+  "id": "hanzi:萄",
+  "char": "萄",
+  "trad": "萄",
+  "level": "hsk3",
+  "unit": 17,
+  "order": 1712,
+  "pinyin": [
+   "tao"
+  ],
+  "num": [
+   "tao5"
+  ],
+  "meanings": [
+   "grapes"
+  ],
+  "strokes": 11,
+  "radical": "艹",
+  "components": [
+   "艹",
+   "匋"
+  ],
+  "hint": "plant",
+  "examples": [
+   "vocab:hsk3:pu2tao5-葡萄"
+  ]
+ },
+ {
+  "id": "hanzi:复",
+  "char": "复",
+  "trad": "復",
+  "level": "hsk3",
+  "unit": 17,
+  "order": 1713,
+  "pinyin": [
+   "fù"
+  ],
+  "num": [
+   "fu4"
+  ],
+  "meanings": [
+   "go and return",
+   "return",
+   "resume"
+  ],
+  "strokes": 9,
+  "radical": "夊",
+  "components": [
+   "亻",
+   "日",
+   "夂"
+  ],
+  "hint": "A person 亻 who goes  somewhere 夂 every day 日",
+  "examples": [
+   "vocab:hsk3:fu4xi2-复习"
+  ]
+ },
+ {
+  "id": "hanzi:熊",
+  "char": "熊",
+  "trad": "熊",
+  "level": "hsk3",
+  "unit": 17,
+  "order": 1714,
+  "pinyin": [
+   "xióng"
+  ],
+  "num": [
+   "xiong2"
+  ],
+  "meanings": [
+   "bear",
+   "(coll.) to scold",
+   "(coll.) weak"
+  ],
+  "strokes": 14,
+  "radical": "灬",
+  "components": [
+   "能",
+   "灬"
+  ],
+  "hint": "A bear's 能 footprints 灬",
+  "examples": [
+   "vocab:hsk3:xiong2mao1-熊猫"
+  ]
+ },
+ {
+  "id": "hanzi:护",
+  "char": "护",
+  "trad": "護",
+  "level": "hsk3",
+  "unit": 18,
+  "order": 1800,
+  "pinyin": [
+   "hù"
+  ],
+  "num": [
+   "hu4"
+  ],
+  "meanings": [
+   "defend (sb) out of partiality"
+  ],
+  "strokes": 7,
+  "radical": "扌",
+  "components": [
+   "扌",
+   "户"
+  ],
+  "hint": "Guarding 扌 a home 户; 户 also provides the pronunciation",
+  "examples": [
+   "vocab:hsk3:hu4zhao4-护照"
+  ]
+ },
+ {
+  "id": "hanzi:级",
+  "char": "级",
+  "trad": "級",
+  "level": "hsk3",
+  "unit": 18,
+  "order": 1801,
+  "pinyin": [
+   "jí"
+  ],
+  "num": [
+   "ji2"
+  ],
+  "meanings": [
+   "level",
+   "grade",
+   "rank"
+  ],
+  "strokes": 6,
+  "radical": "纟",
+  "components": [
+   "纟",
+   "及"
+  ],
+  "hint": "silk",
+  "examples": [
+   "vocab:hsk3:nian2ji2-年级"
+  ]
+ },
+ {
+  "id": "hanzi:汁",
+  "char": "汁",
+  "trad": "汁",
+  "level": "hsk3",
+  "unit": 18,
+  "order": 1802,
+  "pinyin": [
+   "zhī"
+  ],
+  "num": [
+   "zhi1"
+  ],
+  "meanings": [
+   "juice"
+  ],
+  "strokes": 5,
+  "radical": "氵",
+  "components": [
+   "氵",
+   "十"
+  ],
+  "hint": "water",
+  "examples": [
+   "vocab:hsk3:guo3zhi1-果汁"
+  ]
+ },
+ {
+  "id": "hanzi:盘",
+  "char": "盘",
+  "trad": "盤",
+  "level": "hsk3",
+  "unit": 18,
+  "order": 1803,
+  "pinyin": [
+   "pán"
+  ],
+  "num": [
+   "pan2"
+  ],
+  "meanings": [
+   "tray",
+   "(finance) (bound form) market prices",
+   "(computing) (bound form) disk"
+  ],
+  "strokes": 11,
+  "radical": "皿",
+  "components": [
+   "舟",
+   "皿"
+  ],
+  "hint": "dish",
+  "examples": [
+   "vocab:hsk3:pan2zi5-盘子"
+  ]
+ },
+ {
+  "id": "hanzi:铅",
+  "char": "铅",
+  "trad": "鈆",
+  "level": "hsk3",
+  "unit": 18,
+  "order": 1804,
+  "pinyin": [
+   "qiān"
+  ],
+  "num": [
+   "qian1"
+  ],
+  "meanings": [
+   "lead (chemistry)"
+  ],
+  "strokes": 10,
+  "radical": "钅",
+  "components": [
+   "钅",
+   "几",
+   "口"
+  ],
+  "hint": "metal",
+  "examples": [
+   "vocab:hsk3:qian1bi3-铅笔"
+  ]
+ },
+ {
+  "id": "hanzi:笔",
+  "char": "笔",
+  "trad": "筆",
+  "level": "hsk3",
+  "unit": 18,
+  "order": 1805,
+  "pinyin": [
+   "bǐ"
+  ],
+  "num": [
+   "bi3"
+  ],
+  "meanings": [
+   "writing brush",
+   "brushstroke",
+   "(classifier) stroke of a Chinese character"
+  ],
+  "strokes": 10,
+  "radical": "⺮",
+  "components": [
+   "⺮",
+   "毛"
+  ],
+  "hint": "A bamboo rod ⺮ tipped with hair 毛",
+  "examples": [
+   "vocab:hsk3:qian1bi3-铅笔"
+  ]
+ },
+ {
+  "id": "hanzi:渴",
+  "char": "渴",
+  "trad": "渴",
+  "level": "hsk3",
+  "unit": 18,
+  "order": 1806,
+  "pinyin": [
+   "kě"
+  ],
+  "num": [
+   "ke3"
+  ],
+  "meanings": [
+   "thirsty"
+  ],
+  "strokes": 12,
+  "radical": "氵",
+  "components": [
+   "氵",
+   "曷"
+  ],
+  "hint": "water",
+  "examples": [
+   "vocab:hsk3:ke3-渴"
+  ]
+ },
+ {
+  "id": "hanzi:词",
+  "char": "词",
+  "trad": "䛐",
+  "level": "hsk3",
+  "unit": 18,
+  "order": 1807,
+  "pinyin": [
+   "cí"
+  ],
+  "num": [
+   "ci2"
+  ],
+  "meanings": [
+   "word",
+   "statement",
+   "a form of lyric poetry, flourishing in the Song dynasty 宋朝"
+  ],
+  "strokes": 7,
+  "radical": "讠",
+  "components": [
+   "讠",
+   "司"
+  ],
+  "hint": "words",
+  "examples": [
+   "vocab:hsk3:ci2yu3-词语"
+  ]
+ },
+ {
+  "id": "hanzi:句",
+  "char": "句",
+  "trad": "句",
+  "level": "hsk3",
+  "unit": 18,
+  "order": 1808,
+  "pinyin": [
+   "jù"
+  ],
+  "num": [
+   "ju4"
+  ],
+  "meanings": [
+   "sentence",
+   "clause",
+   "phrase"
+  ],
+  "strokes": 5,
+  "radical": "口",
+  "components": [
+   "勹",
+   "口"
+  ],
+  "hint": "A phrase 勹 from the mouth 口",
+  "examples": [
+   "vocab:hsk3:ju4zi5-句子"
+  ]
+ },
+ {
+  "id": "hanzi:筷",
+  "char": "筷",
+  "trad": "筷",
+  "level": "hsk3",
+  "unit": 18,
+  "order": 1809,
+  "pinyin": [
+   "kuài"
+  ],
+  "num": [
+   "kuai4"
+  ],
+  "meanings": [
+   "chopstick"
+  ],
+  "strokes": 13,
+  "radical": "⺮",
+  "components": [
+   "⺮",
+   "快"
+  ],
+  "hint": "bamboo",
+  "examples": [
+   "vocab:hsk3:kuai4zi5-筷子"
+  ]
+ },
+ {
+  "id": "hanzi:典",
+  "char": "典",
+  "trad": "典",
+  "level": "hsk3",
+  "unit": 18,
+  "order": 1810,
+  "pinyin": [
+   "diǎn"
+  ],
+  "num": [
+   "dian3"
+  ],
+  "meanings": [
+   "canon",
+   "law",
+   "standard work of scholarship"
+  ],
+  "strokes": 8,
+  "radical": "八",
+  "components": [
+   "曲",
+   "八"
+  ],
+  "hint": "Two hands 八 holding a book 冊",
+  "examples": [
+   "vocab:hsk3:zi4dian3-字典"
+  ]
+ },
+ {
+  "id": "hanzi:普",
+  "char": "普",
+  "trad": "普",
+  "level": "hsk3",
+  "unit": 18,
+  "order": 1811,
+  "pinyin": [
+   "pǔ"
+  ],
+  "num": [
+   "pu3"
+  ],
+  "meanings": [
+   "general",
+   "popular",
+   "everywhere"
+  ],
+  "strokes": 12,
+  "radical": "日",
+  "components": [
+   "並",
+   "日"
+  ],
+  "hint": "Everyone 並 under the sun 日",
+  "examples": [
+   "vocab:hsk3:pu3tong1hua4-普通话"
+  ]
+ },
+ {
+  "id": "hanzi:通",
+  "char": "通",
+  "trad": "通",
+  "level": "hsk3",
+  "unit": 18,
+  "order": 1812,
+  "pinyin": [
+   "tōng"
+  ],
+  "num": [
+   "tong1"
+  ],
+  "meanings": [
+   "go through",
+   "know well",
+   "(suffix) expert"
+  ],
+  "strokes": 10,
+  "radical": "辶",
+  "components": [
+   "辶",
+   "甬"
+  ],
+  "hint": "walk",
+  "examples": [
+   "vocab:hsk3:pu3tong1hua4-普通话"
+  ]
+ },
+ {
+  "id": "hanzi:爬",
+  "char": "爬",
+  "trad": "爬",
+  "level": "hsk3",
+  "unit": 18,
+  "order": 1813,
+  "pinyin": [
+   "pá"
+  ],
+  "num": [
+   "pa2"
+  ],
+  "meanings": [
+   "crawl",
+   "climb",
+   "get up or sit up"
+  ],
+  "strokes": 8,
+  "radical": "爪",
+  "components": [
+   "爪",
+   "巴"
+  ],
+  "hint": "claw",
+  "examples": [
+   "vocab:hsk3:pa2shan1-爬山"
+  ]
+ },
+ {
+  "id": "hanzi:山",
+  "char": "山",
+  "trad": "山",
+  "level": "hsk3",
+  "unit": 18,
+  "order": 1814,
+  "pinyin": [
+   "shān"
+  ],
+  "num": [
+   "shan1"
+  ],
+  "meanings": [
+   "mountain",
+   "(coll.) small bundle of straw for silkworms to spin cocoons on"
+  ],
+  "strokes": 3,
+  "radical": "山",
+  "components": [
+   "凵",
+   "丨"
+  ],
+  "hint": "Three mountain peaks",
+  "examples": [
+   "vocab:hsk3:pa2shan1-爬山"
+  ]
+ },
+ {
+  "id": "hanzi:板",
+  "char": "板",
+  "trad": "板",
+  "level": "hsk3",
+  "unit": 19,
+  "order": 1900,
+  "pinyin": [
+   "bǎn"
+  ],
+  "num": [
+   "ban3"
+  ],
+  "meanings": [
+   "board",
+   "plank",
+   "plate"
+  ],
+  "strokes": 8,
+  "radical": "木",
+  "components": [
+   "木",
+   "反"
+  ],
+  "hint": "wood",
+  "examples": [
+   "vocab:hsk3:hei1ban3-黑板"
+  ]
+ },
+ {
+  "id": "hanzi:李",
+  "char": "李",
+  "trad": "李",
+  "level": "hsk3",
+  "unit": 19,
+  "order": 1901,
+  "pinyin": [
+   "li"
+  ],
+  "num": [
+   "li5"
+  ],
+  "meanings": [
+   "plum"
+  ],
+  "strokes": 7,
+  "radical": "木",
+  "components": [
+   "木",
+   "子"
+  ],
+  "hint": "wood",
+  "examples": [
+   "vocab:hsk3:xing2li5xiang1-行李箱"
+  ]
+ }
+]

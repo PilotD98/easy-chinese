@@ -1,0 +1,14 @@
+{
+  "name": "easy-chinese",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Easy Chinese (简单中文) — a calm, offline-first Mandarin learning app (pinyin to HSK 6, English or Japanese interface) that deploys as a static site.",
+  "type": "module",
+  "scripts": {
+    "serve": "node scripts/serve.mjs",
+    "validate": "node scripts/validate-content.mjs",
+    "icons": "node scripts/make-icons.mjs"
+  },
+  "engines": { "node": ">=18" },
+  "license": "MIT"
+}

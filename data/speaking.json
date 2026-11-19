@@ -1,0 +1,251 @@
+{
+  "sets": [
+    {
+      "id": "spk:py:greet",
+      "mode": "repeat",
+      "level": "pinyin",
+      "title": "Greetings and set phrases",
+      "title_ja": "あいさつと決まり文句",
+      "summary": "Twelve phrases you will use every single day. Listen, then say each one back, matching the tones.",
+      "summary_ja": "毎日必ず使う12のフレーズです。音声を聞いてから、声調をまねて発音しましょう。",
+      "tips": [
+        "你好 is two third tones, so the first one rises: say it like ní hǎo even though it is written nǐ hǎo.",
+        "不客气 and 没关系 are the standard replies to 谢谢 and 对不起. Learn them as pairs.",
+        "请问 (excuse me, may I ask) is how you get a stranger's attention before a question."
+      ],
+      "tips_ja": [
+        "你好は第三声が二つ続くので、前の音が上がります。表記はnǐ hǎoですが、ní hǎoのように発音します。",
+        "不客气と没关系は、それぞれ谢谢と对不起への決まった返事です。セットで覚えましょう。",
+        "请问（すみません、お尋ねします）は、知らない人に質問する前の呼びかけです。"
+      ],
+      "items": [
+        { "id": "spk:py:greet:01", "zh": "你好", "pinyin": "nǐ hǎo", "en": "Hello", "ja": "こんにちは", "alt": ["妳好"] },
+        { "id": "spk:py:greet:02", "zh": "您好", "pinyin": "nín hǎo", "en": "Hello (polite)", "ja": "こんにちは（丁寧）", "alt": [] },
+        { "id": "spk:py:greet:03", "zh": "早上好", "pinyin": "zǎo shang hǎo", "en": "Good morning", "ja": "おはようございます", "alt": [] },
+        { "id": "spk:py:greet:04", "zh": "晚上好", "pinyin": "wǎn shang hǎo", "en": "Good evening", "ja": "こんばんは", "alt": [] },
+        { "id": "spk:py:greet:05", "zh": "谢谢", "pinyin": "xiè xie", "en": "Thank you", "ja": "ありがとうございます", "alt": [] },
+        { "id": "spk:py:greet:06", "zh": "不客气", "pinyin": "bù kè qi", "en": "You're welcome", "ja": "どういたしまして", "alt": [] },
+        { "id": "spk:py:greet:07", "zh": "对不起", "pinyin": "duì bu qǐ", "en": "I'm sorry", "ja": "ごめんなさい", "alt": [] },
+        { "id": "spk:py:greet:08", "zh": "没关系", "pinyin": "méi guān xi", "en": "It's all right", "ja": "大丈夫です", "alt": [] },
+        { "id": "spk:py:greet:09", "zh": "再见", "pinyin": "zài jiàn", "en": "Goodbye", "ja": "さようなら", "alt": [] },
+        { "id": "spk:py:greet:10", "zh": "请问", "pinyin": "qǐng wèn", "en": "Excuse me, may I ask...", "ja": "すみません、お尋ねしますが", "alt": [] },
+        { "id": "spk:py:greet:11", "zh": "不好意思", "pinyin": "bù hǎo yì si", "en": "Sorry to bother you / excuse me", "ja": "すみません", "alt": [] },
+        { "id": "spk:py:greet:12", "zh": "欢迎", "pinyin": "huān yíng", "en": "Welcome", "ja": "ようこそ", "alt": [] }
+      ]
+    },
+    {
+      "id": "spk:py:numbers",
+      "mode": "repeat",
+      "level": "pinyin",
+      "title": "Numbers",
+      "title_ja": "数字",
+      "summary": "Zero to ten, a hundred, and the two words for 'two'. Clear tones matter here: 四 sì and 十 shí are easy to mix up.",
+      "summary_ja": "ゼロから十、百、そして二つある「2」の言い方です。四 sì と 十 shí は聞き間違えやすいので、声調をはっきりと。",
+      "tips": [
+        "四 sì (falling) and 十 shí (rising) differ only in tone and the initial. Shopkeepers will often confirm with their fingers.",
+        "一 is written yī but changes tone in speech: yí before a fourth tone (一个 yí gè) and yì before other tones (一百 yì bǎi).",
+        "两 liǎng replaces 二 before a measure word: 两个 (two of them), 两百 (two hundred), but 二十 (twenty)."
+      ],
+      "tips_ja": [
+        "四 sì（下がる）と 十 shí（上がる）は声調と子音しか違いません。お店では指で数を確認してくれることが多いです。",
+        "一 の表記は yī ですが、話すときは第四声の前で yí（一个 yí gè）、それ以外の前では yì（一百 yì bǎi）になります。",
+        "量詞の前では 二 の代わりに 两 liǎng を使います：两个（2個）、两百（200）。ただし 二十（20）はそのままです。"
+      ],
+      "items": [
+        { "id": "spk:py:numbers:01", "zh": "零", "pinyin": "líng", "en": "zero", "ja": "ゼロ", "alt": ["0"] },
+        { "id": "spk:py:numbers:02", "zh": "一", "pinyin": "yī", "en": "one", "ja": "一", "alt": ["1"] },
+        { "id": "spk:py:numbers:03", "zh": "二", "pinyin": "èr", "en": "two", "ja": "二", "alt": ["2"] },
+        { "id": "spk:py:numbers:04", "zh": "三", "pinyin": "sān", "en": "three", "ja": "三", "alt": ["3"] },
+        { "id": "spk:py:numbers:05", "zh": "四", "pinyin": "sì", "en": "four", "ja": "四", "alt": ["4"] },
+        { "id": "spk:py:numbers:06", "zh": "五", "pinyin": "wǔ", "en": "five", "ja": "五", "alt": ["5"] },
+        { "id": "spk:py:numbers:07", "zh": "六", "pinyin": "liù", "en": "six", "ja": "六", "alt": ["6"] },
+        { "id": "spk:py:numbers:08", "zh": "七", "pinyin": "qī", "en": "seven", "ja": "七", "alt": ["7"] },
+        { "id": "spk:py:numbers:09", "zh": "八", "pinyin": "bā", "en": "eight", "ja": "八", "alt": ["8"] },
+        { "id": "spk:py:numbers:10", "zh": "九", "pinyin": "jiǔ", "en": "nine", "ja": "九", "alt": ["9"] },
+        { "id": "spk:py:numbers:11", "zh": "十", "pinyin": "shí", "en": "ten", "ja": "十", "alt": ["10"] },
+        { "id": "spk:py:numbers:12", "zh": "二十", "pinyin": "èr shí", "en": "twenty", "ja": "二十", "alt": ["20"] },
+        { "id": "spk:py:numbers:13", "zh": "一百", "pinyin": "yī bǎi", "en": "one hundred", "ja": "百", "alt": ["100", "1百"] },
+        { "id": "spk:py:numbers:14", "zh": "两个", "pinyin": "liǎng gè", "en": "two (of something)", "ja": "二つ、2個", "alt": ["2个"] }
+      ]
+    },
+    {
+      "id": "spk:py:intro",
+      "mode": "repeat",
+      "level": "pinyin",
+      "title": "Introducing yourself",
+      "title_ja": "自己紹介",
+      "summary": "Ten lines that make a complete first self-introduction. Replace the [slot] parts with your own name, country and city.",
+      "summary_ja": "これだけで初めての自己紹介ができる10の文です。[slot] の部分は自分の名前・国・町に置き換えて言いましょう。",
+      "tips": [
+        "Chinese names are said family name first. If you introduce yourself with a Chinese name, keep that order too.",
+        "我是日本人 (I'm Japanese) is the full form; in casual conversation people often just say 日本人 after being asked.",
+        "很高兴认识你 is the equivalent of 'nice to meet you' and is said when you are introduced, not when you part."
+      ],
+      "tips_ja": [
+        "中国語の名前は姓が先です。中国語名で名乗るときも同じ順番にしましょう。",
+        "我是日本人（私は日本人です）が完全な形で、会話では聞かれて 日本人 とだけ答えることもよくあります。",
+        "很高兴认识你 は「はじめまして、よろしく」にあたり、紹介されたときに言います。別れるときには使いません。"
+      ],
+      "items": [
+        { "id": "spk:py:intro:01", "zh": "你好，我叫[name]。", "pinyin": "nǐ hǎo, wǒ jiào [name].", "en": "Hello, my name is [name].", "ja": "こんにちは、私は[name]といいます。", "alt": [] },
+        { "id": "spk:py:intro:02", "zh": "我是[country]人。", "pinyin": "wǒ shì [country] rén.", "en": "I am from [country].", "ja": "私は[country]人です。", "alt": [] },
+        { "id": "spk:py:intro:03", "zh": "我是学生。", "pinyin": "wǒ shì xué sheng.", "en": "I am a student.", "ja": "私は学生です。", "alt": [] },
+        { "id": "spk:py:intro:04", "zh": "我二十岁。", "pinyin": "wǒ èr shí suì.", "en": "I am twenty years old.", "ja": "私は20歳です。", "alt": ["我20岁。"] },
+        { "id": "spk:py:intro:05", "zh": "我住在[city]。", "pinyin": "wǒ zhù zài [city].", "en": "I live in [city].", "ja": "私は[city]に住んでいます。", "alt": [] },
+        { "id": "spk:py:intro:06", "zh": "我在学习汉语。", "pinyin": "wǒ zài xué xí hàn yǔ.", "en": "I am studying Chinese.", "ja": "私は中国語を勉強しています。", "alt": [] },
+        { "id": "spk:py:intro:07", "zh": "我的汉语不太好。", "pinyin": "wǒ de hàn yǔ bù tài hǎo.", "en": "My Chinese is not very good.", "ja": "私の中国語はあまり上手ではありません。", "alt": [] },
+        { "id": "spk:py:intro:08", "zh": "我喜欢中国菜。", "pinyin": "wǒ xǐ huan zhōng guó cài.", "en": "I like Chinese food.", "ja": "私は中華料理が好きです。", "alt": [] },
+        { "id": "spk:py:intro:09", "zh": "这是我的朋友。", "pinyin": "zhè shì wǒ de péng you.", "en": "This is my friend.", "ja": "こちらは私の友達です。", "alt": [] },
+        { "id": "spk:py:intro:10", "zh": "很高兴认识你。", "pinyin": "hěn gāo xìng rèn shi nǐ.", "en": "Nice to meet you.", "ja": "お会いできてうれしいです。", "alt": ["很高兴认识您。"] }
+      ]
+    },
+    {
+      "id": "spk:py:shadow",
+      "mode": "shadow",
+      "level": "pinyin",
+      "title": "Shadowing: everyday sentences",
+      "title_ja": "シャドーイング：日常の文",
+      "summary": "Eight short sentences at natural speed. Speak along with the audio, a beat behind it, and copy the rhythm rather than each syllable.",
+      "summary_ja": "自然な速さの短い文を8つ。音声の少し後ろについて一緒に話し、一音ずつではなくリズム全体をまねましょう。",
+      "tips": [
+        "At natural speed, unstressed syllables such as 的, 了 and 吗 become short and light. Don't give them a full tone.",
+        "Keep the sentence flowing; stopping to fix one syllable breaks the rhythm you are practising.",
+        "Pitch drops at the end of a statement and stays up on a 吗 question."
+      ],
+      "tips_ja": [
+        "自然な速さでは、的・了・吗 のような軽声の音節は短く軽くなります。はっきりした声調をつけないようにしましょう。",
+        "文を止めずに流すことが大切です。一つの音を直そうと止まると、練習しているリズムが崩れます。",
+        "平叙文の終わりは声が下がり、吗 の疑問文では上がったままになります。"
+      ],
+      "items": [
+        { "id": "spk:py:shadow:01", "zh": "今天天气很好。", "pinyin": "jīn tiān tiān qì hěn hǎo.", "en": "The weather is nice today.", "ja": "今日は天気がいいです。", "alt": [] },
+        { "id": "spk:py:shadow:02", "zh": "我喜欢喝茶。", "pinyin": "wǒ xǐ huan hē chá.", "en": "I like drinking tea.", "ja": "私はお茶を飲むのが好きです。", "alt": [] },
+        { "id": "spk:py:shadow:03", "zh": "你吃饭了吗？", "pinyin": "nǐ chī fàn le ma?", "en": "Have you eaten?", "ja": "ご飯を食べましたか。", "alt": [] },
+        { "id": "spk:py:shadow:04", "zh": "我们明天去学校。", "pinyin": "wǒ men míng tiān qù xué xiào.", "en": "We are going to school tomorrow.", "ja": "私たちは明日学校に行きます。", "alt": [] },
+        { "id": "spk:py:shadow:05", "zh": "他是我的老师。", "pinyin": "tā shì wǒ de lǎo shī.", "en": "He is my teacher.", "ja": "彼は私の先生です。", "alt": ["她是我的老师。"] },
+        { "id": "spk:py:shadow:06", "zh": "我妈妈是医生。", "pinyin": "wǒ mā ma shì yī shēng.", "en": "My mother is a doctor.", "ja": "私の母は医者です。", "alt": [] },
+        { "id": "spk:py:shadow:07", "zh": "这个苹果多少钱？", "pinyin": "zhè gè píng guǒ duō shao qián?", "en": "How much is this apple?", "ja": "このりんごはいくらですか。", "alt": [] },
+        { "id": "spk:py:shadow:08", "zh": "我昨天看了一个电影。", "pinyin": "wǒ zuó tiān kàn le yī gè diàn yǐng.", "en": "I watched a film yesterday.", "ja": "私は昨日映画を一本見ました。", "alt": ["我昨天看了1个电影。"] }
+      ]
+    },
+    {
+      "id": "spk:py:qa1",
+      "mode": "question",
+      "level": "pinyin",
+      "title": "Answering questions about yourself",
+      "title_ja": "自分についての質問に答える",
+      "summary": "Eight questions people ask when they first meet you. Hear the question, then answer with the model sentence, filling the [slot] with your own details.",
+      "summary_ja": "初対面でよく聞かれる8つの質問です。質問を聞いて、[slot] に自分のことを入れてモデル文で答えましょう。",
+      "tips": [
+        "哪儿 and 哪里 both mean 'where'; 哪儿 is northern and 哪里 southern. Both are understood everywhere.",
+        "Asking someone's age (你多大？) is normal small talk in China, even between adults.",
+        "For dates and times, just put the number straight before 号 or 点: 十五号, 三点."
+      ],
+      "tips_ja": [
+        "哪儿 と 哪里 はどちらも「どこ」です。哪儿 は北方、哪里 は南方の言い方で、どちらでも通じます。",
+        "年齢を聞くこと（你多大？）は中国では大人同士でも普通の世間話です。",
+        "日付や時刻は、数字をそのまま 号 や 点 の前に置くだけです：十五号、三点。"
+      ],
+      "items": [
+        { "id": "spk:py:qa1:01", "q": "你叫什么名字？", "qPinyin": "nǐ jiào shén me míng zi?", "qEn": "What is your name?", "qJa": "お名前は何ですか。", "model": "我叫[name]。", "modelPinyin": "wǒ jiào [name].", "en": "My name is [name].", "ja": "私は[name]といいます。", "alt": [] },
+        { "id": "spk:py:qa1:02", "q": "你是哪国人？", "qPinyin": "nǐ shì nǎ guó rén?", "qEn": "Which country are you from?", "qJa": "どこの国の方ですか。", "model": "我是[country]人。", "modelPinyin": "wǒ shì [country] rén.", "en": "I am from [country].", "ja": "私は[country]人です。", "alt": [] },
+        { "id": "spk:py:qa1:03", "q": "你住在哪儿？", "qPinyin": "nǐ zhù zài nǎr?", "qEn": "Where do you live?", "qJa": "どこに住んでいますか。", "model": "我住在[city]。", "modelPinyin": "wǒ zhù zài [city].", "en": "I live in [city].", "ja": "私は[city]に住んでいます。", "alt": [] },
+        { "id": "spk:py:qa1:04", "q": "你多大？", "qPinyin": "nǐ duō dà?", "qEn": "How old are you?", "qJa": "何歳ですか。", "model": "我[age]岁。", "modelPinyin": "wǒ [age] suì.", "en": "I am [age] years old.", "ja": "私は[age]歳です。", "alt": [] },
+        { "id": "spk:py:qa1:05", "q": "你喜欢什么？", "qPinyin": "nǐ xǐ huan shén me?", "qEn": "What do you like?", "qJa": "何が好きですか。", "model": "我喜欢[thing]。", "modelPinyin": "wǒ xǐ huan [thing].", "en": "I like [thing].", "ja": "私は[thing]が好きです。", "alt": [] },
+        { "id": "spk:py:qa1:06", "q": "今天几号？", "qPinyin": "jīn tiān jǐ hào?", "qEn": "What is the date today?", "qJa": "今日は何日ですか。", "model": "今天[date]号。", "modelPinyin": "jīn tiān [date] hào.", "en": "Today is the [date].", "ja": "今日は[date]日です。", "alt": [] },
+        { "id": "spk:py:qa1:07", "q": "现在几点？", "qPinyin": "xiàn zài jǐ diǎn?", "qEn": "What time is it now?", "qJa": "今何時ですか。", "model": "现在[time]点。", "modelPinyin": "xiàn zài [time] diǎn.", "en": "It is [time] o'clock.", "ja": "今[time]時です。", "alt": [] },
+        { "id": "spk:py:qa1:08", "q": "你有几个朋友？", "qPinyin": "nǐ yǒu jǐ gè péng you?", "qEn": "How many friends do you have?", "qJa": "友達は何人いますか。", "model": "我有[number]个朋友。", "modelPinyin": "wǒ yǒu [number] gè péng you.", "en": "I have [number] friends.", "ja": "友達が[number]人います。", "alt": [] }
+      ]
+    },
+    {
+      "id": "spk:py:rp-intro",
+      "mode": "roleplay",
+      "level": "pinyin",
+      "title": "Role play: meeting your teacher",
+      "title_ja": "ロールプレイ：先生との初対面",
+      "summary": "Your first conversation with Teacher Li. She greets you and asks a few questions; you answer with your own name and country.",
+      "summary_ja": "李先生との初めての会話です。先生のあいさつと質問に、自分の名前と国で答えましょう。",
+      "partner": "李老师",
+      "tips": [
+        "Address a teacher as 老师 after their family name: 李老师. Using 您 with a teacher is polite and expected.",
+        "In China a teacher is addressed as 老师 even outside the classroom; it is a title of respect, not just a job.",
+        "明天见 (see you tomorrow) is a natural, friendly way to end a chat with someone you will see again."
+      ],
+      "tips_ja": [
+        "先生は姓のあとに 老师 をつけて呼びます：李老师。先生には 您 を使うのが礼儀です。",
+        "中国では教室の外でも先生を 老师 と呼びます。職業名というより敬称です。",
+        "明天见（また明日）は、また会う相手との会話を終えるときの自然で親しみのある言い方です。"
+      ],
+      "turns": [
+        { "who": "partner", "zh": "你好！我是李老师。你叫什么名字？", "pinyin": "nǐ hǎo! wǒ shì lǐ lǎo shī. nǐ jiào shén me míng zi?", "en": "Hello! I am Teacher Li. What is your name?", "ja": "こんにちは。私は李先生です。お名前は何ですか。" },
+        { "who": "you", "zh": "李老师，您好！我叫[name]。", "pinyin": "lǐ lǎo shī, nín hǎo! wǒ jiào [name].", "en": "Hello, Teacher Li! My name is [name].", "ja": "李先生、こんにちは。私は[name]といいます。", "alt": ["李老师，你好！我叫[name]。"] },
+        { "who": "partner", "zh": "很高兴认识你。你是哪国人？", "pinyin": "hěn gāo xìng rèn shi nǐ. nǐ shì nǎ guó rén?", "en": "Nice to meet you. Which country are you from?", "ja": "お会いできてうれしいです。どこの国の方ですか。" },
+        { "who": "you", "zh": "我是[country]人。我也很高兴认识您。", "pinyin": "wǒ shì [country] rén. wǒ yě hěn gāo xìng rèn shi nín.", "en": "I am from [country]. I am also glad to meet you.", "ja": "私は[country]人です。私もお会いできてうれしいです。", "alt": ["我是[country]人。我也很高兴认识你。"] },
+        { "who": "partner", "zh": "你是学生吗？", "pinyin": "nǐ shì xué sheng ma?", "en": "Are you a student?", "ja": "学生ですか。" },
+        { "who": "you", "zh": "是，我是学生。我在学习汉语。", "pinyin": "shì, wǒ shì xué sheng. wǒ zài xué xí hàn yǔ.", "en": "Yes, I am a student. I am studying Chinese.", "ja": "はい、学生です。中国語を勉強しています。", "alt": ["是的，我是学生。我在学习汉语。"] },
+        { "who": "partner", "zh": "太好了！明天见。", "pinyin": "tài hǎo le! míng tiān jiàn.", "en": "Wonderful! See you tomorrow.", "ja": "すばらしいですね。また明日。" },
+        { "who": "you", "zh": "谢谢老师，明天见！", "pinyin": "xiè xie lǎo shī, míng tiān jiàn!", "en": "Thank you, teacher. See you tomorrow!", "ja": "先生、ありがとうございます。また明日。", "alt": [] }
+      ]
+    },
+    {
+      "id": "spk:hsk1:rp-cafe",
+      "mode": "roleplay",
+      "level": "hsk1",
+      "title": "Role play: ordering a drink",
+      "title_ja": "ロールプレイ：カフェで注文する",
+      "summary": "Order a coffee in a cafe: choose a size, say you don't need anything else, ask the price and pay.",
+      "summary_ja": "カフェでコーヒーを注文します。サイズを選び、ほかに要らないと伝え、値段を聞いて支払いましょう。",
+      "partner": "服务员",
+      "tips": [
+        "要 is the everyday verb for ordering: 我要一杯咖啡. It sounds direct in English but is perfectly polite in Chinese.",
+        "Cups of drinks take the measure word 杯: 一杯茶, 两杯咖啡.",
+        "Prices are given in 块 in speech (二十块), even though the menu may print 元."
+      ],
+      "tips_ja": [
+        "注文には 要 を使います：我要一杯咖啡。日本語の感覚では直接的ですが、中国語では十分丁寧です。",
+        "飲み物は量詞 杯 で数えます：一杯茶、两杯咖啡。",
+        "値段は話し言葉では 块 で言います（二十块）。メニューに 元 と書いてあっても同じです。"
+      ],
+      "turns": [
+        { "who": "partner", "zh": "您好，欢迎！您要喝什么？", "pinyin": "nín hǎo, huān yíng! nín yào hē shén me?", "en": "Hello, welcome! What would you like to drink?", "ja": "いらっしゃいませ。お飲み物は何になさいますか。" },
+        { "who": "you", "zh": "你好，我要一杯咖啡。", "pinyin": "nǐ hǎo, wǒ yào yī bēi kā fēi.", "en": "Hello, I'd like a coffee.", "ja": "こんにちは、コーヒーを一杯ください。", "alt": ["你好，我要1杯咖啡。", "您好，我要一杯咖啡。"] },
+        { "who": "partner", "zh": "好的。要大杯还是小杯？", "pinyin": "hǎo de. yào dà bēi hái shì xiǎo bēi?", "en": "Sure. Large or small?", "ja": "かしこまりました。大きいサイズと小さいサイズ、どちらにしますか。" },
+        { "who": "you", "zh": "小杯，谢谢。", "pinyin": "xiǎo bēi, xiè xie.", "en": "Small, thanks.", "ja": "小さいサイズでお願いします。", "alt": [] },
+        { "who": "partner", "zh": "还要别的吗？", "pinyin": "hái yào bié de ma?", "en": "Anything else?", "ja": "ほかにご注文はありますか。" },
+        { "who": "you", "zh": "不要了，谢谢。多少钱？", "pinyin": "bù yào le, xiè xie. duō shao qián?", "en": "No, that's all, thanks. How much is it?", "ja": "いいえ、それだけです。いくらですか。", "alt": ["不用了，谢谢。多少钱？"] },
+        { "who": "partner", "zh": "二十块。", "pinyin": "èr shí kuài.", "en": "Twenty kuai.", "ja": "20元です。" },
+        { "who": "you", "zh": "给你，谢谢！", "pinyin": "gěi nǐ, xiè xie!", "en": "Here you are, thank you!", "ja": "どうぞ、ありがとうございます。", "alt": ["给您，谢谢！"] }
+      ]
+    },
+    {
+      "id": "spk:hsk1:rp-directions",
+      "mode": "roleplay",
+      "level": "hsk1",
+      "title": "Role play: asking the way to the metro",
+      "title_ja": "ロールプレイ：地下鉄の駅への道を聞く",
+      "summary": "Stop a passer-by, ask where the metro station is, and check how far it is before thanking them.",
+      "summary_ja": "通行人を呼び止めて地下鉄の駅の場所を聞き、どのくらい遠いか確かめてからお礼を言いましょう。",
+      "partner": "路人",
+      "tips": [
+        "Start with 请问 to get attention politely. Without it, a bare question can sound abrupt.",
+        "Direction words come before the verb: 向前走 (walk forward), 向左走 (go left).",
+        "就到了 (and you're there) is how people reassure you the place is close: 走五分钟就到了."
+      ],
+      "tips_ja": [
+        "まず 请问 で丁寧に声をかけましょう。これがないと、いきなり質問するぶっきらぼうな印象になります。",
+        "方向を表す語は動詞の前に置きます：向前走（まっすぐ進む）、向左走（左に行く）。",
+        "就到了（そうすれば着きます）は「すぐそこですよ」という安心させる言い方です：走五分钟就到了。"
+      ],
+      "turns": [
+        { "who": "you", "zh": "请问，地铁站在哪儿？", "pinyin": "qǐng wèn, dì tiě zhàn zài nǎr?", "en": "Excuse me, where is the metro station?", "ja": "すみません、地下鉄の駅はどこですか。", "alt": ["请问，地铁站在哪里？"] },
+        { "who": "partner", "zh": "地铁站不远，就在前面。", "pinyin": "dì tiě zhàn bù yuǎn, jiù zài qián miàn.", "en": "The metro station isn't far; it's just ahead.", "ja": "地下鉄の駅は遠くありません。すぐ前です。" },
+        { "who": "you", "zh": "怎么走？", "pinyin": "zěn me zǒu?", "en": "How do I get there?", "ja": "どう行けばいいですか。", "alt": [] },
+        { "who": "partner", "zh": "一直向前走，到了商店向左走。", "pinyin": "yī zhí xiàng qián zǒu, dào le shāng diàn xiàng zuǒ zǒu.", "en": "Go straight ahead, and turn left at the shop.", "ja": "まっすぐ進んで、お店のところで左に曲がってください。" },
+        { "who": "you", "zh": "远吗？要走几分钟？", "pinyin": "yuǎn ma? yào zǒu jǐ fēn zhōng?", "en": "Is it far? How many minutes' walk?", "ja": "遠いですか。歩いて何分かかりますか。", "alt": [] },
+        { "who": "partner", "zh": "不远，走五分钟就到了。", "pinyin": "bù yuǎn, zǒu wǔ fēn zhōng jiù dào le.", "en": "Not far, a five-minute walk and you're there.", "ja": "遠くないですよ。歩いて5分で着きます。" },
+        { "who": "you", "zh": "好的，谢谢你！", "pinyin": "hǎo de, xiè xie nǐ!", "en": "Great, thank you!", "ja": "わかりました、ありがとうございます。", "alt": ["好的，谢谢您！", "好，谢谢你！"] },
+        { "who": "partner", "zh": "不客气。", "pinyin": "bù kè qi.", "en": "You're welcome.", "ja": "どういたしまして。" }
+      ]
+    }
+  ]
+}

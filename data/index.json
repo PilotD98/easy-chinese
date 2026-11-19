@@ -1,0 +1,30 @@
+{
+  "schema": 1,
+  "updated": "2026-11-19",
+  "version": "0.1.0",
+  "note": "Word and character lists follow HSK 2.0 (2012). Level assignments of grammar points follow commonly used teaching syllabi.",
+  "note_ja": "単語・漢字の一覧は HSK 2.0（2012 年版）に従っています。文法項目のレベル分けは一般的な教授シラバスに準じます。",
+  "stages": [
+    { "id": "pinyin", "no": 0, "title": "Pinyin and tones", "title_ja": "ピンインと声調", "summary": "Initials, finals, the four tones and the neutral tone, tone pairs and tone changes, with real words from the first group.", "summary_ja": "声母・韻母・四声と軽声、声調の組み合わせと変調。最初のグループから実際の単語で練習します。", "level": "pinyin" },
+    { "id": "hsk1", "no": 1, "title": "HSK 1", "title_ja": "HSK 1級", "summary": "The first 150 words and 178 characters: greetings, numbers, family, time, food, shopping.", "summary_ja": "最初の 150 語と 178 字：あいさつ、数、家族、時間、食べ物、買い物。", "level": "hsk1" },
+    { "id": "hsk2", "no": 2, "title": "HSK 2", "title_ja": "HSK 2級", "summary": "300 words: 了, 着, 过, comparisons, complements, everyday conversation.", "summary_ja": "300 語：了・着・過、比較、補語、日常会話。", "level": "hsk2" },
+    { "id": "hsk3", "no": 3, "title": "HSK 3", "title_ja": "HSK 3級", "summary": "600 words: 把 and 被, directional complements, work, travel and daily life in detail.", "summary_ja": "600 語：把・被、方向補語、仕事・旅行・日常生活。", "level": "hsk3" },
+    { "id": "hsk4", "no": 4, "title": "HSK 4", "title_ja": "HSK 4級", "summary": "1,200 words: fluent conversation on a wide range of topics, longer readings.", "summary_ja": "1,200 語：幅広い話題での会話、長めの読解。", "level": "hsk4" },
+    { "id": "hsk5", "no": 5, "title": "HSK 5", "title_ja": "HSK 5級", "summary": "2,500 words: newspapers, films, formal registers, idioms.", "summary_ja": "2,500 語：新聞、映画、改まった表現、成語。", "level": "hsk5" },
+    { "id": "hsk6", "no": 6, "title": "HSK 6", "title_ja": "HSK 6級", "summary": "5,000 words: advanced reading and listening, literary and specialist vocabulary.", "summary_ja": "5,000 語：上級の読解と聴解、文語・専門語彙。", "level": "hsk6" },
+    { "id": "realworld", "no": 7, "title": "Real-world Chinese", "title_ja": "実際の中国語", "summary": "How people really talk, what staff say, signs and menus, numbers and money, WeChat and Didi, survival phrases. Open at any time.", "summary_ja": "実際の話し方、店員の言葉、看板とメニュー、数字とお金、WeChat と Didi、サバイバル表現。いつでも開けます。", "level": "guides" }
+  ],
+  "levels": [
+    { "id": "orientation", "title": "How Chinese works", "files": { "orientation": "orientation.json" } },
+    { "id": "speaking", "title": "Speaking practice", "files": { "speaking": "speaking.json" } },
+    { "id": "situations", "title": "Real-world speaking", "files": {} },
+    { "id": "guides", "title": "Real-world Chinese", "files": {} },
+    { "id": "pinyin", "title": "Pinyin and tones", "files": { "pinyin": "pinyin.json" } },
+    { "id": "hsk1", "title": "HSK 1", "targets": { "hanzi": 178, "vocab": 150, "grammar": 40 }, "files": { "chars": "hsk1/chars.json", "vocab": "hsk1/vocab.json", "grammar": "hsk1/grammar.json", "readings": "hsk1/readings.json", "listening": "hsk1/listening.json", "units": "hsk1/units.json" } },
+    { "id": "hsk2", "title": "HSK 2", "targets": { "hanzi": 168, "vocab": 147, "grammar": 42 }, "files": { "chars": "hsk2/chars.json", "vocab": "hsk2/vocab.json", "grammar": "hsk2/grammar.json", "readings": "hsk2/readings.json", "listening": "hsk2/listening.json", "units": "hsk2/units.json" } },
+    { "id": "hsk3", "title": "HSK 3", "targets": { "hanzi": 272, "vocab": 298, "grammar": 50 }, "files": {} },
+    { "id": "hsk4", "title": "HSK 4", "targets": { "hanzi": 453, "vocab": 598, "grammar": 50 }, "files": {} },
+    { "id": "hsk5", "title": "HSK 5", "targets": { "hanzi": 639, "vocab": 1298, "grammar": 50 }, "files": {} },
+    { "id": "hsk6", "title": "HSK 6", "targets": { "hanzi": 922, "vocab": 2500, "grammar": 40 }, "files": {} }
+  ]
+}

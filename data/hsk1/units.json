@@ -1,0 +1,571 @@
+[
+ {
+  "id": "unit:hsk1:01",
+  "no": 1,
+  "level": "hsk1",
+  "title": "Hello: you, me and them",
+  "title_ja": "こんにちは：わたし、あなた、かれら",
+  "chars": [
+   "hanzi:的",
+   "hanzi:我",
+   "hanzi:是",
+   "hanzi:你",
+   "hanzi:不",
+   "hanzi:他",
+   "hanzi:人",
+   "hanzi:们",
+   "hanzi:好",
+   "hanzi:她",
+   "hanzi:吗",
+   "hanzi:呢",
+   "hanzi:学",
+   "hanzi:生",
+   "hanzi:老",
+   "hanzi:师"
+  ],
+  "vocab": [
+   "vocab:hsk1:de5-的",
+   "vocab:hsk1:wo3-我",
+   "vocab:hsk1:shi4-是",
+   "vocab:hsk1:ni3-你",
+   "vocab:hsk1:bu4-不",
+   "vocab:hsk1:ta1-他",
+   "vocab:hsk1:ren2-人",
+   "vocab:hsk1:wo3men5-我们",
+   "vocab:hsk1:hao3-好",
+   "vocab:hsk1:ta1-她",
+   "vocab:hsk1:ma5-吗",
+   "vocab:hsk1:ne5-呢",
+   "vocab:hsk1:xue2sheng5-学生",
+   "vocab:hsk1:lao3shi1-老师"
+  ],
+  "grammar": [
+   "gram:hsk1:shi",
+   "gram:hsk1:bu",
+   "gram:hsk1:ma-ne",
+   "gram:hsk1:pronouns-men"
+  ],
+  "readings": [],
+  "listening": []
+ },
+ {
+  "id": "unit:hsk1:02",
+  "no": 2,
+  "level": "hsk1",
+  "title": "Names and friends",
+  "title_ja": "名前と友だち",
+  "chars": [
+   "hanzi:这",
+   "hanzi:个",
+   "hanzi:那",
+   "hanzi:什",
+   "hanzi:么",
+   "hanzi:小",
+   "hanzi:谁",
+   "hanzi:叫",
+   "hanzi:朋",
+   "hanzi:友",
+   "hanzi:明",
+   "hanzi:中",
+   "hanzi:国",
+   "hanzi:名",
+   "hanzi:字"
+  ],
+  "vocab": [
+   "vocab:hsk1:zhe4-这",
+   "vocab:hsk1:ge4-个",
+   "vocab:hsk1:na4-那",
+   "vocab:hsk1:shen2me5-什么",
+   "vocab:hsk1:xiao3-小",
+   "vocab:hsk1:shei2-谁",
+   "vocab:hsk1:jiao4-叫",
+   "vocab:hsk1:peng2you5-朋友",
+   "vocab:hsk1:zhong1guo2-中国",
+   "vocab:hsk1:ming2zi5-名字",
+   "vocab:hsk1:zi4-字"
+  ],
+  "grammar": [
+   "gram:hsk1:de-possession",
+   "gram:hsk1:zhe-na-ge",
+   "gram:hsk1:shenme-shei"
+  ],
+  "readings": [],
+  "listening": []
+ },
+ {
+  "id": "unit:hsk1:03",
+  "no": 3,
+  "level": "hsk1",
+  "title": "Numbers and age",
+  "title_ja": "数と年齢",
+  "chars": [
+   "hanzi:一",
+   "hanzi:多",
+   "hanzi:几",
+   "hanzi:三",
+   "hanzi:岁",
+   "hanzi:四",
+   "hanzi:少",
+   "hanzi:五",
+   "hanzi:二",
+   "hanzi:六",
+   "hanzi:十",
+   "hanzi:八",
+   "hanzi:七",
+   "hanzi:九",
+   "hanzi:零"
+  ],
+  "vocab": [
+   "vocab:hsk1:yi1-一",
+   "vocab:hsk1:duo1-多",
+   "vocab:hsk1:ji3-几",
+   "vocab:hsk1:san1-三",
+   "vocab:hsk1:sui4-岁",
+   "vocab:hsk1:si4-四",
+   "vocab:hsk1:duo1shao5-多少",
+   "vocab:hsk1:shao3-少",
+   "vocab:hsk1:wu3-五",
+   "vocab:hsk1:er4-二",
+   "vocab:hsk1:liu4-六",
+   "vocab:hsk1:shi2-十",
+   "vocab:hsk1:ba1-八",
+   "vocab:hsk1:qi1-七",
+   "vocab:hsk1:jiu3-九",
+   "vocab:hsk1:ling2-零"
+  ],
+  "grammar": [
+   "gram:hsk1:numbers",
+   "gram:hsk1:measure-ge",
+   "gram:hsk1:ji-duoshao"
+  ],
+  "readings": [],
+  "listening": [
+   "listen:hsk1:001"
+  ]
+ },
+ {
+  "id": "unit:hsk1:04",
+  "no": 4,
+  "level": "hsk1",
+  "title": "My family",
+  "title_ja": "わたしの家族",
+  "chars": [
+   "hanzi:有",
+   "hanzi:和",
+   "hanzi:都",
+   "hanzi:很",
+   "hanzi:没",
+   "hanzi:大",
+   "hanzi:家",
+   "hanzi:妈",
+   "hanzi:狗",
+   "hanzi:儿",
+   "hanzi:子",
+   "hanzi:女",
+   "hanzi:爸",
+   "hanzi:猫",
+   "hanzi:同"
+  ],
+  "vocab": [
+   "vocab:hsk1:you3-有",
+   "vocab:hsk1:he2-和",
+   "vocab:hsk1:dou1-都",
+   "vocab:hsk1:hen3-很",
+   "vocab:hsk1:mei2-没",
+   "vocab:hsk1:da4-大",
+   "vocab:hsk1:jia1-家",
+   "vocab:hsk1:ma1ma5-妈妈",
+   "vocab:hsk1:gou3-狗",
+   "vocab:hsk1:er2zi5-儿子",
+   "vocab:hsk1:nü3er2-女儿",
+   "vocab:hsk1:ba4ba5-爸爸",
+   "vocab:hsk1:mao1-猫",
+   "vocab:hsk1:tong2xue2-同学"
+  ],
+  "grammar": [
+   "gram:hsk1:you-meiyou",
+   "gram:hsk1:hen-adj",
+   "gram:hsk1:dou-he"
+  ],
+  "readings": [
+   "read:hsk1:001"
+  ],
+  "listening": []
+ },
+ {
+  "id": "unit:hsk1:05",
+  "no": 5,
+  "level": "hsk1",
+  "title": "Days and dates",
+  "title_ja": "日付と曜日",
+  "chars": [
+   "hanzi:在",
+   "hanzi:现",
+   "hanzi:年",
+   "hanzi:时",
+   "hanzi:候",
+   "hanzi:今",
+   "hanzi:天",
+   "hanzi:月",
+   "hanzi:日",
+   "hanzi:哪",
+   "hanzi:昨",
+   "hanzi:星",
+   "hanzi:期"
+  ],
+  "vocab": [
+   "vocab:hsk1:zai4-在",
+   "vocab:hsk1:xian4zai4-现在",
+   "vocab:hsk1:nian2-年",
+   "vocab:hsk1:shi2hou5-时候",
+   "vocab:hsk1:jin1tian1-今天",
+   "vocab:hsk1:yue4-月",
+   "vocab:hsk1:ri4-日",
+   "vocab:hsk1:ming2tian1-明天",
+   "vocab:hsk1:na5-哪",
+   "vocab:hsk1:zuo2tian1-昨天",
+   "vocab:hsk1:xing1qi1-星期"
+  ],
+  "grammar": [
+   "gram:hsk1:zai-location",
+   "gram:hsk1:dates",
+   "gram:hsk1:xingqi"
+  ],
+  "readings": [],
+  "listening": [
+   "listen:hsk1:002"
+  ]
+ },
+ {
+  "id": "unit:hsk1:06",
+  "no": 6,
+  "level": "hsk1",
+  "title": "Clock time, coming and going",
+  "title_ja": "時刻と行き来",
+  "chars": [
+   "hanzi:上",
+   "hanzi:来",
+   "hanzi:去",
+   "hanzi:看",
+   "hanzi:点",
+   "hanzi:下",
+   "hanzi:听",
+   "hanzi:回",
+   "hanzi:分",
+   "hanzi:钟",
+   "hanzi:午",
+   "hanzi:说",
+   "hanzi:话"
+  ],
+  "vocab": [
+   "vocab:hsk1:shang4-上",
+   "vocab:hsk1:lai2-来",
+   "vocab:hsk1:qu4-去",
+   "vocab:hsk1:kan4-看",
+   "vocab:hsk1:dian3-点",
+   "vocab:hsk1:xia4-下",
+   "vocab:hsk1:ting1-听",
+   "vocab:hsk1:hui2-回",
+   "vocab:hsk1:fen1zhong1-分钟",
+   "vocab:hsk1:xia4wu3-下午",
+   "vocab:hsk1:shuo1hua4-说话",
+   "vocab:hsk1:shang4wu3-上午",
+   "vocab:hsk1:zhong1wu3-中午"
+  ],
+  "grammar": [
+   "gram:hsk1:jidian",
+   "gram:hsk1:time-before-verb",
+   "gram:hsk1:qu-lai"
+  ],
+  "readings": [
+   "read:hsk1:002"
+  ],
+  "listening": []
+ },
+ {
+  "id": "unit:hsk1:07",
+  "no": 7,
+  "level": "hsk1",
+  "title": "Food and drink",
+  "title_ja": "食べ物と飲み物",
+  "chars": [
+   "hanzi:想",
+   "hanzi:爱",
+   "hanzi:喜",
+   "hanzi:欢",
+   "hanzi:吃",
+   "hanzi:水",
+   "hanzi:喝",
+   "hanzi:菜",
+   "hanzi:茶",
+   "hanzi:苹",
+   "hanzi:果",
+   "hanzi:杯",
+   "hanzi:米",
+   "hanzi:饭"
+  ],
+  "vocab": [
+   "vocab:hsk1:xiang3-想",
+   "vocab:hsk1:ai4-爱",
+   "vocab:hsk1:xi3huan5-喜欢",
+   "vocab:hsk1:chi1-吃",
+   "vocab:hsk1:shui3-水",
+   "vocab:hsk1:he1-喝",
+   "vocab:hsk1:cai4-菜",
+   "vocab:hsk1:cha2-茶",
+   "vocab:hsk1:ping2guo3-苹果",
+   "vocab:hsk1:shui3guo3-水果",
+   "vocab:hsk1:bei1zi5-杯子",
+   "vocab:hsk1:mi3fan4-米饭"
+  ],
+  "grammar": [
+   "gram:hsk1:xiang",
+   "gram:hsk1:xihuan-ai",
+   "gram:hsk1:yidianr"
+  ],
+  "readings": [],
+  "listening": [
+   "listen:hsk1:003"
+  ]
+ },
+ {
+  "id": "unit:hsk1:08",
+  "no": 8,
+  "level": "hsk1",
+  "title": "Shopping",
+  "title_ja": "買い物",
+  "chars": [
+   "hanzi:请",
+   "hanzi:钱",
+   "hanzi:本",
+   "hanzi:东",
+   "hanzi:西",
+   "hanzi:买",
+   "hanzi:块",
+   "hanzi:谢",
+   "hanzi:书",
+   "hanzi:些",
+   "hanzi:衣",
+   "hanzi:服",
+   "hanzi:商",
+   "hanzi:店",
+   "hanzi:汉",
+   "hanzi:语"
+  ],
+  "vocab": [
+   "vocab:hsk1:qing3-请",
+   "vocab:hsk1:qian2-钱",
+   "vocab:hsk1:ben3-本",
+   "vocab:hsk1:dong1xi5-东西",
+   "vocab:hsk1:mai3-买",
+   "vocab:hsk1:kuai4-块",
+   "vocab:hsk1:xie4xie5-谢谢",
+   "vocab:hsk1:shu1-书",
+   "vocab:hsk1:xie1-些",
+   "vocab:hsk1:yi1fu5-衣服",
+   "vocab:hsk1:shang1dian4-商店",
+   "vocab:hsk1:han4yu3-汉语"
+  ],
+  "grammar": [
+   "gram:hsk1:duoshao-qian",
+   "gram:hsk1:measure-words",
+   "gram:hsk1:qing",
+   "gram:hsk1:duo-shao-verb"
+  ],
+  "readings": [
+   "read:hsk1:003"
+  ],
+  "listening": []
+ },
+ {
+  "id": "unit:hsk1:09",
+  "no": 9,
+  "level": "hsk1",
+  "title": "Study and work",
+  "title_ja": "勉強と仕事",
+  "chars": [
+   "hanzi:了",
+   "hanzi:会",
+   "hanzi:能",
+   "hanzi:做",
+   "hanzi:工",
+   "hanzi:作",
+   "hanzi:怎",
+   "hanzi:写",
+   "hanzi:电",
+   "hanzi:影",
+   "hanzi:视",
+   "hanzi:习",
+   "hanzi:脑",
+   "hanzi:读",
+   "hanzi:打"
+  ],
+  "vocab": [
+   "vocab:hsk1:le5-了",
+   "vocab:hsk1:hui4-会",
+   "vocab:hsk1:neng2-能",
+   "vocab:hsk1:zuo4-做",
+   "vocab:hsk1:gong1zuo4-工作",
+   "vocab:hsk1:zen3me5-怎么",
+   "vocab:hsk1:xie3-写",
+   "vocab:hsk1:dian4ying3-电影",
+   "vocab:hsk1:dian4shi4-电视",
+   "vocab:hsk1:xue2xi2-学习",
+   "vocab:hsk1:dian4nao3-电脑",
+   "vocab:hsk1:du2-读",
+   "vocab:hsk1:da3dian4hua4-打电话"
+  ],
+  "grammar": [
+   "gram:hsk1:hui-neng",
+   "gram:hsk1:zai-place-verb",
+   "gram:hsk1:le-completed",
+   "gram:hsk1:zenme-verb"
+  ],
+  "readings": [],
+  "listening": [
+   "listen:hsk1:004"
+  ]
+ },
+ {
+  "id": "unit:hsk1:10",
+  "no": 10,
+  "level": "hsk1",
+  "title": "At home and on the phone",
+  "title_ja": "家の中と電話",
+  "chars": [
+   "hanzi:里",
+   "hanzi:开",
+   "hanzi:认",
+   "hanzi:识",
+   "hanzi:先",
+   "hanzi:见",
+   "hanzi:睡",
+   "hanzi:觉",
+   "hanzi:后",
+   "hanzi:面",
+   "hanzi:喂",
+   "hanzi:姐",
+   "hanzi:前",
+   "hanzi:再",
+   "hanzi:桌",
+   "hanzi:椅"
+  ],
+  "vocab": [
+   "vocab:hsk1:li3-里",
+   "vocab:hsk1:kai1-开",
+   "vocab:hsk1:ren4shi5-认识",
+   "vocab:hsk1:xian1sheng5-先生",
+   "vocab:hsk1:kan4jian4-看见",
+   "vocab:hsk1:shui4jiao4-睡觉",
+   "vocab:hsk1:hou4mian5-后面",
+   "vocab:hsk1:wei4-喂",
+   "vocab:hsk1:xiao3jie5-小姐",
+   "vocab:hsk1:qian2mian4-前面",
+   "vocab:hsk1:zai4jian4-再见",
+   "vocab:hsk1:zhuo1zi5-桌子",
+   "vocab:hsk1:yi3zi5-椅子"
+  ],
+  "grammar": [
+   "gram:hsk1:location-words",
+   "gram:hsk1:de-nominal",
+   "gram:hsk1:kan-jian"
+  ],
+  "readings": [
+   "read:hsk1:004"
+  ],
+  "listening": []
+ },
+ {
+  "id": "unit:hsk1:11",
+  "no": 11,
+  "level": "hsk1",
+  "title": "Weather and feelings",
+  "title_ja": "天気と気持ち",
+  "chars": [
+   "hanzi:太",
+   "hanzi:漂",
+   "hanzi:亮",
+   "hanzi:高",
+   "hanzi:兴",
+   "hanzi:热",
+   "hanzi:冷",
+   "hanzi:样",
+   "hanzi:对",
+   "hanzi:起",
+   "hanzi:气",
+   "hanzi:关",
+   "hanzi:系",
+   "hanzi:雨",
+   "hanzi:客"
+  ],
+  "vocab": [
+   "vocab:hsk1:tai4-太",
+   "vocab:hsk1:piao4liang5-漂亮",
+   "vocab:hsk1:gao1xing4-高兴",
+   "vocab:hsk1:re4-热",
+   "vocab:hsk1:leng3-冷",
+   "vocab:hsk1:zen3me5yang4-怎么样",
+   "vocab:hsk1:dui4bu5qi3-对不起",
+   "vocab:hsk1:tian1qi4-天气",
+   "vocab:hsk1:mei2guan1xi5-没关系",
+   "vocab:hsk1:xia4yu3-下雨",
+   "vocab:hsk1:bu4ke4qi5-不客气"
+  ],
+  "grammar": [
+   "gram:hsk1:tai-le",
+   "gram:hsk1:le-change",
+   "gram:hsk1:zenmeyang",
+   "gram:hsk1:set-phrases"
+  ],
+  "readings": [],
+  "listening": [
+   "listen:hsk1:005"
+  ]
+ },
+ {
+  "id": "unit:hsk1:12",
+  "no": 12,
+  "level": "hsk1",
+  "title": "Getting around town",
+  "title_ja": "町での移動",
+  "chars": [
+   "hanzi:住",
+   "hanzi:校",
+   "hanzi:坐",
+   "hanzi:医",
+   "hanzi:院",
+   "hanzi:飞",
+   "hanzi:机",
+   "hanzi:出",
+   "hanzi:租",
+   "hanzi:车",
+   "hanzi:北",
+   "hanzi:京",
+   "hanzi:火",
+   "hanzi:站",
+   "hanzi:馆"
+  ],
+  "vocab": [
+   "vocab:hsk1:zhu4-住",
+   "vocab:hsk1:xue2xiao4-学校",
+   "vocab:hsk1:zuo4-坐",
+   "vocab:hsk1:yi1yuan4-医院",
+   "vocab:hsk1:yi1sheng1-医生",
+   "vocab:hsk1:fei1ji1-飞机",
+   "vocab:hsk1:chu1zu1che1-出租车",
+   "vocab:hsk1:bei3jing1-北京",
+   "vocab:hsk1:huo3che1zhan4-火车站",
+   "vocab:hsk1:fan4guan3-饭馆"
+  ],
+  "grammar": [
+   "gram:hsk1:zuo-vehicle",
+   "gram:hsk1:zhu-zai",
+   "gram:hsk1:shi-de"
+  ],
+  "readings": [
+   "read:hsk1:005",
+   "read:hsk1:006"
+  ],
+  "listening": []
+ }
+]

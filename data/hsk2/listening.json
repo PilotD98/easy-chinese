@@ -1,0 +1,299 @@
+[
+ {
+  "id": "listen:hsk2:001",
+  "level": "hsk2",
+  "unit": 2,
+  "order": 295,
+  "type": "dictation",
+  "title": "Dictation: already, still, because",
+  "title_ja": "書き取り：もう・まだ・なぜなら",
+  "items": [
+   {
+    "text": "我已经吃饭了。",
+    "pinyin": "wǒ yǐ jīng chī fàn le.",
+    "en": "I have already eaten.",
+    "ja": "私はもうご飯を食べました。"
+   },
+   {
+    "text": "他还没来。",
+    "pinyin": "tā hái méi lái.",
+    "en": "He has not come yet.",
+    "ja": "彼はまだ来ていません。"
+   },
+   {
+    "text": "你为什么不去？",
+    "pinyin": "nǐ wèi shén me bù qù?",
+    "en": "Why aren't you going?",
+    "ja": "なぜ行かないのですか。"
+   },
+   {
+    "text": "因为我没有钱。",
+    "pinyin": "yīn wèi wǒ méi yǒu qián.",
+    "en": "Because I have no money.",
+    "ja": "お金がないからです。"
+   },
+   {
+    "text": "从我家到学校要二十分钟。",
+    "pinyin": "cóng wǒ jiā dào xué xiào yào èr shí fēn zhōng.",
+    "en": "From my home to school takes twenty minutes.",
+    "ja": "私の家から学校まで20分かかります。"
+   }
+  ]
+ },
+ {
+  "id": "listen:hsk2:002",
+  "level": "hsk2",
+  "unit": 5,
+  "order": 595,
+  "type": "dictation",
+  "title": "Dictation: every day, right now",
+  "title_ja": "書き取り：毎日・今まさに",
+  "items": [
+   {
+    "text": "请进来，坐吧。",
+    "pinyin": "qǐng jìn lái, zuò ba.",
+    "en": "Please come in and sit down.",
+    "ja": "どうぞ入って、お座りください。"
+   },
+   {
+    "text": "我每天都学习汉语。",
+    "pinyin": "wǒ měi tiān dōu xué xí hàn yǔ.",
+    "en": "I study Chinese every day.",
+    "ja": "私は毎日中国語を勉強します。"
+   },
+   {
+    "text": "他正在打电话。",
+    "pinyin": "tā zhèng zài dǎ diàn huà.",
+    "en": "He is on the phone right now.",
+    "ja": "彼は今電話をかけているところです。"
+   },
+   {
+    "text": "你吃完了吗？",
+    "pinyin": "nǐ chī wán le ma?",
+    "en": "Have you finished eating?",
+    "ja": "食べ終わりましたか。"
+   },
+   {
+    "text": "别说话，老师来了。",
+    "pinyin": "bié shuō huà, lǎo shī lái le.",
+    "en": "Don't talk, the teacher is here.",
+    "ja": "しゃべらないで、先生が来ました。"
+   }
+  ]
+ },
+ {
+  "id": "listen:hsk2:003",
+  "level": "hsk2",
+  "unit": 7,
+  "order": 795,
+  "type": "comprehension",
+  "title": "Listening: near and far",
+  "title_ja": "聞き取り：近い・遠い",
+  "items": [
+   {
+    "text": "我家离公司很近，走十分钟就到了。",
+    "pinyin": "wǒ jiā lí gōng sī hěn jìn, zǒu shí fēn zhōng jiù dào le.",
+    "en": "My home is close to the company; it is ten minutes on foot.",
+    "ja": "私の家は会社に近くて、歩いて10分で着きます。",
+    "questions": [
+     {
+      "q": "他怎么去公司？",
+      "choices": [
+       "走路",
+       "坐出租车",
+       "坐飞机"
+      ],
+      "answer": 0,
+      "why": "走十分钟就到了 — he walks.",
+      "why_ja": "「走十分钟就到了」なので歩いて行きます。"
+     }
+    ]
+   },
+   {
+    "text": "我的手机不见了，可能在家里。",
+    "pinyin": "wǒ de shǒu jī bù jiàn le, kě néng zài jiā lǐ.",
+    "en": "My phone is gone; it may be at home.",
+    "ja": "携帯が見当たりません。家にあるのかもしれません。",
+    "questions": [
+     {
+      "q": "他的手机可能在哪儿？",
+      "choices": [
+       "公司",
+       "家里",
+       "学校"
+      ],
+      "answer": 1,
+      "why": "可能在家里.",
+      "why_ja": "「可能在家里」と言っています。"
+     }
+    ]
+   },
+   {
+    "text": "今天天气很好，我们出去走走吧。",
+    "pinyin": "jīn tiān tiān qì hěn hǎo, wǒ men chū qù zǒu zou ba.",
+    "en": "The weather is nice today; let's go out for a walk.",
+    "ja": "今日は天気がいいから、散歩に出かけましょう。",
+    "questions": [
+     {
+      "q": "他想做什么？",
+      "choices": [
+       "在家睡觉",
+       "看电视",
+       "出去走走"
+      ],
+      "answer": 2,
+      "why": "我们出去走走吧 is a suggestion to go out.",
+      "why_ja": "「我们出去走走吧」と外出を提案しています。"
+     }
+    ]
+   },
+   {
+    "text": "我介绍一下，这是我朋友小张，他是医生。",
+    "pinyin": "wǒ jiè shào yī xià, zhè shì wǒ péng you xiǎo zhāng, tā shì yī shēng.",
+    "en": "Let me introduce: this is my friend Xiao Zhang, he is a doctor.",
+    "ja": "ご紹介します。こちらは友人の小張で、医者です。",
+    "questions": [
+     {
+      "q": "小张是做什么的？",
+      "choices": [
+       "老师",
+       "医生",
+       "学生"
+      ],
+      "answer": 1,
+      "why": "他是医生.",
+      "why_ja": "「他是医生」と言っています。"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "listen:hsk2:004",
+  "level": "hsk2",
+  "unit": 9,
+  "order": 995,
+  "type": "shadow",
+  "title": "Shadowing: everyday lines",
+  "title_ja": "シャドーイング：日常のひとこと",
+  "items": [
+   {
+    "text": "我们走吧。",
+    "pinyin": "wǒ men zǒu ba.",
+    "en": "Let's go.",
+    "ja": "行きましょう。"
+   },
+   {
+    "text": "你休息一下吧。",
+    "pinyin": "nǐ xiū xi yī xià ba.",
+    "en": "Why don't you take a rest.",
+    "ja": "少し休んだらどうですか。"
+   },
+   {
+    "text": "对不起，我没听懂。",
+    "pinyin": "duì bu qǐ, wǒ méi tīng dǒng.",
+    "en": "Sorry, I didn't understand.",
+    "ja": "すみません、聞き取れませんでした。"
+   },
+   {
+    "text": "这是我丈夫，他在公司上班。",
+    "pinyin": "zhè shì wǒ zhàng fu, tā zài gōng sī shàng bān.",
+    "en": "This is my husband; he works at a company.",
+    "ja": "こちらは夫で、会社で働いています。"
+   },
+   {
+    "text": "咖啡太热了，一会儿再喝吧。",
+    "pinyin": "kā fēi tài rè le, yī huìr zài hē ba.",
+    "en": "The coffee is too hot; drink it in a little while.",
+    "ja": "コーヒーが熱すぎるので、少ししてから飲みましょう。"
+   }
+  ]
+ },
+ {
+  "id": "listen:hsk2:005",
+  "level": "hsk2",
+  "unit": 11,
+  "order": 1195,
+  "type": "comprehension",
+  "title": "Listening: prices and plans",
+  "title_ja": "聞き取り：値段と予定",
+  "items": [
+   {
+    "text": "这件衣服二百五十块，太贵了。",
+    "pinyin": "zhè jiàn yī fu èr bǎi wǔ shí kuài, tài guì le.",
+    "en": "This piece of clothing is 250 yuan; too expensive.",
+    "ja": "この服は250元で、高すぎます。",
+    "questions": [
+     {
+      "q": "衣服多少钱？",
+      "choices": [
+       "二百五十块",
+       "一百五十块",
+       "二百块"
+      ],
+      "answer": 0,
+      "why": "二百五十块.",
+      "why_ja": "「二百五十块」と言っています。"
+     }
+    ]
+   },
+   {
+    "text": "我想去北京旅游，但是我没有时间。",
+    "pinyin": "wǒ xiǎng qù běi jīng lǚ yóu, dàn shì wǒ méi yǒu shí jiān.",
+    "en": "I would like to travel to Beijing, but I have no time.",
+    "ja": "北京に旅行に行きたいのですが、時間がありません。",
+    "questions": [
+     {
+      "q": "他为什么不去北京？",
+      "choices": [
+       "没有钱",
+       "没有时间",
+       "不喜欢北京"
+      ],
+      "answer": 1,
+      "why": "但是我没有时间.",
+      "why_ja": "「但是我没有时间」と言っています。"
+     }
+    ]
+   },
+   {
+    "text": "早上我喝一杯牛奶，吃一个苹果。",
+    "pinyin": "zǎo shang wǒ hē yī bēi niú nǎi, chī yī ge píng guǒ.",
+    "en": "In the morning I drink a glass of milk and eat an apple.",
+    "ja": "朝は牛乳を一杯飲んで、りんごを一つ食べます。",
+    "questions": [
+     {
+      "q": "他早上喝什么？",
+      "choices": [
+       "咖啡",
+       "牛奶",
+       "茶"
+      ],
+      "answer": 1,
+      "why": "喝一杯牛奶.",
+      "why_ja": "「喝一杯牛奶」と言っています。"
+     }
+    ]
+   },
+   {
+    "text": "我妹妹唱歌唱得很好，她每天都唱。",
+    "pinyin": "wǒ mèi mei chàng gē chàng de hěn hǎo, tā měi tiān dōu chàng.",
+    "en": "My younger sister sings very well; she sings every day.",
+    "ja": "妹は歌がとても上手で、毎日歌っています。",
+    "questions": [
+     {
+      "q": "谁唱歌唱得好？",
+      "choices": [
+       "妹妹",
+       "弟弟",
+       "妈妈"
+      ],
+      "answer": 0,
+      "why": "我妹妹唱歌唱得很好.",
+      "why_ja": "「我妹妹唱歌唱得很好」と言っています。"
+     }
+    ]
+   }
+  ]
+ }
+]

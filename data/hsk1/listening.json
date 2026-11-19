@@ -1,0 +1,305 @@
+[
+ {
+  "id": "listen:hsk1:001",
+  "level": "hsk1",
+  "unit": 3,
+  "order": 395,
+  "type": "dictation",
+  "title": "Dictation: numbers and age",
+  "title_ja": "書き取り：数と年齢",
+  "items": [
+   {
+    "text": "我十岁。",
+    "pinyin": "wǒ shí suì.",
+    "en": "I am ten.",
+    "ja": "私は十歳です。"
+   },
+   {
+    "text": "我们三个人。",
+    "pinyin": "wǒ men sān gè rén.",
+    "en": "There are three of us.",
+    "ja": "私たちは三人です。"
+   },
+   {
+    "text": "他叫小明，他八岁。",
+    "pinyin": "tā jiào xiǎo míng, tā bā suì.",
+    "en": "His name is Xiao Ming; he is eight.",
+    "ja": "彼は小明といいます。八歳です。"
+   },
+   {
+    "text": "十二、二十、九十九。",
+    "pinyin": "shí èr、èr shí、jiǔ shí jiǔ.",
+    "en": "Twelve, twenty, ninety-nine.",
+    "ja": "十二、二十、九十九。"
+   },
+   {
+    "text": "你几岁？",
+    "pinyin": "nǐ jǐ suì?",
+    "en": "How old are you?",
+    "ja": "何歳ですか。"
+   }
+  ]
+ },
+ {
+  "id": "listen:hsk1:002",
+  "level": "hsk1",
+  "unit": 5,
+  "order": 595,
+  "type": "comprehension",
+  "title": "Listening: where and when",
+  "title_ja": "聞き取り：どこで、いつ",
+  "items": [
+   {
+    "text": "今天星期五，我在家。",
+    "pinyin": "jīn tiān xīng qī wǔ, wǒ zài jiā.",
+    "en": "Today is Friday; I am at home.",
+    "ja": "今日は金曜日で、私は家にいます。",
+    "questions": [
+     {
+      "q": "他在哪儿？",
+      "choices": [
+       "家",
+       "中国",
+       "朋友家"
+      ],
+      "answer": 0,
+      "why": "我在家.",
+      "why_ja": "我在家と言っています。"
+     }
+    ]
+   },
+   {
+    "text": "明天是六月一日，我在中国。",
+    "pinyin": "míng tiān shì liù yuè yī rì, wǒ zài zhōng guó.",
+    "en": "Tomorrow is June 1st; I will be in China.",
+    "ja": "明日は六月一日で、私は中国にいます。",
+    "questions": [
+     {
+      "q": "他什么时候在中国？",
+      "choices": [
+       "今天",
+       "明天",
+       "昨天"
+      ],
+      "answer": 1,
+      "why": "明天 … 我在中国.",
+      "why_ja": "明天…我在中国と言っています。"
+     }
+    ]
+   },
+   {
+    "text": "我爸爸不在家，他在朋友家。",
+    "pinyin": "wǒ bà ba bù zài jiā, tā zài péng you jiā.",
+    "en": "My dad is not at home; he is at a friend's house.",
+    "ja": "父は家にいません。友だちの家にいます。",
+    "questions": [
+     {
+      "q": "爸爸在哪儿？",
+      "choices": [
+       "家",
+       "朋友家",
+       "中国"
+      ],
+      "answer": 1,
+      "why": "他在朋友家.",
+      "why_ja": "他在朋友家と言っています。"
+     }
+    ]
+   },
+   {
+    "text": "昨天星期二，今天星期三。",
+    "pinyin": "zuó tiān xīng qī èr, jīn tiān xīng qī sān.",
+    "en": "Yesterday was Tuesday; today is Wednesday.",
+    "ja": "昨日は火曜日で、今日は水曜日です。",
+    "questions": [
+     {
+      "q": "今天星期几？",
+      "choices": [
+       "星期二",
+       "星期三",
+       "星期四"
+      ],
+      "answer": 1,
+      "why": "今天星期三.",
+      "why_ja": "今天星期三と言っています。"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "listen:hsk1:003",
+  "level": "hsk1",
+  "unit": 7,
+  "order": 795,
+  "type": "dictation",
+  "title": "Dictation: food and drink",
+  "title_ja": "書き取り：食べ物と飲み物",
+  "items": [
+   {
+    "text": "我想喝茶。",
+    "pinyin": "wǒ xiǎng hē chá.",
+    "en": "I want to drink tea.",
+    "ja": "お茶が飲みたいです。"
+   },
+   {
+    "text": "她喜欢吃苹果。",
+    "pinyin": "tā xǐ huan chī píng guǒ.",
+    "en": "She likes eating apples.",
+    "ja": "彼女はリンゴを食べるのが好きです。"
+   },
+   {
+    "text": "我们吃米饭和菜。",
+    "pinyin": "wǒ men chī mǐ fàn hé cài.",
+    "en": "We eat rice and vegetables.",
+    "ja": "私たちはご飯とおかずを食べます。"
+   },
+   {
+    "text": "你想喝一点儿水吗？",
+    "pinyin": "nǐ xiǎng hē yī diǎnr shuǐ ma?",
+    "en": "Would you like a little water?",
+    "ja": "少し水を飲みたいですか。"
+   },
+   {
+    "text": "他不喜欢喝茶，他喜欢喝水。",
+    "pinyin": "tā bù xǐ huan hē chá, tā xǐ huan hē shuǐ.",
+    "en": "He does not like tea; he likes water.",
+    "ja": "彼はお茶が好きではなく、水が好きです。"
+   }
+  ]
+ },
+ {
+  "id": "listen:hsk1:004",
+  "level": "hsk1",
+  "unit": 9,
+  "order": 995,
+  "type": "comprehension",
+  "title": "Listening: work and study",
+  "title_ja": "聞き取り：仕事と勉強",
+  "items": [
+   {
+    "text": "我在中国工作，我会说汉语。",
+    "pinyin": "wǒ zài zhōng guó gōng zuò, wǒ huì shuō hàn yǔ.",
+    "en": "I work in China; I can speak Chinese.",
+    "ja": "私は中国で働いていて、中国語が話せます。",
+    "questions": [
+     {
+      "q": "他在哪儿工作？",
+      "choices": [
+       "中国",
+       "家",
+       "商店"
+      ],
+      "answer": 0,
+      "why": "我在中国工作.",
+      "why_ja": "我在中国工作と言っています。"
+     }
+    ]
+   },
+   {
+    "text": "小明昨天没去工作，他在家看电视了。",
+    "pinyin": "xiǎo míng zuó tiān méi qù gōng zuò, tā zài jiā kàn diàn shì le.",
+    "en": "Xiao Ming did not go to work yesterday; he watched TV at home.",
+    "ja": "小明は昨日仕事に行かず、家でテレビを見ました。",
+    "questions": [
+     {
+      "q": "小明昨天做什么了？",
+      "choices": [
+       "工作",
+       "看电视",
+       "学习汉语"
+      ],
+      "answer": 1,
+      "why": "他在家看电视了.",
+      "why_ja": "他在家看电视了と言っています。"
+     }
+    ]
+   },
+   {
+    "text": "我不会写汉字，我想学习。",
+    "pinyin": "wǒ bù huì xiě hàn zì, wǒ xiǎng xué xí.",
+    "en": "I cannot write Chinese characters; I want to learn.",
+    "ja": "私は漢字が書けません。勉強したいです。",
+    "questions": [
+     {
+      "q": "他会写汉字吗？",
+      "choices": [
+       "会",
+       "不会",
+       "会一点儿"
+      ],
+      "answer": 1,
+      "why": "我不会写汉字.",
+      "why_ja": "我不会写汉字と言っています。"
+     }
+    ]
+   },
+   {
+    "text": "我下午三点能来你家。",
+    "pinyin": "wǒ xià wǔ sān diǎn néng lái nǐ jiā.",
+    "en": "I can come to your place at 3 p.m.",
+    "ja": "午後三時にあなたの家に行けます。",
+    "questions": [
+     {
+      "q": "他几点来？",
+      "choices": [
+       "三点",
+       "四点",
+       "五点"
+      ],
+      "answer": 0,
+      "why": "下午三点.",
+      "why_ja": "下午三点と言っています。"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "listen:hsk1:005",
+  "level": "hsk1",
+  "unit": 11,
+  "order": 1195,
+  "type": "shadow",
+  "title": "Shadowing: weather and feelings",
+  "title_ja": "シャドーイング：天気と気持ち",
+  "items": [
+   {
+    "text": "今天天气怎么样？",
+    "pinyin": "jīn tiān tiān qì zěn me yàng?",
+    "en": "How is the weather today?",
+    "ja": "今日の天気はどうですか。"
+   },
+   {
+    "text": "今天太热了！",
+    "pinyin": "jīn tiān tài rè le!",
+    "en": "It is so hot today!",
+    "ja": "今日は暑すぎます！"
+   },
+   {
+    "text": "下雨了，我不去了。",
+    "pinyin": "xià yǔ le, wǒ bù qù le.",
+    "en": "It is raining; I am not going any more.",
+    "ja": "雨が降ってきたので、もう行きません。"
+   },
+   {
+    "text": "认识你很高兴。",
+    "pinyin": "rèn shi nǐ hěn gāo xìng.",
+    "en": "Nice to meet you.",
+    "ja": "お会いできてうれしいです。"
+   },
+   {
+    "text": "对不起！没关系。",
+    "pinyin": "duì bu qǐ! méi guān xi.",
+    "en": "Sorry! It does not matter.",
+    "ja": "ごめんなさい。大丈夫です。"
+   },
+   {
+    "text": "谢谢你！不客气。",
+    "pinyin": "xiè xie nǐ! bù kè qi.",
+    "en": "Thank you! You are welcome.",
+    "ja": "ありがとう。どういたしまして。"
+   }
+  ]
+ }
+]

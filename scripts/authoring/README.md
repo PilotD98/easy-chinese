@@ -95,3 +95,12 @@ mismatch. Readings use only characters taught by the end of their unit.
   against CC-CEDICT (existence, pinyin, gloss) and reports mismatches.
 - `node scripts/authoring/build-level.mjs hsk1` builds `data/hsk1/*.json`.
   Earlier levels must be built first, since their characters and words count as known.
+
+### `unit-titles.json` (levels without `units-src.mjs`)
+
+```json
+{ "1": { "title": "Habits and plans", "title_ja": "習慣と予定" }, "2": { … } }
+```
+
+Levels 3–6 are planned automatically by the build (characters in list order,
+about 15 per unit); this file only names the units.

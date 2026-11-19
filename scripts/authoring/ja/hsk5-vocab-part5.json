@@ -1,0 +1,20 @@
+{
+  "烤鸭": { "en": ["roast duck"], "ja": ["ローストダック", "北京ダック"], "note": null },
+  "推辞": { "en": ["to decline", "to turn down (an invitation, offer)"], "ja": ["断る", "辞退する"], "note": null },
+  "提纲": { "en": ["outline", "key points"], "ja": ["アウトライン", "要綱", "骨子"], "note": null },
+  "挂号": { "en": ["to register (at a hospital)", "to send by registered mail"], "ja": ["（病院で）受付をする", "書留で送る"], "note": null },
+  "名胜": { "en": ["scenic spot", "famous site"], "ja": ["名所", "景勝地"], "note": null },
+  "解说员": { "en": ["commentator", "narrator; guide"], "ja": ["解説員", "ナレーター", "ガイド"], "note": null },
+  "礼拜天": { "en": ["Sunday"], "ja": ["日曜日"], "note": "「礼拜」は「礼拝」ではなく「週」の意味。礼拜天＝日曜日（礼拜一＝月曜日）。" },
+  "太极拳": { "en": ["tai chi", "shadowboxing"], "ja": ["太極拳"], "note": null },
+  "朝代": { "en": ["dynasty"], "ja": ["王朝", "時代"], "note": null },
+  "尺子": { "en": ["ruler (for measuring)"], "ja": ["定規", "ものさし"], "note": null },
+  "标点": { "en": ["punctuation", "punctuation mark"], "ja": ["句読点", "記号"], "note": null },
+  "劳驾": { "en": ["excuse me", "would you mind…"], "ja": ["すみません（呼びかけ）", "お手数ですが"], "note": null },
+  "占线": { "en": ["(phone line) busy", "engaged"], "ja": ["（電話が）話し中である"], "note": null },
+  "干活儿": { "en": ["to work", "to do (physical) work"], "ja": ["働く", "仕事をする"], "note": "「干」は「乾く」ではなく「する・やる」(gàn) の意味。干活儿＝働く。" },
+  "连忙": { "en": ["promptly", "at once; hastily"], "ja": ["急いで", "すぐに", "あわてて"], "note": null },
+  "短信": { "en": ["text message", "SMS"], "ja": ["ショートメッセージ", "SMS"], "note": "日本語の「短信」（短い便り・ニュース）とは異なり、中国語では携帯のSMSを指す。" },
+  "使劲儿": { "en": ["to exert oneself", "to put in effort; hard"], "ja": ["力を入れる", "力いっぱい", "頑張る"], "note": null },
+  "系领带": { "en": ["to wear a tie", "to tie a necktie"], "ja": ["ネクタイを締める"], "note": "ここの「系」は jì（結ぶ・締める）で、「系統」の xì ではない。" }
+}

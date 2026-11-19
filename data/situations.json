@@ -1,0 +1,2755 @@
+{
+  "level": "situations",
+  "note": "Real-world speaking sets for mainland China today: role plays, shadowing, repeat drills and question sets grouped under \"situations\". Pinyin uses tone marks with dictionary tones (bù, yī), one syllable per character (erhua excepted), neutral tones unmarked; [slot] parts are not scored.",
+  "sets": [
+    {
+      "id": "spk:real:rp-airport",
+      "mode": "roleplay",
+      "level": "hsk2",
+      "group": "situations",
+      "title": "Role play: arriving at the airport",
+      "title_ja": "ロールプレイ：空港に到着する",
+      "summary": "Immigration, customs and the luggage belt. The officer asks why you came and how long you will stay; then you find out where your suitcase is.",
+      "summary_ja": "入国審査、税関、荷物受け取りの場面です。係官に来た目的と滞在期間を聞かれ、そのあとスーツケースの受け取り場所を尋ねます。",
+      "partner": "边检民警 / 机场工作人员",
+      "tips": [
+        "Have your passport open at the photo page and the arrival card or visa ready; officers say little and expect short answers: 旅游 (tourism), 留学 (study), 工作 (work).",
+        "Most foreign passports are fingerprinted at a machine before the counter. 这边 (this way) and 那边 (that way) are what staff will say while pointing.",
+        "At customs, 没有申报的东西 (nothing to declare) is the line; walk through the green channel (绿色通道)."
+      ],
+      "tips_ja": [
+        "パスポートは写真のページを開き、入国カードやビザも用意しておきましょう。係官は短い答えを期待します：旅游（観光）、留学（留学）、工作（仕事）。",
+        "多くの外国パスポートは、カウンターの前に機械で指紋を取ります。職員が指さしながら言う 这边（こちら）と 那边（あちら）を覚えておきましょう。",
+        "税関では 没有申报的东西（申告するものはありません）が決まり文句です。緑のレーン（绿色通道）を通ります。"
+      ],
+      "turns": [
+        {
+          "who": "partner",
+          "zh": "你好，护照。",
+          "pinyin": "nǐ hǎo, hù zhào.",
+          "en": "Hello. Passport.",
+          "ja": "こんにちは。パスポートを。"
+        },
+        {
+          "who": "you",
+          "zh": "你好，给您。",
+          "pinyin": "nǐ hǎo, gěi nín.",
+          "en": "Hello, here you are.",
+          "ja": "こんにちは、どうぞ。",
+          "alt": [
+            "您好，给您。"
+          ]
+        },
+        {
+          "who": "partner",
+          "zh": "来中国做什么？",
+          "pinyin": "lái zhōng guó zuò shén me?",
+          "en": "What are you here for?",
+          "ja": "中国に来た目的は？"
+        },
+        {
+          "who": "you",
+          "zh": "我来旅游。",
+          "pinyin": "wǒ lái lǚ yóu.",
+          "en": "I'm here for tourism.",
+          "ja": "観光で来ました。",
+          "alt": [
+            "旅游。"
+          ]
+        },
+        {
+          "who": "partner",
+          "zh": "住多长时间？住在哪儿？",
+          "pinyin": "zhù duō cháng shí jiān? zhù zài nǎr?",
+          "en": "How long are you staying? Where are you staying?",
+          "ja": "どのくらい滞在しますか。どこに泊まりますか。"
+        },
+        {
+          "who": "you",
+          "zh": "住两个星期，住在[place]的酒店。",
+          "pinyin": "zhù liǎng gè xīng qī, zhù zài [place] de jiǔ diàn.",
+          "en": "Two weeks, at a hotel in [place].",
+          "ja": "2週間、[place]のホテルに泊まります。",
+          "alt": [
+            "住2个星期，住在[place]的酒店。"
+          ]
+        },
+        {
+          "who": "partner",
+          "zh": "好，看一下摄像头。可以了，欢迎来中国。",
+          "pinyin": "hǎo, kàn yī xià shè xiàng tóu. kě yǐ le, huān yíng lái zhōng guó.",
+          "en": "OK, look at the camera. Done. Welcome to China.",
+          "ja": "はい、カメラを見てください。結構です。中国へようこそ。"
+        },
+        {
+          "who": "you",
+          "zh": "谢谢。请问，行李在哪儿拿？",
+          "pinyin": "xiè xie. qǐng wèn, xíng li zài nǎr ná?",
+          "en": "Thank you. Excuse me, where do I collect my luggage?",
+          "ja": "ありがとうございます。すみません、荷物はどこで受け取りますか。",
+          "alt": []
+        },
+        {
+          "who": "partner",
+          "zh": "前面，七号转盘。",
+          "pinyin": "qián miàn, qī hào zhuàn pán.",
+          "en": "Straight ahead, belt number 7.",
+          "ja": "この先、7番のターンテーブルです。"
+        },
+        {
+          "who": "you",
+          "zh": "好的。我没有申报的东西，走这边可以吗？",
+          "pinyin": "hǎo de. wǒ méi yǒu shēn bào de dōng xi, zǒu zhè biān kě yǐ ma?",
+          "en": "OK. I have nothing to declare, can I go this way?",
+          "ja": "わかりました。申告するものはないのですが、こちらを通ればいいですか。",
+          "alt": []
+        },
+        {
+          "who": "partner",
+          "zh": "可以，绿色通道。",
+          "pinyin": "kě yǐ, lǜ sè tōng dào.",
+          "en": "Yes, the green channel.",
+          "ja": "はい、緑のレーンです。"
+        },
+        {
+          "who": "you",
+          "zh": "谢谢您！",
+          "pinyin": "xiè xie nín!",
+          "en": "Thank you!",
+          "ja": "ありがとうございます。",
+          "alt": [
+            "谢谢你！"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "spk:real:rp-train",
+      "mode": "roleplay",
+      "level": "hsk2",
+      "group": "situations",
+      "title": "Role play: high-speed rail with a passport",
+      "title_ja": "ロールプレイ：パスポートで高速鉄道に乗る",
+      "summary": "You bought a ticket on the 12306 app but the gate will not read your passport. You ask the staff, pass security, and find your carriage and seat.",
+      "summary_ja": "12306アプリで切符を買ったのに、改札機がパスポートを読み取ってくれません。係員に聞き、セキュリティチェックを通り、車両と座席を探します。",
+      "partner": "车站工作人员",
+      "tips": [
+        "Tickets are electronic and tied to your ID. Chinese passengers tap their 身份证 at the gate; with a passport you often have to use the manual channel (人工通道) and show the passport and your 12306 booking.",
+        "Security is like an airport: bags through the scanner, water bottles get checked. Then look for your train number on the board to find the waiting area (候车室) and gate (检票口).",
+        "Seat numbers are like 05车 12F: carriage 5, row 12, seat F. A and F are window seats (靠窗), C and D aisle (靠过道)."
+      ],
+      "tips_ja": [
+        "切符は電子化され、身分証と紐づいています。中国人は改札で 身份证 をタッチしますが、パスポートの場合は有人レーン（人工通道）でパスポートと12306の予約を見せることが多いです。",
+        "セキュリティチェックは空港と同じで、荷物をスキャンし、水のボトルは確認されます。そのあと電光掲示板で列車番号を探し、待合室（候车室）と改札口（检票口）を確認します。",
+        "座席番号は 05车 12F のように、5号車12列F席という意味です。AとFが窓側（靠窗）、CとDが通路側（靠过道）です。"
+      ],
+      "turns": [
+        {
+          "who": "you",
+          "zh": "你好，我用护照买的票，这个机器刷不了。",
+          "pinyin": "nǐ hǎo, wǒ yòng hù zhào mǎi de piào, zhè gè jī qì shuā bù liǎo.",
+          "en": "Hello, I bought my ticket with my passport and this machine won't read it.",
+          "ja": "すみません、パスポートで切符を買ったのですが、この機械では読み取れません。",
+          "alt": []
+        },
+        {
+          "who": "partner",
+          "zh": "外国护照走人工通道，这边。护照给我看一下。",
+          "pinyin": "wài guó hù zhào zǒu rén gōng tōng dào, zhè biān. hù zhào gěi wǒ kàn yī xià.",
+          "en": "Foreign passports use the manual channel, over here. Let me see your passport.",
+          "ja": "外国のパスポートは有人レーンです、こちらへ。パスポートを見せてください。"
+        },
+        {
+          "who": "you",
+          "zh": "好的，给您。我在12306上买的。",
+          "pinyin": "hǎo de, gěi nín. wǒ zài 12306 shàng mǎi de.",
+          "en": "Sure, here. I bought it on 12306.",
+          "ja": "はい、どうぞ。12306で買いました。",
+          "alt": []
+        },
+        {
+          "who": "partner",
+          "zh": "1234次，北京南到上海。可以了，先过安检。",
+          "pinyin": "1234 cì, běi jīng nán dào shàng hǎi. kě yǐ le, xiān guò ān jiǎn.",
+          "en": "Train 1234, Beijing South to Shanghai. All good; go through security first.",
+          "ja": "1234号、北京南発上海行きですね。結構です。まずセキュリティチェックを通ってください。"
+        },
+        {
+          "who": "you",
+          "zh": "请问，几号检票口？",
+          "pinyin": "qǐng wèn, jǐ hào jiǎn piào kǒu?",
+          "en": "Excuse me, which gate?",
+          "ja": "すみません、何番の改札口ですか。",
+          "alt": []
+        },
+        {
+          "who": "partner",
+          "zh": "你看大屏幕，上面有。你的车在八号检票口。",
+          "pinyin": "nǐ kàn dà píng mù, shàng miàn yǒu. nǐ de chē zài bā hào jiǎn piào kǒu.",
+          "en": "Check the big screen, it's on there. Your train is at gate 8.",
+          "ja": "大きな画面を見てください、そこに出ています。あなたの列車は8番改札口です。"
+        },
+        {
+          "who": "you",
+          "zh": "八号。我的座位是五车十二号，在哪儿上车？",
+          "pinyin": "bā hào. wǒ de zuò wèi shì wǔ chē shí èr hào, zài nǎr shàng chē?",
+          "en": "Gate 8. My seat is carriage 5, number 12; where do I board?",
+          "ja": "8番ですね。座席は5号車12番なのですが、どこから乗りますか。",
+          "alt": [
+            "8号。我的座位是5车12号，在哪儿上车？"
+          ]
+        },
+        {
+          "who": "partner",
+          "zh": "站台上有车厢号，站在五车那儿等就行。",
+          "pinyin": "zhàn tái shàng yǒu chē xiāng hào, zhàn zài wǔ chē nàr děng jiù xíng.",
+          "en": "The carriage numbers are marked on the platform; just wait where it says 5.",
+          "ja": "ホームに車両番号が書いてあります。5号車のところで待てば大丈夫です。"
+        },
+        {
+          "who": "you",
+          "zh": "明白了。我的座位靠窗吗？",
+          "pinyin": "míng bai le. wǒ de zuò wèi kào chuāng ma?",
+          "en": "Got it. Is my seat by the window?",
+          "ja": "わかりました。私の席は窓側ですか。",
+          "alt": []
+        },
+        {
+          "who": "partner",
+          "zh": "对，靠窗。",
+          "pinyin": "duì, kào chuāng.",
+          "en": "Yes, by the window.",
+          "ja": "はい、窓側です。"
+        },
+        {
+          "who": "you",
+          "zh": "太好了，谢谢！",
+          "pinyin": "tài hǎo le, xiè xie!",
+          "en": "Great, thank you!",
+          "ja": "よかった、ありがとうございます。",
+          "alt": []
+        }
+      ]
+    },
+    {
+      "id": "spk:real:rp-metro",
+      "mode": "roleplay",
+      "level": "hsk1",
+      "group": "situations",
+      "title": "Role play: taking the metro",
+      "title_ja": "ロールプレイ：地下鉄に乗る",
+      "summary": "At the service window you ask how to pay, which line goes to your stop, and which exit to take.",
+      "summary_ja": "サービス窓口で支払い方法、目的の駅へ行く路線、出口の番号を尋ねます。",
+      "partner": "地铁工作人员",
+      "tips": [
+        "In most cities you scan a QR code in the city's metro app, Alipay or WeChat at the gate; single tickets (单程票) from the machine or a transport card (交通卡) also work. Bags go through an X-ray at every station.",
+        "Say the line as 几号线: 二号线, 十号线. Lines with names, like 机场线 (Airport Line), are also common.",
+        "Big stations have many exits (A, B, C1, C2…). Ask 几号口 or 哪个口 and check the exit map before you leave the gates."
+      ],
+      "tips_ja": [
+        "ほとんどの都市では、改札で都市の地下鉄アプリ・支付宝・微信のQRコードをスキャンします。券売機の片道券（单程票）や交通カード（交通卡）も使えます。どの駅でも荷物はX線検査を通します。",
+        "路線は 几号线 で言います：二号线、十号线。机场线（空港線）のように名前のついた路線もよくあります。",
+        "大きな駅は出口が多く（A、B、C1、C2…）、几号口 や 哪个口 と聞き、改札を出る前に出口の地図を確認しましょう。"
+      ],
+      "turns": [
+        {
+          "who": "you",
+          "zh": "你好，我想坐地铁去[place]，怎么买票？",
+          "pinyin": "nǐ hǎo, wǒ xiǎng zuò dì tiě qù [place], zěn me mǎi piào?",
+          "en": "Hello, I want to take the metro to [place]. How do I buy a ticket?",
+          "ja": "すみません、地下鉄で[place]に行きたいのですが、切符はどう買いますか。",
+          "alt": []
+        },
+        {
+          "who": "partner",
+          "zh": "可以用支付宝扫码，也可以在机器上买单程票。",
+          "pinyin": "kě yǐ yòng zhī fù bǎo sǎo mǎ, yě kě yǐ zài jī qì shàng mǎi dān chéng piào.",
+          "en": "You can scan with Alipay, or buy a single ticket at the machine.",
+          "ja": "支付宝のコードをスキャンするか、券売機で片道券を買うこともできます。"
+        },
+        {
+          "who": "you",
+          "zh": "我有支付宝。去[place]坐几号线？",
+          "pinyin": "wǒ yǒu zhī fù bǎo. qù [place] zuò jǐ hào xiàn?",
+          "en": "I have Alipay. Which line goes to [place]?",
+          "ja": "支付宝は持っています。[place]へは何号線ですか。",
+          "alt": []
+        },
+        {
+          "who": "partner",
+          "zh": "坐二号线，四站，不用换乘。",
+          "pinyin": "zuò èr hào xiàn, sì zhàn, bù yòng huàn chéng.",
+          "en": "Line 2, four stops, no transfer.",
+          "ja": "2号線で4駅です。乗り換えはありません。"
+        },
+        {
+          "who": "you",
+          "zh": "二号线，四站。要多长时间？",
+          "pinyin": "èr hào xiàn, sì zhàn. yào duō cháng shí jiān?",
+          "en": "Line 2, four stops. How long does it take?",
+          "ja": "2号線で4駅ですね。どのくらいかかりますか。",
+          "alt": [
+            "2号线，4站。要多长时间？"
+          ]
+        },
+        {
+          "who": "partner",
+          "zh": "十分钟左右。包要过安检。",
+          "pinyin": "shí fēn zhōng zuǒ yòu. bāo yào guò ān jiǎn.",
+          "en": "About ten minutes. Bags have to go through security.",
+          "ja": "10分くらいです。かばんは検査を通してください。"
+        },
+        {
+          "who": "you",
+          "zh": "好。到了以后，从几号口出？",
+          "pinyin": "hǎo. dào le yǐ hòu, cóng jǐ hào kǒu chū?",
+          "en": "OK. Once I'm there, which exit do I take?",
+          "ja": "はい。着いたら何番出口から出ればいいですか。",
+          "alt": []
+        },
+        {
+          "who": "partner",
+          "zh": "去[place]走二号口，出来就能看见。",
+          "pinyin": "qù [place] zǒu èr hào kǒu, chū lái jiù néng kàn jiàn.",
+          "en": "For [place], take Exit 2; you'll see it as soon as you come out.",
+          "ja": "[place]へは2番出口です。出ればすぐ見えます。"
+        },
+        {
+          "who": "you",
+          "zh": "二号口。谢谢你！",
+          "pinyin": "èr hào kǒu. xiè xie nǐ!",
+          "en": "Exit 2. Thank you!",
+          "ja": "2番出口ですね。ありがとうございます。",
+          "alt": [
+            "2号口。谢谢你！",
+            "二号口。谢谢您！"
+          ]
+        },
+        {
+          "who": "partner",
+          "zh": "不客气，往前走就是闸机。",
+          "pinyin": "bù kè qi, wǎng qián zǒu jiù shì zhá jī.",
+          "en": "You're welcome. The gates are straight ahead.",
+          "ja": "どういたしまして。まっすぐ行くと改札機です。"
+        }
+      ]
+    },
+    {
+      "id": "spk:real:rp-didi",
+      "mode": "roleplay",
+      "level": "hsk2",
+      "group": "situations",
+      "title": "Role play: a Didi ride",
+      "title_ja": "ロールプレイ：滴滴（配車アプリ）に乗る",
+      "summary": "The driver calls to find you, you confirm the licence plate and your phone number ending, give the destination, and get out at the right place.",
+      "summary_ja": "運転手から電話がかかってきて、ナンバープレートと電話番号の下4桁を確認し、目的地を伝え、降りたい場所で止めてもらいます。",
+      "partner": "滴滴师傅",
+      "tips": [
+        "Drivers are addressed as 师傅. They will check 尾号 (the last four digits of your phone number) to make sure you are the right passenger; have it ready.",
+        "The app already knows the destination, so the driver just confirms it. Payment is through the app afterwards; there is no cash or card handover in the car.",
+        "Phrases for the last stretch: 前面停 (stop ahead), 靠边停 (pull over), 到了 (we're here). Passengers normally sit in the back."
+      ],
+      "tips_ja": [
+        "運転手は 师傅 と呼びます。正しい乗客かどうか 尾号（電話番号の下4桁）で確認するので、すぐ言えるようにしておきましょう。",
+        "目的地はアプリに入っているので、運転手は確認するだけです。支払いはあとでアプリ経由で、車内で現金やカードを渡すことはありません。",
+        "降りるときの言い方：前面停（この先で止めて）、靠边停（路肩に寄せて）、到了（着きました）。乗客はふつう後部座席に座ります。"
+      ],
+      "turns": [
+        {
+          "who": "partner",
+          "zh": "喂，你好，我是滴滴司机。你在哪儿？",
+          "pinyin": "wèi, nǐ hǎo, wǒ shì dī dī sī jī. nǐ zài nǎr?",
+          "en": "Hello, this is your Didi driver. Where are you?",
+          "ja": "もしもし、滴滴の運転手です。今どこにいますか。"
+        },
+        {
+          "who": "you",
+          "zh": "师傅你好，我在地铁站二号口，穿黑色衣服。",
+          "pinyin": "shī fu nǐ hǎo, wǒ zài dì tiě zhàn èr hào kǒu, chuān hēi sè yī fu.",
+          "en": "Hello, I'm at Exit 2 of the metro station, wearing black.",
+          "ja": "こんにちは、地下鉄駅の2番出口にいます。黒い服を着ています。",
+          "alt": [
+            "师傅您好，我在地铁站二号口，穿黑色衣服。",
+            "师傅你好，我在地铁站2号口，穿黑色衣服。"
+          ]
+        },
+        {
+          "who": "partner",
+          "zh": "好，我两分钟到，白色的车，车牌尾号八八六六。",
+          "pinyin": "hǎo, wǒ liǎng fēn zhōng dào, bái sè de chē, chē pái wěi hào bā bā liù liù.",
+          "en": "OK, two minutes. White car, plate ending 8866.",
+          "ja": "はい、2分で着きます。白い車で、ナンバーの下4桁は8866です。"
+        },
+        {
+          "who": "you",
+          "zh": "师傅，是尾号八八六六吗？",
+          "pinyin": "shī fu, shì wěi hào bā bā liù liù ma?",
+          "en": "Is the plate ending 8866?",
+          "ja": "ナンバーの下4桁は8866ですか。",
+          "alt": [
+            "师傅，是尾号8866吗？"
+          ]
+        },
+        {
+          "who": "partner",
+          "zh": "对。上车吧。手机尾号多少？",
+          "pinyin": "duì. shàng chē ba. shǒu jī wěi hào duō shao?",
+          "en": "Yes. Hop in. What are the last digits of your phone number?",
+          "ja": "そうです。乗ってください。携帯番号の下の桁は？"
+        },
+        {
+          "who": "you",
+          "zh": "尾号[number]。去[place]，对吧？",
+          "pinyin": "wěi hào [number]. qù [place], duì ba?",
+          "en": "It ends in [number]. We're going to [place], right?",
+          "ja": "下4桁は[number]です。[place]まで、ですよね。",
+          "alt": []
+        },
+        {
+          "who": "partner",
+          "zh": "对，去[place]。系好安全带。",
+          "pinyin": "duì, qù [place]. jì hǎo ān quán dài.",
+          "en": "Yes, [place]. Fasten your seatbelt.",
+          "ja": "はい、[place]です。シートベルトを締めてください。"
+        },
+        {
+          "who": "you",
+          "zh": "好的。师傅，大概要多久？",
+          "pinyin": "hǎo de. shī fu, dà gài yào duō jiǔ?",
+          "en": "OK. Roughly how long will it take?",
+          "ja": "はい。だいたいどのくらいかかりますか。",
+          "alt": []
+        },
+        {
+          "who": "partner",
+          "zh": "不堵车的话二十分钟。",
+          "pinyin": "bù dǔ chē de huà èr shí fēn zhōng.",
+          "en": "Twenty minutes if there's no traffic.",
+          "ja": "渋滞がなければ20分です。"
+        },
+        {
+          "who": "you",
+          "zh": "师傅，前面路口停就行。",
+          "pinyin": "shī fu, qián miàn lù kǒu tíng jiù xíng.",
+          "en": "You can stop at the next intersection.",
+          "ja": "その先の交差点で止めてもらえれば大丈夫です。",
+          "alt": []
+        },
+        {
+          "who": "partner",
+          "zh": "好嘞。到了，手机上付款就行。",
+          "pinyin": "hǎo lei. dào le, shǒu jī shàng fù kuǎn jiù xíng.",
+          "en": "Sure. Here we are; just pay on your phone.",
+          "ja": "はい。着きました。支払いはスマホでお願いします。"
+        },
+        {
+          "who": "you",
+          "zh": "谢谢师傅，再见！",
+          "pinyin": "xiè xie shī fu, zài jiàn!",
+          "en": "Thanks, goodbye!",
+          "ja": "ありがとうございました。さようなら。",
+          "alt": []
+        }
+      ]
+    },
+    {
+      "id": "spk:real:rp-pay",
+      "mode": "roleplay",
+      "level": "hsk1",
+      "group": "situations",
+      "title": "Role play: paying with your phone",
+      "title_ja": "ロールプレイ：スマホで支払う",
+      "summary": "At a small shop you ask whether WeChat Pay works, sort out who scans whom, and deal with a cashier who has no change.",
+      "summary_ja": "小さな店で微信支付が使えるか聞き、どちらがスキャンするかを確かめ、おつりのない店員とのやりとりをします。",
+      "partner": "店员",
+      "tips": [
+        "Two directions: you scan the shop's 收款码 (a printed QR on the counter) and type the amount, or the shop scans your 付款码 (the barcode in your app). 我扫你还是你扫我？ settles it.",
+        "Cash is legal but many small shops have no change, so a phone is easier. Foreign cards can be linked to WeChat Pay and Alipay; set it up before you arrive.",
+        "After paying, the shop's speaker announces the amount (微信收款十元). That is your receipt; nobody expects you to show the screen."
+      ],
+      "tips_ja": [
+        "方向は2つ。自分が店の 收款码（カウンターの印刷されたQR）を読み取って金額を入力するか、店が自分の 付款码（アプリのバーコード）を読み取るかです。我扫你还是你扫我？で確認できます。",
+        "現金も使えますが、小さな店はおつりがないことが多く、スマホのほうが楽です。外国のカードは微信支付や支付宝に登録できるので、到着前に設定しておきましょう。",
+        "支払い後、店のスピーカーが金額を読み上げます（微信收款十元）。それが領収書代わりで、画面を見せる必要はありません。"
+      ],
+      "turns": [
+        {
+          "who": "partner",
+          "zh": "一共十八块。",
+          "pinyin": "yī gòng shí bā kuài.",
+          "en": "That's 18 yuan altogether.",
+          "ja": "合計18元です。"
+        },
+        {
+          "who": "you",
+          "zh": "可以用微信吗？",
+          "pinyin": "kě yǐ yòng wēi xìn ma?",
+          "en": "Can I pay with WeChat?",
+          "ja": "微信で払えますか。",
+          "alt": []
+        },
+        {
+          "who": "partner",
+          "zh": "可以，微信支付宝都行。",
+          "pinyin": "kě yǐ, wēi xìn zhī fù bǎo dōu xíng.",
+          "en": "Yes, WeChat or Alipay, either.",
+          "ja": "はい、微信でも支付宝でも大丈夫です。"
+        },
+        {
+          "who": "you",
+          "zh": "我扫你还是你扫我？",
+          "pinyin": "wǒ sǎo nǐ hái shì nǐ sǎo wǒ?",
+          "en": "Do I scan you or do you scan me?",
+          "ja": "私がスキャンしますか、それともそちらが読み取りますか。",
+          "alt": []
+        },
+        {
+          "who": "partner",
+          "zh": "你扫我，码在这儿。",
+          "pinyin": "nǐ sǎo wǒ, mǎ zài zhèr.",
+          "en": "You scan me; the code is here.",
+          "ja": "そちらがスキャンしてください。コードはここです。"
+        },
+        {
+          "who": "you",
+          "zh": "好，我扫一下。十八，对吧？",
+          "pinyin": "hǎo, wǒ sǎo yī xià. shí bā, duì ba?",
+          "en": "OK, let me scan it. 18, right?",
+          "ja": "はい、スキャンします。18元ですよね。",
+          "alt": [
+            "好，我扫一下。18，对吧？"
+          ]
+        },
+        {
+          "who": "partner",
+          "zh": "对，十八。",
+          "pinyin": "duì, shí bā.",
+          "en": "Yes, 18.",
+          "ja": "はい、18元です。"
+        },
+        {
+          "who": "you",
+          "zh": "付好了，你看一下。",
+          "pinyin": "fù hǎo le, nǐ kàn yī xià.",
+          "en": "Paid. Have a look.",
+          "ja": "払いました。確認してください。",
+          "alt": []
+        },
+        {
+          "who": "partner",
+          "zh": "收到了。要袋子吗？",
+          "pinyin": "shōu dào le. yào dài zi ma?",
+          "en": "Got it. Do you want a bag?",
+          "ja": "受け取りました。袋は要りますか。"
+        },
+        {
+          "who": "you",
+          "zh": "不用了，谢谢。",
+          "pinyin": "bù yòng le, xiè xie.",
+          "en": "No thanks.",
+          "ja": "いいえ、結構です。ありがとう。",
+          "alt": []
+        }
+      ]
+    },
+    {
+      "id": "spk:real:rp-restaurant",
+      "mode": "roleplay",
+      "level": "hsk2",
+      "group": "situations",
+      "title": "Role play: dinner at a restaurant",
+      "title_ja": "ロールプレイ：レストランで食事をする",
+      "summary": "Ordering by scanning the table code, saying no chilli and no coriander, asking for the leftovers to be packed, and settling the bill.",
+      "summary_ja": "テーブルのQRコードで注文し、唐辛子抜き・パクチー抜きを頼み、残りを持ち帰り用に包んでもらい、会計をします。",
+      "partner": "服务员",
+      "tips": [
+        "Most restaurants have a QR code on the table (扫码点餐): scan it, order and pay in WeChat. If you'd rather have a paper menu, ask for 菜单.",
+        "Say dietary needs when you order, not after: 不要辣, 不要香菜, 我不吃牛肉, 我对花生过敏. 微辣 means mild, 不放辣 means none at all.",
+        "Calling a waiter with 服务员! across the room is normal. 买单 and 结账 both mean the bill; 打包 is to take the rest home, very common and not rude."
+      ],
+      "tips_ja": [
+        "多くの店ではテーブルにQRコードがあり（扫码点餐）、スキャンして微信で注文・支払いをします。紙のメニューがよければ 菜单 と頼みましょう。",
+        "食べられないものは注文のときに言います：不要辣、不要香菜、我不吃牛肉、我对花生过敏。微辣 は少し辛い、不放辣 はまったく入れないという意味です。",
+        "店内で 服务员! と大きな声で呼ぶのは普通です。买单 も 结账 も会計の意味。打包 は残りを持ち帰ることで、とても一般的で失礼ではありません。"
+      ],
+      "turns": [
+        {
+          "who": "partner",
+          "zh": "几位？",
+          "pinyin": "jǐ wèi?",
+          "en": "How many?",
+          "ja": "何名様ですか。"
+        },
+        {
+          "who": "you",
+          "zh": "两位。有菜单吗？",
+          "pinyin": "liǎng wèi. yǒu cài dān ma?",
+          "en": "Two. Do you have a menu?",
+          "ja": "2人です。メニューはありますか。",
+          "alt": [
+            "2位。有菜单吗？"
+          ]
+        },
+        {
+          "who": "partner",
+          "zh": "桌上有二维码，扫码点餐。",
+          "pinyin": "zhuō shàng yǒu èr wéi mǎ, sǎo mǎ diǎn cān.",
+          "en": "There's a QR code on the table; scan it to order.",
+          "ja": "テーブルにQRコードがあります。スキャンして注文してください。"
+        },
+        {
+          "who": "you",
+          "zh": "好。我想要一个宫保鸡丁，不要辣，可以吗？",
+          "pinyin": "hǎo. wǒ xiǎng yào yī gè gōng bǎo jī dīng, bù yào là, kě yǐ ma?",
+          "en": "OK. I'd like a kung pao chicken, no chilli. Is that possible?",
+          "ja": "はい。宮保鶏丁をひとつ、辛くしないでほしいのですが、できますか。",
+          "alt": [
+            "好。我想要1个宫保鸡丁，不要辣，可以吗？"
+          ]
+        },
+        {
+          "who": "partner",
+          "zh": "可以，微辣还是不放辣？",
+          "pinyin": "kě yǐ, wēi là hái shì bù fàng là?",
+          "en": "Sure. Mild, or no chilli at all?",
+          "ja": "できます。少し辛くしますか、それともまったく入れませんか。"
+        },
+        {
+          "who": "you",
+          "zh": "不放辣。还有，不要香菜，我不吃香菜。",
+          "pinyin": "bù fàng là. hái yǒu, bù yào xiāng cài, wǒ bù chī xiāng cài.",
+          "en": "None at all. And no coriander, I don't eat coriander.",
+          "ja": "まったく入れないでください。あと、パクチーは抜いてください。パクチーは食べられません。",
+          "alt": []
+        },
+        {
+          "who": "partner",
+          "zh": "好的。喝点什么？",
+          "pinyin": "hǎo de. hē diǎn shén me?",
+          "en": "Noted. Anything to drink?",
+          "ja": "かしこまりました。お飲み物は？"
+        },
+        {
+          "who": "you",
+          "zh": "两杯热水就行。",
+          "pinyin": "liǎng bēi rè shuǐ jiù xíng.",
+          "en": "Just two cups of hot water.",
+          "ja": "お湯を2杯で結構です。",
+          "alt": [
+            "2杯热水就行。"
+          ]
+        },
+        {
+          "who": "partner",
+          "zh": "菜齐了，慢用。",
+          "pinyin": "cài qí le, màn yòng.",
+          "en": "That's everything. Enjoy.",
+          "ja": "お料理がそろいました。ごゆっくりどうぞ。"
+        },
+        {
+          "who": "you",
+          "zh": "服务员，这个帮我打包一下，然后买单。",
+          "pinyin": "fú wù yuán, zhè gè bāng wǒ dǎ bāo yī xià, rán hòu mǎi dān.",
+          "en": "Excuse me, could you pack this up, and then the bill, please.",
+          "ja": "すみません、これを持ち帰り用に包んでください。それから会計をお願いします。",
+          "alt": [
+            "服务员，这个帮我打包一下，然后结账。"
+          ]
+        },
+        {
+          "who": "partner",
+          "zh": "好的，一共八十六。扫桌上的码就可以。",
+          "pinyin": "hǎo de, yī gòng bā shí liù. sǎo zhuō shàng de mǎ jiù kě yǐ.",
+          "en": "Sure, 86 in total. Just scan the code on the table.",
+          "ja": "はい、合計86元です。テーブルのコードをスキャンしてください。"
+        },
+        {
+          "who": "you",
+          "zh": "付好了。谢谢，很好吃！",
+          "pinyin": "fù hǎo le. xiè xie, hěn hǎo chī!",
+          "en": "Done. Thanks, it was delicious!",
+          "ja": "払いました。ありがとう、とてもおいしかったです。",
+          "alt": []
+        }
+      ]
+    },
+    {
+      "id": "spk:real:rp-bubble-tea",
+      "mode": "roleplay",
+      "level": "hsk1",
+      "group": "situations",
+      "title": "Role play: bubble tea and street food",
+      "title_ja": "ロールプレイ：タピオカミルクティーと屋台",
+      "summary": "Ordering a milk tea with your own sweetness and ice level, picking toppings, then grabbing a jianbing at the stall next door.",
+      "summary_ja": "ミルクティーを甘さと氷の量を指定して注文し、トッピングを選び、隣の屋台で煎餅（ジェンビン）を買います。",
+      "partner": "店员 / 摊主",
+      "tips": [
+        "Sweetness: 全糖 (full), 七分糖 (70%), 五分糖 / 半糖 (half), 三分糖 (30%), 无糖 (none). Ice: 正常冰, 少冰, 去冰 (no ice), 常温 (room temperature), 热的 (hot).",
+        "Toppings are 加料: 珍珠 (tapioca pearls), 椰果 (coconut jelly), 布丁 (pudding), 芋圆 (taro balls). The shop will ask 要什么料?",
+        "Street stalls are fast: say what you want and how many (一个, 两个), answer 要不要辣, scan the stallholder's code and wait. Your order number is called out, or your phone rings with the pickup."
+      ],
+      "tips_ja": [
+        "甘さ：全糖（普通）、七分糖（70%）、五分糖／半糖（半分）、三分糖（30%）、无糖（なし）。氷：正常冰、少冰、去冰（氷なし）、常温、热的（ホット）。",
+        "トッピングは 加料 といいます：珍珠（タピオカ）、椰果（ナタデココ）、布丁（プリン）、芋圆（タロ団子）。店員は 要什么料？と聞いてきます。",
+        "屋台はテンポが速いので、欲しいものと数（一个、两个）を言い、要不要辣 に答えて、店のコードをスキャンして待ちます。番号を呼ばれるか、受け取り時に声をかけられます。"
+      ],
+      "turns": [
+        {
+          "who": "partner",
+          "zh": "你好，要什么？",
+          "pinyin": "nǐ hǎo, yào shén me?",
+          "en": "Hi, what would you like?",
+          "ja": "いらっしゃいませ、何にしますか。"
+        },
+        {
+          "who": "you",
+          "zh": "一杯珍珠奶茶，中杯。",
+          "pinyin": "yī bēi zhēn zhū nǎi chá, zhōng bēi.",
+          "en": "One pearl milk tea, medium.",
+          "ja": "タピオカミルクティーをひとつ、Mサイズで。",
+          "alt": [
+            "1杯珍珠奶茶，中杯。"
+          ]
+        },
+        {
+          "who": "partner",
+          "zh": "甜度和冰呢？",
+          "pinyin": "tián dù hé bīng ne?",
+          "en": "Sweetness and ice?",
+          "ja": "甘さと氷はどうしますか。"
+        },
+        {
+          "who": "you",
+          "zh": "半糖，少冰。",
+          "pinyin": "bàn táng, shǎo bīng.",
+          "en": "Half sugar, less ice.",
+          "ja": "甘さ半分、氷少なめで。",
+          "alt": [
+            "五分糖，少冰。"
+          ]
+        },
+        {
+          "who": "partner",
+          "zh": "还要加别的料吗？",
+          "pinyin": "hái yào jiā bié de liào ma?",
+          "en": "Any other toppings?",
+          "ja": "ほかにトッピングはいかがですか。"
+        },
+        {
+          "who": "you",
+          "zh": "不用了，就珍珠。多少钱？",
+          "pinyin": "bù yòng le, jiù zhēn zhū. duō shao qián?",
+          "en": "No, just the pearls. How much?",
+          "ja": "いいえ、タピオカだけで。いくらですか。",
+          "alt": []
+        },
+        {
+          "who": "partner",
+          "zh": "十五。扫这个码，做好了叫你。",
+          "pinyin": "shí wǔ. sǎo zhè gè mǎ, zuò hǎo le jiào nǐ.",
+          "en": "15. Scan this code; I'll call you when it's ready.",
+          "ja": "15元です。このコードをスキャンしてください。できたら呼びます。"
+        },
+        {
+          "who": "you",
+          "zh": "好的。老板，再来一个煎饼，不要辣。",
+          "pinyin": "hǎo de. lǎo bǎn, zài lái yī gè jiān bing, bù yào là.",
+          "en": "OK. Boss, one jianbing as well, not spicy.",
+          "ja": "はい。それから、煎餅もひとつください。辛くしないで。",
+          "alt": [
+            "好的。老板，再来1个煎饼，不要辣。"
+          ]
+        },
+        {
+          "who": "partner",
+          "zh": "加不加蛋？",
+          "pinyin": "jiā bù jiā dàn?",
+          "en": "With egg?",
+          "ja": "卵は入れますか。"
+        },
+        {
+          "who": "you",
+          "zh": "加一个蛋。谢谢！",
+          "pinyin": "jiā yī gè dàn. xiè xie!",
+          "en": "Yes, one egg. Thanks!",
+          "ja": "卵をひとつ入れてください。ありがとう。",
+          "alt": [
+            "加1个蛋。谢谢！"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "spk:real:rp-hotel",
+      "mode": "roleplay",
+      "level": "hsk2",
+      "group": "situations",
+      "title": "Role play: checking in at a hotel",
+      "title_ja": "ロールプレイ：ホテルにチェックインする",
+      "summary": "Check-in with your passport, the deposit, the WiFi password, breakfast hours and check-out time.",
+      "summary_ja": "パスポートでチェックインし、デポジット、WiFiのパスワード、朝食の時間、チェックアウト時刻を確認します。",
+      "partner": "前台",
+      "tips": [
+        "Hotels must register foreign guests, so the passport is scanned at the front desk. Some cheaper hotels are not licensed for foreigners; booking sites usually say 可接待外宾.",
+        "A deposit (押金) is normal, usually frozen on your phone payment or card and released at check-out.",
+        "The WiFi password is often the room number or the hotel phone number; ask 无线密码是多少? Breakfast is 早餐, check-out time is 退房时间."
+      ],
+      "tips_ja": [
+        "ホテルは外国人宿泊客を登録する義務があるので、フロントでパスポートをスキャンします。安いホテルの中には外国人を泊められない所もあり、予約サイトには 可接待外宾 と書かれています。",
+        "デポジット（押金）は普通で、スマホ決済やカードで仮押さえされ、チェックアウト時に解除されます。",
+        "WiFiのパスワードは部屋番号やホテルの電話番号であることが多く、无线密码是多少？と聞きます。朝食は 早餐、チェックアウト時刻は 退房时间 です。"
+      ],
+      "turns": [
+        {
+          "who": "partner",
+          "zh": "您好，办理入住吗？",
+          "pinyin": "nín hǎo, bàn lǐ rù zhù ma?",
+          "en": "Hello, checking in?",
+          "ja": "いらっしゃいませ、チェックインでしょうか。"
+        },
+        {
+          "who": "you",
+          "zh": "对，我订了一个房间，名字是[name]。",
+          "pinyin": "duì, wǒ dìng le yī gè fáng jiān, míng zi shì [name].",
+          "en": "Yes, I booked a room under the name [name].",
+          "ja": "はい、[name]の名前で部屋を予約しています。",
+          "alt": [
+            "对，我订了1个房间，名字是[name]。"
+          ]
+        },
+        {
+          "who": "partner",
+          "zh": "好的，请给我您的护照。",
+          "pinyin": "hǎo de, qǐng gěi wǒ nín de hù zhào.",
+          "en": "OK, your passport please.",
+          "ja": "はい、パスポートをお願いします。"
+        },
+        {
+          "who": "you",
+          "zh": "给您。要交押金吗？",
+          "pinyin": "gěi nín. yào jiāo yā jīn ma?",
+          "en": "Here. Do I need to pay a deposit?",
+          "ja": "どうぞ。デポジットは必要ですか。",
+          "alt": []
+        },
+        {
+          "who": "partner",
+          "zh": "要，押金三百，退房的时候退给您。",
+          "pinyin": "yào, yā jīn sān bǎi, tuì fáng de shí hou tuì gěi nín.",
+          "en": "Yes, a 300 deposit, refunded when you check out.",
+          "ja": "はい、デポジットは300元で、チェックアウト時にお返しします。"
+        },
+        {
+          "who": "you",
+          "zh": "好。可以用支付宝吗？",
+          "pinyin": "hǎo. kě yǐ yòng zhī fù bǎo ma?",
+          "en": "OK. Can I use Alipay?",
+          "ja": "はい。支付宝で払えますか。",
+          "alt": []
+        },
+        {
+          "who": "partner",
+          "zh": "可以。这是房卡，八楼八零六。",
+          "pinyin": "kě yǐ. zhè shì fáng kǎ, bā lóu bā líng liù.",
+          "en": "Yes. Here's your key card, 8th floor, room 806.",
+          "ja": "はい。こちらがルームキーで、8階の806号室です。"
+        },
+        {
+          "who": "you",
+          "zh": "谢谢。无线密码是多少？",
+          "pinyin": "xiè xie. wú xiàn mì mǎ shì duō shao?",
+          "en": "Thanks. What's the WiFi password?",
+          "ja": "ありがとうございます。WiFiのパスワードは何ですか。",
+          "alt": []
+        },
+        {
+          "who": "partner",
+          "zh": "就是房间号，八零六八零六。",
+          "pinyin": "jiù shì fáng jiān hào, bā líng liù bā líng liù.",
+          "en": "It's the room number, 806806.",
+          "ja": "部屋番号です。806806です。"
+        },
+        {
+          "who": "you",
+          "zh": "早餐几点？几点退房？",
+          "pinyin": "zǎo cān jǐ diǎn? jǐ diǎn tuì fáng?",
+          "en": "What time is breakfast, and when is check-out?",
+          "ja": "朝食は何時ですか。チェックアウトは何時ですか。",
+          "alt": []
+        },
+        {
+          "who": "partner",
+          "zh": "早餐七点到十点，二楼。退房中午十二点以前。",
+          "pinyin": "zǎo cān qī diǎn dào shí diǎn, èr lóu. tuì fáng zhōng wǔ shí èr diǎn yǐ qián.",
+          "en": "Breakfast is 7 to 10 on the second floor. Check-out is before 12 noon.",
+          "ja": "朝食は7時から10時、2階です。チェックアウトは正午12時までです。"
+        },
+        {
+          "who": "you",
+          "zh": "明白了，谢谢！",
+          "pinyin": "míng bai le, xiè xie!",
+          "en": "Got it, thanks!",
+          "ja": "わかりました、ありがとうございます。",
+          "alt": []
+        }
+      ]
+    },
+    {
+      "id": "spk:real:rp-pharmacy",
+      "mode": "roleplay",
+      "level": "hsk3",
+      "group": "situations",
+      "title": "Role play: at the pharmacy",
+      "title_ja": "ロールプレイ：薬局で",
+      "summary": "You have a cold. You describe the symptoms, mention an allergy, and ask how to take the medicine.",
+      "summary_ja": "風邪をひきました。症状を説明し、アレルギーを伝え、薬の飲み方を尋ねます。",
+      "partner": "药店店员",
+      "tips": [
+        "Pharmacies (药店) are everywhere and staff will recommend something for minor problems. Describe the symptom: 感冒 (cold), 发烧 (fever), 咳嗽 (cough), 嗓子疼 (sore throat), 头疼, 肚子疼, 拉肚子 (diarrhoea).",
+        "Say allergies up front: 我对青霉素过敏 (penicillin). Many Chinese cold remedies are 中药 (traditional); ask for 西药 if you want a conventional one.",
+        "Dosage is 一天几次, 一次几片: 一天三次, 一次两片, 饭后吃 (after meals)."
+      ],
+      "tips_ja": [
+        "薬局（药店）はどこにでもあり、軽い症状なら店員が薬を勧めてくれます。症状を伝えましょう：感冒（風邪）、发烧（熱）、咳嗽（咳）、嗓子疼（喉の痛み）、头疼、肚子疼、拉肚子（下痢）。",
+        "アレルギーは先に言います：我对青霉素过敏（ペニシリン）。中国の風邪薬には 中药（漢方）が多いので、一般的な薬がよければ 西药 と頼みます。",
+        "用法は 一天几次、一次几片 で聞きます：一天三次、一次两片、饭后吃（食後に）。"
+      ],
+      "turns": [
+        {
+          "who": "partner",
+          "zh": "你好，哪里不舒服？",
+          "pinyin": "nǐ hǎo, nǎ lǐ bù shū fu?",
+          "en": "Hello, what's the problem?",
+          "ja": "こんにちは、どこか具合が悪いですか。"
+        },
+        {
+          "who": "you",
+          "zh": "我感冒了，嗓子疼，还有点儿咳嗽。",
+          "pinyin": "wǒ gǎn mào le, sǎng zi téng, hái yǒu diǎnr ké sou.",
+          "en": "I have a cold, a sore throat and a bit of a cough.",
+          "ja": "風邪をひいて、喉が痛くて、少し咳も出ます。",
+          "alt": [
+            "我感冒了，嗓子疼，还有点咳嗽。"
+          ]
+        },
+        {
+          "who": "partner",
+          "zh": "发烧吗？",
+          "pinyin": "fā shāo ma?",
+          "en": "Do you have a fever?",
+          "ja": "熱はありますか。"
+        },
+        {
+          "who": "you",
+          "zh": "不发烧，就是没有力气。",
+          "pinyin": "bù fā shāo, jiù shì méi yǒu lì qi.",
+          "en": "No fever, I just have no energy.",
+          "ja": "熱はありません。ただ、体に力が入りません。",
+          "alt": []
+        },
+        {
+          "who": "partner",
+          "zh": "吃这个感冒药吧，中成药，效果不错。",
+          "pinyin": "chī zhè gè gǎn mào yào ba, zhōng chéng yào, xiào guǒ bù cuò.",
+          "en": "Try this cold medicine, a traditional formula, it works well.",
+          "ja": "この風邪薬を飲んでみてください。漢方の製剤で、よく効きます。"
+        },
+        {
+          "who": "you",
+          "zh": "有西药吗？我对青霉素过敏。",
+          "pinyin": "yǒu xī yào ma? wǒ duì qīng méi sù guò mǐn.",
+          "en": "Do you have a Western one? I'm allergic to penicillin.",
+          "ja": "一般的な薬はありますか。ペニシリンにアレルギーがあります。",
+          "alt": []
+        },
+        {
+          "who": "partner",
+          "zh": "这个没有青霉素，放心。再拿一盒润喉糖吧。",
+          "pinyin": "zhè gè méi yǒu qīng méi sù, fàng xīn. zài ná yī hé rùn hóu táng ba.",
+          "en": "This one has no penicillin, don't worry. Take a box of throat lozenges too.",
+          "ja": "これにはペニシリンは入っていないので安心してください。のど飴も一箱どうぞ。"
+        },
+        {
+          "who": "you",
+          "zh": "好。这个药怎么吃？一天几次？",
+          "pinyin": "hǎo. zhè gè yào zěn me chī? yī tiān jǐ cì?",
+          "en": "OK. How do I take it? How many times a day?",
+          "ja": "はい。この薬はどう飲みますか。一日何回ですか。",
+          "alt": []
+        },
+        {
+          "who": "partner",
+          "zh": "一天三次，一次两片，饭后吃。多喝水。",
+          "pinyin": "yī tiān sān cì, yī cì liǎng piàn, fàn hòu chī. duō hē shuǐ.",
+          "en": "Three times a day, two tablets each time, after meals. Drink plenty of water.",
+          "ja": "一日3回、1回2錠、食後に飲んでください。水をたくさん飲んでください。"
+        },
+        {
+          "who": "you",
+          "zh": "明白了。一共多少钱？",
+          "pinyin": "míng bai le. yī gòng duō shao qián?",
+          "en": "Got it. How much altogether?",
+          "ja": "わかりました。合計いくらですか。",
+          "alt": []
+        },
+        {
+          "who": "partner",
+          "zh": "四十二。扫码或者现金都可以。",
+          "pinyin": "sì shí èr. sǎo mǎ huò zhě xiàn jīn dōu kě yǐ.",
+          "en": "42. Scan or cash, either is fine.",
+          "ja": "42元です。スキャンでも現金でも大丈夫です。"
+        },
+        {
+          "who": "you",
+          "zh": "我扫码。谢谢！",
+          "pinyin": "wǒ sǎo mǎ. xiè xie!",
+          "en": "I'll scan. Thanks!",
+          "ja": "スキャンで払います。ありがとうございます。",
+          "alt": []
+        }
+      ]
+    },
+    {
+      "id": "spk:real:rp-hospital",
+      "mode": "roleplay",
+      "level": "hsk3",
+      "group": "situations",
+      "title": "Role play: at the hospital",
+      "title_ja": "ロールプレイ：病院で",
+      "summary": "Registering at the front desk, choosing the right department, and describing stomach pain to the doctor.",
+      "summary_ja": "受付で診察の申し込みをし、正しい診療科を選び、医師に腹痛の症状を説明します。",
+      "partner": "挂号处 / 医生",
+      "tips": [
+        "Chinese hospitals work on 挂号 (registration): you register for a department first, then wait to be called. Many hospitals register through WeChat; the desk can help with a passport.",
+        "Departments: 内科 (internal medicine), 外科 (surgery), 急诊 (emergency), 儿科 (paediatrics), 牙科 (dental). 消化内科 is gastroenterology. International departments (国际部) cost more but have English.",
+        "Describe pain with 疼: 肚子疼, 头疼, 这里疼. Add how long (疼了两天了) and how it feels: 一阵一阵的 (comes and goes), 一直疼 (constant)."
+      ],
+      "tips_ja": [
+        "中国の病院は 挂号（受付登録）方式で、まず診療科に登録してから呼ばれるのを待ちます。多くの病院は微信で登録でき、パスポートの場合は窓口が手伝ってくれます。",
+        "診療科：内科、外科、急诊（救急）、儿科（小児科）、牙科（歯科）。消化内科 は消化器内科です。国际部（国際部）は高いですが英語が通じます。",
+        "痛みは 疼 で表します：肚子疼、头疼、这里疼。期間（疼了两天了）や感じ方も加えましょう：一阵一阵的（断続的）、一直疼（ずっと痛い）。"
+      ],
+      "turns": [
+        {
+          "who": "you",
+          "zh": "你好，我想挂号。我肚子疼。",
+          "pinyin": "nǐ hǎo, wǒ xiǎng guà hào. wǒ dù zi téng.",
+          "en": "Hello, I'd like to register. I have stomach pain.",
+          "ja": "すみません、受付をお願いします。お腹が痛いんです。",
+          "alt": []
+        },
+        {
+          "who": "partner",
+          "zh": "肚子疼挂消化内科。有身份证吗？",
+          "pinyin": "dù zi téng guà xiāo huà nèi kē. yǒu shēn fèn zhèng ma?",
+          "en": "For stomach pain, register with gastroenterology. Do you have an ID card?",
+          "ja": "腹痛なら消化器内科です。身分証はありますか。"
+        },
+        {
+          "who": "you",
+          "zh": "我是外国人，只有护照，可以吗？",
+          "pinyin": "wǒ shì wài guó rén, zhǐ yǒu hù zhào, kě yǐ ma?",
+          "en": "I'm a foreigner, I only have a passport. Is that OK?",
+          "ja": "外国人なのでパスポートしかありませんが、大丈夫ですか。",
+          "alt": []
+        },
+        {
+          "who": "partner",
+          "zh": "可以。挂号费十五。二楼三号诊室，叫到名字再进去。",
+          "pinyin": "kě yǐ. guà hào fèi shí wǔ. èr lóu sān hào zhěn shì, jiào dào míng zi zài jìn qù.",
+          "en": "Yes. The registration fee is 15. Second floor, room 3; go in when your name is called.",
+          "ja": "大丈夫です。受付料は15元です。2階の3番診察室で、名前を呼ばれたら入ってください。"
+        },
+        {
+          "who": "you",
+          "zh": "好的，谢谢。",
+          "pinyin": "hǎo de, xiè xie.",
+          "en": "OK, thank you.",
+          "ja": "はい、ありがとうございます。",
+          "alt": []
+        },
+        {
+          "who": "partner",
+          "zh": "请坐。哪里疼？疼了多久了？",
+          "pinyin": "qǐng zuò. nǎ lǐ téng? téng le duō jiǔ le?",
+          "en": "Sit down. Where does it hurt, and for how long?",
+          "ja": "おかけください。どこが痛みますか。いつからですか。"
+        },
+        {
+          "who": "you",
+          "zh": "这里，疼了两天了，一阵一阵的。",
+          "pinyin": "zhè lǐ, téng le liǎng tiān le, yī zhèn yī zhèn de.",
+          "en": "Here. It's been two days, and it comes and goes.",
+          "ja": "ここです。2日前から、断続的に痛みます。",
+          "alt": [
+            "这里，疼了2天了，一阵一阵的。"
+          ]
+        },
+        {
+          "who": "partner",
+          "zh": "拉肚子吗？吃了什么不干净的东西吗？",
+          "pinyin": "lā dù zi ma? chī le shén me bù gān jìng de dōng xi ma?",
+          "en": "Any diarrhoea? Did you eat anything bad?",
+          "ja": "下痢はありますか。何か悪いものを食べましたか。"
+        },
+        {
+          "who": "you",
+          "zh": "有点儿拉肚子。前天在外面吃的烧烤。",
+          "pinyin": "yǒu diǎnr lā dù zi. qián tiān zài wài miàn chī de shāo kǎo.",
+          "en": "A bit of diarrhoea. I had barbecue outside the day before yesterday.",
+          "ja": "少し下痢をしています。一昨日、外で焼き物を食べました。",
+          "alt": [
+            "有点拉肚子。前天在外面吃的烧烤。"
+          ]
+        },
+        {
+          "who": "partner",
+          "zh": "应该是肠胃炎。我给你开点药，这两天吃清淡一点。",
+          "pinyin": "yīng gāi shì cháng wèi yán. wǒ gěi nǐ kāi diǎn yào, zhè liǎng tiān chī qīng dàn yī diǎn.",
+          "en": "Probably gastroenteritis. I'll prescribe something; eat light for a couple of days.",
+          "ja": "おそらく胃腸炎でしょう。薬を出しますので、2〜3日はあっさりしたものを食べてください。"
+        },
+        {
+          "who": "you",
+          "zh": "好的。在哪儿拿药？",
+          "pinyin": "hǎo de. zài nǎr ná yào?",
+          "en": "OK. Where do I collect the medicine?",
+          "ja": "はい。薬はどこで受け取りますか。",
+          "alt": []
+        },
+        {
+          "who": "partner",
+          "zh": "一楼药房，先在机器上缴费。",
+          "pinyin": "yī lóu yào fáng, xiān zài jī qì shàng jiǎo fèi.",
+          "en": "The pharmacy on the ground floor; pay at the machine first.",
+          "ja": "1階の薬局です。先に機械で支払ってください。"
+        }
+      ]
+    },
+    {
+      "id": "spk:real:rp-shopping",
+      "mode": "roleplay",
+      "level": "hsk2",
+      "group": "situations",
+      "title": "Role play: buying clothes",
+      "title_ja": "ロールプレイ：服を買う",
+      "summary": "Asking for a size, trying on a jacket, asking about a discount and whether you can exchange it.",
+      "summary_ja": "サイズを尋ね、上着を試着し、割引と交換ができるかどうかを聞きます。",
+      "partner": "店员",
+      "tips": [
+        "Sizes are S / M / L / XL said as 小号, 中号, 大号, 加大号. Chinese sizes run small; ask 有大一号的吗? for one size up. The fitting room is 试衣间.",
+        "Discounts are read backwards from how English does it: 八折 means you pay 80% (20% off), 五折 is half price. 打折吗? asks whether there is any discount.",
+        "Shop assistants often call customers 美女 / 帅哥; it is friendly, not flirting. Exchange is 换, refund is 退, and 七天无理由退换 (7-day no-questions return) is common in chains."
+      ],
+      "tips_ja": [
+        "サイズのS／M／L／XLは 小号、中号、大号、加大号 と言います。中国のサイズは小さめなので、ワンサイズ上は 有大一号的吗？と聞きます。試着室は 试衣间 です。",
+        "割引の言い方は日本語の「○割引」と逆で、八折 は定価の80%（2割引）、五折 は半額です。打折吗？で割引があるか聞けます。",
+        "店員はよく客を 美女／帅哥 と呼びますが、親しみを込めた呼び方で、口説いているわけではありません。交換は 换、返品は 退、チェーン店では 七天无理由退换（7日間無条件返品交換）がよくあります。"
+      ],
+      "turns": [
+        {
+          "who": "partner",
+          "zh": "美女，随便看看，喜欢可以试。",
+          "pinyin": "měi nǚ, suí biàn kàn kan, xǐ huan kě yǐ shì.",
+          "en": "Have a look around; try anything you like.",
+          "ja": "どうぞご覧ください。気に入ったら試着できますよ。"
+        },
+        {
+          "who": "you",
+          "zh": "这件外套有中号的吗？",
+          "pinyin": "zhè jiàn wài tào yǒu zhōng hào de ma?",
+          "en": "Do you have this jacket in a medium?",
+          "ja": "この上着のMサイズはありますか。",
+          "alt": []
+        },
+        {
+          "who": "partner",
+          "zh": "有。要什么颜色的？黑的还是灰的？",
+          "pinyin": "yǒu. yào shén me yán sè de? hēi de hái shì huī de?",
+          "en": "Yes. Which colour, black or grey?",
+          "ja": "あります。色は黒とグレー、どちらにしますか。"
+        },
+        {
+          "who": "you",
+          "zh": "黑的。我可以试一下吗？",
+          "pinyin": "hēi de. wǒ kě yǐ shì yī xià ma?",
+          "en": "Black. Can I try it on?",
+          "ja": "黒で。試着してもいいですか。",
+          "alt": []
+        },
+        {
+          "who": "partner",
+          "zh": "可以，试衣间在那边。",
+          "pinyin": "kě yǐ, shì yī jiān zài nà biān.",
+          "en": "Sure, the fitting room is over there.",
+          "ja": "はい、試着室はあちらです。"
+        },
+        {
+          "who": "you",
+          "zh": "有点儿小，有大一号的吗？",
+          "pinyin": "yǒu diǎnr xiǎo, yǒu dà yī hào de ma?",
+          "en": "It's a bit small; do you have one size up?",
+          "ja": "少し小さいです。ワンサイズ上はありますか。",
+          "alt": [
+            "有点小，有大一号的吗？"
+          ]
+        },
+        {
+          "who": "partner",
+          "zh": "大号的给你。这个正好，很合适。",
+          "pinyin": "dà hào de gěi nǐ. zhè gè zhèng hǎo, hěn hé shì.",
+          "en": "Here's the large. That's just right, it suits you.",
+          "ja": "Lサイズをどうぞ。それはぴったりで、よくお似合いです。"
+        },
+        {
+          "who": "you",
+          "zh": "多少钱？现在打折吗？",
+          "pinyin": "duō shao qián? xiàn zài dǎ zhé ma?",
+          "en": "How much is it? Is it on sale?",
+          "ja": "いくらですか。今、割引はありますか。",
+          "alt": []
+        },
+        {
+          "who": "partner",
+          "zh": "原价四百，现在八折，三百二。",
+          "pinyin": "yuán jià sì bǎi, xiàn zài bā zhé, sān bǎi èr.",
+          "en": "It was 400; now 20% off, so 320.",
+          "ja": "定価400元で、今は2割引の320元です。"
+        },
+        {
+          "who": "you",
+          "zh": "好，我要了。不合适可以换吗？",
+          "pinyin": "hǎo, wǒ yào le. bù hé shì kě yǐ huàn ma?",
+          "en": "OK, I'll take it. Can I exchange it if it doesn't fit?",
+          "ja": "はい、これにします。合わなかったら交換できますか。",
+          "alt": []
+        },
+        {
+          "who": "partner",
+          "zh": "可以，七天内带小票来就行。",
+          "pinyin": "kě yǐ, qī tiān nèi dài xiǎo piào lái jiù xíng.",
+          "en": "Yes, just bring the receipt within seven days.",
+          "ja": "できます。7日以内にレシートを持ってきてください。"
+        },
+        {
+          "who": "you",
+          "zh": "好的，我扫码付。",
+          "pinyin": "hǎo de, wǒ sǎo mǎ fù.",
+          "en": "OK, I'll pay by scanning.",
+          "ja": "わかりました。スキャンで払います。",
+          "alt": []
+        }
+      ]
+    },
+    {
+      "id": "spk:real:rp-market",
+      "mode": "roleplay",
+      "level": "hsk2",
+      "group": "situations",
+      "title": "Role play: bargaining at a market",
+      "title_ja": "ロールプレイ：市場で値切る",
+      "summary": "A souvenir stall. You ask the price, say it is too expensive, counter-offer, and settle on a price for two.",
+      "summary_ja": "土産物の屋台で、値段を聞き、高いと言い、値段を提示して、2つ買う値段で折り合います。",
+      "partner": "摊主",
+      "tips": [
+        "Bargaining is for markets and tourist stalls, not for shops with price tags, supermarkets or restaurants. Start at around half the asking price and smile; it is a game, not a fight.",
+        "Useful lines: 太贵了 (too expensive), 便宜点儿 (a bit cheaper), 最低多少? (what's the lowest?), 两个一起买便宜点儿 (cheaper if I buy two). Walking away often brings the price down.",
+        "Prices are in 块 (yuan) in speech; 一百块 not 一百元. Once you agree a price, you are expected to buy."
+      ],
+      "tips_ja": [
+        "値切るのは市場や観光客向けの屋台で、値札のある店・スーパー・レストランではしません。言い値の半分くらいから始めて、笑顔で。けんかではなくゲームです。",
+        "使える表現：太贵了（高すぎる）、便宜点儿（少し安くして）、最低多少？（最低いくら？）、两个一起买便宜点儿（2つ買うなら安く）。立ち去ろうとすると値段が下がることもよくあります。",
+        "話し言葉では値段は 块 で言います：一百元 ではなく 一百块。値段が決まったら買うのが礼儀です。"
+      ],
+      "turns": [
+        {
+          "who": "partner",
+          "zh": "帅哥，看看，手工的，很漂亮！",
+          "pinyin": "shuài gē, kàn kan, shǒu gōng de, hěn piào liang!",
+          "en": "Hey, have a look, handmade, very pretty!",
+          "ja": "お兄さん、見てって。手作りで、とてもきれいですよ。"
+        },
+        {
+          "who": "you",
+          "zh": "老板，这个多少钱？",
+          "pinyin": "lǎo bǎn, zhè gè duō shao qián?",
+          "en": "Boss, how much is this one?",
+          "ja": "これはいくらですか。",
+          "alt": []
+        },
+        {
+          "who": "partner",
+          "zh": "一百五一个。",
+          "pinyin": "yī bǎi wǔ yī gè.",
+          "en": "150 each.",
+          "ja": "ひとつ150元です。"
+        },
+        {
+          "who": "you",
+          "zh": "太贵了！便宜点儿吧。",
+          "pinyin": "tài guì le! pián yi diǎnr ba.",
+          "en": "That's too expensive! Make it cheaper.",
+          "ja": "高すぎます。もう少し安くしてください。",
+          "alt": [
+            "太贵了！便宜点吧。"
+          ]
+        },
+        {
+          "who": "partner",
+          "zh": "你说多少？",
+          "pinyin": "nǐ shuō duō shao?",
+          "en": "How much do you say?",
+          "ja": "いくらなら？"
+        },
+        {
+          "who": "you",
+          "zh": "六十。",
+          "pinyin": "liù shí.",
+          "en": "Sixty.",
+          "ja": "60元で。",
+          "alt": [
+            "60。"
+          ]
+        },
+        {
+          "who": "partner",
+          "zh": "六十不行，一百，最低了。",
+          "pinyin": "liù shí bù xíng, yī bǎi, zuì dī le.",
+          "en": "Sixty's no good. 100, that's the lowest.",
+          "ja": "60は無理です。100元、これが最低です。"
+        },
+        {
+          "who": "you",
+          "zh": "我买两个，一百五，行吗？",
+          "pinyin": "wǒ mǎi liǎng gè, yī bǎi wǔ, xíng ma?",
+          "en": "I'll take two for 150, OK?",
+          "ja": "2つ買うので150元でどうですか。",
+          "alt": [
+            "我买2个，150，行吗？"
+          ]
+        },
+        {
+          "who": "partner",
+          "zh": "哎呀，你真会砍价。好吧好吧，一百五两个。",
+          "pinyin": "āi yā, nǐ zhēn huì kǎn jià. hǎo ba hǎo ba, yī bǎi wǔ liǎng gè.",
+          "en": "Oh, you really know how to haggle. Fine, fine, 150 for two.",
+          "ja": "まったく、値切るのが上手ですね。わかった、2つで150元。"
+        },
+        {
+          "who": "you",
+          "zh": "谢谢老板！我扫你的码。",
+          "pinyin": "xiè xie lǎo bǎn! wǒ sǎo nǐ de mǎ.",
+          "en": "Thanks, boss! I'll scan your code.",
+          "ja": "ありがとう。コードをスキャンしますね。",
+          "alt": []
+        }
+      ]
+    },
+    {
+      "id": "spk:real:rp-phone",
+      "mode": "roleplay",
+      "level": "hsk2",
+      "group": "situations",
+      "title": "Role play: a phone call with bad signal",
+      "title_ja": "ロールプレイ：電波の悪い電話",
+      "summary": "First a wrong number, then a call from a friend who can't hear you properly. You ask them to speak up, repeat, and call back.",
+      "summary_ja": "最初は間違い電話、次は友達からの電話で、声がよく聞こえません。大きな声で、もう一度、かけ直して、と頼みます。",
+      "partner": "陌生人 / 朋友",
+      "tips": [
+        "Answer with 喂 (wéi, rising). 你打错了 is the normal, not-rude way to say wrong number; the caller usually says 不好意思 and hangs up.",
+        "Bad line phrases: 信号不好 (bad signal), 听不清 (can't hear clearly), 你再说一遍 (say that again), 我一会儿给你打回去 (I'll call you back in a moment).",
+        "Many people prefer WeChat voice messages or WeChat calls to normal phone calls; 微信上说 (let's talk on WeChat) is a common way to end."
+      ],
+      "tips_ja": [
+        "電話は 喂（wéi、上昇調）で出ます。你打错了 は失礼にならない「番号が違います」の言い方で、相手はふつう 不好意思 と言って切ります。",
+        "通話状態が悪いときの表現：信号不好（電波が悪い）、听不清（よく聞こえない）、你再说一遍（もう一度言って）、我一会儿给你打回去（あとでかけ直します）。",
+        "多くの人は普通の電話より微信の音声メッセージや通話を好みます。微信上说（微信で話そう）は会話を終えるときによく使います。"
+      ],
+      "turns": [
+        {
+          "who": "partner",
+          "zh": "喂，是王经理吗？",
+          "pinyin": "wèi, shì wáng jīng lǐ ma?",
+          "en": "Hello, is that Manager Wang?",
+          "ja": "もしもし、王部長ですか。"
+        },
+        {
+          "who": "you",
+          "zh": "不是，你打错了。",
+          "pinyin": "bù shì, nǐ dǎ cuò le.",
+          "en": "No, you have the wrong number.",
+          "ja": "いいえ、番号をお間違えです。",
+          "alt": []
+        },
+        {
+          "who": "partner",
+          "zh": "啊，不好意思。",
+          "pinyin": "a, bù hǎo yì si.",
+          "en": "Oh, sorry.",
+          "ja": "あ、すみません。"
+        },
+        {
+          "who": "you",
+          "zh": "没事儿。",
+          "pinyin": "méi shìr.",
+          "en": "No problem.",
+          "ja": "大丈夫です。",
+          "alt": [
+            "没事。"
+          ]
+        },
+        {
+          "who": "partner",
+          "zh": "喂，[name]，我是小李，你现在在哪儿？",
+          "pinyin": "wèi, [name], wǒ shì xiǎo lǐ, nǐ xiàn zài zài nǎr?",
+          "en": "Hey [name], it's Xiao Li. Where are you now?",
+          "ja": "もしもし、[name]、李です。今どこにいますか。"
+        },
+        {
+          "who": "you",
+          "zh": "喂？信号不好，我听不清。你大点儿声。",
+          "pinyin": "wèi? xìn hào bù hǎo, wǒ tīng bù qīng. nǐ dà diǎnr shēng.",
+          "en": "Hello? The signal's bad, I can't hear you. Speak up a bit.",
+          "ja": "もしもし？電波が悪くてよく聞こえません。もう少し大きな声で。",
+          "alt": [
+            "喂？信号不好，我听不清。你大点声。"
+          ]
+        },
+        {
+          "who": "partner",
+          "zh": "我说，你在哪儿？我们在门口等你。",
+          "pinyin": "wǒ shuō, nǐ zài nǎr? wǒ men zài mén kǒu děng nǐ.",
+          "en": "I said, where are you? We're waiting at the entrance.",
+          "ja": "どこにいるの、と言ったんです。入口で待っています。"
+        },
+        {
+          "who": "you",
+          "zh": "我在地铁里，马上到。你再说一遍，在哪个门口？",
+          "pinyin": "wǒ zài dì tiě lǐ, mǎ shàng dào. nǐ zài shuō yī biàn, zài nǎ gè mén kǒu?",
+          "en": "I'm on the metro, almost there. Say that again, which entrance?",
+          "ja": "地下鉄の中で、もうすぐ着きます。もう一度言ってください、どの入口ですか。",
+          "alt": []
+        },
+        {
+          "who": "partner",
+          "zh": "喂？喂？听得见吗？",
+          "pinyin": "wèi? wèi? tīng de jiàn ma?",
+          "en": "Hello? Hello? Can you hear me?",
+          "ja": "もしもし？もしもし？聞こえますか。"
+        },
+        {
+          "who": "you",
+          "zh": "听不见了。我出站以后给你打回去，微信上说吧。",
+          "pinyin": "tīng bù jiàn le. wǒ chū zhàn yǐ hòu gěi nǐ dǎ huí qù, wēi xìn shàng shuō ba.",
+          "en": "I've lost you. I'll call you back when I'm out of the station; let's talk on WeChat.",
+          "ja": "聞こえなくなりました。駅を出たらかけ直します。微信で話しましょう。",
+          "alt": []
+        }
+      ]
+    },
+    {
+      "id": "spk:real:rp-delivery",
+      "mode": "roleplay",
+      "level": "hsk3",
+      "group": "situations",
+      "title": "Role play: parcels and food delivery",
+      "title_ja": "ロールプレイ：宅配便と出前",
+      "summary": "A courier calls about a parcel, then the food delivery rider can't find your building. You give the pickup code and tell them where to leave it.",
+      "summary_ja": "宅配の配達員から荷物の電話があり、次に出前の配達員が建物を見つけられません。受け取りコードを伝え、置き場所を指示します。",
+      "partner": "快递员 / 外卖小哥",
+      "tips": [
+        "Parcels (快递) usually go to a locker (快递柜) or a collection point (驿站); you get an SMS with a 取件码 (pickup code) to type in or show. 放门口 (leave it at the door) is a normal instruction.",
+        "Food delivery riders (外卖小哥) have tight timings and call when they can't find you. Give the building and floor: 三号楼, 八楼, 门口有一个红色的门. Say 放门口就行 if you don't want to answer the door.",
+        "Give a good rating (好评) if the service was fine; riders are rated on every order. Tipping is not expected."
+      ],
+      "tips_ja": [
+        "宅配（快递）はふつう宅配ロッカー（快递柜）や受け取り所（驿站）に届き、SMSで 取件码（受け取りコード）が送られてきます。放门口（ドアの前に置いて）は普通の指示です。",
+        "出前の配達員（外卖小哥）は時間に追われていて、場所がわからないと電話してきます。棟と階を伝えましょう：三号楼、八楼、门口有一个红色的门。出なくていいなら 放门口就行 と言います。",
+        "サービスが問題なければ高評価（好评）をつけましょう。配達員は注文ごとに評価されます。チップは不要です。"
+      ],
+      "turns": [
+        {
+          "who": "partner",
+          "zh": "喂，你好，顺丰快递，你有一个包裹，在家吗？",
+          "pinyin": "wèi, nǐ hǎo, shùn fēng kuài dì, nǐ yǒu yī gè bāo guǒ, zài jiā ma?",
+          "en": "Hello, SF Express. You have a parcel. Are you home?",
+          "ja": "もしもし、順豊宅配です。お荷物があります。ご在宅ですか。"
+        },
+        {
+          "who": "you",
+          "zh": "我不在家。放门口可以吗？",
+          "pinyin": "wǒ bù zài jiā. fàng mén kǒu kě yǐ ma?",
+          "en": "I'm not home. Could you leave it at the door?",
+          "ja": "家にいません。ドアの前に置いてもらえますか。",
+          "alt": []
+        },
+        {
+          "who": "partner",
+          "zh": "放门口不太安全，我放楼下快递柜，发你取件码。",
+          "pinyin": "fàng mén kǒu bù tài ān quán, wǒ fàng lóu xià kuài dì guì, fā nǐ qǔ jiàn mǎ.",
+          "en": "The door isn't very safe. I'll put it in the locker downstairs and send you a pickup code.",
+          "ja": "ドアの前は少し心配なので、下のロッカーに入れて受け取りコードを送ります。"
+        },
+        {
+          "who": "you",
+          "zh": "好的，麻烦你了。",
+          "pinyin": "hǎo de, má fan nǐ le.",
+          "en": "OK, thanks for your trouble.",
+          "ja": "わかりました。お手数をおかけします。",
+          "alt": []
+        },
+        {
+          "who": "partner",
+          "zh": "喂，外卖，你在三号楼吗？我找不到。",
+          "pinyin": "wèi, wài mài, nǐ zài sān hào lóu ma? wǒ zhǎo bù dào.",
+          "en": "Hello, food delivery. Are you in building 3? I can't find it.",
+          "ja": "もしもし、出前です。3号棟ですか。見つからなくて。"
+        },
+        {
+          "who": "you",
+          "zh": "对，三号楼，在小区最里面，门口有一个红色的门。",
+          "pinyin": "duì, sān hào lóu, zài xiǎo qū zuì lǐ miàn, mén kǒu yǒu yī gè hóng sè de mén.",
+          "en": "Yes, building 3, right at the back of the compound; it has a red door at the entrance.",
+          "ja": "はい、3号棟です。団地のいちばん奥で、入口に赤いドアがあります。",
+          "alt": [
+            "对，3号楼，在小区最里面，门口有1个红色的门。"
+          ]
+        },
+        {
+          "who": "partner",
+          "zh": "看到了。几楼？",
+          "pinyin": "kàn dào le. jǐ lóu?",
+          "en": "I see it. Which floor?",
+          "ja": "見えました。何階ですか。"
+        },
+        {
+          "who": "you",
+          "zh": "八楼，八零二。放门口就行，不用敲门。",
+          "pinyin": "bā lóu, bā líng èr. fàng mén kǒu jiù xíng, bù yòng qiāo mén.",
+          "en": "8th floor, 802. Just leave it at the door, no need to knock.",
+          "ja": "8階の802です。ドアの前に置いてくれれば大丈夫です。ノックは要りません。",
+          "alt": [
+            "8楼，802。放门口就行，不用敲门。"
+          ]
+        },
+        {
+          "who": "partner",
+          "zh": "好嘞，放门口了，记得给个好评！",
+          "pinyin": "hǎo lei, fàng mén kǒu le, jì de gěi gè hǎo píng!",
+          "en": "Done, it's at the door. Don't forget to leave a good rating!",
+          "ja": "はい、ドアの前に置きました。高評価をお願いします。"
+        },
+        {
+          "who": "you",
+          "zh": "辛苦了，谢谢！",
+          "pinyin": "xīn kǔ le, xiè xie!",
+          "en": "Thanks for your hard work!",
+          "ja": "お疲れさまです、ありがとう。",
+          "alt": []
+        }
+      ]
+    },
+    {
+      "id": "spk:real:rp-wechat-friends",
+      "mode": "roleplay",
+      "level": "hsk2",
+      "group": "situations",
+      "title": "Role play: making a friend and adding on WeChat",
+      "title_ja": "ロールプレイ：友達になって微信を交換する",
+      "summary": "Small talk with someone at a language exchange, then swapping WeChat by scanning a code.",
+      "summary_ja": "言語交換の集まりで世間話をし、QRコードをスキャンして微信を交換します。",
+      "partner": "新朋友",
+      "tips": [
+        "Phone numbers are rarely swapped; it is always 加个微信吧. One person opens their QR code (我的二维码), the other scans it (扫一下). 你扫我 or 我扫你 settles who does what.",
+        "Chinese small talk goes straight to practical questions: how long you've been here, whether you are used to the food, what you do. 还行 (not bad) and 还在适应 (still adjusting) are easy answers.",
+        "A 'Moments' post (朋友圈) is what friends look at after adding you; a friendly 以后多联系 (let's keep in touch) ends the exchange."
+      ],
+      "tips_ja": [
+        "電話番号を交換することはほとんどなく、いつも 加个微信吧 です。一方がQRコード（我的二维码）を開き、もう一方がスキャンします（扫一下）。你扫我 か 我扫你 でどちらがするか決めます。",
+        "中国の世間話は実用的な質問に直行します：どのくらいいるのか、食事に慣れたか、何をしているのか。还行（まあまあ）、还在适应（まだ慣れている途中）が答えやすいです。",
+        "友達追加のあと、相手はモーメンツ（朋友圈）を見ます。以后多联系（これからも連絡を取り合おう）と言えば感じよく締めくくれます。"
+      ],
+      "turns": [
+        {
+          "who": "partner",
+          "zh": "你好！你是新来的吧？我叫小张。",
+          "pinyin": "nǐ hǎo! nǐ shì xīn lái de ba? wǒ jiào xiǎo zhāng.",
+          "en": "Hi! You're new here, right? I'm Xiao Zhang.",
+          "ja": "こんにちは。新しく来た方ですよね。張です。"
+        },
+        {
+          "who": "you",
+          "zh": "你好，我叫[name]。是，我上个月刚来。",
+          "pinyin": "nǐ hǎo, wǒ jiào [name]. shì, wǒ shàng gè yuè gāng lái.",
+          "en": "Hi, I'm [name]. Yes, I only arrived last month.",
+          "ja": "こんにちは、[name]です。はい、先月来たばかりです。",
+          "alt": [
+            "你好，我叫[name]。是的，我上个月刚来。"
+          ]
+        },
+        {
+          "who": "partner",
+          "zh": "你中文说得挺好的！习惯这儿的生活吗？",
+          "pinyin": "nǐ zhōng wén shuō de tǐng hǎo de! xí guàn zhèr de shēng huó ma?",
+          "en": "Your Chinese is pretty good! Are you used to life here?",
+          "ja": "中国語がお上手ですね。こちらの生活には慣れましたか。"
+        },
+        {
+          "who": "you",
+          "zh": "哪里哪里，还在学。还在适应，不过吃的我很喜欢。",
+          "pinyin": "nǎ lǐ nǎ lǐ, hái zài xué. hái zài shì yìng, bù guò chī de wǒ hěn xǐ huan.",
+          "en": "Oh, not really, still learning. Still adjusting, but I love the food.",
+          "ja": "いえいえ、まだ勉強中です。まだ慣れている途中ですが、食べ物はとても気に入っています。",
+          "alt": []
+        },
+        {
+          "who": "partner",
+          "zh": "那太好了。你是做什么的？",
+          "pinyin": "nà tài hǎo le. nǐ shì zuò shén me de?",
+          "en": "That's great. What do you do?",
+          "ja": "それはよかった。お仕事は何をしているんですか。"
+        },
+        {
+          "who": "you",
+          "zh": "我在一家公司工作，周末来这儿练口语。",
+          "pinyin": "wǒ zài yī jiā gōng sī gōng zuò, zhōu mò lái zhèr liàn kǒu yǔ.",
+          "en": "I work at a company, and come here on weekends to practise speaking.",
+          "ja": "会社で働いていて、週末はここで会話の練習をしに来ています。",
+          "alt": [
+            "我在1家公司工作，周末来这儿练口语。"
+          ]
+        },
+        {
+          "who": "partner",
+          "zh": "我们加个微信吧，以后一起练。",
+          "pinyin": "wǒ men jiā gè wēi xìn ba, yǐ hòu yī qǐ liàn.",
+          "en": "Let's add each other on WeChat and practise together.",
+          "ja": "微信を交換しましょう。今度一緒に練習しましょう。"
+        },
+        {
+          "who": "you",
+          "zh": "好啊！你扫我还是我扫你？",
+          "pinyin": "hǎo a! nǐ sǎo wǒ hái shì wǒ sǎo nǐ?",
+          "en": "Sure! Do you scan me or do I scan you?",
+          "ja": "いいですね。そちらがスキャンしますか、それとも私が？",
+          "alt": []
+        },
+        {
+          "who": "partner",
+          "zh": "我扫你，你打开二维码。",
+          "pinyin": "wǒ sǎo nǐ, nǐ dǎ kāi èr wéi mǎ.",
+          "en": "I'll scan you; open your QR code.",
+          "ja": "私がスキャンします。QRコードを開いてください。"
+        },
+        {
+          "who": "you",
+          "zh": "好，你扫一下。加上了吗？",
+          "pinyin": "hǎo, nǐ sǎo yī xià. jiā shàng le ma?",
+          "en": "OK, scan away. Did it add?",
+          "ja": "はい、スキャンしてください。追加できましたか。",
+          "alt": []
+        },
+        {
+          "who": "partner",
+          "zh": "加上了。以后多联系！",
+          "pinyin": "jiā shàng le. yǐ hòu duō lián xì!",
+          "en": "Done. Let's keep in touch!",
+          "ja": "できました。これからもよろしく。"
+        },
+        {
+          "who": "you",
+          "zh": "多联系！很高兴认识你。",
+          "pinyin": "duō lián xì! hěn gāo xìng rèn shi nǐ.",
+          "en": "Let's! Nice to meet you.",
+          "ja": "ぜひ。お会いできてうれしいです。",
+          "alt": []
+        }
+      ]
+    },
+    {
+      "id": "spk:real:rp-apartment",
+      "mode": "roleplay",
+      "level": "hsk3",
+      "group": "situations",
+      "title": "Role play: viewing an apartment",
+      "title_ja": "ロールプレイ：アパートの内見",
+      "summary": "An agent shows you a flat. You ask about rent, the deposit, utilities, the contract length and the nearest metro.",
+      "summary_ja": "不動産業者が部屋を案内します。家賃、敷金、光熱費、契約期間、最寄りの地下鉄について尋ねます。",
+      "partner": "中介",
+      "tips": [
+        "Rent terms are quoted as 押一付三: one month's deposit, three months' rent paid in advance. Ask 押几付几? Agents (中介) charge a fee, often half or one month's rent.",
+        "Check what is included: 水电费 (water and electricity), 物业费 (management fee), 网费 (internet). 一室一厅 is one bedroom and one living room; 合租 is a shared flat, 整租 the whole flat.",
+        "Within 24 hours of moving in, foreigners must register their address at the local police station (派出所); the landlord's copy of the 房产证 and your contract are needed."
+      ],
+      "tips_ja": [
+        "家賃の条件は 押一付三（敷金1か月、家賃3か月前払い）のように言います。押几付几？と聞きましょう。仲介業者（中介）は家賃の半月〜1か月分の手数料を取ります。",
+        "含まれるものを確認します：水电费（水道光熱費）、物业费（管理費）、网费（ネット代）。一室一厅 は1LDK、合租 はルームシェア、整租 は一戸まるごとの賃貸です。",
+        "入居後24時間以内に、外国人は地元の派出所で住所登録をしなければなりません。大家の 房产证 のコピーと契約書が必要です。"
+      ],
+      "turns": [
+        {
+          "who": "partner",
+          "zh": "这套是一室一厅，刚装修的，家具都有。",
+          "pinyin": "zhè tào shì yī shì yī tīng, gāng zhuāng xiū de, jiā jù dōu yǒu.",
+          "en": "This one is a one-bedroom with living room, newly renovated, fully furnished.",
+          "ja": "こちらは1LDKで、改装したばかり、家具もすべてそろっています。"
+        },
+        {
+          "who": "you",
+          "zh": "挺好的。房租一个月多少？",
+          "pinyin": "tǐng hǎo de. fáng zū yī gè yuè duō shao?",
+          "en": "Nice. How much is the rent per month?",
+          "ja": "いいですね。家賃は月いくらですか。",
+          "alt": [
+            "挺好的。房租1个月多少？"
+          ]
+        },
+        {
+          "who": "partner",
+          "zh": "五千五，押一付三。",
+          "pinyin": "wǔ qiān wǔ, yā yī fù sān.",
+          "en": "5,500, one month's deposit and three months up front.",
+          "ja": "5500元で、敷金1か月、家賃3か月前払いです。"
+        },
+        {
+          "who": "you",
+          "zh": "水电费和物业费包括在里面吗？",
+          "pinyin": "shuǐ diàn fèi hé wù yè fèi bāo kuò zài lǐ miàn ma?",
+          "en": "Are utilities and the management fee included?",
+          "ja": "水道光熱費と管理費は含まれていますか。",
+          "alt": []
+        },
+        {
+          "who": "partner",
+          "zh": "物业费包括，水电网费自己交。",
+          "pinyin": "wù yè fèi bāo kuò, shuǐ diàn wǎng fèi zì jǐ jiāo.",
+          "en": "Management is included; water, electricity and internet you pay yourself.",
+          "ja": "管理費は込みですが、水道・電気・ネット代は自分で払います。"
+        },
+        {
+          "who": "you",
+          "zh": "合同最短签多久？我可能只住半年。",
+          "pinyin": "hé tong zuì duǎn qiān duō jiǔ? wǒ kě néng zhǐ zhù bàn nián.",
+          "en": "What's the shortest contract? I might only stay six months.",
+          "ja": "契約の最短期間はどのくらいですか。半年しか住まないかもしれません。",
+          "alt": []
+        },
+        {
+          "who": "partner",
+          "zh": "一般签一年，半年的话我帮你问问房东。",
+          "pinyin": "yī bān qiān yī nián, bàn nián de huà wǒ bāng nǐ wèn wen fáng dōng.",
+          "en": "Usually a year. For six months I can ask the landlord for you.",
+          "ja": "ふつうは1年ですが、半年なら大家さんに聞いてみます。"
+        },
+        {
+          "who": "you",
+          "zh": "麻烦你了。离地铁站远吗？",
+          "pinyin": "má fan nǐ le. lí dì tiě zhàn yuǎn ma?",
+          "en": "Thanks. Is it far from the metro?",
+          "ja": "お願いします。地下鉄の駅から遠いですか。",
+          "alt": []
+        },
+        {
+          "who": "partner",
+          "zh": "不远，走路八分钟，楼下就有超市。",
+          "pinyin": "bù yuǎn, zǒu lù bā fēn zhōng, lóu xià jiù yǒu chāo shì.",
+          "en": "Not far, eight minutes on foot, and there's a supermarket downstairs.",
+          "ja": "遠くありません。歩いて8分で、下にはスーパーもあります。"
+        },
+        {
+          "who": "you",
+          "zh": "我再考虑一下，明天给你回复，可以吗？",
+          "pinyin": "wǒ zài kǎo lǜ yī xià, míng tiān gěi nǐ huí fù, kě yǐ ma?",
+          "en": "Let me think it over and get back to you tomorrow, is that OK?",
+          "ja": "もう少し考えて、明日お返事してもいいですか。",
+          "alt": []
+        },
+        {
+          "who": "partner",
+          "zh": "没问题，这套房子很抢手，别考虑太久。",
+          "pinyin": "méi wèn tí, zhè tào fáng zi hěn qiǎng shǒu, bié kǎo lǜ tài jiǔ.",
+          "en": "No problem, but this place is popular, so don't take too long.",
+          "ja": "大丈夫です。ただ、この部屋は人気なので、あまり長く考えないでくださいね。"
+        },
+        {
+          "who": "you",
+          "zh": "好的，谢谢你带我看房。",
+          "pinyin": "hǎo de, xiè xie nǐ dài wǒ kàn fáng.",
+          "en": "OK, thanks for showing me around.",
+          "ja": "はい、内見に連れて行ってくれてありがとうございます。",
+          "alt": []
+        }
+      ]
+    },
+    {
+      "id": "spk:real:sh-fillers",
+      "mode": "shadow",
+      "level": "hsk2",
+      "group": "situations",
+      "title": "Natural speech: fillers and reactions",
+      "title_ja": "自然な話し方：つなぎ言葉とあいづち",
+      "summary": "Eight lines full of the little words real conversations run on: 就是说, 对对对, 没事儿, 行, 哎呀, 那个…, 真的假的, 不好意思啊. Shadow the rhythm and the tone of voice.",
+      "summary_ja": "本当の会話を支える小さな言葉がたっぷり入った8文です：就是说、对对对、没事儿、行、哎呀、那个…、真的假的、不好意思啊。リズムと声の調子をまねましょう。",
+      "tips": [
+        "那个 (nèi ge in speech) is the Chinese 'um'; people stretch it while thinking. 就是说 (I mean / that is) introduces a rephrase. Using them makes you sound fluent even when you are stalling.",
+        "Agreement is often tripled: 对对对, 行行行, 好好好. A single flat 行 means 'fine, OK' and is the most common yes in daily life.",
+        "没事儿 covers 'no problem', 'never mind' and 'I'm fine'. 真的假的? (really?) is the standard surprised reaction; 哎呀 goes with mild dismay or annoyance."
+      ],
+      "tips_ja": [
+        "那个（話し言葉では nèi ge）は中国語の「えーと」で、考えながら伸ばして言います。就是说（つまり）は言い直しの前置きです。使うと、言葉に詰まっていても流暢に聞こえます。",
+        "同意はよく3回重ねます：对对对、行行行、好好好。平らに一言 行 と言えば「いいよ、OK」で、日常でいちばん多い「はい」です。",
+        "没事儿 は「問題ない」「気にしないで」「大丈夫」のすべてに使えます。真的假的？（本当に？）は驚いたときの定番で、哎呀 は軽い落胆やいらだちに使います。"
+      ],
+      "items": [
+        {
+          "id": "spk:real:sh-fillers:01",
+          "zh": "那个……我想问一下，这个怎么用？",
+          "pinyin": "nà ge…… wǒ xiǎng wèn yī xià, zhè gè zěn me yòng?",
+          "en": "Um... I wanted to ask, how do you use this?",
+          "ja": "えーと……ちょっと聞きたいのですが、これはどう使うんですか。",
+          "alt": [
+            "那个，我想问一下，这个怎么用？"
+          ]
+        },
+        {
+          "id": "spk:real:sh-fillers:02",
+          "zh": "对对对，就是那家店，我昨天也去了。",
+          "pinyin": "duì duì duì, jiù shì nà jiā diàn, wǒ zuó tiān yě qù le.",
+          "en": "Yes, yes, that's the one, I went there yesterday too.",
+          "ja": "そうそうそう、まさにその店です。私も昨日行きました。",
+          "alt": []
+        },
+        {
+          "id": "spk:real:sh-fillers:03",
+          "zh": "没事儿没事儿，不用谢。",
+          "pinyin": "méi shìr méi shìr, bù yòng xiè.",
+          "en": "No problem at all, don't mention it.",
+          "ja": "いいんですよ、お礼には及びません。",
+          "alt": [
+            "没事没事，不用谢。"
+          ]
+        },
+        {
+          "id": "spk:real:sh-fillers:04",
+          "zh": "行，那就明天下午三点，老地方见。",
+          "pinyin": "xíng, nà jiù míng tiān xià wǔ sān diǎn, lǎo dì fang jiàn.",
+          "en": "OK then, tomorrow at three, usual place.",
+          "ja": "いいよ、じゃあ明日の午後3時、いつもの場所で。",
+          "alt": [
+            "行，那就明天下午3点，老地方见。"
+          ]
+        },
+        {
+          "id": "spk:real:sh-fillers:05",
+          "zh": "哎呀，我手机忘在出租车上了！",
+          "pinyin": "āi yā, wǒ shǒu jī wàng zài chū zū chē shàng le!",
+          "en": "Oh no, I left my phone in the taxi!",
+          "ja": "ああ、携帯をタクシーに忘れてきた！",
+          "alt": []
+        },
+        {
+          "id": "spk:real:sh-fillers:06",
+          "zh": "真的假的？他已经回国了？",
+          "pinyin": "zhēn de jiǎ de? tā yǐ jīng huí guó le?",
+          "en": "Seriously? He's already gone back home?",
+          "ja": "本当に？彼はもう帰国したの？",
+          "alt": [
+            "真的假的？她已经回国了？"
+          ]
+        },
+        {
+          "id": "spk:real:sh-fillers:07",
+          "zh": "不好意思啊，我来晚了，路上太堵了。",
+          "pinyin": "bù hǎo yì si a, wǒ lái wǎn le, lù shàng tài dǔ le.",
+          "en": "Sorry, I'm late, the traffic was terrible.",
+          "ja": "ごめんなさい、遅れました。道がすごく混んでいて。",
+          "alt": []
+        },
+        {
+          "id": "spk:real:sh-fillers:08",
+          "zh": "就是说，我们先吃饭，然后再去看电影，对吧？",
+          "pinyin": "jiù shì shuō, wǒ men xiān chī fàn, rán hòu zài qù kàn diàn yǐng, duì ba?",
+          "en": "So you mean we eat first and then go to the film, right?",
+          "ja": "つまり、先にご飯を食べて、それから映画に行く、ということですよね。",
+          "alt": []
+        }
+      ]
+    },
+    {
+      "id": "spk:real:sh-street-food",
+      "mode": "shadow",
+      "level": "hsk2",
+      "group": "situations",
+      "title": "Shadowing: street food and small orders",
+      "title_ja": "シャドーイング：屋台と小さな注文",
+      "summary": "Seven quick lines for stalls, bakeries and convenience stores, said at the speed the queue expects.",
+      "summary_ja": "屋台、パン屋、コンビニで使う7つの短いフレーズを、列が求めるテンポで言います。",
+      "tips": [
+        "Orders are counted with the right measure word: 一个 for buns and skewers, 一碗 for noodles, 一份 for a portion, 一串 for a skewer. 来 is the casual 'give me': 来一碗面.",
+        "Convenience store questions come fast: 要袋子吗? (bag?), 要加热吗? (heat it up?), 有会员吗? (member?). 不用 answers all three.",
+        "堂食还是打包? asks eat-in or takeaway. 在这儿吃 and 带走 are the answers."
+      ],
+      "tips_ja": [
+        "注文には正しい量詞を使います：まんじゅうや串は 一个、麺は 一碗、一人前は 一份、串は 一串。来 はくだけた「ください」です：来一碗面。",
+        "コンビニの質問はテンポが速いです：要袋子吗？（袋は？）、要加热吗？（温める？）、有会员吗？（会員？）。どれも 不用 で答えられます。",
+        "堂食还是打包？は店内か持ち帰りかの質問で、在这儿吃 と 带走 で答えます。"
+      ],
+      "items": [
+        {
+          "id": "spk:real:sh-street-food:01",
+          "zh": "老板，来一碗牛肉面，不要香菜。",
+          "pinyin": "lǎo bǎn, lái yī wǎn niú ròu miàn, bù yào xiāng cài.",
+          "en": "Boss, one beef noodles, no coriander.",
+          "ja": "牛肉麺を一杯、パクチー抜きでお願いします。",
+          "alt": [
+            "老板，来1碗牛肉面，不要香菜。"
+          ]
+        },
+        {
+          "id": "spk:real:sh-street-food:02",
+          "zh": "两个包子，一个肉的，一个素的。",
+          "pinyin": "liǎng gè bāo zi, yī gè ròu de, yī gè sù de.",
+          "en": "Two baozi, one meat and one vegetable.",
+          "ja": "包子を2つ、肉まんと野菜まんを1つずつ。",
+          "alt": [
+            "2个包子，1个肉的，1个素的。"
+          ]
+        },
+        {
+          "id": "spk:real:sh-street-food:03",
+          "zh": "在这儿吃，不打包。",
+          "pinyin": "zài zhèr chī, bù dǎ bāo.",
+          "en": "Eating here, not takeaway.",
+          "ja": "ここで食べます。持ち帰りではありません。",
+          "alt": []
+        },
+        {
+          "id": "spk:real:sh-street-food:04",
+          "zh": "微辣就好，太辣我吃不了。",
+          "pinyin": "wēi là jiù hǎo, tài là wǒ chī bù liǎo.",
+          "en": "Just mild; I can't handle very spicy.",
+          "ja": "少し辛いくらいで。辛すぎると食べられません。",
+          "alt": []
+        },
+        {
+          "id": "spk:real:sh-street-food:05",
+          "zh": "不用袋子，不用加热，谢谢。",
+          "pinyin": "bù yòng dài zi, bù yòng jiā rè, xiè xie.",
+          "en": "No bag, no heating, thanks.",
+          "ja": "袋は要りません。温めなくていいです。ありがとう。",
+          "alt": []
+        },
+        {
+          "id": "spk:real:sh-street-food:06",
+          "zh": "这个是什么馅儿的？甜的还是咸的？",
+          "pinyin": "zhè gè shì shén me xiànr de? tián de hái shì xián de?",
+          "en": "What's the filling in this one? Sweet or savoury?",
+          "ja": "これは何の具ですか。甘いのですか、しょっぱいのですか。",
+          "alt": [
+            "这个是什么馅的？甜的还是咸的？"
+          ]
+        },
+        {
+          "id": "spk:real:sh-street-food:07",
+          "zh": "好了吗？我的是三十八号。",
+          "pinyin": "hǎo le ma? wǒ de shì sān shí bā hào.",
+          "en": "Is it ready? Mine is number 38.",
+          "ja": "できましたか。私のは38番です。",
+          "alt": [
+            "好了吗？我的是38号。"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "spk:real:sh-directions",
+      "mode": "shadow",
+      "level": "hsk2",
+      "group": "situations",
+      "title": "Shadowing: asking the way",
+      "title_ja": "シャドーイング：道を尋ねる",
+      "summary": "Eight lines for asking directions and understanding the answer: straight on, turn left, the second crossing, opposite the bank.",
+      "summary_ja": "道を尋ね、その答えを理解するための8文：まっすぐ、左に曲がる、2つ目の交差点、銀行の向かい。",
+      "tips": [
+        "Start with 请问 or 不好意思, then the place. 怎么走? is 'how do I get there' on foot; 远吗? and 走路多久? check the distance.",
+        "Directions you will hear: 一直走 (straight on), 左拐 / 右拐 (turn left / right), 第二个路口 (the second crossing), 对面 (opposite), 旁边 (next to), 过了马路 (across the road).",
+        "In China most people navigate with 高德地图 or 百度地图; if a passer-by does not know, they will often open the map for you. Google Maps does not work well."
+      ],
+      "tips_ja": [
+        "请问 か 不好意思 で始めて、場所を言います。怎么走？は「どう行けばいいか」（徒歩）、远吗？と 走路多久？で距離を確認します。",
+        "よく聞く案内：一直走（まっすぐ）、左拐／右拐（左折／右折）、第二个路口（2つ目の交差点）、对面（向かい）、旁边（隣）、过了马路（道を渡って）。",
+        "中国ではたいてい 高德地图 や 百度地图 で道を調べます。通行人がわからないときは地図を開いて見せてくれることも多いです。Google マップはうまく使えません。"
+      ],
+      "items": [
+        {
+          "id": "spk:real:sh-directions:01",
+          "zh": "请问，地铁站怎么走？",
+          "pinyin": "qǐng wèn, dì tiě zhàn zěn me zǒu?",
+          "en": "Excuse me, how do I get to the metro station?",
+          "ja": "すみません、地下鉄の駅へはどう行けばいいですか。",
+          "alt": []
+        },
+        {
+          "id": "spk:real:sh-directions:02",
+          "zh": "一直走，到第二个路口左拐。",
+          "pinyin": "yī zhí zǒu, dào dì èr gè lù kǒu zuǒ guǎi.",
+          "en": "Go straight, and turn left at the second crossing.",
+          "ja": "まっすぐ行って、2つ目の交差点を左に曲がります。",
+          "alt": [
+            "一直走，到第2个路口左拐。"
+          ]
+        },
+        {
+          "id": "spk:real:sh-directions:03",
+          "zh": "远吗？走路要多久？",
+          "pinyin": "yuǎn ma? zǒu lù yào duō jiǔ?",
+          "en": "Is it far? How long on foot?",
+          "ja": "遠いですか。歩いてどのくらいかかりますか。",
+          "alt": []
+        },
+        {
+          "id": "spk:real:sh-directions:04",
+          "zh": "不远，走路五分钟就到了。",
+          "pinyin": "bù yuǎn, zǒu lù wǔ fēn zhōng jiù dào le.",
+          "en": "Not far, five minutes on foot.",
+          "ja": "遠くないです。歩いて5分で着きます。",
+          "alt": [
+            "不远，走路5分钟就到了。"
+          ]
+        },
+        {
+          "id": "spk:real:sh-directions:05",
+          "zh": "药店就在银行对面，过了马路就是。",
+          "pinyin": "yào diàn jiù zài yín háng duì miàn, guò le mǎ lù jiù shì.",
+          "en": "The pharmacy is right opposite the bank, just across the road.",
+          "ja": "薬局は銀行の真向かいで、道を渡ったところです。",
+          "alt": []
+        },
+        {
+          "id": "spk:real:sh-directions:06",
+          "zh": "不好意思，这附近有卫生间吗？",
+          "pinyin": "bù hǎo yì si, zhè fù jìn yǒu wèi shēng jiān ma?",
+          "en": "Excuse me, is there a toilet near here?",
+          "ja": "すみません、この近くにトイレはありますか。",
+          "alt": []
+        },
+        {
+          "id": "spk:real:sh-directions:07",
+          "zh": "我用地图看一下，你等我一下。",
+          "pinyin": "wǒ yòng dì tú kàn yī xià, nǐ děng wǒ yī xià.",
+          "en": "Let me check the map, hang on a second.",
+          "ja": "地図で見てみますから、ちょっと待ってください。",
+          "alt": []
+        },
+        {
+          "id": "spk:real:sh-directions:08",
+          "zh": "我好像走错了，这是哪条路？",
+          "pinyin": "wǒ hǎo xiàng zǒu cuò le, zhè shì nǎ tiáo lù?",
+          "en": "I think I've gone the wrong way; which road is this?",
+          "ja": "道を間違えたようです。これは何という道ですか。",
+          "alt": []
+        }
+      ]
+    },
+    {
+      "id": "spk:real:sh-work",
+      "mode": "shadow",
+      "level": "hsk3",
+      "group": "situations",
+      "title": "Shadowing: at the office",
+      "title_ja": "シャドーイング：オフィスで",
+      "summary": "Eight sentences from a first week at a Chinese workplace: introducing yourself, fixing a meeting time, asking a colleague for help.",
+      "summary_ja": "中国の職場での最初の1週間の8文：自己紹介、会議時間の調整、同僚への頼みごと。",
+      "tips": [
+        "Introduce yourself with your role: 我是新来的，负责市场. Colleagues are addressed by name or 姓 + role (王总 for the boss, 李姐 / 张哥 for an older colleague); 您 for the boss, 你 for peers.",
+        "Meeting talk: 开会 (hold a meeting), 几点开? , 会议室, 改到明天 (move to tomorrow), 方便吗? (is that convenient?). Most scheduling happens in a WeChat group (群).",
+        "Asking for help politely: 麻烦你 + request, or 能不能帮我…? After help, 辛苦了 (you've worked hard) is the office thank-you."
+      ],
+      "tips_ja": [
+        "役割を添えて自己紹介します：我是新来的，负责市场。同僚は名前か「姓＋役職」で呼びます（上司は 王总、年上の同僚は 李姐／张哥）。上司には 您、同僚には 你 です。",
+        "会議の表現：开会（会議をする）、几点开？、会议室、改到明天（明日に変更）、方便吗？（都合はいいですか）。日程調整はたいてい微信のグループ（群）で行います。",
+        "丁寧な頼み方は 麻烦你＋依頼、または 能不能帮我…？です。手伝ってもらったら 辛苦了（お疲れさま）がオフィスでのお礼の言葉です。"
+      ],
+      "items": [
+        {
+          "id": "spk:real:sh-work:01",
+          "zh": "大家好，我是新来的，叫[name]，负责市场，请多关照。",
+          "pinyin": "dà jiā hǎo, wǒ shì xīn lái de, jiào [name], fù zé shì chǎng, qǐng duō guān zhào.",
+          "en": "Hello everyone, I'm new, my name is [name], I'm in charge of marketing. Please look after me.",
+          "ja": "みなさん、こんにちは。新しく入った[name]です。マーケティングを担当します。よろしくお願いします。",
+          "alt": []
+        },
+        {
+          "id": "spk:real:sh-work:02",
+          "zh": "王总，明天的会几点开？在哪个会议室？",
+          "pinyin": "wáng zǒng, míng tiān de huì jǐ diǎn kāi? zài nǎ gè huì yì shì?",
+          "en": "Mr Wang, what time is tomorrow's meeting, and in which room?",
+          "ja": "王社長、明日の会議は何時からですか。どの会議室ですか。",
+          "alt": []
+        },
+        {
+          "id": "spk:real:sh-work:03",
+          "zh": "下午三点我有点儿事，能不能改到四点？",
+          "pinyin": "xià wǔ sān diǎn wǒ yǒu diǎnr shì, néng bù néng gǎi dào sì diǎn?",
+          "en": "I have something on at three; could we move it to four?",
+          "ja": "午後3時は少し用事があるので、4時に変更できませんか。",
+          "alt": [
+            "下午3点我有点事，能不能改到4点？"
+          ]
+        },
+        {
+          "id": "spk:real:sh-work:04",
+          "zh": "李姐，麻烦你帮我看一下这个文件，可以吗？",
+          "pinyin": "lǐ jiě, má fan nǐ bāng wǒ kàn yī xià zhè gè wén jiàn, kě yǐ ma?",
+          "en": "Li, could you take a look at this document for me?",
+          "ja": "李さん、お手数ですがこの書類を見てもらえますか。",
+          "alt": []
+        },
+        {
+          "id": "spk:real:sh-work:05",
+          "zh": "这个我不太清楚，我问一下同事再回复你。",
+          "pinyin": "zhè gè wǒ bù tài qīng chu, wǒ wèn yī xià tóng shì zài huí fù nǐ.",
+          "en": "I'm not sure about this one; I'll ask a colleague and get back to you.",
+          "ja": "これはよくわからないので、同僚に聞いてから返事します。",
+          "alt": []
+        },
+        {
+          "id": "spk:real:sh-work:06",
+          "zh": "我把文件发到群里了，大家看一下。",
+          "pinyin": "wǒ bǎ wén jiàn fā dào qún lǐ le, dà jiā kàn yī xià.",
+          "en": "I've sent the file to the group; please have a look, everyone.",
+          "ja": "書類をグループに送りました。みなさん確認してください。",
+          "alt": []
+        },
+        {
+          "id": "spk:real:sh-work:07",
+          "zh": "中午一起吃饭吗？楼下新开了一家面馆。",
+          "pinyin": "zhōng wǔ yī qǐ chī fàn ma? lóu xià xīn kāi le yī jiā miàn guǎn.",
+          "en": "Lunch together? A new noodle place opened downstairs.",
+          "ja": "お昼、一緒に食べませんか。下に新しい麺屋ができました。",
+          "alt": [
+            "中午一起吃饭吗？楼下新开了1家面馆。"
+          ]
+        },
+        {
+          "id": "spk:real:sh-work:08",
+          "zh": "今天辛苦了，我先走了，明天见。",
+          "pinyin": "jīn tiān xīn kǔ le, wǒ xiān zǒu le, míng tiān jiàn.",
+          "en": "Good work today; I'm heading off, see you tomorrow.",
+          "ja": "今日はお疲れさまでした。お先に失礼します。また明日。",
+          "alt": []
+        }
+      ]
+    },
+    {
+      "id": "spk:real:sh-visit",
+      "mode": "shadow",
+      "level": "hsk2",
+      "group": "situations",
+      "title": "Shadowing: visiting someone's home",
+      "title_ja": "シャドーイング：人の家を訪ねる",
+      "summary": "Seven lines for a dinner invitation: arriving with a gift, taking your shoes off, being pressed to eat more, and leaving politely.",
+      "summary_ja": "食事に招かれたときの7文：手土産を渡す、靴を脱ぐ、もっと食べるよう勧められる、礼儀正しく帰る。",
+      "tips": [
+        "Bring fruit, tea or something from your country. Hand it over with 一点儿小意思 (a small token); the host will say 太客气了 and may not open it in front of you.",
+        "Shoes come off at the door; you will be given 拖鞋 (slippers). The host will keep adding food to your plate (多吃点儿); 吃饱了, 真的吃不下了 is how you decline without offending.",
+        "Leaving: 时间不早了，我该走了. The host will walk you to the door or the lift; 别送了 (don't see me out) is the polite line."
+      ],
+      "tips_ja": [
+        "果物、お茶、自国のものなどを持っていきます。一点儿小意思（ほんの気持ちです）と言って渡すと、相手は 太客气了 と言い、目の前では開けないこともあります。",
+        "玄関で靴を脱ぎ、拖鞋（スリッパ）を出してもらいます。主人は料理をどんどん勧めます（多吃点儿）。吃饱了、真的吃不下了 と言えば失礼にならずに断れます。",
+        "帰るとき：时间不早了，我该走了。主人は玄関やエレベーターまで見送ってくれます。别送了（見送りは結構です）が礼儀正しい一言です。"
+      ],
+      "items": [
+        {
+          "id": "spk:real:sh-visit:01",
+          "zh": "阿姨好！这是一点儿小意思，我们国家的茶。",
+          "pinyin": "ā yí hǎo! zhè shì yī diǎnr xiǎo yì si, wǒ men guó jiā de chá.",
+          "en": "Hello, auntie! Here's a little something, tea from my country.",
+          "ja": "こんにちは。ほんの気持ちです、私の国のお茶です。",
+          "alt": [
+            "阿姨好！这是一点小意思，我们国家的茶。"
+          ]
+        },
+        {
+          "id": "spk:real:sh-visit:02",
+          "zh": "鞋要脱吗？拖鞋在哪儿？",
+          "pinyin": "xié yào tuō ma? tuō xié zài nǎr?",
+          "en": "Should I take my shoes off? Where are the slippers?",
+          "ja": "靴は脱ぎますか。スリッパはどこですか。",
+          "alt": []
+        },
+        {
+          "id": "spk:real:sh-visit:03",
+          "zh": "你们家真漂亮，也很干净。",
+          "pinyin": "nǐ men jiā zhēn piào liang, yě hěn gān jìng.",
+          "en": "Your home is lovely, and so tidy.",
+          "ja": "お宅はとてもきれいで、片付いていますね。",
+          "alt": []
+        },
+        {
+          "id": "spk:real:sh-visit:04",
+          "zh": "太好吃了，这是您自己做的吗？",
+          "pinyin": "tài hǎo chī le, zhè shì nín zì jǐ zuò de ma?",
+          "en": "This is delicious; did you make it yourself?",
+          "ja": "とてもおいしいです。ご自分で作ったんですか。",
+          "alt": [
+            "太好吃了，这是你自己做的吗？"
+          ]
+        },
+        {
+          "id": "spk:real:sh-visit:05",
+          "zh": "不用不用，我吃饱了，真的吃不下了。",
+          "pinyin": "bù yòng bù yòng, wǒ chī bǎo le, zhēn de chī bù xià le.",
+          "en": "No, no, I'm full, I really can't eat any more.",
+          "ja": "いえいえ、もうお腹いっぱいです。本当にもう食べられません。",
+          "alt": []
+        },
+        {
+          "id": "spk:real:sh-visit:06",
+          "zh": "时间不早了，我该走了。今天太麻烦你们了。",
+          "pinyin": "shí jiān bù zǎo le, wǒ gāi zǒu le. jīn tiān tài má fan nǐ men le.",
+          "en": "It's getting late, I should go. Thank you for all the trouble today.",
+          "ja": "もう遅いので、そろそろ失礼します。今日はすっかりお世話になりました。",
+          "alt": []
+        },
+        {
+          "id": "spk:real:sh-visit:07",
+          "zh": "别送了别送了，外面冷，你们回去吧。",
+          "pinyin": "bié sòng le bié sòng le, wài miàn lěng, nǐ men huí qù ba.",
+          "en": "Don't see me out, it's cold outside, go back in.",
+          "ja": "見送りは結構です。外は寒いですから、戻ってください。",
+          "alt": []
+        }
+      ]
+    },
+    {
+      "id": "spk:real:rep-emergency",
+      "mode": "repeat",
+      "level": "hsk2",
+      "group": "situations",
+      "title": "Emergencies: the lines to know by heart",
+      "title_ja": "緊急時：暗記しておくべきフレーズ",
+      "summary": "Ten short sentences for the moments you hope never come: a lost passport, being lost, calling the police or an ambulance, asking for help.",
+      "summary_ja": "起きてほしくない場面のための10の短い文：パスポートの紛失、道に迷う、警察や救急車を呼ぶ、助けを求める。",
+      "tips": [
+        "Emergency numbers: 110 police, 120 ambulance, 119 fire. Say the numbers digit by digit: 幺幺零 (yāo yāo líng; 幺 replaces 一 in numbers read aloud), 幺二零.",
+        "A lost passport means a police report (报警) at the nearest 派出所 first, then your embassy. Say 我的护照丢了 and 我要报警.",
+        "救命 is only for real danger. For everyday help, 请帮帮我 or 能帮我一下吗? is enough. Phone translation apps work, but a few spoken lines get attention faster."
+      ],
+      "tips_ja": [
+        "緊急番号：110 警察、120 救急車、119 消防。数字は一桁ずつ言います：幺幺零（yāo yāo líng、番号を読むときは 一 の代わりに 幺 を使う）、幺二零。",
+        "パスポートをなくしたら、まず最寄りの 派出所 で届け出（报警）、次に大使館です。我的护照丢了 と 我要报警 を使います。",
+        "救命 は本当に危険なときだけです。日常の助けなら 请帮帮我 や 能帮我一下吗？で十分です。翻訳アプリも使えますが、口で言えるフレーズがいくつかあるほうが早く注意を引けます。"
+      ],
+      "items": [
+        {
+          "id": "spk:real:rep-emergency:01",
+          "zh": "我迷路了。",
+          "pinyin": "wǒ mí lù le.",
+          "en": "I'm lost.",
+          "ja": "道に迷いました。",
+          "alt": []
+        },
+        {
+          "id": "spk:real:rep-emergency:02",
+          "zh": "请帮帮我。",
+          "pinyin": "qǐng bāng bang wǒ.",
+          "en": "Please help me.",
+          "ja": "助けてください。",
+          "alt": []
+        },
+        {
+          "id": "spk:real:rep-emergency:03",
+          "zh": "我的护照丢了。",
+          "pinyin": "wǒ de hù zhào diū le.",
+          "en": "I've lost my passport.",
+          "ja": "パスポートをなくしました。",
+          "alt": []
+        },
+        {
+          "id": "spk:real:rep-emergency:04",
+          "zh": "我要报警。",
+          "pinyin": "wǒ yào bào jǐng.",
+          "en": "I want to report it to the police.",
+          "ja": "警察に届けたいです。",
+          "alt": []
+        },
+        {
+          "id": "spk:real:rep-emergency:05",
+          "zh": "派出所在哪儿？",
+          "pinyin": "pài chū suǒ zài nǎr?",
+          "en": "Where is the police station?",
+          "ja": "派出所はどこですか。",
+          "alt": []
+        },
+        {
+          "id": "spk:real:rep-emergency:06",
+          "zh": "快打一二零，有人受伤了！",
+          "pinyin": "kuài dǎ yī èr líng, yǒu rén shòu shāng le!",
+          "en": "Call 120, someone is hurt!",
+          "ja": "早く120に電話して、けが人がいます！",
+          "alt": [
+            "快打120，有人受伤了！"
+          ]
+        },
+        {
+          "id": "spk:real:rep-emergency:07",
+          "zh": "我需要去医院。",
+          "pinyin": "wǒ xū yào qù yī yuàn.",
+          "en": "I need to go to a hospital.",
+          "ja": "病院に行く必要があります。",
+          "alt": []
+        },
+        {
+          "id": "spk:real:rep-emergency:08",
+          "zh": "我的手机和钱包被偷了。",
+          "pinyin": "wǒ de shǒu jī hé qián bāo bèi tōu le.",
+          "en": "My phone and wallet have been stolen.",
+          "ja": "携帯と財布を盗まれました。",
+          "alt": []
+        },
+        {
+          "id": "spk:real:rep-emergency:09",
+          "zh": "你会说英语吗？请帮我找一个会说英语的人。",
+          "pinyin": "nǐ huì shuō yīng yǔ ma? qǐng bāng wǒ zhǎo yī gè huì shuō yīng yǔ de rén.",
+          "en": "Do you speak English? Please help me find someone who does.",
+          "ja": "英語は話せますか。英語が話せる人を探してください。",
+          "alt": [
+            "你会说英语吗？请帮我找1个会说英语的人。"
+          ]
+        },
+        {
+          "id": "spk:real:rep-emergency:10",
+          "zh": "我想联系我们国家的大使馆。",
+          "pinyin": "wǒ xiǎng lián xì wǒ men guó jiā de dà shǐ guǎn.",
+          "en": "I want to contact my country's embassy.",
+          "ja": "自分の国の大使館に連絡したいです。",
+          "alt": []
+        }
+      ]
+    },
+    {
+      "id": "spk:real:rep-bank-sim",
+      "mode": "repeat",
+      "level": "hsk3",
+      "group": "situations",
+      "title": "Bank account and SIM card",
+      "title_ja": "銀行口座とSIMカード",
+      "summary": "Nine sentences for the two errands that unlock everything else in China: getting a local phone number and opening a bank account.",
+      "summary_ja": "中国で他のすべてを可能にする2つの用事のための9文：現地の電話番号を取得する、銀行口座を開く。",
+      "tips": [
+        "A Chinese number is needed for almost every app, since verification codes (验证码) are sent by SMS. Go to a 营业厅 of 中国移动, 中国联通 or 中国电信 with your passport; real-name registration (实名) is required.",
+        "To open an account you need a passport, a local phone number and often proof of address or a work/study document. Ask for a 借记卡 (debit card) and to link it to WeChat and Alipay (绑定).",
+        "Take a number at the machine (取号) and wait to be called. Staff may ask 办什么业务? (what business?); answer with 办卡 (get a card) or 开户 (open an account)."
+      ],
+      "tips_ja": [
+        "認証コード（验证码）がSMSで届くため、ほぼすべてのアプリに中国の電話番号が必要です。中国移动・中国联通・中国电信 の 营业厅 にパスポートを持って行きます。実名登録（实名）が必須です。",
+        "口座開設にはパスポート、現地の電話番号、多くの場合は住所証明や就労・就学の書類が要ります。借记卡（デビットカード）を頼み、微信と支付宝に連携（绑定）してもらいましょう。",
+        "機械で番号札を取り（取号）、呼ばれるのを待ちます。办什么业务？（ご用件は？）と聞かれたら、办卡（カードを作る）や 开户（口座を開く）と答えます。"
+      ],
+      "items": [
+        {
+          "id": "spk:real:rep-bank-sim:01",
+          "zh": "我想办一张电话卡。",
+          "pinyin": "wǒ xiǎng bàn yī zhāng diàn huà kǎ.",
+          "en": "I'd like to get a SIM card.",
+          "ja": "SIMカードを作りたいです。",
+          "alt": [
+            "我想办1张电话卡。"
+          ]
+        },
+        {
+          "id": "spk:real:rep-bank-sim:02",
+          "zh": "我是外国人，用护照可以办吗？",
+          "pinyin": "wǒ shì wài guó rén, yòng hù zhào kě yǐ bàn ma?",
+          "en": "I'm a foreigner; can I do it with a passport?",
+          "ja": "外国人ですが、パスポートで手続きできますか。",
+          "alt": []
+        },
+        {
+          "id": "spk:real:rep-bank-sim:03",
+          "zh": "有没有流量多一点儿的套餐？",
+          "pinyin": "yǒu méi yǒu liú liàng duō yī diǎnr de tào cān?",
+          "en": "Is there a plan with more data?",
+          "ja": "データ通信量が多めのプランはありますか。",
+          "alt": [
+            "有没有流量多一点的套餐？"
+          ]
+        },
+        {
+          "id": "spk:real:rep-bank-sim:04",
+          "zh": "一个月多少钱？怎么充值？",
+          "pinyin": "yī gè yuè duō shao qián? zěn me chōng zhí?",
+          "en": "How much per month, and how do I top up?",
+          "ja": "月いくらですか。チャージはどうしますか。",
+          "alt": [
+            "1个月多少钱？怎么充值？"
+          ]
+        },
+        {
+          "id": "spk:real:rep-bank-sim:05",
+          "zh": "我收不到验证码。",
+          "pinyin": "wǒ shōu bù dào yàn zhèng mǎ.",
+          "en": "I'm not receiving the verification code.",
+          "ja": "認証コードが届きません。",
+          "alt": []
+        },
+        {
+          "id": "spk:real:rep-bank-sim:06",
+          "zh": "我想开一个银行账户。",
+          "pinyin": "wǒ xiǎng kāi yī gè yín háng zhàng hù.",
+          "en": "I'd like to open a bank account.",
+          "ja": "銀行口座を開きたいです。",
+          "alt": [
+            "我想开1个银行账户。"
+          ]
+        },
+        {
+          "id": "spk:real:rep-bank-sim:07",
+          "zh": "需要带什么材料？",
+          "pinyin": "xū yào dài shén me cái liào?",
+          "en": "What documents do I need to bring?",
+          "ja": "どんな書類を持ってくる必要がありますか。",
+          "alt": []
+        },
+        {
+          "id": "spk:real:rep-bank-sim:08",
+          "zh": "这张卡可以绑定微信和支付宝吗？",
+          "pinyin": "zhè zhāng kǎ kě yǐ bǎng dìng wēi xìn hé zhī fù bǎo ma?",
+          "en": "Can this card be linked to WeChat and Alipay?",
+          "ja": "このカードは微信と支付宝に連携できますか。",
+          "alt": []
+        },
+        {
+          "id": "spk:real:rep-bank-sim:09",
+          "zh": "密码是六位数字吗？",
+          "pinyin": "mì mǎ shì liù wèi shù zì ma?",
+          "en": "Is the PIN six digits?",
+          "ja": "暗証番号は6桁の数字ですか。",
+          "alt": [
+            "密码是6位数字吗？"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "spk:real:rep-pay-phrases",
+      "mode": "repeat",
+      "level": "hsk1",
+      "group": "situations",
+      "title": "Paying: the eight phrases",
+      "title_ja": "支払い：8つのフレーズ",
+      "summary": "The short lines you will say or hear at every till in China, from 扫一下 to 不收现金.",
+      "summary_ja": "中国のレジで必ず言う・聞く短いフレーズ、扫一下 から 不收现金 まで。",
+      "tips": [
+        "Listen for the cashier's question: 微信还是支付宝? (which app), 刷卡还是扫码? (card or scan), 有会员吗? (do you have a membership). 扫码 answers the second, 没有 the third.",
+        "扫一下 (scan it) is said with a hand gesture to the code. If the shop has no printed code, they will scan your 付款码: open it before you reach the till.",
+        "不收现金 (we don't take cash) is illegal but happens; have small notes anyway, and say 只有现金 if that's all you've got."
+      ],
+      "tips_ja": [
+        "店員の質問を聞き取りましょう：微信还是支付宝？（どのアプリ）、刷卡还是扫码？（カードかスキャンか）、有会员吗？（会員か）。2つ目には 扫码、3つ目には 没有 と答えます。",
+        "扫一下（スキャンして）はコードを指さしながら言います。店に印刷されたコードがなければ、自分の 付款码 を読み取ってもらうので、レジに着く前に開いておきましょう。",
+        "不收现金（現金は受け取りません）は違法ですが実際にはあります。小額紙幣を持っておき、現金しかなければ 只有现金 と言いましょう。"
+      ],
+      "items": [
+        {
+          "id": "spk:real:rep-pay-phrases:01",
+          "zh": "扫一下。",
+          "pinyin": "sǎo yī xià.",
+          "en": "Scan it.",
+          "ja": "スキャンしてください。",
+          "alt": []
+        },
+        {
+          "id": "spk:real:rep-pay-phrases:02",
+          "zh": "我扫你还是你扫我？",
+          "pinyin": "wǒ sǎo nǐ hái shì nǐ sǎo wǒ?",
+          "en": "Do I scan you or do you scan me?",
+          "ja": "私がスキャンしますか、それともそちらが？",
+          "alt": []
+        },
+        {
+          "id": "spk:real:rep-pay-phrases:03",
+          "zh": "收款码在哪儿？",
+          "pinyin": "shōu kuǎn mǎ zài nǎr?",
+          "en": "Where is your payment code?",
+          "ja": "受け取り用のコードはどこですか。",
+          "alt": []
+        },
+        {
+          "id": "spk:real:rep-pay-phrases:04",
+          "zh": "我打开付款码，你扫一下。",
+          "pinyin": "wǒ dǎ kāi fù kuǎn mǎ, nǐ sǎo yī xià.",
+          "en": "I'll open my payment code; you scan it.",
+          "ja": "支払いコードを開きますので、スキャンしてください。",
+          "alt": []
+        },
+        {
+          "id": "spk:real:rep-pay-phrases:05",
+          "zh": "微信还是支付宝？",
+          "pinyin": "wēi xìn hái shì zhī fù bǎo?",
+          "en": "WeChat or Alipay?",
+          "ja": "微信ですか、支付宝ですか。",
+          "alt": []
+        },
+        {
+          "id": "spk:real:rep-pay-phrases:06",
+          "zh": "都可以。",
+          "pinyin": "dōu kě yǐ.",
+          "en": "Either is fine.",
+          "ja": "どちらでも大丈夫です。",
+          "alt": []
+        },
+        {
+          "id": "spk:real:rep-pay-phrases:07",
+          "zh": "不好意思，我只有现金。",
+          "pinyin": "bù hǎo yì si, wǒ zhǐ yǒu xiàn jīn.",
+          "en": "Sorry, I only have cash.",
+          "ja": "すみません、現金しかありません。",
+          "alt": []
+        },
+        {
+          "id": "spk:real:rep-pay-phrases:08",
+          "zh": "付好了，你看一下。",
+          "pinyin": "fù hǎo le, nǐ kàn yī xià.",
+          "en": "Paid; have a look.",
+          "ja": "払いました。確認してください。",
+          "alt": []
+        }
+      ]
+    },
+    {
+      "id": "spk:real:qa-asked",
+      "mode": "question",
+      "level": "hsk2",
+      "group": "situations",
+      "title": "The questions you will be asked",
+      "title_ja": "必ず聞かれる質問",
+      "summary": "Eight questions every foreigner in China hears within the first five minutes, with a model answer for each. Fill the [slot] with your own details.",
+      "summary_ja": "中国にいる外国人なら最初の5分で必ず聞かれる8つの質問と、それぞれのモデル回答。[slot] に自分のことを入れましょう。",
+      "tips": [
+        "These questions are friendliness, not an interrogation. Taxi drivers, shopkeepers and new colleagues all ask them; a short answer plus a question back (你呢?) keeps it flowing.",
+        "有没有女朋友 / 男朋友 and 结婚了吗 are normal small talk from older people. 还没有 or 有了 are enough; nobody expects details.",
+        "你中文说得真好 will be said to you constantly. The modest reply is 哪里哪里 or 还差得远呢 (I still have a long way to go), not 谢谢."
+      ],
+      "tips_ja": [
+        "これらの質問は親しみの表れで、尋問ではありません。タクシーの運転手、店の人、新しい同僚がみんな聞いてきます。短く答えて 你呢？と聞き返せば会話が続きます。",
+        "有没有女朋友／男朋友 や 结婚了吗 は年配の人からの普通の世間話です。还没有 や 有了 で十分で、詳しい説明は求められません。",
+        "你中文说得真好 は何度も言われます。謙遜した返事は 哪里哪里 や 还差得远呢（まだまだです）で、谢谢 ではありません。"
+      ],
+      "items": [
+        {
+          "id": "spk:real:qa-asked:01",
+          "q": "你是哪国人？",
+          "qPinyin": "nǐ shì nǎ guó rén?",
+          "qEn": "Where are you from?",
+          "qJa": "どこの国の方ですか。",
+          "model": "我是[country]人。",
+          "modelPinyin": "wǒ shì [country] rén.",
+          "en": "I'm from [country].",
+          "ja": "私は[country]人です。",
+          "alt": []
+        },
+        {
+          "id": "spk:real:qa-asked:02",
+          "q": "来中国多久了？",
+          "qPinyin": "lái zhōng guó duō jiǔ le?",
+          "qEn": "How long have you been in China?",
+          "qJa": "中国に来てどのくらいですか。",
+          "model": "来了[number]个月了。",
+          "modelPinyin": "lái le [number] gè yuè le.",
+          "en": "I've been here [number] months.",
+          "ja": "来て[number]か月になります。",
+          "alt": []
+        },
+        {
+          "id": "spk:real:qa-asked:03",
+          "q": "习惯吗？",
+          "qPinyin": "xí guàn ma?",
+          "qEn": "Are you used to it here?",
+          "qJa": "慣れましたか。",
+          "model": "还行，慢慢习惯了。",
+          "modelPinyin": "hái xíng, màn màn xí guàn le.",
+          "en": "Not bad, I'm getting used to it.",
+          "ja": "まあまあです。だんだん慣れてきました。",
+          "alt": []
+        },
+        {
+          "id": "spk:real:qa-asked:04",
+          "q": "你会说中文吗？",
+          "qPinyin": "nǐ huì shuō zhōng wén ma?",
+          "qEn": "Can you speak Chinese?",
+          "qJa": "中国語は話せますか。",
+          "model": "会一点儿，还在学。",
+          "modelPinyin": "huì yī diǎnr, hái zài xué.",
+          "en": "A little, I'm still learning.",
+          "ja": "少しだけ。まだ勉強中です。",
+          "alt": [
+            "会一点，还在学。"
+          ]
+        },
+        {
+          "id": "spk:real:qa-asked:05",
+          "q": "吃得惯吗？",
+          "qPinyin": "chī de guàn ma?",
+          "qEn": "Can you get used to the food?",
+          "qJa": "食べ物は口に合いますか。",
+          "model": "吃得惯，我最喜欢[food]。",
+          "modelPinyin": "chī de guàn, wǒ zuì xǐ huan [food].",
+          "en": "Yes, my favourite is [food].",
+          "ja": "口に合います。[food]がいちばん好きです。",
+          "alt": []
+        },
+        {
+          "id": "spk:real:qa-asked:06",
+          "q": "你是来工作的还是来学习的？",
+          "qPinyin": "nǐ shì lái gōng zuò de hái shì lái xué xí de?",
+          "qEn": "Are you here for work or study?",
+          "qJa": "仕事で来たのですか、勉強で来たのですか。",
+          "model": "我是来[purpose]的，在[place]。",
+          "modelPinyin": "wǒ shì lái [purpose] de, zài [place].",
+          "en": "I'm here to [purpose], at [place].",
+          "ja": "[purpose]で来ました。[place]にいます。",
+          "alt": []
+        },
+        {
+          "id": "spk:real:qa-asked:07",
+          "q": "有没有女朋友？",
+          "qPinyin": "yǒu méi yǒu nǚ péng you?",
+          "qEn": "Do you have a girlfriend?",
+          "qJa": "彼女はいますか。",
+          "model": "还没有呢。",
+          "modelPinyin": "hái méi yǒu ne.",
+          "en": "Not yet.",
+          "ja": "まだいません。",
+          "alt": []
+        },
+        {
+          "id": "spk:real:qa-asked:08",
+          "q": "你中文说得真好！",
+          "qPinyin": "nǐ zhōng wén shuō de zhēn hǎo!",
+          "qEn": "Your Chinese is really good!",
+          "qJa": "中国語がとてもお上手ですね。",
+          "model": "哪里哪里，还差得远呢。",
+          "modelPinyin": "nǎ lǐ nǎ lǐ, hái chà de yuǎn ne.",
+          "en": "Oh no, I still have a long way to go.",
+          "ja": "いえいえ、まだまだです。",
+          "alt": []
+        }
+      ]
+    },
+    {
+      "id": "spk:real:qa-counter",
+      "mode": "question",
+      "level": "hsk1",
+      "group": "situations",
+      "title": "Questions at the counter",
+      "title_ja": "カウンターでの質問",
+      "summary": "Seven questions shop and restaurant staff fire at you, with a ready answer for each. Learn to recognise them at speed.",
+      "summary_ja": "店やレストランのスタッフが素早く投げかける7つの質問と、それぞれの答え。速さに慣れて聞き取れるようにしましょう。",
+      "tips": [
+        "Staff say these fast and without eye contact, so recognising the shape of the question matters more than every word. 几位, 要袋子吗 and 堂食还是打包 are the three you will hear most.",
+        "Many answers are just 不用 (no need), 要 (yes, please) or 都可以 (either). You don't need a full sentence.",
+        "会员 (member) questions: 有会员吗? / 办会员吗? (want to sign up?). 不办，谢谢 declines politely."
+      ],
+      "tips_ja": [
+        "スタッフは目を合わせず速く言うので、一語一語より質問の形を聞き取ることが大事です。几位、要袋子吗、堂食还是打包 の3つがいちばんよく聞きます。",
+        "答えはたいてい 不用（要らない）、要（お願いします）、都可以（どちらでも）だけで済みます。完全な文は不要です。",
+        "会员（会員）の質問：有会员吗？／办会员吗？（入会しますか）。不办，谢谢 で丁寧に断れます。"
+      ],
+      "items": [
+        {
+          "id": "spk:real:qa-counter:01",
+          "q": "几位？",
+          "qPinyin": "jǐ wèi?",
+          "qEn": "How many people?",
+          "qJa": "何名様ですか。",
+          "model": "[number]位。",
+          "modelPinyin": "[number] wèi.",
+          "en": "[number] people.",
+          "ja": "[number]人です。",
+          "alt": []
+        },
+        {
+          "id": "spk:real:qa-counter:02",
+          "q": "堂食还是打包？",
+          "qPinyin": "táng shí hái shì dǎ bāo?",
+          "qEn": "Eat in or take away?",
+          "qJa": "店内でお召し上がりですか、お持ち帰りですか。",
+          "model": "在这儿吃。",
+          "modelPinyin": "zài zhèr chī.",
+          "en": "Eating here.",
+          "ja": "ここで食べます。",
+          "alt": [
+            "堂食。"
+          ]
+        },
+        {
+          "id": "spk:real:qa-counter:03",
+          "q": "要袋子吗？",
+          "qPinyin": "yào dài zi ma?",
+          "qEn": "Do you want a bag?",
+          "qJa": "袋は要りますか。",
+          "model": "不用，谢谢。",
+          "modelPinyin": "bù yòng, xiè xie.",
+          "en": "No thanks.",
+          "ja": "要りません、ありがとう。",
+          "alt": []
+        },
+        {
+          "id": "spk:real:qa-counter:04",
+          "q": "有会员吗？",
+          "qPinyin": "yǒu huì yuán ma?",
+          "qEn": "Are you a member?",
+          "qJa": "会員カードはお持ちですか。",
+          "model": "没有。",
+          "modelPinyin": "méi yǒu.",
+          "en": "No.",
+          "ja": "持っていません。",
+          "alt": []
+        },
+        {
+          "id": "spk:real:qa-counter:05",
+          "q": "要加冰吗？",
+          "qPinyin": "yào jiā bīng ma?",
+          "qEn": "Do you want ice?",
+          "qJa": "氷は入れますか。",
+          "model": "少冰。",
+          "modelPinyin": "shǎo bīng.",
+          "en": "Less ice.",
+          "ja": "氷少なめで。",
+          "alt": [
+            "不加冰。"
+          ]
+        },
+        {
+          "id": "spk:real:qa-counter:06",
+          "q": "刷卡还是扫码？",
+          "qPinyin": "shuā kǎ hái shì sǎo mǎ?",
+          "qEn": "Card or scan?",
+          "qJa": "カードですか、スキャンですか。",
+          "model": "扫码。",
+          "modelPinyin": "sǎo mǎ.",
+          "en": "Scan.",
+          "ja": "スキャンで。",
+          "alt": []
+        },
+        {
+          "id": "spk:real:qa-counter:07",
+          "q": "要不要辣？",
+          "qPinyin": "yào bù yào là?",
+          "qEn": "Spicy or not?",
+          "qJa": "辛くしますか。",
+          "model": "不要辣。",
+          "modelPinyin": "bù yào là.",
+          "en": "Not spicy.",
+          "ja": "辛くしないでください。",
+          "alt": [
+            "微辣。"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -11552,6 +11552,8 @@
    "氵",
    "昷"
   ],
+  "mnemonic": "Water 氵 beside a dish 昷 left in the sun turns warm, like bathwater and warm feelings.",
+  "mnemonic_ja": "水氵を皿昷にのせて日に当てると温かくなる——「温かい」。",
   "hint": "water",
   "examples": [
    "vocab:hsk4:wen1du4-温度"
@@ -11586,6 +11588,8 @@
    "子",
    "瓜"
   ],
+  "mnemonic": "A child 子 left alone with only a melon 瓜 to eat is lonely.",
+  "mnemonic_ja": "子どもがひとり瓜だけを抱えている——「孤独」。",
   "hint": "child",
   "examples": [
    "vocab:hsk4:gu1dan1-孤单"
@@ -11618,6 +11622,8 @@
    "饣",
    "欠"
   ],
+  "mnemonic": "Beside food 饣, a mouth yawns wide open 欠 to drink.",
+  "mnemonic_ja": "食饣の前で口を大きく開けて(欠)飲み込む——「飲む」。",
   "hint": "food",
   "examples": [
    "vocab:hsk4:yin3liao4-饮料"
@@ -11652,6 +11658,8 @@
    "宀",
    "苋"
   ],
+  "mnemonic": "Under a roof 宀 there is room for a sprawling plant 苋, so the house is wide.",
+  "mnemonic_ja": "屋根宀の下に草苋が広がるほど余裕がある——「広い」。",
   "hint": "roof",
   "examples": [
    "vocab:hsk4:kuan1-宽"
@@ -11686,6 +11694,8 @@
    "亻",
    "列"
   ],
+  "mnemonic": "A person 亻 standing in a line 列 is the example the others follow.",
+  "mnemonic_ja": "人亻が列に並んで手本を示す——「例」。",
   "hint": "person",
   "examples": [
    "vocab:hsk4:li4ru2-例如"
@@ -11717,6 +11727,8 @@
    "加",
    "贝"
   ],
+  "mnemonic": "Add 加 money 贝 to someone's fortune to congratulate them with a gift.",
+  "mnemonic_ja": "相手の財産贝に加える贈り物——「祝う」。",
   "hint": "To add 加 to someone else's fortune 贝",
   "examples": [
    "vocab:hsk4:zhu4he4-祝贺"
@@ -11751,6 +11763,8 @@
    "扌",
    "比"
   ],
+  "mnemonic": "A hand 扌 compares 比 items side by side to judge and criticize them.",
+  "mnemonic_ja": "手扌で比べながら良し悪しを判定する——「批評する」。",
   "hint": "hand",
   "examples": [
    "vocab:hsk4:pi1ping2-批评"
@@ -11785,6 +11799,8 @@
    "讠",
    "平"
   ],
+  "mnemonic": "Speech 讠 that stays level 平 and fair is a balanced evaluation.",
+  "mnemonic_ja": "言葉讠で平らに公平に論じる——「評する」。",
   "hint": "speech",
   "examples": [
    "vocab:hsk4:pi1ping2-批评"
@@ -11818,6 +11834,8 @@
    "扌",
    "台"
   ],
+  "mnemonic": "Hands 扌 lifting a platform 台 raise it up.",
+  "mnemonic_ja": "手扌で台を持ち上げる——「持ち上げる」。",
   "hint": "hand",
   "examples": [
    "vocab:hsk4:tai2-抬"
@@ -11850,6 +11868,8 @@
    "扌",
    "广"
   ],
+  "mnemonic": "A hand 扌 pushes the walls out to make the building wide 广 and expand it.",
+  "mnemonic_ja": "手扌で広く広げる——「拡大する」。",
   "hint": "wide",
   "examples": [
    "vocab:hsk4:kuo4da4-扩大"
@@ -11885,6 +11905,8 @@
    "夕",
    "大"
   ],
+  "mnemonic": "A big 大 trophy carried on a plank 丬 at dusk 夕 is the prize.",
+  "mnemonic_ja": "大きなトロフィーを夕方に掲げる——「賞」。",
   "hint": "big",
   "examples": [
    "vocab:hsk4:jiang3jin1-奖金"
@@ -11920,6 +11942,8 @@
    "王",
    "丷"
   ],
+  "mnemonic": "A man 人 stands on a king 王 with two gold nuggets 丷, the metal that makes a bell ring.",
+  "mnemonic_ja": "王の上に人、まわりに金の粒丷——金属の「金」。",
   "hint": "A cast-iron bell",
   "examples": [
    "vocab:hsk4:jiang3jin1-奖金"
@@ -11950,6 +11974,8 @@
    "圤",
    "皿"
   ],
+  "mnemonic": "White crystals gathered in a dish 皿 are salt.",
+  "mnemonic_ja": "皿の中に盛られた白い結晶——「塩」。",
   "examples": [
    "vocab:hsk4:yan2-盐"
   ]
@@ -11983,6 +12009,8 @@
    "巳",
    "戈"
   ],
+  "mnemonic": "An eye 巳 pierced by a dagger 戈 once marked a slave; now it means the common people.",
+  "mnemonic_ja": "目巳を戈で刺した奴隷の印から、やがて「民」の意味に。",
   "hint": "An eye 巳 pierced by a dagger 戈, an old mark of slavery",
   "examples": [
    "vocab:hsk4:min2zu2-民族",
@@ -12018,6 +12046,8 @@
    "方",
    "矢"
   ],
+  "mnemonic": "Arrows 矢 gathered under one flag 方 are a clan that fights together.",
+  "mnemonic_ja": "一本の旗方の下に矢を集める仲間——「民族」。",
   "hint": "A group of people that swear by 矢 a single flag 方",
   "examples": [
    "vocab:hsk4:min2zu2-民族"
@@ -12052,6 +12082,8 @@
    "舟",
    "亢"
   ],
+  "mnemonic": "A boat 舟 sails high 亢 on the water, and a plane sails high in the sky.",
+  "mnemonic_ja": "舟が高く亢進む——船も飛行機も「航行する」。",
   "hint": "ship",
   "examples": [
    "vocab:hsk4:hang2ban1-航班"
@@ -12086,6 +12118,8 @@
    "亻",
    "禺"
   ],
+  "mnemonic": "A person 亻 beside a strange figure 禺 is a puppet; two make a pair, met by chance.",
+  "mnemonic_ja": "人亻に似せた人形禺、二つで対、出会えば偶然——「偶」。",
   "hint": "person",
   "examples": [
    "vocab:hsk4:ou3er3-偶尔"
@@ -12120,6 +12154,8 @@
    "⺈",
    "小"
   ],
+  "mnemonic": "A tiny 小 mark pointing at you means so, that, like that.",
+  "mnemonic_ja": "小さく指さして「あなた」「そのように」——「尔」。",
   "examples": [
    "vocab:hsk4:ou3er3-偶尔"
   ]
@@ -12154,6 +12190,8 @@
    "日",
    "子"
   ],
+  "mnemonic": "Sunlight 日 and children 子 kept safe inside a shelter 厂 need thick walls and deep warmth.",
+  "mnemonic_ja": "崖厂の下で日と子が守られる——壁が「厚い」、情も厚い。",
   "hint": "Sunlight 日 and children 子 in a building 厂",
   "examples": [
    "vocab:hsk4:hou4-厚"
@@ -12185,6 +12223,8 @@
    "讠",
    "宜"
   ],
+  "mnemonic": "Speech 讠 that fits 宜 just right between friends is friendship.",
+  "mnemonic_ja": "言葉讠が宜しくかみ合う仲——「友情」。",
   "hint": "Fitting 宜 speech 讠; 宜 also provides the pronunciation",
   "examples": [
    "vocab:hsk4:you3yi4-友谊"
@@ -12217,6 +12257,8 @@
    "⺮",
    "本"
   ],
+  "mnemonic": "Bamboo ⺮ at its root 本 is thick and dull as a log, so stupid.",
+  "mnemonic_ja": "竹⺮の根本は太くて鈍い——「ばかな」。",
   "hint": "bamboo",
   "examples": [
    "vocab:hsk4:ben4-笨"
@@ -12249,6 +12291,8 @@
    "氵",
    "少"
   ],
+  "mnemonic": "Water 氵 wears stone down to a few 少 grains of sand.",
+  "mnemonic_ja": "水氵が石を少しずつ削って砂に——「砂」。",
   "hint": "water",
   "examples": [
    "vocab:hsk4:sha1fa1-沙发"
@@ -12283,6 +12327,8 @@
    "而",
    "寸"
   ],
+  "mnemonic": "A beard 而 held by a measuring hand 寸 must be endured patiently.",
+  "mnemonic_ja": "ひげ而を寸で押さえられても耐える——「耐える」。",
   "examples": [
    "vocab:hsk4:nai4xin1-耐心"
   ]
@@ -12316,6 +12362,8 @@
    "日",
    "央"
   ],
+  "mnemonic": "Sunlight 日 strikes the center 央 of a surface and reflects an image.",
+  "mnemonic_ja": "日の光が中央央に当たって映る——「映る」。",
   "hint": "sun",
   "examples": [
    "vocab:hsk4:fan3ying4-反映"
@@ -12348,6 +12396,8 @@
    "木",
    "直"
   ],
+  "mnemonic": "A tree 木 set straight 直 in the ground is planted.",
+  "mnemonic_ja": "木をまっすぐ直に立てる——「植える」。",
   "hint": "tree",
   "examples": [
    "vocab:hsk4:zhi2wu4-植物"
@@ -12382,6 +12432,8 @@
    "上",
    "卜"
   ],
+  "mnemonic": "Squeezed between up 上 and down 卜, a card gets stuck in its slot.",
+  "mnemonic_ja": "上と下の間にはさまってカードが引っかかる——「カード」「詰まる」。",
   "hint": "A card squeezed between 上 and 下",
   "examples": [
    "vocab:hsk4:xin4yong4ka3-信用卡"
@@ -12416,6 +12468,8 @@
    "⺼",
    "巴"
   ],
+  "mnemonic": "Flesh ⺼ grown as round as a coiled snake 巴 is fat.",
+  "mnemonic_ja": "肉⺼が巴のようにまるまる太る——「太った」。",
   "hint": "flesh",
   "examples": [
    "vocab:hsk4:jian3fei2-减肥"
@@ -12449,6 +12503,8 @@
    "高",
    "攴"
   ],
+  "mnemonic": "Striking 攴 the door of a tall 高 tower is knocking.",
+  "mnemonic_ja": "高い門を攴でたたく——「ノックする」。",
   "hint": "strike",
   "examples": [
    "vocab:hsk4:qiao1-敲"
@@ -12481,6 +12537,8 @@
    "⺼",
    "卑"
   ],
+  "mnemonic": "Flesh ⺼ sitting low 卑 in the belly is the spleen, seat of temperament.",
+  "mnemonic_ja": "肉⺼で腹の低い卑位置にある臓器——「脾臓」。",
   "hint": "flesh",
   "examples": [
    "vocab:hsk4:pi2qi5-脾气"
@@ -12515,6 +12573,8 @@
    "番",
    "羽"
   ],
+  "mnemonic": "Wings 羽 flip over a field 番; translating flips one language into another.",
+  "mnemonic_ja": "羽が番の上でひっくり返る——「ひっくり返す」「翻訳」。",
   "hint": "wings",
   "examples": [
    "vocab:hsk4:fan1yi4-翻译"
@@ -12546,6 +12606,8 @@
   "components": [
    "讠"
   ],
+  "mnemonic": "Speech 讠 carried across from one language to another is translation.",
+  "mnemonic_ja": "言葉讠を別の言葉に移し替える——「訳す」。",
   "hint": "speech",
   "examples": [
    "vocab:hsk4:fan1yi4-翻译"
@@ -12581,6 +12643,8 @@
    "亠",
    "凶"
   ],
+  "mnemonic": "A heart 忄 under a lid 亠 of bad luck 凶 is vexed and angry.",
+  "mnemonic_ja": "心忄に凶が入り込んでいらだつ——「怒る」「悩む」。",
   "hint": "heart",
   "examples": [
    "vocab:hsk4:fan2nao3-烦恼"
@@ -12615,6 +12679,8 @@
    "几",
    "乂"
   ],
+  "mnemonic": "A frame 几 with a swish 乂 inside is the wind blowing through.",
+  "mnemonic_ja": "几の中を乂が吹き抜ける——「風」。",
   "examples": [
    "vocab:hsk4:feng1jing3-风景"
   ]
@@ -12648,6 +12714,8 @@
    "日",
    "京"
   ],
+  "mnemonic": "The sun 日 rising over the capital 京 makes a splendid view.",
+  "mnemonic_ja": "都京の上に日が昇る眺め——「景色」。",
   "hint": "The sun 日 rising over a city 京; 京 also provides the pronunciation",
   "examples": [
    "vocab:hsk4:feng1jing3-风景"
@@ -12682,6 +12750,8 @@
    "氵",
    "每"
   ],
+  "mnemonic": "The water 氵 where every 每 river finally arrives is the sea.",
+  "mnemonic_ja": "水氵がすべて每集まる所——「海」。",
   "hint": "water",
   "examples": [
    "vocab:hsk4:hai3yang2-海洋"
@@ -12716,6 +12786,8 @@
    "氵",
    "羊"
   ],
+  "mnemonic": "Water 氵 as vast as a flock of sheep 羊 on the horizon is the ocean, with foreign lands beyond.",
+  "mnemonic_ja": "羊の群れのように広がる水氵——「大洋」「外国の」。",
   "hint": "water",
   "examples": [
    "vocab:hsk4:hai3yang2-海洋"
@@ -12746,6 +12818,8 @@
    "穴",
    "囱"
   ],
+  "mnemonic": "A hole 穴 fitted with a chimney 囱 lets light in: a window.",
+  "mnemonic_ja": "穴に囱をつけて光を入れる——「窓」。",
   "hint": "hole",
   "examples": [
    "vocab:hsk4:chuang1hu5-窗户"
@@ -12780,6 +12854,8 @@
    "丶",
    "尸"
   ],
+  "mnemonic": "Half of a gate 門 is one door, one household.",
+  "mnemonic_ja": "門の片側だけの戸——一軒の「戸」「世帯」。",
   "hint": "Simplified form of 戶; a door swinging on its hinge",
   "examples": [
    "vocab:hsk4:chuang1hu5-窗户"
@@ -12814,6 +12890,8 @@
    "夫",
    "日"
   ],
+  "mnemonic": "One man 夫 steps aside for another 夫 when the sun 日 says it is time to replace him.",
+  "mnemonic_ja": "二人の夫が日のもとで交代する——「代わる」。",
   "hint": "One man 夫 replacing another; 日 provides the pronunciation",
   "examples": [
    "vocab:hsk4:dai4ti4-代替"
@@ -12845,6 +12923,8 @@
    "木",
    "果"
   ],
+  "mnemonic": "A tree 木 bearing fruit 果 is counted one 棵 at a time.",
+  "mnemonic_ja": "木に果実がなる——草木を数える「〜本」。",
   "hint": "tree",
   "examples": [
    "vocab:hsk4:ke1-棵"
@@ -12876,6 +12956,8 @@
    "犭",
    "师"
   ],
+  "mnemonic": "The animal 犭 that is master 师 of all beasts is the lion.",
+  "mnemonic_ja": "獣犭の中の師匠——「ライオン」。",
   "hint": "animal",
   "examples": [
    "vocab:hsk4:shi1zi5-狮子"
@@ -12910,6 +12992,8 @@
    "禾",
    "肖"
   ],
+  "mnemonic": "Grain 禾 shaved small 肖 is just a little.",
+  "mnemonic_ja": "禾を肖(小さく)削る——「少し」。",
   "hint": "Resembling 肖 grain 禾; 肖 also provides the pronunciation",
   "examples": [
    "vocab:hsk4:shao1wei1-稍微"
@@ -12946,6 +13030,8 @@
    "兀",
    "攵"
   ],
+  "mnemonic": "Walking 彳 in tiny steps past a mountain 山 is barely noticeable, tiny.",
+  "mnemonic_ja": "彳と小刻みに山を越える小ささ——「微小な」。",
   "examples": [
    "vocab:hsk4:shao1wei1-稍微"
   ]
@@ -12976,6 +13062,8 @@
    "氵",
    "干"
   ],
+  "mnemonic": "Water 氵 that dries 干 on the skin is sweat.",
+  "mnemonic_ja": "水氵が干上がるほど出る——「汗」。",
   "hint": "water",
   "examples": [
    "vocab:hsk4:han4-汗"
@@ -13010,6 +13098,8 @@
    "缶",
    "夬"
   ],
+  "mnemonic": "A jar 缶 with a chip broken off 夬 is lacking something.",
+  "mnemonic_ja": "缶(かめ)が夬と欠けている——「欠ける」。",
   "hint": "jar",
   "examples": [
    "vocab:hsk4:que1shao3-缺少",
@@ -13045,6 +13135,8 @@
    "门",
    "兑"
   ],
+  "mnemonic": "At the gate 门, papers are exchanged 兑 and read through.",
+  "mnemonic_ja": "門门で兑(交換)し検める——「閲覧する」。",
   "examples": [
    "vocab:hsk4:yue4du2-阅读"
   ]
@@ -13078,6 +13170,8 @@
    "穴",
    "力"
   ],
+  "mnemonic": "In a cave 穴 with all strength 力 used up, one is poor and exhausted.",
+  "mnemonic_ja": "穴の中で力を使い果たす——「貧しい」「尽きる」。",
   "examples": [
    "vocab:hsk4:qiong2-穷"
   ]
@@ -13111,6 +13205,8 @@
    "扌",
    "分"
   ],
+  "mnemonic": "A hand 扌 divides 分 the face into a new role to dress up as someone.",
+  "mnemonic_ja": "手扌で顔を分けて別人になる——「扮する」。",
   "hint": "hand",
   "examples": [
    "vocab:hsk4:da3ban5-打扮"
@@ -13145,6 +13241,8 @@
    "忄",
    "京"
   ],
+  "mnemonic": "The heart 忄 jumps when the capital 京 suddenly appears: startled.",
+  "mnemonic_ja": "心忄が京(大都会)に驚く——「驚く」。",
   "hint": "heart",
   "examples": [
    "vocab:hsk4:chi1jing1-吃惊"
@@ -13179,6 +13277,8 @@
    "勿",
    "心"
   ],
+  "mnemonic": "A heart 心 told don't 勿 neglects things, and suddenly they happen.",
+  "mnemonic_ja": "心が勿(無)になる——「おろそかにする」「突然」。",
   "hint": "heart",
   "examples": [
    "vocab:hsk4:hu1ran2-忽然"
@@ -13211,6 +13311,8 @@
    "羊",
    "次"
   ],
+  "mnemonic": "Seeing a row 次 of sheep 羊 and drooling is envy.",
+  "mnemonic_ja": "羊が次々並ぶのを見てよだれ——「うらやむ」。",
   "hint": "Someone who has a whole row 次 of sheep 羊",
   "examples": [
    "vocab:hsk4:xian4mu4-羡慕"
@@ -13244,6 +13346,8 @@
    "莫",
    "⺗"
   ],
+  "mnemonic": "A heart ⺗ at dusk 莫 longing for someone admires them.",
+  "mnemonic_ja": "莫(夕暮れ)に心⺗で想う——「慕う」。",
   "hint": "heart",
   "examples": [
    "vocab:hsk4:xian4mu4-羡慕"
@@ -13278,6 +13382,8 @@
    "⺼",
    "庄"
   ],
+  "mnemonic": "Flesh ⺼ in a dusty farmstead 庄 gets dirty.",
+  "mnemonic_ja": "肉⺼が庄(農家)の土で汚れる——「汚い」。",
   "hint": "flesh",
   "examples": [
    "vocab:hsk4:zang1-脏"
@@ -13312,6 +13418,8 @@
    "辶",
    "狂"
   ],
+  "mnemonic": "Walking 辶 around wildly 狂 with no plan is strolling.",
+  "mnemonic_ja": "狂ったように辶ぶらぶら歩き回る——「ぶらつく」。",
   "hint": "walk",
   "examples": [
    "vocab:hsk4:guang4-逛"
@@ -13346,6 +13454,8 @@
    "扌",
    "尤"
   ],
+  "mnemonic": "A hand 扌 poking at something especially 尤 disturbs it.",
+  "mnemonic_ja": "手扌でわざわざ尤つつく——「邪魔する」。",
   "hint": "hand",
   "examples": [
    "vocab:hsk4:da3rao3-打扰"
@@ -13380,6 +13490,8 @@
    "山",
    "幺"
   ],
+  "mnemonic": "Tiny threads 幺幺 hidden in a mountain 山 are secluded and dim.",
+  "mnemonic_ja": "山の中の小さな幺の隙間——「奥深い」「静かな」。",
   "hint": "Small niches 幺 in the mountainside 山; 幺 also provides the pronunciation",
   "examples": [
    "vocab:hsk4:you1mo4-幽默"
@@ -13414,6 +13526,8 @@
    "黑",
    "犬"
   ],
+  "mnemonic": "A dog 犬 in the dark 黑 keeps silent.",
+  "mnemonic_ja": "黒い闇で犬が黙って見張る——「黙る」。",
   "hint": "A dog 犬 watching in the dark 黑",
   "examples": [
    "vocab:hsk4:you1mo4-幽默"
@@ -13448,6 +13562,8 @@
    "讠",
    "吴"
   ],
+  "mnemonic": "Speech 讠 in the Wu 吴 accent gets misheard: a mistake.",
+  "mnemonic_ja": "言葉讠が吴(呉)なまりで聞き違い——「誤り」。",
   "hint": "speech",
   "examples": [
    "vocab:hsk4:wu4hui4-误会"
@@ -13482,6 +13598,8 @@
    "亻",
    "尃"
   ],
+  "mnemonic": "A person 亻 who spreads 尃 knowledge is a master teacher.",
+  "mnemonic_ja": "人亻が尃(広く)教えを授ける——「師匠」。",
   "hint": "Someone 亻 who lectures 尃; 尃 also provides the pronunciation",
   "examples": [
    "vocab:hsk4:shi1fu5-师傅"
@@ -13516,6 +13634,8 @@
    "戊",
    "尗"
   ],
+  "mnemonic": "A battle-axe 戊 beside a younger brother 尗: relatives mourn together.",
+  "mnemonic_ja": "戊(武器)と尗(弟)——共に悲しむ「親戚」。",
   "hint": "A younger brother 尗 killed in a war 戈",
   "examples": [
    "vocab:hsk4:qin1qi5-亲戚"
@@ -13550,6 +13670,8 @@
    "扌",
    "由"
   ],
+  "mnemonic": "A hand 扌 pulls something out from 由 a bundle.",
+  "mnemonic_ja": "手扌で由(すき間)から引き抜く——「抜き出す」。",
   "hint": "hand",
   "examples": [
    "vocab:hsk4:chou1yan1-抽烟"
@@ -13584,6 +13706,8 @@
    "火",
    "因"
   ],
+  "mnemonic": "Fire 火 inside 因 a sealed box sends up smoke.",
+  "mnemonic_ja": "火が因(囲い)の中でくすぶって煙に——「煙」。",
   "hint": "fire",
   "examples": [
    "vocab:hsk4:chou1yan1-抽烟"
@@ -13619,6 +13743,8 @@
    "虍",
    "几"
   ],
+  "mnemonic": "A tiger 虍 crouching on a rock 几 is a tiger.",
+  "mnemonic_ja": "虍(トラ)が几(岩)の上に立つ——「トラ」。",
   "hint": "A tiger 虍 standing on a rock 几; 虍 also provides the pronunciation",
   "examples": [
    "vocab:hsk4:lao3hu3-老虎",
@@ -13654,6 +13780,8 @@
    "禾",
    "北"
   ],
+  "mnemonic": "Two feet 北 climbing a grain stalk 禾 ride on top.",
+  "mnemonic_ja": "北(両足)で禾(稲)によじ登る——「乗る」。",
   "hint": "Two feet 北 climbing a beanstalk 禾",
   "examples": [
    "vocab:hsk4:cheng2zuo4-乘坐"
@@ -13688,6 +13816,8 @@
    "讠",
    "成"
   ],
+  "mnemonic": "Speech 讠 that is carried through to completion 成 is sincere.",
+  "mnemonic_ja": "言葉讠が成し遂げられる——「誠実な」。",
   "hint": "speech",
   "examples": [
    "vocab:hsk4:cheng2shi2-诚实"
@@ -13722,6 +13852,8 @@
    "隹",
    "木"
   ],
+  "mnemonic": "Birds 隹 flocking on a tree 木 gather together.",
+  "mnemonic_ja": "木に隹(鳥)が群がる——「集まる」。",
   "hint": "Birds 隹 flocking on a tree 木",
   "examples": [
    "vocab:hsk4:ji2he2-集合"
@@ -13755,6 +13887,8 @@
    "子",
    "小"
   ],
+  "mnemonic": "A small 小 child 子 of your child is a grandson.",
+  "mnemonic_ja": "子のさらに小さい子——「孫」。",
   "hint": "Simplified form of 孫; a chain 系 of descent 子",
   "examples": [
    "vocab:hsk4:sun1zi5-孙子"
@@ -13786,6 +13920,8 @@
    "犭",
    "侯"
   ],
+  "mnemonic": "An animal 犭 as clever as a marquis 侯 is the monkey.",
+  "mnemonic_ja": "侯(貴族)のように賢い獣犭——「サル」。",
   "hint": "animal",
   "examples": [
    "vocab:hsk4:hou2zi5-猴子"
@@ -13820,6 +13956,8 @@
    "门",
    "市"
   ],
+  "mnemonic": "A market 市 at the gate 门 is noisy and bustling.",
+  "mnemonic_ja": "門门に市が立つ騒がしさ——「騒がしい」。",
   "hint": "As busy as the market 市 gate 门",
   "examples": [
    "vocab:hsk4:re4nao5-热闹"
@@ -13854,6 +13992,8 @@
    "⺼",
    "攵"
   ],
+  "mnemonic": "A hand 攵 tossing meat ⺼ scraps to the crowd scatters them.",
+  "mnemonic_ja": "手攵で肉⺼をばらまく——「散らす」。",
   "hint": "A hand 攵 tossing seeds from a basket",
   "examples": [
    "vocab:hsk4:san4bu4-散步"
@@ -13888,6 +14028,8 @@
    "广",
    "予"
   ],
+  "mnemonic": "In a spacious hall 广 things are handed over 予 in order.",
+  "mnemonic_ja": "广の下で予(与える)順番を決める——「順序」。",
   "hint": "wide",
   "examples": [
    "vocab:hsk4:shun4xu4-顺序"
@@ -13922,6 +14064,8 @@
    "忄",
    "赖"
   ],
+  "mnemonic": "A heart 忄 that relies 赖 on others for everything is lazy.",
+  "mnemonic_ja": "心忄が人に赖(頼り)きり——「怠惰な」。",
   "hint": "heart",
   "examples": [
    "vocab:hsk4:lan3-懒"
@@ -13955,6 +14099,8 @@
    "合",
    "皿"
   ],
+  "mnemonic": "A dish 皿 with a lid that closes 合 is a box.",
+  "mnemonic_ja": "皿に合う蓋をかぶせる——「箱」。",
   "hint": "container",
   "examples": [
    "vocab:hsk4:he2zi5-盒子"
@@ -13989,6 +14135,8 @@
    "豸",
    "皃"
   ],
+  "mnemonic": "A beast 豸 wearing a face 皃 shows its appearance.",
+  "mnemonic_ja": "獣豸の顔つき皃——「容貌」。",
   "hint": "A beast's 豸 appearance 皃; 皃 also provides the pronunciation",
   "examples": [
    "vocab:hsk4:li3mao4-礼貌"
@@ -14023,6 +14171,8 @@
    "饣",
    "并"
   ],
+  "mnemonic": "Food 饣 pressed together 并 flat is a flat cake.",
+  "mnemonic_ja": "食饣を并(並べて)平らに焼く——「平たい焼き菓子」。",
   "hint": "food",
   "examples": [
    "vocab:hsk4:bing3gan1-饼干"
@@ -14055,6 +14205,8 @@
    "衤",
    "末"
   ],
+  "mnemonic": "Clothing 衤 for the very end 末 of your legs is a sock.",
+  "mnemonic_ja": "衣衤を足の末端に——「靴下」。",
   "hint": "clothes",
   "examples": [
    "vocab:hsk4:wa4zi5-袜子"
@@ -14089,6 +14241,8 @@
    "乇",
    "一"
   ],
+  "mnemonic": "Tufts of fur curling off a single stroke 一 are hair.",
+  "mnemonic_ja": "一本の線に毛並みがなびく——「毛」。",
   "examples": [
    "vocab:hsk4:mao2jin1-毛巾",
    "vocab:hsk4:yu3mao2qiu2-羽毛球"
@@ -14123,6 +14277,8 @@
    "冂",
    "丨"
   ],
+  "mnemonic": "A cloth hanging from a rack 冂 with a tie 丨 is a towel.",
+  "mnemonic_ja": "冂(掛け)に丨の布が垂れる——「布」「タオル」。",
   "hint": "A curtain or towel hanging from a rack",
   "examples": [
    "vocab:hsk4:mao2jin1-毛巾"
@@ -14157,6 +14313,8 @@
    "尚",
    "手"
   ],
+  "mnemonic": "The esteemed 尚 part of the hand 手 is the palm, which takes charge.",
+  "mnemonic_ja": "尚(上)から見た手——「手のひら」「つかさどる」。",
   "hint": "hand",
   "examples": [
    "vocab:hsk4:gu3zhang3-鼓掌"
@@ -14191,6 +14349,8 @@
    "并",
    "瓦"
   ],
+  "mnemonic": "Two clay tiles 瓦 joined 并 make a pottery bottle.",
+  "mnemonic_ja": "瓦(焼き物)を并(合わせ)て作る——「瓶」。",
   "hint": "pottery",
   "examples": [
    "vocab:hsk4:ping2zi5-瓶子"
@@ -14225,6 +14385,8 @@
    "亻",
    "专"
   ],
+  "mnemonic": "A person 亻 passing on specialized 专 knowledge transmits it.",
+  "mnemonic_ja": "人亻が专(専門)を伝える——「伝える」。",
   "hint": "people",
   "examples": [
    "vocab:hsk4:chuan2zhen1-传真"
@@ -14259,6 +14421,8 @@
    "羊",
    "丑"
   ],
+  "mnemonic": "An ugly 丑 sheep 羊 blushing is shy and ashamed.",
+  "mnemonic_ja": "丑(醜い)羊が顔を赤らめる——「恥ずかしい」。",
   "hint": "An ugly 丑 sheep 羊",
   "examples": [
    "vocab:hsk4:hai4xiu1-害羞"
@@ -14293,6 +14457,8 @@
    "扌",
    "屋"
   ],
+  "mnemonic": "A hand 扌 gripping the house 屋 key holds it tight.",
+  "mnemonic_ja": "手扌で屋(家)の鍵を握る——「握る」。",
   "hint": "hand",
   "examples": [
    "vocab:hsk4:wo4shou3-握手"
@@ -14324,6 +14490,8 @@
    "口",
    "亥"
   ],
+  "mnemonic": "A mouth 口 making the sound hai 亥 is coughing.",
+  "mnemonic_ja": "口から亥(ハイ)と音——「せき」。",
   "hint": "mouth",
   "examples": [
    "vocab:hsk4:ke2sou5-咳嗽"
@@ -14355,6 +14523,8 @@
    "口",
    "欶"
   ],
+  "mnemonic": "A mouth 口 clearing its throat with a sucking noise 欶 coughs.",
+  "mnemonic_ja": "口で欶(吸い込む音)——「せき」。",
   "hint": "mouth",
   "examples": [
    "vocab:hsk4:ke2sou5-咳嗽"
@@ -14389,6 +14559,8 @@
    "石",
    "开"
   ],
+  "mnemonic": "Grinding stone 石 flat 开 is research: wearing a problem down.",
+  "mnemonic_ja": "石を开(平らに)研ぐ——「研究する」。",
   "hint": "stone",
   "examples": [
    "vocab:hsk4:yan2jiu1sheng1-研究生"
@@ -14420,6 +14592,8 @@
    "氵",
    "目"
   ],
+  "mnemonic": "Water 氵 from the eyes 目 is tears.",
+  "mnemonic_ja": "目から出る水氵——「涙」。",
   "hint": "Water 氵 from the eyes 目",
   "examples": [
    "vocab:hsk4:liu2lei4-流泪"
@@ -14454,6 +14628,8 @@
    "一",
    "口"
   ],
+  "mnemonic": "One 一 mouth 口 amid weapons 戊: everyone shares the salty taste.",
+  "mnemonic_ja": "戊(武器)に囲まれ一つの口——みな「塩辛い」。",
   "hint": "One 一 voice 口 surrounded by conflict 戈",
   "examples": [
    "vocab:hsk4:xian2-咸"
@@ -14488,6 +14664,8 @@
    "氵",
    "由"
   ],
+  "mnemonic": "Liquid 氵 pressed from 由 seeds is oil.",
+  "mnemonic_ja": "由(種)から出た液体氵——「油」。",
   "hint": "water",
   "examples": [
    "vocab:hsk4:jia1you2zhan4-加油站"
@@ -14522,6 +14700,8 @@
    "扌",
    "召"
   ],
+  "mnemonic": "A hand 扌 calling out 召 beckons and recruits.",
+  "mnemonic_ja": "手扌で召(呼ぶ)——「手招きする」「募集する」。",
   "hint": "A call 召 to arms 扌; 召 also provides the pronunciation",
   "examples": [
    "vocab:hsk4:zhao1pin4-招聘"
@@ -14556,6 +14736,8 @@
    "耳",
    "甹"
   ],
+  "mnemonic": "An ear 耳 hearing an invitation 甹 is being hired.",
+  "mnemonic_ja": "耳で甹(招き)を聞く——「招聘する」。",
   "hint": "ear",
   "examples": [
    "vocab:hsk4:zhao1pin4-招聘"
@@ -14590,6 +14772,8 @@
    "氵",
    "发"
   ],
+  "mnemonic": "Sending forth 发 water 氵 is splashing.",
+  "mnemonic_ja": "水氵を发(発する)——「まく」。",
   "hint": "To send forth 发 water 氵",
   "examples": [
    "vocab:hsk4:huo2po5-活泼"
@@ -14622,6 +14806,8 @@
    "火",
    "喿"
   ],
+  "mnemonic": "Fire 火 with birds chirping noisily 喿 makes dry heat.",
+  "mnemonic_ja": "火で喿(騒がしく)乾く——「乾いた」。",
   "hint": "fire",
   "examples": [
    "vocab:hsk4:gan1zao4-干燥"
@@ -14656,6 +14842,8 @@
    "⺮",
    "佥"
   ],
+  "mnemonic": "Bamboo ⺮ slips signed by everyone 佥 are signatures and tags.",
+  "mnemonic_ja": "竹⺮の札に佥(皆)が署名——「署名する」。",
   "hint": "bamboo",
   "examples": [
    "vocab:hsk4:qian1zheng4-签证"
@@ -14688,6 +14876,8 @@
    "日",
    "爰"
   ],
+  "mnemonic": "The sun 日 handing 爰 its warmth to you is warm.",
+  "mnemonic_ja": "日が爰(手渡す)温もり——「暖かい」。",
   "hint": "sun",
   "examples": [
    "vocab:hsk4:nuan3huo5-暖和"
@@ -14721,6 +14911,8 @@
   "components": [
    "冖"
   ],
+  "mnemonic": "Under a cover 冖 the farmer bends over the field: agriculture.",
+  "mnemonic_ja": "冖(覆い)の下で畑を耕す——「農業」。",
   "hint": "Simplified form of 農, tilling the field 田 with a hoe 辰",
   "examples": [
    "vocab:hsk4:nong2cun1-农村"
@@ -14753,6 +14945,8 @@
    "木",
    "寸"
   ],
+  "mnemonic": "Trees 木 planted a hand-width 寸 apart make a village.",
+  "mnemonic_ja": "木が寸(すぐ)そばに並ぶ集落——「村」。",
   "hint": "tree",
   "examples": [
    "vocab:hsk4:nong2cun1-农村"
@@ -14787,6 +14981,8 @@
    "歹",
    "刂"
   ],
+  "mnemonic": "A knife 刂 cuts bones 歹 into a neat row, lined up.",
+  "mnemonic_ja": "歹を刂で切り並べる——「並べる」。",
   "hint": "line",
   "examples": [
    "vocab:hsk4:pai2lie4-排列"
@@ -14821,6 +15017,8 @@
    "穴",
    "乍"
   ],
+  "mnemonic": "A cave 穴 made abruptly 乍 small is narrow.",
+  "mnemonic_ja": "穴が乍(急に)小さく——「狭い」。",
   "hint": "cave",
   "examples": [
    "vocab:hsk4:zhai3-窄"
@@ -14854,6 +15052,8 @@
   "components": [
    "文"
   ],
+  "mnemonic": "Grain stalks 文 trimmed to the same height are neat and even.",
+  "mnemonic_ja": "文のように穂先が揃う——「そろった」。",
   "examples": [
    "vocab:hsk4:zheng3qi2-整齐"
   ]
@@ -14887,6 +15087,8 @@
    "扌",
    "昜"
   ],
+  "mnemonic": "A hand 扌 raising something toward the sun 昜 lifts it high.",
+  "mnemonic_ja": "手扌で昜(太陽)に向けて揚げる——「揚げる」。",
   "hint": "hand",
   "examples": [
    "vocab:hsk4:biao3yang2-表扬"
@@ -14919,6 +15121,8 @@
    "石",
    "页"
   ],
+  "mnemonic": "A head 页 as big as a stone 石 is large, like a master's degree.",
+  "mnemonic_ja": "石のように大きな頭页——「大きい」「修士」。",
   "hint": "Like a sheet 页 of stone 石",
   "examples": [
    "vocab:hsk4:shuo4shi4-硕士"
@@ -14948,6 +15152,8 @@
   "strokes": 4,
   "radical": "牙",
   "components": [],
+  "mnemonic": "A jagged fang drawn stroke by stroke is a tooth.",
+  "mnemonic_ja": "ギザギザの牙そのもの——「歯」。",
   "examples": [
    "vocab:hsk4:ya2gao1-牙膏"
   ]
@@ -14981,6 +15187,8 @@
    "高",
    "⺼"
   ],
+  "mnemonic": "Fat from a high 高 cut of flesh ⺼ becomes ointment.",
+  "mnemonic_ja": "高い所の肉⺼の脂——「軟膏」。",
   "hint": "flesh",
   "examples": [
    "vocab:hsk4:ya2gao1-牙膏"
@@ -15011,6 +15219,8 @@
    "丘",
    "丿"
   ],
+  "mnemonic": "A ball bouncing left off a mound 丘 goes ping.",
+  "mnemonic_ja": "丘から左へ跳ねる球——卓球の「ピン」。",
   "hint": "A ball bouncing back and forth; compare 乓",
   "examples": [
    "vocab:hsk4:ping1pang1qiu2-乒乓球"
@@ -15041,6 +15251,8 @@
    "丘",
    "丶"
   ],
+  "mnemonic": "A ball bouncing right off a mound 丘 goes pong.",
+  "mnemonic_ja": "丘から右へ跳ねる球——卓球の「ポン」。",
   "hint": "A ball bouncing back and forth; compare 乒",
   "examples": [
    "vocab:hsk4:ping1pang1qiu2-乒乓球"
@@ -15075,6 +15287,8 @@
    "巳",
    "寸"
   ],
+  "mnemonic": "A hand 寸 pointing the way to a place 巳 guides.",
+  "mnemonic_ja": "寸(手)で巳(場所)を指し示す——「導く」。",
   "hint": "A hand 寸 pointing the way to someplace 巳",
   "examples": [
    "vocab:hsk4:dao3you2-导游"
@@ -15109,6 +15323,8 @@
    "口",
    "十"
   ],
+  "mnemonic": "A mouth 口 and ten 十: ten leaves, ten pages.",
+  "mnemonic_ja": "口に十——十枚の「葉」。",
   "examples": [
    "vocab:hsk4:ye4zi5-叶子"
   ]
@@ -15142,6 +15358,8 @@
    "扌",
    "斤"
   ],
+  "mnemonic": "A hand 扌 swinging an axe 斤 breaks and folds.",
+  "mnemonic_ja": "手扌で斤(斧)を振り折る——「折る」。",
   "hint": "A hand 扌 wielding an axe 斤",
   "examples": [
    "vocab:hsk4:da3zhe2-打折"
@@ -15176,6 +15394,8 @@
    "土",
    "者"
   ],
+  "mnemonic": "A person 者 piling earth 土 blocks the road.",
+  "mnemonic_ja": "者が土を積んでふさぐ——「ふさぐ」。",
   "hint": "earth",
   "examples": [
    "vocab:hsk4:du3che1-堵车"
@@ -15206,6 +15426,8 @@
    "木",
    "市"
   ],
+  "mnemonic": "The fruit of a tree 木 sold at the market 市 is persimmon.",
+  "mnemonic_ja": "市で売る木の実——「柿」。",
   "hint": "tree",
   "examples": [
    "vocab:hsk4:xi1hong2shi4-西红柿"
@@ -15238,6 +15460,8 @@
    "饣",
    "交"
   ],
+  "mnemonic": "Food 饣 folded crosswise 交 is a dumpling.",
+  "mnemonic_ja": "食饣を交(交差)に包む——「餃子」。",
   "hint": "food",
   "examples": [
    "vocab:hsk4:jiao3zi5-饺子"
@@ -15268,6 +15492,8 @@
    "土",
    "立"
   ],
+  "mnemonic": "Earth 土 standing 立 in a heap is garbage.",
+  "mnemonic_ja": "土が立つように積まれる——「ごみ(垃圾)」。",
   "hint": "earth",
   "examples": [
    "vocab:hsk4:la1ji1tong3-垃圾桶"
@@ -15298,6 +15524,8 @@
    "土",
    "及"
   ],
+  "mnemonic": "Earth 土 reaching 及 the top of the heap is garbage.",
+  "mnemonic_ja": "土が及(届く)ほど積まれる——「ごみ(垃圾)」。",
   "hint": "earth",
   "examples": [
    "vocab:hsk4:la1ji1tong3-垃圾桶"
@@ -15332,6 +15560,8 @@
    "木",
    "甬"
   ],
+  "mnemonic": "Wood 木 with a passage 甬 for water is a bucket.",
+  "mnemonic_ja": "木に甬(通り道)——「桶」。",
   "hint": "wood",
   "examples": [
    "vocab:hsk4:la1ji1tong3-垃圾桶"
@@ -15366,6 +15596,8 @@
    "朔",
    "土"
   ],
+  "mnemonic": "Earth 土 shaped on the new moon 朔 is molded.",
+  "mnemonic_ja": "朔(新月)に土を形作る——「形作る」。",
   "hint": "earth",
   "examples": [
    "vocab:hsk4:su4liao4dai4-塑料袋"
@@ -15400,6 +15632,8 @@
    "代",
    "衣"
   ],
+  "mnemonic": "Clothing 衣 that takes the place 代 of hands is a bag.",
+  "mnemonic_ja": "衣が代わりに持つ——「袋」。",
   "hint": "clothes",
   "examples": [
    "vocab:hsk4:su4liao4dai4-塑料袋"
@@ -15434,6 +15668,8 @@
    "羊",
    "儿"
   ],
+  "mnemonic": "Sheep 羊 fed by a kneeling person 儿 are raised.",
+  "mnemonic_ja": "羊を儿(人)が育てる——「養う」。",
   "hint": "child",
   "examples": [
    "vocab:hsk4:yang3cheng2-养成"
@@ -15468,6 +15704,8 @@
    "钅",
    "十"
   ],
+  "mnemonic": "A metal 钅 pin 十 is a needle.",
+  "mnemonic_ja": "金钅の十字の針——「針」。",
   "hint": "A metal 钅 pin 十",
   "examples": [
    "vocab:hsk4:da3zhen1-打针"
@@ -15502,6 +15740,8 @@
    "氵",
    "显"
   ],
+  "mnemonic": "Water 氵 showing 显 on the surface is wet.",
+  "mnemonic_ja": "水氵が显(現れる)——「湿った」。",
   "hint": "water",
   "examples": [
    "vocab:hsk4:shi1run4-湿润"
@@ -15536,6 +15776,8 @@
    "氵",
    "闰"
   ],
+  "mnemonic": "Water 氵 in a leap 闰 month is extra moisture.",
+  "mnemonic_ja": "闰(余分)の水氵——「潤う」。",
   "hint": "water",
   "examples": [
    "vocab:hsk4:shi1run4-湿润"
@@ -15569,6 +15811,8 @@
   "components": [
    "习"
   ],
+  "mnemonic": "Two feathers side by side are feathers.",
+  "mnemonic_ja": "二枚の羽根が並ぶ——「羽」。",
   "hint": "Two feathers or wings",
   "examples": [
    "vocab:hsk4:yu3mao2qiu2-羽毛球"
@@ -15603,6 +15847,8 @@
    "冫",
    "京"
   ],
+  "mnemonic": "Ice 冫 at the capital 京 is cool.",
+  "mnemonic_ja": "京に冫(氷)——「涼しい」。",
   "hint": "ice",
   "examples": [
    "vocab:hsk4:liang2kuai5-凉快"
@@ -15635,6 +15881,8 @@
    "隹",
    "口"
   ],
+  "mnemonic": "A mouth 口 chirping like a bird 隹 is selling.",
+  "mnemonic_ja": "隹(鳥)のように口で売り込む——「売る」。",
   "hint": "A street vendor talks 口 incessantly, like a bird 隹",
   "examples": [
    "vocab:hsk4:shou4huo4yuan2-售货员"
@@ -15669,6 +15917,8 @@
    "化",
    "贝"
   ],
+  "mnemonic": "Things changed 化 into money 贝 are goods.",
+  "mnemonic_ja": "化けて贝(お金)になる——「商品」。",
   "hint": "money",
   "examples": [
    "vocab:hsk4:shou4huo4yuan2-售货员"
@@ -15703,6 +15953,8 @@
    "氵",
    "工"
   ],
+  "mnemonic": "Water 氵 flowing as straight as a worker's 工 line is a river.",
+  "mnemonic_ja": "水氵が工(まっすぐ)流れる——「川」。",
   "hint": "water",
   "examples": [
    "vocab:hsk4:chang2jiang1-长江"
@@ -15736,6 +15988,8 @@
   "components": [
    "宀"
   ],
+  "mnemonic": "Under a roof 宀, huddled in straw on ice, one is cold.",
+  "mnemonic_ja": "宀の下で藁にくるまり氷に震える——「寒い」。",
   "examples": [
    "vocab:hsk4:han2jia4-寒假"
   ]
@@ -15769,6 +16023,8 @@
    "丿",
    "巾"
   ],
+  "mnemonic": "A stroke 丿 on cloth 巾 is a silk bill: money.",
+  "mnemonic_ja": "巾(布)に丿と記す——「貨幣」。",
   "hint": "Bills written on silk 巾",
   "examples": [
    "vocab:hsk4:ren2min2bi4-人民币"
@@ -15803,6 +16059,8 @@
    "米",
    "且"
   ],
+  "mnemonic": "Rice 米 that is moreover 且 unpolished is coarse.",
+  "mnemonic_ja": "米が且(さらに)粗い——「粗い」「太い」。",
   "hint": "grain",
   "examples": [
    "vocab:hsk4:cu1xin1-粗心"
@@ -15837,6 +16095,8 @@
    "予",
    "页"
   ],
+  "mnemonic": "Given 予 a page 页 beforehand is in advance.",
+  "mnemonic_ja": "予(あらかじめ)页を渡す——「あらかじめ」。",
   "hint": "page",
   "examples": [
    "vocab:hsk4:yu4xi2-预习"
@@ -15871,6 +16131,8 @@
    "居",
    "刂"
   ],
+  "mnemonic": "A knife 刂 cutting into a residence 居 is dramatic.",
+  "mnemonic_ja": "居に刂(刀)が切り込む——「劇」。",
   "hint": "knife",
   "examples": [
    "vocab:hsk4:jing1ju4-京剧"
@@ -15905,6 +16167,8 @@
    "土",
    "真"
   ],
+  "mnemonic": "Earth 土 filling truly 真 full fills it in.",
+  "mnemonic_ja": "土を真(いっぱい)に——「記入する」。",
   "hint": "earth",
   "examples": [
    "vocab:hsk4:tian2kong4-填空"
@@ -15938,6 +16202,8 @@
    "日",
    "者"
   ],
+  "mnemonic": "The sun 日 beating down on a person 者 is summer heat.",
+  "mnemonic_ja": "日が者を照りつける——「暑さ」。",
   "hint": "sun",
   "examples": [
    "vocab:hsk4:fang4shu3jia4-放暑假"

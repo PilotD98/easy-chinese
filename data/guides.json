@@ -1,0 +1,1129 @@
+{
+  "title": "Real-world Chinese",
+  "title_ja": "実際の中国語",
+  "intro": "Short guides for the Chinese you meet outside the textbook: how people greet and thank each other, how they really talk, what shop and restaurant staff say, the signs and menus around you, numbers and money, survival phrases and everyday politeness. Tap any line to hear it. Open these whenever you like; nothing here is locked.",
+  "intro_ja": "教科書の外で出会う中国語のための短いガイドです。あいさつとお礼の仕方、実際の話し方、店員やレストランのスタッフが言うこと、身のまわりの看板やメニュー、数字とお金、サバイバル表現、日常の礼儀。各行をタップすると音声が聞けます。いつでも開けますし、ロックはありません。",
+  "guides": [
+    {
+      "id": "everyday",
+      "title": "Everyday phrases by moment of the day",
+      "title_ja": "一日の場面別・日常フレーズ",
+      "summary": "Greetings, thanks, sorry, small requests, yes and no, feelings, WeChat messages, compliments and goodbyes.",
+      "summary_ja": "あいさつ、お礼、謝罪、ちょっとしたお願い、はい・いいえ、気持ち、WeChat のメッセージ、ほめ言葉と別れのあいさつ。",
+      "minutes": 12,
+      "sections": [
+        {
+          "title": "Greetings through the day",
+          "title_ja": "一日のあいさつ",
+          "body": [
+            "你好 is fine everywhere, but people you see often greet you more casually: a plain 早 in the morning, or just your name with a nod. 吃了吗？ (\"Have you eaten?\") is a real greeting among neighbours and older people, like \"how are you\"; the expected answer is 吃了, not a report on your lunch.",
+            "Chinese has no everyday \"good afternoon\" or \"good evening\" in speech. 晚上好 appears on TV and in hotels; friends just say 嗨 or ask what you are up to."
+          ],
+          "body_ja": [
+            "你好 はどこでも使えますが、よく会う人にはもっとくだけたあいさつをします。朝はただ 早、または名前を呼んでうなずくだけ。吃了吗？（食べましたか）は近所の人や年配の人の間では「元気？」のような本当のあいさつで、期待される答えは 吃了 です。昼食の内容を報告する必要はありません。",
+            "話し言葉には日常的な「こんにちは（午後）」「こんばんは」がほとんどありません。晚上好 はテレビやホテルで聞くもので、友だち同士は 嗨 と言ったり、何をしているか尋ねたりします。"
+          ],
+          "items": [
+            { "zh": "早", "pinyin": "zǎo", "en": "Morning!", "ja": "おはよう", "note": "Short for 早上好; the normal morning greeting.", "note_ja": "早上好 の略。朝の普通のあいさつです。" },
+            { "zh": "早上好", "pinyin": "zǎo shang hǎo", "en": "Good morning", "ja": "おはようございます" },
+            { "zh": "你好", "pinyin": "nǐ hǎo", "en": "Hello", "ja": "こんにちは" },
+            { "zh": "您好", "pinyin": "nín hǎo", "en": "Hello (polite)", "ja": "こんにちは（丁寧）", "note": "To staff, older people, anyone you want to show respect to.", "note_ja": "店員、年上の人、敬意を示したい相手に。" },
+            { "zh": "吃了吗？", "pinyin": "chī le ma?", "en": "Have you eaten? (= how are you)", "ja": "食べましたか？（＝元気？）", "note": "Answer 吃了 (yes) or 还没 (not yet). Nobody is inviting you to lunch.", "note_ja": "答えは 吃了（はい）か 还没（まだ）。食事に誘われているわけではありません。" },
+            { "zh": "吃了，你呢？", "pinyin": "chī le, nǐ ne?", "en": "Yes, and you?", "ja": "食べました、あなたは？" },
+            { "zh": "最近怎么样？", "pinyin": "zuì jìn zěn me yàng?", "en": "How have you been?", "ja": "最近どうですか？" },
+            { "zh": "还行 / 挺好的", "pinyin": "hái xíng / tǐng hǎo de", "en": "Not bad / pretty good", "ja": "まあまあ／けっこういいです" },
+            { "zh": "好久不见", "pinyin": "hǎo jiǔ bù jiàn", "en": "Long time no see", "ja": "お久しぶりです" },
+            { "zh": "晚安", "pinyin": "wǎn ān", "en": "Good night", "ja": "おやすみなさい", "note": "Only when someone is going to bed, often in a message.", "note_ja": "寝るときだけ。メッセージでよく使います。" }
+          ]
+        },
+        {
+          "title": "Thanks and the replies",
+          "title_ja": "お礼と返事",
+          "body": [
+            "谢谢 is used less often than \"thank you\" in English: close friends and family rarely say it for small things, and over-thanking can sound distant. With staff and strangers it is always welcome. The three standard replies are 不客气, 不用谢 and the very casual 没事."
+          ],
+          "body_ja": [
+            "谢谢 は英語の thank you ほど頻繁には使いません。親しい友人や家族は小さなことではあまり言わず、言いすぎるとよそよそしく聞こえることもあります。店員や知らない人には常に歓迎されます。返事の定番は 不客气、不用谢、そしてとてもくだけた 没事 の三つです。"
+          ],
+          "items": [
+            { "zh": "谢谢", "pinyin": "xiè xie", "en": "Thanks", "ja": "ありがとう" },
+            { "zh": "谢谢你", "pinyin": "xiè xie nǐ", "en": "Thank you", "ja": "ありがとうございます" },
+            { "zh": "多谢", "pinyin": "duō xiè", "en": "Many thanks", "ja": "どうもありがとう", "note": "A little warmer; common in messages.", "note_ja": "少し温かい言い方。メッセージでよく見ます。" },
+            { "zh": "麻烦你了", "pinyin": "má fan nǐ le", "en": "Sorry for the trouble (= thanks)", "ja": "お手数をおかけしました（＝ありがとう）", "note": "Thanks someone who did something for you.", "note_ja": "何かをしてくれた人へのお礼です。" },
+            { "zh": "不客气", "pinyin": "bù kè qi", "en": "You're welcome", "ja": "どういたしまして" },
+            { "zh": "不用谢", "pinyin": "bù yòng xiè", "en": "No need to thank me", "ja": "お礼には及びません" },
+            { "zh": "没事", "pinyin": "méi shì", "en": "No problem", "ja": "大丈夫、何でもないです", "note": "Casual reply to both thanks and apologies.", "note_ja": "お礼にも謝罪にも使えるくだけた返事です。" },
+            { "zh": "应该的", "pinyin": "yīng gāi de", "en": "It's the least I could do", "ja": "当然のことです", "note": "Modest reply when you helped someone.", "note_ja": "人を助けたときの控えめな返事。" }
+          ]
+        },
+        {
+          "title": "Sorry: 不好意思 or 对不起?",
+          "title_ja": "謝る：不好意思 と 对不起",
+          "body": [
+            "不好意思 covers the small stuff: squeezing past, being a few minutes late, interrupting, asking a favour. It is the \"excuse me / sorry\" you will use ten times a day. 对不起 is a real apology for a real fault; using it for bumping into someone sounds heavy. The usual reply to either is 没关系 or 没事."
+          ],
+          "body_ja": [
+            "不好意思 は小さなことに使います。人の前を通る、数分遅れる、話をさえぎる、頼みごとをする。一日に十回は使う「すみません」です。对不起 は本当の過失に対する本当の謝罪で、ぶつかった程度で使うと重すぎます。どちらへの返事も 没关系 か 没事 が普通です。"
+          ],
+          "items": [
+            { "zh": "不好意思", "pinyin": "bù hǎo yì si", "en": "Excuse me / sorry (light)", "ja": "すみません（軽い）" },
+            { "zh": "对不起", "pinyin": "duì bu qǐ", "en": "I'm sorry (real apology)", "ja": "ごめんなさい（本当の謝罪）" },
+            { "zh": "抱歉", "pinyin": "bào qiàn", "en": "Sorry (formal, written)", "ja": "申し訳ありません（改まった・書き言葉）" },
+            { "zh": "没关系", "pinyin": "méi guān xi", "en": "It's OK", "ja": "大丈夫です、気にしないで" },
+            { "zh": "没事儿", "pinyin": "méi shìr", "en": "No problem", "ja": "大丈夫、何でもないです" },
+            { "zh": "让你久等了", "pinyin": "ràng nǐ jiǔ děng le", "en": "Sorry to keep you waiting", "ja": "お待たせしました" },
+            { "zh": "打扰一下", "pinyin": "dǎ rǎo yī xià", "en": "Sorry to bother you", "ja": "ちょっとお邪魔します", "note": "Before interrupting someone who is busy.", "note_ja": "忙しい人に声をかける前に。" }
+          ]
+        },
+        {
+          "title": "Asking for things",
+          "title_ja": "お願いする",
+          "body": [
+            "Start with 请问 for a question and 麻烦你 for a favour; both soften anything that follows. 一下 after a verb (帮我一下, 看一下) makes the request small and quick. 可以吗？ at the end turns a statement into a polite ask."
+          ],
+          "body_ja": [
+            "質問は 请问、頼みごとは 麻烦你 から始めると、その後の言葉が柔らかくなります。動詞の後の 一下（帮我一下、看一下）は「ちょっと」という軽さを出します。文末の 可以吗？ は平叙文を丁寧なお願いに変えます。"
+          ],
+          "items": [
+            { "zh": "请问…", "pinyin": "qǐng wèn…", "en": "Excuse me, may I ask…", "ja": "すみません、お尋ねしますが…" },
+            { "zh": "麻烦你…", "pinyin": "má fan nǐ…", "en": "Could you please…", "ja": "お手数ですが…" },
+            { "zh": "帮我一下", "pinyin": "bāng wǒ yī xià", "en": "Give me a hand", "ja": "ちょっと手伝って" },
+            { "zh": "可以吗？", "pinyin": "kě yǐ ma?", "en": "Is that OK?", "ja": "いいですか？" },
+            { "zh": "能不能…？", "pinyin": "néng bu néng…?", "en": "Could you…?", "ja": "…できますか？" },
+            { "zh": "借过一下", "pinyin": "jiè guò yī xià", "en": "Let me through, please", "ja": "ちょっと通してください", "note": "On the metro or in a crowd.", "note_ja": "地下鉄や人混みで。" },
+            { "zh": "等一下", "pinyin": "děng yī xià", "en": "Hold on a moment", "ja": "ちょっと待って" }
+          ]
+        },
+        {
+          "title": "Yes, no and maybe",
+          "title_ja": "はい・いいえ・まあ",
+          "body": [
+            "Chinese has no single \"yes\" or \"no\": you echo the verb or use one of these short words. 对 confirms a fact, 行 and 可以 give permission, 好的 accepts a plan, 嗯 is the murmur that keeps a conversation going. 不行 is a firm no; 不用 politely declines an offer."
+          ],
+          "body_ja": [
+            "中国語には一語の「はい」「いいえ」がなく、動詞を繰り返すか、これらの短い言葉を使います。对 は事実の確認、行 と 可以 は許可、好的 は計画への同意、嗯 は会話を続ける相づちです。不行 はきっぱりした「だめ」、不用 は申し出を丁寧に断る言葉です。"
+          ],
+          "items": [
+            { "zh": "对", "pinyin": "duì", "en": "Right / yes (that's correct)", "ja": "そう、正しい" },
+            { "zh": "是的", "pinyin": "shì de", "en": "Yes (it is)", "ja": "はい、そうです" },
+            { "zh": "不是", "pinyin": "bù shì", "en": "No (it isn't)", "ja": "いいえ、違います" },
+            { "zh": "行", "pinyin": "xíng", "en": "OK, fine", "ja": "いいよ、大丈夫" },
+            { "zh": "不行", "pinyin": "bù xíng", "en": "No, that won't do", "ja": "だめです" },
+            { "zh": "可以", "pinyin": "kě yǐ", "en": "Sure, you may", "ja": "いいですよ" },
+            { "zh": "好的", "pinyin": "hǎo de", "en": "OK, got it", "ja": "はい、わかりました" },
+            { "zh": "嗯", "pinyin": "ǹg", "en": "Mm-hm", "ja": "うん" },
+            { "zh": "不用", "pinyin": "bù yòng", "en": "No need, thanks", "ja": "いいえ、けっこうです" },
+            { "zh": "随便", "pinyin": "suí biàn", "en": "Whatever you like", "ja": "何でもいいです" },
+            { "zh": "再说吧", "pinyin": "zài shuō ba", "en": "Let's see later (soft no)", "ja": "またあとで（やんわり断る）" }
+          ]
+        },
+        {
+          "title": "Feelings in a few words",
+          "title_ja": "気持ちを一言で",
+          "body": [
+            "好 + adjective (好累, 好饿) is the everyday \"so…\". 死了 after an adjective is a cheerful exaggeration, not a complaint about dying."
+          ],
+          "body_ja": [
+            "好＋形容詞（好累、好饿）が日常の「すごく…」です。形容詞の後の 死了 は明るい誇張で、本当に死にそうなわけではありません。"
+          ],
+          "items": [
+            { "zh": "太好了", "pinyin": "tài hǎo le", "en": "Great!", "ja": "やった、すばらしい" },
+            { "zh": "好累", "pinyin": "hǎo lèi", "en": "So tired", "ja": "すごく疲れた" },
+            { "zh": "好饿", "pinyin": "hǎo è", "en": "So hungry", "ja": "おなかすいた" },
+            { "zh": "有意思", "pinyin": "yǒu yì si", "en": "Interesting", "ja": "おもしろい" },
+            { "zh": "烦死了", "pinyin": "fán sǐ le", "en": "So annoying", "ja": "うっとうしい、いやになる" },
+            { "zh": "我很开心", "pinyin": "wǒ hěn kāi xīn", "en": "I'm happy", "ja": "うれしいです" },
+            { "zh": "没办法", "pinyin": "méi bàn fǎ", "en": "Nothing to be done", "ja": "しかたがない" }
+          ]
+        },
+        {
+          "title": "Phone and WeChat messages",
+          "title_ja": "電話と WeChat のメッセージ",
+          "body": [
+            "Chats are short. 在吗？ opens a conversation (\"you there?\"), and people answer 在 or just ask their question. 收到 confirms you got a message, 稍等 buys a minute, 回头聊 ends the chat without ceremony. On the phone people answer with 喂 (wéi, second tone in practice) rather than their name."
+          ],
+          "body_ja": [
+            "チャットは短いです。在吗？（いる？）で会話が始まり、相手は 在 と答えるか、そのまま用件を言います。收到 は受け取った合図、稍等 は少し時間をもらう言葉、回头聊 は形式ばらずにチャットを終える言葉です。電話に出るときは名前ではなく 喂（実際は第二声の wéi）と言います。"
+          ],
+          "items": [
+            { "zh": "在吗？", "pinyin": "zài ma?", "en": "You there?", "ja": "いる？" },
+            { "zh": "在", "pinyin": "zài", "en": "Here", "ja": "いるよ" },
+            { "zh": "收到", "pinyin": "shōu dào", "en": "Got it", "ja": "受け取りました、了解" },
+            { "zh": "稍等", "pinyin": "shāo děng", "en": "One moment", "ja": "少々お待ちください" },
+            { "zh": "马上", "pinyin": "mǎ shàng", "en": "Right away", "ja": "すぐに" },
+            { "zh": "回头聊", "pinyin": "huí tóu liáo", "en": "Talk later", "ja": "またあとで話そう" },
+            { "zh": "我到了", "pinyin": "wǒ dào le", "en": "I'm here (arrived)", "ja": "着きました" },
+            { "zh": "你在哪儿？", "pinyin": "nǐ zài nǎr?", "en": "Where are you?", "ja": "どこにいますか？" },
+            { "zh": "发我一下", "pinyin": "fā wǒ yī xià", "en": "Send it to me", "ja": "送ってください" },
+            { "zh": "喂？", "pinyin": "wèi?", "en": "Hello? (phone)", "ja": "もしもし？", "note": "Dictionary tone is 4th; on the phone everyone says wéi.", "note_ja": "辞書では第四声ですが、電話では皆 wéi と言います。" }
+          ]
+        },
+        {
+          "title": "Compliments and goodbyes",
+          "title_ja": "ほめ言葉と別れのあいさつ",
+          "body": [
+            "When someone praises your Chinese, the modest reply is 哪里哪里 or 还好, never a plain 谢谢 on its own; a 谢谢 after the modest phrase is fine. For goodbyes, 再见 is neutral, 拜拜 is friendly, and hosts and shopkeepers send you off with 慢走 (\"go slowly\") or 路上小心."
+          ],
+          "body_ja": [
+            "中国語をほめられたら、控えめに 哪里哪里 か 还好 と返します。谢谢 だけで受けるのは不自然ですが、控えめな言葉のあとに 谢谢 を足すのは問題ありません。別れのあいさつは 再见 が中立、拜拜 が親しげで、家の主人や店の人は 慢走（ゆっくり行ってね）や 路上小心 で送り出します。"
+          ],
+          "items": [
+            { "zh": "你中文说得真好", "pinyin": "nǐ zhōng wén shuō de zhēn hǎo", "en": "Your Chinese is really good", "ja": "中国語がとても上手ですね" },
+            { "zh": "哪里哪里", "pinyin": "nǎ lǐ nǎ lǐ", "en": "Oh, not at all", "ja": "いえいえ、とんでもない" },
+            { "zh": "还好", "pinyin": "hái hǎo", "en": "It's OK, so-so", "ja": "まあまあです" },
+            { "zh": "过奖了", "pinyin": "guò jiǎng le", "en": "You flatter me", "ja": "ほめすぎです" },
+            { "zh": "再见", "pinyin": "zài jiàn", "en": "Goodbye", "ja": "さようなら" },
+            { "zh": "拜拜", "pinyin": "bài bai", "en": "Bye-bye", "ja": "バイバイ" },
+            { "zh": "回头见", "pinyin": "huí tóu jiàn", "en": "See you later", "ja": "またあとで" },
+            { "zh": "明天见", "pinyin": "míng tiān jiàn", "en": "See you tomorrow", "ja": "また明日" },
+            { "zh": "慢走", "pinyin": "màn zǒu", "en": "Take care (said to the one leaving)", "ja": "お気をつけて（見送る側が言う）" },
+            { "zh": "路上小心", "pinyin": "lù shang xiǎo xīn", "en": "Safe trip", "ja": "道中お気をつけて" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "natural-speech",
+      "title": "How people really talk",
+      "title_ja": "実際の話し方",
+      "summary": "Erhua, sentence-final particles, fillers and reactions, 把 and 给 in speech, fast-speech tone changes, contractions, 您 vs 你, 二 vs 两, and 个 as the default measure word.",
+      "summary_ja": "儿化、文末の助詞、つなぎ言葉と相づち、話し言葉の 把 と 给、速い発話での声調変化、縮約形、您 と 你、二 と 两、万能の量詞 个。",
+      "minutes": 12,
+      "sections": [
+        {
+          "title": "儿化: the northern -r",
+          "title_ja": "儿化：北方の -r",
+          "body": [
+            "In Beijing and the north, many words end in a curled -r sound written 儿. It is not a separate syllable: 哪儿 is one syllable nǎr. Southern speakers and most textbooks say 哪里 instead, and both are understood everywhere. You do not need to produce erhua, but you must recognise it, because it changes how words sound: 一点 yì diǎn becomes 一点儿 yì diǎnr, and 玩 wán becomes 玩儿 wánr."
+          ],
+          "body_ja": [
+            "北京や北方では、多くの単語が 儿 と書く巻き舌の -r で終わります。独立した音節ではなく、哪儿 は nǎr の一音節です。南方の人やほとんどの教科書は代わりに 哪里 と言い、どちらもどこでも通じます。自分で儿化を発音する必要はありませんが、聞き取れることは必要です。一点 yì diǎn が 一点儿 yì diǎnr に、玩 wán が 玩儿 wánr に変わるからです。"
+          ],
+          "items": [
+            { "zh": "哪儿", "pinyin": "nǎr", "en": "where (= 哪里)", "ja": "どこ（＝哪里）" },
+            { "zh": "这儿 / 那儿", "pinyin": "zhèr / nàr", "en": "here / there", "ja": "ここ／そこ" },
+            { "zh": "一点儿", "pinyin": "yī diǎnr", "en": "a little", "ja": "少し" },
+            { "zh": "玩儿", "pinyin": "wánr", "en": "to play, hang out", "ja": "遊ぶ" },
+            { "zh": "没事儿", "pinyin": "méi shìr", "en": "no problem", "ja": "大丈夫" },
+            { "zh": "好玩儿", "pinyin": "hǎo wánr", "en": "fun", "ja": "おもしろい、楽しい" },
+            { "zh": "小孩儿", "pinyin": "xiǎo háir", "en": "small child", "ja": "子ども" }
+          ]
+        },
+        {
+          "title": "Sentence-final particles",
+          "title_ja": "文末の助詞",
+          "body": [
+            "A final particle changes the feel of the whole sentence. 吧 softens a suggestion or shows you are guessing; 呢 bounces a question back or asks \"and…?\"; 啊 adds warmth or surprise; 嘛 says \"obviously\"; 呗 is a shrug (\"just…, what else\"); 哦 acknowledges, mostly in chats. Learners who never use them sound like they are reading aloud."
+          ],
+          "body_ja": [
+            "文末の助詞は文全体の雰囲気を変えます。吧 は提案を和らげたり推測を示したりし、呢 は質問を相手に返したり「…は？」と尋ねたりします。啊 は温かさや驚き、嘛 は「当たり前でしょ」、呗 は肩をすくめる「…すればいいじゃない」、哦 は主にチャットでの「了解」です。これらをまったく使わない学習者は、音読しているように聞こえます。"
+          ],
+          "items": [
+            { "zh": "走吧", "pinyin": "zǒu ba", "en": "Let's go", "ja": "行きましょう", "note": "吧: suggestion.", "note_ja": "吧：提案。" },
+            { "zh": "你是日本人吧？", "pinyin": "nǐ shì rì běn rén ba?", "en": "You're Japanese, right?", "ja": "日本人ですよね？", "note": "吧: I think so, confirm.", "note_ja": "吧：たぶんそうでしょう、という確認。" },
+            { "zh": "我很好，你呢？", "pinyin": "wǒ hěn hǎo, nǐ ne?", "en": "I'm fine, and you?", "ja": "元気です、あなたは？" },
+            { "zh": "我的手机呢？", "pinyin": "wǒ de shǒu jī ne?", "en": "Where's my phone?", "ja": "私の携帯は？" },
+            { "zh": "好啊", "pinyin": "hǎo a", "en": "Sure!", "ja": "いいよ！" },
+            { "zh": "是啊", "pinyin": "shì a", "en": "Yeah, that's right", "ja": "そうだよね" },
+            { "zh": "我不知道嘛", "pinyin": "wǒ bù zhī dào ma", "en": "I didn't know, obviously", "ja": "知らなかったんだもん", "note": "嘛: \"it's obvious\", slightly childish.", "note_ja": "嘛：「当然でしょ」。少し甘えた響き。" },
+            { "zh": "不想去就别去呗", "pinyin": "bù xiǎng qù jiù bié qù bei", "en": "If you don't want to go, just don't", "ja": "行きたくないなら行かなければいいじゃない" },
+            { "zh": "哦，好的", "pinyin": "ò, hǎo de", "en": "Oh, OK", "ja": "ああ、わかった" }
+          ]
+        },
+        {
+          "title": "Fillers and reactions",
+          "title_ja": "つなぎ言葉と相づち",
+          "body": [
+            "Real speech is full of 那个, 就是, 然后 and 这个 while the speaker thinks. 那个 (nèi ge in Beijing) is the all-purpose \"um\". Doubling a word (对对对, 好好好, 行行行) shows enthusiastic agreement. 是吧？ fishes for agreement, 真的假的？ is \"seriously?\", and 哎呀 covers everything from mild annoyance to delight."
+          ],
+          "body_ja": [
+            "実際の会話は、話し手が考えている間の 那个、就是、然后、这个 であふれています。那个（北京では nèi ge）は万能の「えーと」です。語を重ねる（对对对、好好好、行行行）と熱心な同意になります。是吧？ は同意を求め、真的假的？ は「マジで？」、哎呀 は軽いいらだちから喜びまで何でも表します。"
+          ],
+          "items": [
+            { "zh": "那个…", "pinyin": "nà ge…", "en": "um…", "ja": "えーと…", "note": "Usually said nèi ge in the north.", "note_ja": "北方では普通 nèi ge と言います。" },
+            { "zh": "就是", "pinyin": "jiù shì", "en": "like, I mean / exactly", "ja": "つまり／そうそう" },
+            { "zh": "然后", "pinyin": "rán hòu", "en": "and then", "ja": "それから" },
+            { "zh": "对对对", "pinyin": "duì duì duì", "en": "Yes yes yes", "ja": "そうそうそう" },
+            { "zh": "是吧？", "pinyin": "shì ba?", "en": "Right?", "ja": "でしょ？" },
+            { "zh": "真的假的？", "pinyin": "zhēn de jiǎ de?", "en": "Seriously?", "ja": "ほんとに？" },
+            { "zh": "哎呀", "pinyin": "āi yā", "en": "Oh no / oh my", "ja": "あらまあ、しまった" },
+            { "zh": "哇", "pinyin": "wā", "en": "Wow", "ja": "わあ" },
+            { "zh": "行行行", "pinyin": "xíng xíng xíng", "en": "Fine, fine, fine", "ja": "はいはい、わかった" },
+            { "zh": "不会吧", "pinyin": "bù huì ba", "en": "No way", "ja": "まさか" }
+          ]
+        },
+        {
+          "title": "把 and 给 in speech",
+          "title_ja": "話し言葉の 把 と 给",
+          "body": [
+            "把 moves the object before the verb and is everywhere in instructions: 把门关上 (close the door), 把这个给我 (give me this). Textbooks make it look hard; in practice it just means \"take X and do something to it\". 给 means \"give\", but in speech it also marks who benefits (给我看看, show me) and even softens a command: 给我站住！ (stop right there!)."
+          ],
+          "body_ja": [
+            "把 は目的語を動詞の前に出し、指示の場面にあふれています。把门关上（ドアを閉めて）、把这个给我（これをちょうだい）。教科書では難しく見えますが、実際は「Xを取って何かをする」という意味だけです。给 は「あげる」ですが、話し言葉では誰のためかを示し（给我看看、見せて）、命令を強めることもあります（给我站住！ そこで止まれ！）。"
+          ],
+          "items": [
+            { "zh": "把门关上", "pinyin": "bǎ mén guān shàng", "en": "Close the door", "ja": "ドアを閉めて" },
+            { "zh": "把这个给我", "pinyin": "bǎ zhè ge gěi wǒ", "en": "Give me this", "ja": "これをください" },
+            { "zh": "把手机放下", "pinyin": "bǎ shǒu jī fàng xià", "en": "Put the phone down", "ja": "携帯を置いて" },
+            { "zh": "给我看看", "pinyin": "gěi wǒ kàn kan", "en": "Let me see", "ja": "見せて" },
+            { "zh": "我给你发", "pinyin": "wǒ gěi nǐ fā", "en": "I'll send it to you", "ja": "送ってあげる" },
+            { "zh": "给你", "pinyin": "gěi nǐ", "en": "Here you are", "ja": "はい、どうぞ", "note": "When handing something over.", "note_ja": "物を手渡すときに。" }
+          ]
+        },
+        {
+          "title": "Shortcuts and contractions",
+          "title_ja": "省略と縮約",
+          "body": [
+            "Spoken Chinese shortens a lot. 不要 becomes 别 (don't), 什么 becomes 啥 and 怎么 becomes 咋 in the north, 不用 becomes 甭 in Beijing. Online, 这样 is written 酱 and 这样子 is 酱紫 because that is how it sounds when said fast. 这个 and 那个 come out as zhèi ge and nèi ge. Recognise these; use 别 freely and the rest only if the people around you do."
+          ],
+          "body_ja": [
+            "話し言葉の中国語はよく縮まります。不要 は 别（…しないで）、北方では 什么 が 啥、怎么 が 咋、北京では 不用 が 甭 になります。ネットでは 这样 を 酱、这样子 を 酱紫 と書きますが、速く言うとそう聞こえるからです。这个 と 那个 は zhèi ge、nèi ge と発音されます。これらは聞き取れれば十分で、别 は自由に使い、ほかは周りの人が使う場合だけ使いましょう。"
+          ],
+          "items": [
+            { "zh": "不要→别", "pinyin": "bù yào→bié", "en": "don't", "ja": "…しないで", "note": "别动 (don't move), 别客气 (don't be polite).", "note_ja": "别动（動かないで）、别客气（遠慮しないで）。" },
+            { "zh": "什么→啥", "pinyin": "shén me→shá", "en": "what (northern, casual)", "ja": "何（北方・くだけた）" },
+            { "zh": "怎么→咋", "pinyin": "zěn me→zǎ", "en": "how (northern, casual)", "ja": "どう（北方・くだけた）" },
+            { "zh": "不用→甭", "pinyin": "bù yòng→béng", "en": "no need (Beijing)", "ja": "必要ない（北京）" },
+            { "zh": "这样→酱", "pinyin": "zhè yàng→jiàng", "en": "like this (online spelling)", "ja": "こう、このように（ネット表記）" },
+            { "zh": "这个", "pinyin": "zhè ge", "en": "this (said zhèi ge)", "ja": "これ（発音は zhèi ge）" },
+            { "zh": "干什么→干嘛", "pinyin": "gàn shén me→gàn má", "en": "what for / what are you doing", "ja": "何するの、なぜ" }
+          ]
+        },
+        {
+          "title": "Tone changes in fast speech",
+          "title_ja": "速い発話での声調変化",
+          "body": [
+            "This app writes dictionary tones, but you will hear the changed ones. Two third tones in a row: the first becomes second (你好 sounds like ní hǎo). 不 becomes bú before a fourth tone (不是 bú shì, 不要 bú yào). 一 becomes yí before a fourth tone (一个 yí ge) and yì before the others (一天 yì tiān); it stays yī when counting. In long sentences many syllables lose their tone altogether and only the stressed ones stand out: listen for the shape of the phrase, not each syllable."
+          ],
+          "body_ja": [
+            "このアプリは辞書の声調を書きますが、実際には変化した声調が聞こえます。第三声が二つ続くと最初が第二声になります（你好 は ní hǎo のように聞こえます）。不 は第四声の前で bú（不是 bú shì、不要 bú yào）。一 は第四声の前で yí（一个 yí ge）、それ以外の前で yì（一天 yì tiān）、数を数えるときは yī のままです。長い文では多くの音節が声調を失い、強調された音節だけが目立ちます。一音節ずつではなく、フレーズ全体の形を聞き取りましょう。"
+          ],
+          "items": [
+            { "zh": "你好", "pinyin": "nǐ hǎo", "en": "sounds like ní hǎo", "ja": "ní hǎo のように聞こえる" },
+            { "zh": "不是", "pinyin": "bù shì", "en": "sounds like bú shì", "ja": "bú shì のように聞こえる" },
+            { "zh": "一个", "pinyin": "yī gè", "en": "sounds like yí ge", "ja": "yí ge のように聞こえる" },
+            { "zh": "一天", "pinyin": "yī tiān", "en": "sounds like yì tiān", "ja": "yì tiān のように聞こえる" },
+            { "zh": "我想买一点儿", "pinyin": "wǒ xiǎng mǎi yī diǎnr", "en": "three third tones: wó xiáng mǎi yì diǎnr", "ja": "第三声が三つ：wó xiáng mǎi yì diǎnr" }
+          ]
+        },
+        {
+          "title": "您 vs 你, 二 vs 两, and 个 for everything",
+          "title_ja": "您 と 你、二 と 两、万能の 个",
+          "body": [
+            "您 is for customers, elders, teachers and strangers in formal settings; in Beijing it is used a lot, in the south much less. Friends and colleagues of your age say 你, and switching to 您 with them sounds cold.",
+            "二 is the digit and 两 is \"two of something\": 二 in numbers (十二, 二十, 第二, 二楼), 两 before a measure word (两个, 两杯, 两点, 两百). Say 两百 for 200 but 二十 for 20.",
+            "When you do not know the measure word, use 个. It is wrong for a few nouns (一本书, 一杯茶), but everyone will understand you, and native speakers say 一个 for many things that formally take another word."
+          ],
+          "body_ja": [
+            "您 は客、年長者、先生、改まった場面の知らない人に使います。北京ではよく使われ、南方ではずっと少ないです。同年代の友人や同僚には 你 を使い、彼らに 您 を使うと冷たく聞こえます。",
+            "二 は数字そのもの、两 は「二つの何か」です。数の中では 二（十二、二十、第二、二楼）、量詞の前では 两（两个、两杯、两点、两百）。200 は 两百、20 は 二十 と言います。",
+            "量詞がわからないときは 个 を使いましょう。一部の名詞には誤り（一本书、一杯茶）ですが、必ず通じますし、母語話者も本来別の量詞を取る多くの物に 一个 と言います。"
+          ],
+          "items": [
+            { "zh": "您贵姓？", "pinyin": "nín guì xìng?", "en": "May I ask your surname? (polite)", "ja": "お名前（姓）は？（丁寧）" },
+            { "zh": "你叫什么？", "pinyin": "nǐ jiào shén me?", "en": "What's your name? (casual)", "ja": "名前は？（くだけた）" },
+            { "zh": "两个人", "pinyin": "liǎng gè rén", "en": "two people", "ja": "二人" },
+            { "zh": "二十二", "pinyin": "èr shí èr", "en": "twenty-two", "ja": "二十二" },
+            { "zh": "两点半", "pinyin": "liǎng diǎn bàn", "en": "half past two", "ja": "二時半" },
+            { "zh": "两百块", "pinyin": "liǎng bǎi kuài", "en": "two hundred yuan", "ja": "二百元" },
+            { "zh": "一个问题", "pinyin": "yī gè wèn tí", "en": "a question", "ja": "一つの質問" },
+            { "zh": "一个朋友", "pinyin": "yī gè péng you", "en": "a friend", "ja": "一人の友だち" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "staff",
+      "title": "What staff say to you",
+      "title_ja": "店員やスタッフが言うこと",
+      "summary": "The lines you will hear in shops, restaurants, taxis and Didi, hotels, banks and phone shops, and from couriers, with the standard answers.",
+      "summary_ja": "店、レストラン、タクシーと Didi、ホテル、銀行と携帯ショップ、宅配で聞くセリフと、定番の答え方。",
+      "minutes": 12,
+      "sections": [
+        {
+          "title": "Shops and convenience stores",
+          "title_ja": "店とコンビニ",
+          "body": [
+            "Most shop talk is about paying. Almost everything is paid by scanning a QR code with WeChat or Alipay; the cashier will ask which one and may scan your phone's code instead. If you pay cash, say 现金 and expect a short pause. Bags cost money, so 要袋子吗 needs a real answer."
+          ],
+          "body_ja": [
+            "店での会話はほとんど支払いに関するものです。ほぼすべてが WeChat か Alipay の QR コードで支払われ、レジの人はどちらか尋ね、こちらの携帯のコードを読み取ることもあります。現金なら 现金 と言い、少し待たされることを覚悟しましょう。袋は有料なので、要袋子吗 にはきちんと答える必要があります。"
+          ],
+          "items": [
+            { "zh": "欢迎光临", "pinyin": "huān yíng guāng lín", "en": "Welcome", "ja": "いらっしゃいませ", "note": "No reply needed.", "note_ja": "返事は不要です。" },
+            { "zh": "需要帮忙吗？", "pinyin": "xū yào bāng máng ma?", "en": "Need any help?", "ja": "何かお探しですか？", "note": "Answer: 我先看看 (just looking) or 我找…", "note_ja": "答え：我先看看（見ているだけ）、我找…（…を探しています）" },
+            { "zh": "我先看看", "pinyin": "wǒ xiān kàn kan", "en": "Just looking, thanks", "ja": "ちょっと見ているだけです" },
+            { "zh": "有会员吗？", "pinyin": "yǒu huì yuán ma?", "en": "Do you have a membership?", "ja": "会員カードはありますか？", "note": "Answer: 没有.", "note_ja": "答え：没有。" },
+            { "zh": "要袋子吗？", "pinyin": "yào dài zi ma?", "en": "Do you want a bag?", "ja": "袋はいりますか？", "note": "Answer: 要一个 / 不要.", "note_ja": "答え：要一个／不要。" },
+            { "zh": "一共三十五", "pinyin": "yī gòng sān shí wǔ", "en": "That's 35 in total", "ja": "合計35元です" },
+            { "zh": "微信还是支付宝？", "pinyin": "wēi xìn hái shì zhī fù bǎo?", "en": "WeChat or Alipay?", "ja": "WeChat ですか、Alipay ですか？", "note": "Answer with one of them, or 现金.", "note_ja": "どちらかを答えるか、现金 と言います。" },
+            { "zh": "扫码", "pinyin": "sǎo mǎ", "en": "Scan the code", "ja": "コードをスキャンしてください" },
+            { "zh": "我扫你还是你扫我？", "pinyin": "wǒ sǎo nǐ hái shì nǐ sǎo wǒ?", "en": "Do I scan you or you scan me?", "ja": "私が読み取りますか、そちらが読み取りますか？" },
+            { "zh": "现金可以吗？", "pinyin": "xiàn jīn kě yǐ ma?", "en": "Is cash OK?", "ja": "現金でいいですか？" },
+            { "zh": "要小票吗？", "pinyin": "yào xiǎo piào ma?", "en": "Do you want the receipt?", "ja": "レシートはいりますか？" }
+          ]
+        },
+        {
+          "title": "Restaurants",
+          "title_ja": "レストラン",
+          "body": [
+            "You will be asked how many people, then pointed to a table and told to order by scanning the QR code stuck to it. If there is no code, call 服务员 and point at the menu. Spice is a real question: 微辣 (mild) is safe. At the end, 买单 or 结账 brings the bill; in most places you pay at the table through the same QR code."
+          ],
+          "body_ja": [
+            "まず何人かを聞かれ、席に案内され、テーブルに貼られた QR コードで注文するよう言われます。コードがなければ 服务员 と呼んでメニューを指さしましょう。辛さは本当に聞かれるので、微辣（控えめ）が無難です。最後は 买单 か 结账 で会計になります。多くの店では同じ QR コードでテーブルで支払います。"
+          ],
+          "items": [
+            { "zh": "几位？", "pinyin": "jǐ wèi?", "en": "How many people?", "ja": "何名様ですか？", "note": "Answer: 两位 / 一个人.", "note_ja": "答え：两位／一个人。" },
+            { "zh": "这边请", "pinyin": "zhè biān qǐng", "en": "This way, please", "ja": "こちらへどうぞ" },
+            { "zh": "扫码点餐", "pinyin": "sǎo mǎ diǎn cān", "en": "Scan the code to order", "ja": "コードを読み取って注文してください" },
+            { "zh": "有菜单吗？", "pinyin": "yǒu cài dān ma?", "en": "Is there a (paper) menu?", "ja": "（紙の）メニューはありますか？" },
+            { "zh": "要加辣吗？", "pinyin": "yào jiā là ma?", "en": "Do you want it spicy?", "ja": "辛くしますか？", "note": "Answer: 微辣 / 不要辣.", "note_ja": "答え：微辣／不要辣。" },
+            { "zh": "有什么忌口吗？", "pinyin": "yǒu shén me jì kǒu ma?", "en": "Anything you don't eat?", "ja": "食べられないものはありますか？", "note": "Answer: 没有 / 我不吃… ", "note_ja": "答え：没有／我不吃…" },
+            { "zh": "要米饭吗？", "pinyin": "yào mǐ fàn ma?", "en": "Do you want rice?", "ja": "ご飯はいりますか？" },
+            { "zh": "还要别的吗？", "pinyin": "hái yào bié de ma?", "en": "Anything else?", "ja": "ほかにご注文は？", "note": "Answer: 先这些 (that's all for now).", "note_ja": "答え：先这些（とりあえず以上で）。" },
+            { "zh": "先这些", "pinyin": "xiān zhè xiē", "en": "That's all for now", "ja": "とりあえず以上です" },
+            { "zh": "打包吗？", "pinyin": "dǎ bāo ma?", "en": "Take the rest away?", "ja": "持ち帰りますか？", "note": "Answer: 打包 / 不用.", "note_ja": "答え：打包／不用。" },
+            { "zh": "买单", "pinyin": "mǎi dān", "en": "The bill, please", "ja": "お会計をお願いします" },
+            { "zh": "服务员！", "pinyin": "fú wù yuán!", "en": "Waiter!", "ja": "すみません！（店員を呼ぶ）", "note": "Normal and not rude.", "note_ja": "普通の呼び方で失礼ではありません。" }
+          ]
+        },
+        {
+          "title": "Taxi and Didi",
+          "title_ja": "タクシーと Didi",
+          "body": [
+            "With Didi the driver already knows where you are going, so the first question is the last digits of your phone number (尾号), to check you are the right passenger. Have the four digits ready in Chinese. In a street taxi, say the place name and show the address in characters."
+          ],
+          "body_ja": [
+            "Didi では運転手がすでに行き先を知っているので、最初の質問は電話番号の下4桁（尾号）です。正しい乗客かを確認するためなので、4桁を中国語で言えるようにしておきましょう。流しのタクシーでは地名を言い、漢字で住所を見せます。"
+          ],
+          "items": [
+            { "zh": "去哪儿？", "pinyin": "qù nǎr?", "en": "Where to?", "ja": "どちらまで？" },
+            { "zh": "尾号多少？", "pinyin": "wěi hào duō shao?", "en": "Last digits of your number?", "ja": "電話番号の下の数字は？", "note": "Answer with the last four digits of your phone number.", "note_ja": "電話番号の下4桁を答えます。" },
+            { "zh": "系好安全带", "pinyin": "jì hǎo ān quán dài", "en": "Fasten your seat belt", "ja": "シートベルトを締めてください" },
+            { "zh": "走哪条路？", "pinyin": "zǒu nǎ tiáo lù?", "en": "Which route?", "ja": "どの道で行きますか？", "note": "Answer: 你看着走 (whatever you think).", "note_ja": "答え：你看着走（お任せします）。" },
+            { "zh": "前面路口停", "pinyin": "qián miàn lù kǒu tíng", "en": "Stop at the next corner", "ja": "次の交差点で止めてください" },
+            { "zh": "到了", "pinyin": "dào le", "en": "We're here", "ja": "着きました" },
+            { "zh": "这里停可以吗？", "pinyin": "zhè lǐ tíng kě yǐ ma?", "en": "Can you stop here?", "ja": "ここで止まれますか？" }
+          ]
+        },
+        {
+          "title": "Hotel",
+          "title_ja": "ホテル",
+          "body": [
+            "Check-in needs your passport (hotels register foreign guests with the police) and usually a deposit, returned at check-out. Breakfast and check-out time are the other two questions."
+          ],
+          "body_ja": [
+            "チェックインにはパスポートが必要で（ホテルは外国人宿泊者を警察に登録します）、通常はデポジットも預け、チェックアウト時に返金されます。ほかに聞かれるのは朝食とチェックアウト時間です。"
+          ],
+          "items": [
+            { "zh": "请出示护照", "pinyin": "qǐng chū shì hù zhào", "en": "Your passport, please", "ja": "パスポートをご提示ください" },
+            { "zh": "要交押金", "pinyin": "yào jiāo yā jīn", "en": "There's a deposit", "ja": "デポジットが必要です", "note": "Ask: 退房的时候退吗？ (refunded at check-out?)", "note_ja": "質問：退房的时候退吗？（チェックアウト時に返金されますか）" },
+            { "zh": "几点退房？", "pinyin": "jǐ diǎn tuì fáng?", "en": "What time is check-out?", "ja": "チェックアウトは何時ですか？" },
+            { "zh": "十二点退房", "pinyin": "shí èr diǎn tuì fáng", "en": "Check-out is at twelve", "ja": "チェックアウトは12時です" },
+            { "zh": "含早餐吗？", "pinyin": "hán zǎo cān ma?", "en": "Is breakfast included?", "ja": "朝食は含まれていますか？" },
+            { "zh": "房卡", "pinyin": "fáng kǎ", "en": "room key card", "ja": "ルームキー" },
+            { "zh": "无线网密码是多少？", "pinyin": "wú xiàn wǎng mì mǎ shì duō shao?", "en": "What's the Wi-Fi password?", "ja": "Wi-Fi のパスワードは？", "note": "People also just say WiFi密码.", "note_ja": "WiFi密码 とそのまま言う人も多いです。" }
+          ]
+        },
+        {
+          "title": "Bank, SIM card and forms",
+          "title_ja": "銀行、SIM カード、手続き",
+          "body": [
+            "Anything official starts with ID: 身份证 for Chinese citizens, 护照 for you. You will be asked to sign (签字) and sometimes to take a photo. Phone shops ask whether you want a monthly plan (套餐) and may need your passport scanned."
+          ],
+          "body_ja": [
+            "公的な手続きは身分証から始まります。中国人は 身份证、外国人は 护照 です。署名（签字）を求められ、写真を撮られることもあります。携帯ショップでは月額プラン（套餐）にするか聞かれ、パスポートのスキャンが必要なこともあります。"
+          ],
+          "items": [
+            { "zh": "身份证或者护照", "pinyin": "shēn fèn zhèng huò zhě hù zhào", "en": "ID card or passport", "ja": "身分証かパスポート" },
+            { "zh": "请在这里签字", "pinyin": "qǐng zài zhè lǐ qiān zì", "en": "Please sign here", "ja": "ここにサインしてください" },
+            { "zh": "请输入密码", "pinyin": "qǐng shū rù mì mǎ", "en": "Please enter your PIN", "ja": "暗証番号を入力してください" },
+            { "zh": "要什么套餐？", "pinyin": "yào shén me tào cān?", "en": "Which plan do you want?", "ja": "どのプランにしますか？" },
+            { "zh": "请取号", "pinyin": "qǐng qǔ hào", "en": "Please take a number", "ja": "番号札をお取りください" },
+            { "zh": "请到三号窗口", "pinyin": "qǐng dào sān hào chuāng kǒu", "en": "Please go to counter 3", "ja": "3番窓口へどうぞ" }
+          ]
+        },
+        {
+          "title": "Deliveries and couriers",
+          "title_ja": "宅配と配達員",
+          "body": [
+            "Parcels usually go to a locker or a pickup point, and you get a text with a code (取件码). Food delivery riders call when they arrive and ask where to leave it. 放门口 (leave it at the door) solves most of these calls."
+          ],
+          "body_ja": [
+            "荷物は通常ロッカーか受取所に届き、SMS で受取コード（取件码）が送られます。フードデリバリーの配達員は到着すると電話し、どこに置くか尋ねます。放门口（ドアの前に置いて）でほとんどの電話は解決します。"
+          ],
+          "items": [
+            { "zh": "快递到了", "pinyin": "kuài dì dào le", "en": "Your parcel has arrived", "ja": "荷物が届きました" },
+            { "zh": "取件码是多少？", "pinyin": "qǔ jiàn mǎ shì duō shao?", "en": "What's the pickup code?", "ja": "受取コードは何番ですか？" },
+            { "zh": "你的外卖到了", "pinyin": "nǐ de wài mài dào le", "en": "Your food delivery is here", "ja": "出前が届きました" },
+            { "zh": "放哪儿？", "pinyin": "fàng nǎr?", "en": "Where should I leave it?", "ja": "どこに置きますか？", "note": "Answer: 放门口 / 放前台.", "note_ja": "答え：放门口／放前台。" },
+            { "zh": "放门口就行", "pinyin": "fàng mén kǒu jiù xíng", "en": "Just leave it at the door", "ja": "ドアの前に置いてくれればいいです" },
+            { "zh": "麻烦给个好评", "pinyin": "má fan gěi gè hǎo píng", "en": "Please leave a good review", "ja": "よい評価をお願いします" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "signs",
+      "title": "Signs, menus and labels",
+      "title_ja": "看板、メニュー、ラベル",
+      "summary": "The characters on doors, stations, menus and price tags. Read them as pictures first; the pinyin is there for when you want to say them.",
+      "summary_ja": "ドア、駅、メニュー、値札にある文字。まずは絵として読み、言いたいときのためにピンインがあります。",
+      "minutes": 10,
+      "sections": [
+        {
+          "title": "Doors and buildings",
+          "title_ja": "ドアと建物",
+          "body": [
+            "You will see these every day. 推 and 拉 on doors, 入口 and 出口 everywhere, 营业中 on a shop that is open."
+          ],
+          "body_ja": [
+            "毎日目にするものです。ドアの 推 と 拉、どこにでもある 入口 と 出口、開いている店の 营业中。"
+          ],
+          "style": "signs",
+          "items": [
+            { "zh": "入口", "pinyin": "rù kǒu", "en": "entrance", "ja": "入口" },
+            { "zh": "出口", "pinyin": "chū kǒu", "en": "exit", "ja": "出口" },
+            { "zh": "推", "pinyin": "tuī", "en": "push", "ja": "押す" },
+            { "zh": "拉", "pinyin": "lā", "en": "pull", "ja": "引く" },
+            { "zh": "营业中", "pinyin": "yíng yè zhōng", "en": "open", "ja": "営業中" },
+            { "zh": "休息中", "pinyin": "xiū xi zhōng", "en": "closed", "ja": "休憩中・閉店中" },
+            { "zh": "禁止吸烟", "pinyin": "jìn zhǐ xī yān", "en": "no smoking", "ja": "禁煙" },
+            { "zh": "小心地滑", "pinyin": "xiǎo xīn dì huá", "en": "slippery floor", "ja": "足元注意（滑ります）" },
+            { "zh": "请勿触摸", "pinyin": "qǐng wù chù mō", "en": "do not touch", "ja": "お手を触れないでください" },
+            { "zh": "洗手间", "pinyin": "xǐ shǒu jiān", "en": "toilets", "ja": "お手洗い" },
+            { "zh": "男", "pinyin": "nán", "en": "men", "ja": "男性" },
+            { "zh": "女", "pinyin": "nǚ", "en": "women", "ja": "女性" },
+            { "zh": "楼梯", "pinyin": "lóu tī", "en": "stairs", "ja": "階段" },
+            { "zh": "电梯", "pinyin": "diàn tī", "en": "lift / elevator", "ja": "エレベーター" },
+            { "zh": "安全出口", "pinyin": "ān quán chū kǒu", "en": "emergency exit", "ja": "非常口" },
+            { "zh": "服务台", "pinyin": "fú wù tái", "en": "information desk", "ja": "サービスカウンター" },
+            { "zh": "收银台", "pinyin": "shōu yín tái", "en": "checkout", "ja": "レジ" },
+            { "zh": "请勿入内", "pinyin": "qǐng wù rù nèi", "en": "no entry", "ja": "立入禁止" }
+          ]
+        },
+        {
+          "title": "Transport",
+          "title_ja": "交通",
+          "body": [
+            "Metro signs are bilingual in big cities, but the small ones (which exit, which line, where to transfer) often are not. Bags go through 安检 at every metro entrance."
+          ],
+          "body_ja": [
+            "大都市の地下鉄の案内は二か国語ですが、小さな表示（どの出口、何号線、乗り換え場所）は中国語だけのことが多いです。地下鉄の入口では毎回荷物が 安检 を通ります。"
+          ],
+          "style": "signs",
+          "items": [
+            { "zh": "地铁", "pinyin": "dì tiě", "en": "metro", "ja": "地下鉄" },
+            { "zh": "站", "pinyin": "zhàn", "en": "station, stop", "ja": "駅、停留所" },
+            { "zh": "检票口", "pinyin": "jiǎn piào kǒu", "en": "ticket gate", "ja": "改札口" },
+            { "zh": "出站", "pinyin": "chū zhàn", "en": "exit the station", "ja": "出口（駅の外へ）" },
+            { "zh": "安检", "pinyin": "ān jiǎn", "en": "security check", "ja": "手荷物検査" },
+            { "zh": "候车室", "pinyin": "hòu chē shì", "en": "waiting room", "ja": "待合室" },
+            { "zh": "一号线", "pinyin": "yī hào xiàn", "en": "Line 1", "ja": "1号線" },
+            { "zh": "换乘", "pinyin": "huàn chéng", "en": "transfer", "ja": "乗り換え" },
+            { "zh": "出租车上客点", "pinyin": "chū zū chē shàng kè diǎn", "en": "taxi pickup point", "ja": "タクシー乗り場" },
+            { "zh": "售票处", "pinyin": "shòu piào chù", "en": "ticket office", "ja": "切符売り場" },
+            { "zh": "终点站", "pinyin": "zhōng diǎn zhàn", "en": "last stop", "ja": "終点" },
+            { "zh": "请勿倚靠", "pinyin": "qǐng wù yǐ kào", "en": "do not lean on the doors", "ja": "ドアに寄りかからないでください" }
+          ]
+        },
+        {
+          "title": "Menus: dishes and ingredients",
+          "title_ja": "メニュー：料理と食材",
+          "body": [
+            "A menu is mostly ingredient + cooking method. Learn the meats, the staples and 炒 (stir-fried), 汤 (soup) and 素 (vegetarian), and you can decode most of it."
+          ],
+          "body_ja": [
+            "メニューはほぼ「食材＋調理法」です。肉の種類、主食、炒（炒める）、汤（スープ）、素（ベジタリアン）を覚えれば、大部分が読めます。"
+          ],
+          "style": "signs",
+          "items": [
+            { "zh": "米饭", "pinyin": "mǐ fàn", "en": "rice", "ja": "ご飯" },
+            { "zh": "面条", "pinyin": "miàn tiáo", "en": "noodles", "ja": "麺" },
+            { "zh": "饺子", "pinyin": "jiǎo zi", "en": "dumplings", "ja": "餃子（水餃子）" },
+            { "zh": "包子", "pinyin": "bāo zi", "en": "steamed buns", "ja": "中華まん" },
+            { "zh": "炒", "pinyin": "chǎo", "en": "stir-fried", "ja": "炒め" },
+            { "zh": "汤", "pinyin": "tāng", "en": "soup", "ja": "スープ" },
+            { "zh": "素", "pinyin": "sù", "en": "vegetarian", "ja": "精進・野菜のみ" },
+            { "zh": "牛肉", "pinyin": "niú ròu", "en": "beef", "ja": "牛肉" },
+            { "zh": "猪肉", "pinyin": "zhū ròu", "en": "pork", "ja": "豚肉" },
+            { "zh": "鸡肉", "pinyin": "jī ròu", "en": "chicken", "ja": "鶏肉" },
+            { "zh": "羊肉", "pinyin": "yáng ròu", "en": "lamb", "ja": "羊肉" },
+            { "zh": "鱼", "pinyin": "yú", "en": "fish", "ja": "魚" },
+            { "zh": "豆腐", "pinyin": "dòu fu", "en": "tofu", "ja": "豆腐" },
+            { "zh": "鸡蛋", "pinyin": "jī dàn", "en": "egg", "ja": "卵" },
+            { "zh": "青菜", "pinyin": "qīng cài", "en": "green vegetables", "ja": "青菜" }
+          ]
+        },
+        {
+          "title": "Menus: spice, drinks and ordering",
+          "title_ja": "メニュー：辛さ、飲み物、注文",
+          "body": [
+            "Spice levels are printed on many menus. Bubble-tea and coffee shops ask about ice and sugar; 去冰 (no ice) and 半糖 (half sugar) are the two phrases that get you what you want."
+          ],
+          "body_ja": [
+            "辛さの段階は多くのメニューに印刷されています。タピオカ店やカフェでは氷と砂糖について聞かれます。去冰（氷なし）と 半糖（砂糖半分）の二つを覚えれば望みどおりになります。"
+          ],
+          "style": "signs",
+          "items": [
+            { "zh": "辣", "pinyin": "là", "en": "spicy", "ja": "辛い" },
+            { "zh": "不辣", "pinyin": "bù là", "en": "not spicy", "ja": "辛くない" },
+            { "zh": "微辣", "pinyin": "wēi là", "en": "mild", "ja": "ピリ辛" },
+            { "zh": "中辣", "pinyin": "zhōng là", "en": "medium", "ja": "中辛" },
+            { "zh": "特辣", "pinyin": "tè là", "en": "extra hot", "ja": "激辛" },
+            { "zh": "茶", "pinyin": "chá", "en": "tea", "ja": "お茶" },
+            { "zh": "热", "pinyin": "rè", "en": "hot", "ja": "ホット" },
+            { "zh": "冰", "pinyin": "bīng", "en": "iced", "ja": "アイス" },
+            { "zh": "加冰", "pinyin": "jiā bīng", "en": "with ice", "ja": "氷入り" },
+            { "zh": "去冰", "pinyin": "qù bīng", "en": "no ice", "ja": "氷なし" },
+            { "zh": "半糖", "pinyin": "bàn táng", "en": "half sugar", "ja": "砂糖半分" },
+            { "zh": "少糖", "pinyin": "shǎo táng", "en": "less sugar", "ja": "砂糖少なめ" },
+            { "zh": "无糖", "pinyin": "wú táng", "en": "no sugar", "ja": "無糖" },
+            { "zh": "打包", "pinyin": "dǎ bāo", "en": "take-away box", "ja": "持ち帰り" },
+            { "zh": "外卖", "pinyin": "wài mài", "en": "delivery", "ja": "出前・デリバリー" },
+            { "zh": "堂食", "pinyin": "táng shí", "en": "eat in", "ja": "店内飲食" }
+          ]
+        },
+        {
+          "title": "Shopping labels",
+          "title_ja": "買い物のラベル",
+          "body": [
+            "Discounts are written the opposite way round: 八折 means you pay 80%, so 20% off. 买一送一 is buy one get one free. The payment signs tell you which methods a stall accepts."
+          ],
+          "body_ja": [
+            "割引は日本とは逆の書き方で、八折 は80%を払う、つまり2割引です。买一送一 は一つ買うと一つ無料。支払いの表示でその店が受け付ける方法がわかります。"
+          ],
+          "style": "signs",
+          "items": [
+            { "zh": "特价", "pinyin": "tè jià", "en": "special price", "ja": "特価" },
+            { "zh": "打折", "pinyin": "dǎ zhé", "en": "discount", "ja": "割引" },
+            { "zh": "八折", "pinyin": "bā zhé", "en": "20% off", "ja": "2割引" },
+            { "zh": "买一送一", "pinyin": "mǎi yī sòng yī", "en": "buy one get one free", "ja": "1つ買うと1つ無料" },
+            { "zh": "会员价", "pinyin": "huì yuán jià", "en": "member price", "ja": "会員価格" },
+            { "zh": "收款码", "pinyin": "shōu kuǎn mǎ", "en": "payment QR code", "ja": "支払い用 QR コード" },
+            { "zh": "微信", "pinyin": "wēi xìn", "en": "WeChat", "ja": "WeChat" },
+            { "zh": "支付宝", "pinyin": "zhī fù bǎo", "en": "Alipay", "ja": "Alipay" },
+            { "zh": "现金", "pinyin": "xiàn jīn", "en": "cash", "ja": "現金" },
+            { "zh": "不找零", "pinyin": "bù zhǎo líng", "en": "no change given", "ja": "おつりは出ません" },
+            { "zh": "扫码", "pinyin": "sǎo mǎ", "en": "scan to pay", "ja": "コードをスキャン" },
+            { "zh": "自助", "pinyin": "zì zhù", "en": "self-service", "ja": "セルフ" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "numbers",
+      "title": "Numbers, money, time and measure words",
+      "title_ja": "数字、お金、時間、量詞",
+      "summary": "Counting, 两 vs 二, 零 and 万, prices and bargaining, phone numbers, clock times, dates, the twenty measure words you need, and the hand signs for 6 to 10.",
+      "summary_ja": "数え方、两 と 二、零 と 万、値段と値切り、電話番号、時刻、日付、必要な量詞20個、6〜10の指の数え方。",
+      "minutes": 14,
+      "sections": [
+        {
+          "title": "Digits, 两 vs 二, and the trap of 十 and 四",
+          "title_ja": "数字、两 と 二、十 と 四 の落とし穴",
+          "body": [
+            "Say the digits 一 to 十 until they are automatic. 二 is the name of the digit; 两 is \"two\" before a measure word: 两个, 两百, 两点. 十 shí and 四 sì sound alike to new ears, and 十四 and 四十 are the classic mix-up in prices: when it matters, ask for it written down or look at the screen."
+          ],
+          "body_ja": [
+            "一 から 十 を自動的に言えるまで練習しましょう。二 は数字の名前、两 は量詞の前の「二つ」です：两个、两百、两点。十 shí と 四 sì は慣れないうちは似て聞こえ、十四 と 四十 は値段での定番の聞き違いです。大事なときは書いてもらうか画面を見ましょう。"
+          ],
+          "items": [
+            { "zh": "一二三四五", "pinyin": "yī èr sān sì wǔ", "en": "1 2 3 4 5", "ja": "1 2 3 4 5" },
+            { "zh": "六七八九十", "pinyin": "liù qī bā jiǔ shí", "en": "6 7 8 9 10", "ja": "6 7 8 9 10" },
+            { "zh": "十四", "pinyin": "shí sì", "en": "14", "ja": "14" },
+            { "zh": "四十", "pinyin": "sì shí", "en": "40", "ja": "40" },
+            { "zh": "两个", "pinyin": "liǎng gè", "en": "two (of something)", "ja": "二つ" },
+            { "zh": "二十二", "pinyin": "èr shí èr", "en": "22", "ja": "22" },
+            { "zh": "第二", "pinyin": "dì èr", "en": "second", "ja": "第二、二番目" },
+            { "zh": "两百", "pinyin": "liǎng bǎi", "en": "200", "ja": "200" }
+          ]
+        },
+        {
+          "title": "零 inside numbers, and 万 / 亿",
+          "title_ja": "数の中の 零、そして 万 と 亿",
+          "body": [
+            "A skipped place is read 零 once: 105 is 一百零五, 1005 is 一千零五. A number ending in a round ten drops the 十's unit: 110 is 一百一 in speech (一百一十 in full). Big numbers group by ten thousand, not thousand: 万 is 10,000 and 亿 is 100,000,000. So 50,000 is 五万, 1,000,000 is 一百万, and a population of 14 亿 is 1.4 billion."
+          ],
+          "body_ja": [
+            "飛ばされた位は 零 を一度だけ読みます。105 は 一百零五、1005 は 一千零五。きりのいい十で終わる数は 十 の後を省きます：110 は話し言葉で 一百一（正式には 一百一十）。大きな数は千ではなく万でまとまります。万 は 10,000、亿 は 1 億です。50,000 は 五万、100 万は 一百万、人口 14 亿 は 14 億です。"
+          ],
+          "items": [
+            { "zh": "一百零五", "pinyin": "yī bǎi líng wǔ", "en": "105", "ja": "105" },
+            { "zh": "一千零五", "pinyin": "yī qiān líng wǔ", "en": "1,005", "ja": "1,005" },
+            { "zh": "一百一", "pinyin": "yī bǎi yī", "en": "110 (spoken short form)", "ja": "110（話し言葉の省略形）" },
+            { "zh": "五万", "pinyin": "wǔ wàn", "en": "50,000", "ja": "5万" },
+            { "zh": "一百万", "pinyin": "yī bǎi wàn", "en": "1,000,000", "ja": "100万" },
+            { "zh": "十四亿", "pinyin": "shí sì yì", "en": "1.4 billion", "ja": "14億" }
+          ]
+        },
+        {
+          "title": "Prices and bargaining: 块 and 元, 毛 and 角",
+          "title_ja": "値段と値切り：块 と 元、毛 と 角",
+          "body": [
+            "Written prices use 元, 角 and 分; spoken prices use 块, 毛 and 分. Nobody says 分 any more. 十五块五 is 15.50, and the last unit is usually dropped: 三块五 (3.50), 一百二 (120). 多少钱？ asks the price of a thing; 怎么卖？ asks how something is sold (per jin, per piece).",
+            "Bargaining lives in markets and small shops, not in chain stores or restaurants. The moves are short: 太贵了, 便宜一点, name a number, walk away. Stall-holders often type the price on a calculator or phone and hand it to you; type your offer back."
+          ],
+          "body_ja": [
+            "書かれた値段は 元、角、分、話し言葉では 块、毛、分 を使います。分 はもう誰も言いません。十五块五 は 15.50 元で、最後の単位は普通省略します：三块五（3.50）、一百二（120）。多少钱？ は物の値段、怎么卖？ は売り方（一斤いくら、一個いくら）を尋ねます。",
+            "値切りは市場や小さな店でのことで、チェーン店やレストランではしません。やり取りは短く、太贵了、便宜一点、数字を言う、立ち去る、です。露店の人はよく電卓や携帯に値段を打って見せてくるので、こちらの希望額を打ち返しましょう。"
+          ],
+          "items": [
+            { "zh": "多少钱？", "pinyin": "duō shao qián?", "en": "How much is it?", "ja": "いくらですか？" },
+            { "zh": "怎么卖？", "pinyin": "zěn me mài?", "en": "How is it sold? (by weight, by piece)", "ja": "どういう売り方ですか？（量り売り、個売り）" },
+            { "zh": "三块五", "pinyin": "sān kuài wǔ", "en": "3.50 yuan", "ja": "3.5元" },
+            { "zh": "十五块", "pinyin": "shí wǔ kuài", "en": "15 yuan", "ja": "15元" },
+            { "zh": "一百二", "pinyin": "yī bǎi èr", "en": "120 yuan", "ja": "120元" },
+            { "zh": "五毛", "pinyin": "wǔ máo", "en": "0.50 yuan", "ja": "0.5元" },
+            { "zh": "十元", "pinyin": "shí yuán", "en": "10 yuan (written form)", "ja": "10元（書き言葉）" },
+            { "zh": "一斤", "pinyin": "yī jīn", "en": "one jin (500 g)", "ja": "一斤（500グラム）" },
+            { "zh": "太贵了", "pinyin": "tài guì le", "en": "Too expensive", "ja": "高すぎます" },
+            { "zh": "便宜一点", "pinyin": "pián yi yī diǎn", "en": "A bit cheaper", "ja": "もう少し安く" },
+            { "zh": "五十行不行？", "pinyin": "wǔ shí xíng bu xíng?", "en": "Would 50 work?", "ja": "50 でいいですか？" },
+            { "zh": "最低多少？", "pinyin": "zuì dī duō shao?", "en": "What's your lowest?", "ja": "最低いくらですか？" },
+            { "zh": "不要了", "pinyin": "bù yào le", "en": "Never mind, then", "ja": "じゃあ、いりません" },
+            { "zh": "成交", "pinyin": "chéng jiāo", "en": "Deal", "ja": "成立、それで決まり" }
+          ]
+        },
+        {
+          "title": "Phone numbers: 一 becomes yāo",
+          "title_ja": "電話番号：一 は yāo",
+          "body": [
+            "Phone numbers, room numbers and bus numbers are read digit by digit, and 一 is said yāo so it is not confused with 七. Chinese mobile numbers have eleven digits, usually read in groups of 3-4-4. The Didi driver's 尾号多少？ wants the last four."
+          ],
+          "body_ja": [
+            "電話番号、部屋番号、バスの番号は一桁ずつ読み、一 は 七 と区別するために yāo と言います。中国の携帯番号は11桁で、普通 3-4-4 に区切って読みます。Didi の運転手の 尾号多少？ は下4桁を聞いています。"
+          ],
+          "items": [
+            { "zh": "一", "pinyin": "yāo", "en": "1 (in phone numbers)", "ja": "1（電話番号で）" },
+            { "zh": "一三八", "pinyin": "yāo sān bā", "en": "138", "ja": "138" },
+            { "zh": "你的电话是多少？", "pinyin": "nǐ de diàn huà shì duō shao?", "en": "What's your phone number?", "ja": "電話番号は何番ですか？" },
+            { "zh": "尾号二零一一", "pinyin": "wěi hào èr líng yāo yāo", "en": "last digits 2011", "ja": "下4桁は 2011" },
+            { "zh": "一一零", "pinyin": "yāo yāo líng", "en": "110 (police)", "ja": "110（警察）" },
+            { "zh": "一二零", "pinyin": "yāo èr líng", "en": "120 (ambulance)", "ja": "120（救急）" }
+          ]
+        },
+        {
+          "title": "Telling the time",
+          "title_ja": "時刻",
+          "body": [
+            "Hours take 点, half past is 半, a quarter is 刻, and 差 means \"short of\". Two o'clock is 两点, never 二点. Minutes are 分 and can be dropped after a number: 三点二十."
+          ],
+          "body_ja": [
+            "時は 点、30分は 半、15分は 刻、差 は「…前」です。2時は 两点 で、二点 とは言いません。分 は 分 で、数字の後では省略できます：三点二十。"
+          ],
+          "items": [
+            { "zh": "几点了？", "pinyin": "jǐ diǎn le?", "en": "What time is it?", "ja": "何時ですか？" },
+            { "zh": "两点", "pinyin": "liǎng diǎn", "en": "two o'clock", "ja": "2時" },
+            { "zh": "三点半", "pinyin": "sān diǎn bàn", "en": "half past three", "ja": "3時半" },
+            { "zh": "五点一刻", "pinyin": "wǔ diǎn yī kè", "en": "quarter past five", "ja": "5時15分" },
+            { "zh": "差十分八点", "pinyin": "chà shí fēn bā diǎn", "en": "ten to eight", "ja": "8時10分前" },
+            { "zh": "上午十点", "pinyin": "shàng wǔ shí diǎn", "en": "10 a.m.", "ja": "午前10時" },
+            { "zh": "晚上七点", "pinyin": "wǎn shang qī diǎn", "en": "7 p.m.", "ja": "夜7時" }
+          ]
+        },
+        {
+          "title": "Dates and days",
+          "title_ja": "日付と曜日",
+          "body": [
+            "Dates go big to small: year, 月, 号 (日 in writing). Months are just numbers: 一月 to 十二月. Days of the week are 星期 + number, Monday being 星期一, with Sunday as 星期天 or 星期日. 周 replaces 星期 in casual speech (周一, 周末)."
+          ],
+          "body_ja": [
+            "日付は大きい単位から：年、月、号（書き言葉では 日）。月は数字だけで 一月 から 十二月。曜日は 星期＋数字で、月曜が 星期一、日曜は 星期天 か 星期日。くだけた会話では 周 が 星期 の代わりになります（周一、周末）。"
+          ],
+          "items": [
+            { "zh": "今天几号？", "pinyin": "jīn tiān jǐ hào?", "en": "What's the date today?", "ja": "今日は何日ですか？" },
+            { "zh": "十一月十九号", "pinyin": "shí yī yuè shí jiǔ hào", "en": "19 November", "ja": "11月19日" },
+            { "zh": "星期几？", "pinyin": "xīng qī jǐ?", "en": "What day of the week?", "ja": "何曜日ですか？" },
+            { "zh": "星期一", "pinyin": "xīng qī yī", "en": "Monday", "ja": "月曜日" },
+            { "zh": "星期天", "pinyin": "xīng qī tiān", "en": "Sunday", "ja": "日曜日" },
+            { "zh": "周末", "pinyin": "zhōu mò", "en": "weekend", "ja": "週末" },
+            { "zh": "二零二六年", "pinyin": "èr líng èr liù nián", "en": "the year 2026", "ja": "2026年" }
+          ]
+        },
+        {
+          "title": "The twenty measure words you need",
+          "title_ja": "必要な量詞20個",
+          "body": [
+            "Every noun needs a measure word after a number or 这/那. 个 works for people and most things; the rest below cover almost everything else you will buy, order or point at."
+          ],
+          "body_ja": [
+            "数字や 这／那 の後の名詞には量詞が必要です。个 は人とたいていの物に使えます。以下の残りで、買う・注文する・指さすほとんどの物がカバーできます。"
+          ],
+          "items": [
+            { "zh": "一个人", "pinyin": "yī gè rén", "en": "个: people, most things", "ja": "个：人、ほとんどの物" },
+            { "zh": "一位客人", "pinyin": "yī wèi kè rén", "en": "位: people (polite)", "ja": "位：人（丁寧）" },
+            { "zh": "一杯茶", "pinyin": "yī bēi chá", "en": "杯: cups, glasses", "ja": "杯：コップ、杯" },
+            { "zh": "一瓶水", "pinyin": "yī píng shuǐ", "en": "瓶: bottles", "ja": "瓶：ボトル" },
+            { "zh": "一碗面", "pinyin": "yī wǎn miàn", "en": "碗: bowls", "ja": "碗：どんぶり、お椀" },
+            { "zh": "一盘菜", "pinyin": "yī pán cài", "en": "盘: plates, dishes", "ja": "盘：皿、料理" },
+            { "zh": "一份外卖", "pinyin": "yī fèn wài mài", "en": "份: portions, orders", "ja": "份：一人前、注文" },
+            { "zh": "一本书", "pinyin": "yī běn shū", "en": "本: books", "ja": "本：本" },
+            { "zh": "一张票", "pinyin": "yī zhāng piào", "en": "张: flat things (tickets, paper, tables)", "ja": "张：平たい物（切符、紙、テーブル）" },
+            { "zh": "一件衣服", "pinyin": "yī jiàn yī fu", "en": "件: clothes, matters", "ja": "件：服、用件" },
+            { "zh": "一条路", "pinyin": "yī tiáo lù", "en": "条: long things (roads, rivers, fish, trousers)", "ja": "条：細長い物（道、川、魚、ズボン）" },
+            { "zh": "一双鞋", "pinyin": "yī shuāng xié", "en": "双: pairs", "ja": "双：一対の物" },
+            { "zh": "一只猫", "pinyin": "yī zhī māo", "en": "只: animals, one of a pair", "ja": "只：動物、片方" },
+            { "zh": "一辆车", "pinyin": "yī liàng chē", "en": "辆: vehicles", "ja": "辆：車両" },
+            { "zh": "一家店", "pinyin": "yī jiā diàn", "en": "家: shops, companies, families", "ja": "家：店、会社、家庭" },
+            { "zh": "一间房", "pinyin": "yī jiān fáng", "en": "间: rooms", "ja": "间：部屋" },
+            { "zh": "一块钱", "pinyin": "yī kuài qián", "en": "块: yuan, pieces, lumps", "ja": "块：元、かたまり" },
+            { "zh": "一斤苹果", "pinyin": "yī jīn píng guǒ", "en": "斤: 500 g (market weight)", "ja": "斤：500グラム（市場の単位）" },
+            { "zh": "一次", "pinyin": "yī cì", "en": "次: times (occasions)", "ja": "次：回" },
+            { "zh": "一些东西", "pinyin": "yī xiē dōng xi", "en": "些: some", "ja": "些：いくつかの" }
+          ]
+        },
+        {
+          "title": "Hand signs for 6 to 10",
+          "title_ja": "6〜10の指の数え方",
+          "body": [
+            "One to five are shown with fingers as elsewhere. Six to ten use one hand: 6 is thumb and little finger out (the \"phone\" shape); 7 is thumb, index and middle fingertips pressed together; 8 is thumb and index finger out like a pistol; 9 is a hooked index finger; 10 is a fist, or two crossed index fingers. Market sellers use these across the counter, so recognise them even if you never make them."
+          ],
+          "body_ja": [
+            "1〜5 は他の国と同じく指で示します。6〜10 は片手で表します。6 は親指と小指を立てる（電話の形）、7 は親指・人差し指・中指の先を合わせる、8 は親指と人差し指を伸ばす（ピストルの形）、9 は人差し指を曲げる、10 はこぶし、または人差し指を交差させます。市場の売り手はカウンター越しにこれを使うので、自分で作らなくても読めるようにしておきましょう。"
+          ],
+          "items": [
+            { "zh": "六", "pinyin": "liù", "en": "thumb + little finger out", "ja": "親指と小指を立てる" },
+            { "zh": "七", "pinyin": "qī", "en": "thumb, index, middle tips together", "ja": "親指・人差し指・中指の先を合わせる" },
+            { "zh": "八", "pinyin": "bā", "en": "thumb + index out (pistol)", "ja": "親指と人差し指を伸ばす（ピストル）" },
+            { "zh": "九", "pinyin": "jiǔ", "en": "hooked index finger", "ja": "人差し指を曲げる" },
+            { "zh": "十", "pinyin": "shí", "en": "fist, or crossed index fingers", "ja": "こぶし、または人差し指を交差" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "survival",
+      "title": "Survival phrases",
+      "title_ja": "サバイバル表現",
+      "summary": "Forty lines to get by when your Chinese runs out: understanding, directions, money, food, and emergencies.",
+      "summary_ja": "中国語が足りなくなったときに切り抜ける40の表現：聞き取り、道案内、お金、食事、緊急時。",
+      "minutes": 8,
+      "sections": [
+        {
+          "title": "When you don't understand",
+          "title_ja": "わからないとき",
+          "body": [
+            "Say these early and clearly. People will slow down, switch to a translation app, or find someone who speaks English. 能写一下吗？ is the most useful: characters on a phone screen solve most problems."
+          ],
+          "body_ja": [
+            "早めにはっきり言いましょう。相手はゆっくり話すか、翻訳アプリに切り替えるか、英語が話せる人を探してくれます。いちばん役立つのは 能写一下吗？ で、携帯画面の漢字でたいていの問題は解決します。"
+          ],
+          "items": [
+            { "zh": "我不会说中文", "pinyin": "wǒ bù huì shuō zhōng wén", "en": "I don't speak Chinese", "ja": "中国語は話せません" },
+            { "zh": "我只会说一点儿", "pinyin": "wǒ zhǐ huì shuō yī diǎnr", "en": "I only speak a little", "ja": "少しだけ話せます" },
+            { "zh": "我听不懂", "pinyin": "wǒ tīng bu dǒng", "en": "I don't understand", "ja": "聞いてもわかりません" },
+            { "zh": "请说慢一点", "pinyin": "qǐng shuō màn yī diǎn", "en": "Please speak more slowly", "ja": "もう少しゆっくり話してください" },
+            { "zh": "请再说一遍", "pinyin": "qǐng zài shuō yī biàn", "en": "Please say that again", "ja": "もう一度言ってください" },
+            { "zh": "这个用中文怎么说？", "pinyin": "zhè ge yòng zhōng wén zěn me shuō?", "en": "How do you say this in Chinese?", "ja": "これは中国語で何と言いますか？" },
+            { "zh": "能写一下吗？", "pinyin": "néng xiě yī xià ma?", "en": "Could you write it down?", "ja": "書いてもらえますか？" },
+            { "zh": "你会说英语吗？", "pinyin": "nǐ huì shuō yīng yǔ ma?", "en": "Do you speak English?", "ja": "英語を話せますか？" },
+            { "zh": "我是日本人", "pinyin": "wǒ shì rì běn rén", "en": "I'm Japanese", "ja": "日本人です" },
+            { "zh": "我是美国人", "pinyin": "wǒ shì měi guó rén", "en": "I'm American", "ja": "アメリカ人です", "note": "英国人 British, 法国人 French, 德国人 German, 韩国人 Korean.", "note_ja": "英国人 イギリス人、法国人 フランス人、德国人 ドイツ人、韩国人 韓国人。" }
+          ]
+        },
+        {
+          "title": "Finding your way",
+          "title_ja": "道を探す",
+          "body": [
+            "Point at the address on your phone while you ask. Answers come fast, so listen for 左 (left), 右 (right), 直走 (straight) and 对面 (opposite)."
+          ],
+          "body_ja": [
+            "尋ねながら携帯の住所を指さしましょう。答えは速いので、左（左）、右（右）、直走（まっすぐ）、对面（向かい）を聞き取ります。"
+          ],
+          "items": [
+            { "zh": "请问，…在哪儿？", "pinyin": "qǐng wèn, …zài nǎr?", "en": "Excuse me, where is…?", "ja": "すみません、…はどこですか？" },
+            { "zh": "厕所在哪儿？", "pinyin": "cè suǒ zài nǎr?", "en": "Where's the toilet?", "ja": "トイレはどこですか？" },
+            { "zh": "地铁站在哪儿？", "pinyin": "dì tiě zhàn zài nǎr?", "en": "Where's the metro station?", "ja": "地下鉄の駅はどこですか？" },
+            { "zh": "我迷路了", "pinyin": "wǒ mí lù le", "en": "I'm lost", "ja": "道に迷いました" },
+            { "zh": "我要去这里", "pinyin": "wǒ yào qù zhè lǐ", "en": "I want to go here (showing the address)", "ja": "ここに行きたいです（住所を見せて）" },
+            { "zh": "远吗？", "pinyin": "yuǎn ma?", "en": "Is it far?", "ja": "遠いですか？" },
+            { "zh": "往左 / 往右 / 直走", "pinyin": "wǎng zuǒ / wǎng yòu / zhí zǒu", "en": "left / right / straight on", "ja": "左へ／右へ／まっすぐ" },
+            { "zh": "请帮我叫出租车", "pinyin": "qǐng bāng wǒ jiào chū zū chē", "en": "Please call me a taxi", "ja": "タクシーを呼んでください" }
+          ]
+        },
+        {
+          "title": "Money and shopping",
+          "title_ja": "お金と買い物",
+          "body": [
+            "Foreign cards work in few places; WeChat Pay and Alipay accept foreign cards now, and 可以用微信吗？ checks before you order. Keep some cash for small stalls."
+          ],
+          "body_ja": [
+            "海外のカードが使える場所は少ないですが、WeChat Pay と Alipay は海外カードに対応しています。注文前に 可以用微信吗？ で確認しましょう。小さな露店用に現金も少し持っておきます。"
+          ],
+          "items": [
+            { "zh": "多少钱？", "pinyin": "duō shao qián?", "en": "How much?", "ja": "いくらですか？" },
+            { "zh": "太贵了", "pinyin": "tài guì le", "en": "Too expensive", "ja": "高すぎます" },
+            { "zh": "便宜一点", "pinyin": "pián yi yī diǎn", "en": "A bit cheaper, please", "ja": "もう少し安くしてください" },
+            { "zh": "可以用微信吗？", "pinyin": "kě yǐ yòng wēi xìn ma?", "en": "Can I pay with WeChat?", "ja": "WeChat で払えますか？" },
+            { "zh": "可以刷卡吗？", "pinyin": "kě yǐ shuā kǎ ma?", "en": "Can I pay by card?", "ja": "カードで払えますか？" },
+            { "zh": "我要这个", "pinyin": "wǒ yào zhè ge", "en": "I'll take this one", "ja": "これをください" },
+            { "zh": "不要了，谢谢", "pinyin": "bù yào le, xiè xie", "en": "No thanks, I'll pass", "ja": "やっぱりいりません、ありがとう" }
+          ]
+        },
+        {
+          "title": "Eating",
+          "title_ja": "食事",
+          "body": [
+            "Allergies: 我对…过敏 with 花生 (peanuts), 海鲜 (seafood), 牛奶 (milk), 麸质 (gluten). 我不吃… works for anything you avoid by choice."
+          ],
+          "body_ja": [
+            "アレルギーは 我对…过敏 に 花生（ピーナッツ）、海鲜（魚介）、牛奶（牛乳）、麸质（グルテン）を入れます。我不吃… は好みで避けるものすべてに使えます。"
+          ],
+          "items": [
+            { "zh": "有英文菜单吗？", "pinyin": "yǒu yīng wén cài dān ma?", "en": "Is there an English menu?", "ja": "英語のメニューはありますか？" },
+            { "zh": "我要这个", "pinyin": "wǒ yào zhè ge", "en": "I'll have this (pointing)", "ja": "これをお願いします（指さして）" },
+            { "zh": "不要辣", "pinyin": "bù yào là", "en": "Not spicy, please", "ja": "辛くしないでください" },
+            { "zh": "我对花生过敏", "pinyin": "wǒ duì huā shēng guò mǐn", "en": "I'm allergic to peanuts", "ja": "ピーナッツアレルギーです" },
+            { "zh": "我不吃肉", "pinyin": "wǒ bù chī ròu", "en": "I don't eat meat", "ja": "肉は食べません" },
+            { "zh": "买单", "pinyin": "mǎi dān", "en": "The bill, please", "ja": "お会計をお願いします" },
+            { "zh": "一瓶水", "pinyin": "yī píng shuǐ", "en": "A bottle of water", "ja": "水を一本" }
+          ]
+        },
+        {
+          "title": "Emergencies",
+          "title_ja": "緊急時",
+          "body": [
+            "Police 110, ambulance 120, fire 119. Hotel staff will phone for you if you say 请帮我打电话. For a lost passport, go to the nearest police station (派出所) first; they issue the loss report your embassy needs."
+          ],
+          "body_ja": [
+            "警察 110、救急 120、消防 119。请帮我打电话 と言えばホテルのスタッフが電話してくれます。パスポートをなくしたら、まず最寄りの派出所へ。大使館に必要な紛失証明を出してくれます。"
+          ],
+          "items": [
+            { "zh": "救命！", "pinyin": "jiù mìng!", "en": "Help!", "ja": "助けて！" },
+            { "zh": "我需要医生", "pinyin": "wǒ xū yào yī shēng", "en": "I need a doctor", "ja": "医者が必要です" },
+            { "zh": "请叫救护车", "pinyin": "qǐng jiào jiù hù chē", "en": "Please call an ambulance", "ja": "救急車を呼んでください" },
+            { "zh": "我的护照丢了", "pinyin": "wǒ de hù zhào diū le", "en": "I've lost my passport", "ja": "パスポートをなくしました" },
+            { "zh": "我的手机丢了", "pinyin": "wǒ de shǒu jī diū le", "en": "I've lost my phone", "ja": "携帯をなくしました" },
+            { "zh": "请帮我打电话", "pinyin": "qǐng bāng wǒ dǎ diàn huà", "en": "Please make a call for me", "ja": "代わりに電話してください" },
+            { "zh": "派出所在哪儿？", "pinyin": "pài chū suǒ zài nǎr?", "en": "Where's the police station?", "ja": "交番（派出所）はどこですか？" },
+            { "zh": "我不舒服", "pinyin": "wǒ bù shū fu", "en": "I feel unwell", "ja": "気分が悪いです" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "politeness",
+      "title": "Politeness in practice",
+      "title_ja": "実践の礼儀",
+      "summary": "您 and titles, surname + title, business cards and two hands, toasts, refusing, gift taboos, 客气, and the no that means yes.",
+      "summary_ja": "您 と呼び方、姓＋肩書き、名刺と両手、乾杯、断り方、贈り物のタブー、客气、そして「はい」を意味する「いいえ」。",
+      "minutes": 10,
+      "sections": [
+        {
+          "title": "您 and how to address people",
+          "title_ja": "您 と人の呼び方",
+          "body": [
+            "Chinese politeness is less about grammar and more about how you address people and what you do with your hands. 您 goes to elders, teachers, officials and customers. Strangers get a role word instead of a name: 师傅 for drivers, repairmen and cooks; 老板 for any shop or stall owner; 服务员 for waiters; 阿姨 and 叔叔 for people of your parents' age; 美女 and 帅哥 for young staff and strangers (friendly, not flirtatious, though some younger people find them dated)."
+          ],
+          "body_ja": [
+            "中国語の礼儀は文法よりも、人の呼び方と手の使い方にあります。您 は年長者、先生、役人、客に使います。知らない人には名前の代わりに役割の言葉を使います。運転手・修理工・料理人には 师傅、店や露店の主人には 老板、ウェイターには 服务员、親世代の人には 阿姨 と 叔叔、若い店員や知らない人には 美女 と 帅哥（親しみやすい呼び方で、口説いているわけではありませんが、古いと感じる若者もいます）。"
+          ],
+          "items": [
+            { "zh": "老师", "pinyin": "lǎo shī", "en": "teacher (also any respected professional)", "ja": "先生（尊敬する専門家にも）" },
+            { "zh": "师傅", "pinyin": "shī fu", "en": "driver, craftsman, cook", "ja": "運転手さん、職人さん、料理人" },
+            { "zh": "老板", "pinyin": "lǎo bǎn", "en": "boss, shop owner", "ja": "店主、社長" },
+            { "zh": "美女", "pinyin": "měi nǚ", "en": "miss (young woman)", "ja": "お嬢さん（若い女性）" },
+            { "zh": "帅哥", "pinyin": "shuài gē", "en": "young man", "ja": "お兄さん（若い男性）" },
+            { "zh": "阿姨", "pinyin": "ā yí", "en": "ma'am (older woman)", "ja": "おばさん" },
+            { "zh": "叔叔", "pinyin": "shū shu", "en": "sir (older man)", "ja": "おじさん" },
+            { "zh": "同学", "pinyin": "tóng xué", "en": "student (to a young person on campus)", "ja": "学生さん" }
+          ]
+        },
+        {
+          "title": "Surname + title",
+          "title_ja": "姓＋肩書き",
+          "body": [
+            "Once you know a surname, add the title after it: 王老师, 李经理, 张医生. 小 + surname (小王) is friendly for someone younger; 老 + surname (老王) is warm for an older colleague or friend. Never use 小 or 老 with a boss or client. Given names alone are for close friends."
+          ],
+          "body_ja": [
+            "姓がわかったら、その後に肩書きを付けます：王老师、李经理、张医生。小＋姓（小王）は年下に親しみを込めて、老＋姓（老王）は年上の同僚や友人に温かく。上司や取引先に 小 や 老 は絶対に使いません。名前だけで呼ぶのは親しい友人に限ります。"
+          ],
+          "items": [
+            { "zh": "王老师", "pinyin": "wáng lǎo shī", "en": "Teacher Wang", "ja": "王先生" },
+            { "zh": "李经理", "pinyin": "lǐ jīng lǐ", "en": "Manager Li", "ja": "李マネージャー" },
+            { "zh": "张医生", "pinyin": "zhāng yī shēng", "en": "Doctor Zhang", "ja": "張先生（医師）" },
+            { "zh": "小王", "pinyin": "xiǎo wáng", "en": "young Wang (friendly, to someone younger)", "ja": "王くん・王さん（年下に）" },
+            { "zh": "老王", "pinyin": "lǎo wáng", "en": "old Wang (warm, to someone older)", "ja": "王さん（年上に親しみを込めて）" },
+            { "zh": "您贵姓？", "pinyin": "nín guì xìng?", "en": "May I ask your surname?", "ja": "お名前（姓）をうかがってもよろしいですか？" },
+            { "zh": "免贵姓李", "pinyin": "miǎn guì xìng lǐ", "en": "My surname is Li (modest reply)", "ja": "李と申します（控えめな答え）" }
+          ]
+        },
+        {
+          "title": "Two hands: cards, gifts, cups",
+          "title_ja": "両手で：名刺、贈り物、杯",
+          "body": [
+            "Give and receive business cards, gifts, documents and anything important with both hands, and read a card for a moment before putting it away. The same two hands go for pouring tea for others and for receiving a drink from an elder. At dinner, when someone pours for you, tap two fingers on the table as thanks."
+          ],
+          "body_ja": [
+            "名刺、贈り物、書類など大事なものは両手で渡し、両手で受け取り、名刺は少し目を通してからしまいます。人にお茶を注ぐときや、年長者から飲み物を受けるときも両手です。食事の席で注いでもらったら、指二本でテーブルを軽くたたいてお礼を示します。"
+          ],
+          "items": [
+            { "zh": "这是我的名片", "pinyin": "zhè shì wǒ de míng piàn", "en": "Here is my business card", "ja": "私の名刺です" },
+            { "zh": "请多关照", "pinyin": "qǐng duō guān zhào", "en": "Please look after me (first meeting)", "ja": "よろしくお願いします（初対面）" },
+            { "zh": "一点小意思", "pinyin": "yī diǎn xiǎo yì si", "en": "Just a small gift", "ja": "ほんの気持ちです" },
+            { "zh": "太客气了", "pinyin": "tài kè qi le", "en": "You're too kind", "ja": "ご丁寧にどうも" },
+            { "zh": "我来倒", "pinyin": "wǒ lái dào", "en": "Let me pour", "ja": "私が注ぎます" }
+          ]
+        },
+        {
+          "title": "Toasts: 干杯 and 随意",
+          "title_ja": "乾杯：干杯 と 随意",
+          "body": [
+            "干杯 literally means \"dry the glass\" and at a banquet it can mean exactly that. 随意 (\"as you like\") lets everyone sip instead. When you clink, hold your glass lower than an elder's or a host's. If you do not drink, say so at the start: 我不喝酒, and raise tea instead; nobody minds, and no one minds a toast with 以茶代酒."
+          ],
+          "body_ja": [
+            "干杯 は文字どおり「杯を干す」で、宴会では本当に飲み干すことがあります。随意（お好きに）なら皆が少しずつ飲めます。杯を合わせるときは、年長者や主人より低い位置に。飲まない人は最初に 我不喝酒 と言い、お茶を掲げます。誰も気にしませんし、以茶代酒 と言って乾杯しても問題ありません。"
+          ],
+          "items": [
+            { "zh": "干杯！", "pinyin": "gān bēi!", "en": "Cheers! (bottoms up)", "ja": "乾杯！（飲み干す）" },
+            { "zh": "随意", "pinyin": "suí yì", "en": "Drink as much as you like", "ja": "お好きなだけどうぞ" },
+            { "zh": "我敬您一杯", "pinyin": "wǒ jìng nín yī bēi", "en": "A toast to you", "ja": "一杯ささげます" },
+            { "zh": "我不喝酒", "pinyin": "wǒ bù hē jiǔ", "en": "I don't drink alcohol", "ja": "お酒は飲みません" },
+            { "zh": "以茶代酒", "pinyin": "yǐ chá dài jiǔ", "en": "I'll toast with tea", "ja": "お茶で乾杯させてください" },
+            { "zh": "我开车", "pinyin": "wǒ kāi chē", "en": "I'm driving", "ja": "運転があります" }
+          ]
+        },
+        {
+          "title": "Refusing, and the no that means yes",
+          "title_ja": "断り方、そして「はい」を意味する「いいえ」",
+          "body": [
+            "Offers of food, drink, gifts and help are refused once or twice as a matter of form before being accepted. So a first 不用了 means \"please insist\"; 真的不用 is closer to a real no; and a host will keep offering past both. Read the situation: if someone presses you three times, they mean it, and you may accept with 那我就不客气了 (\"then I won't be polite\").",
+            "The same works in reverse. If you really do not want something, say it clearly and give a reason: 我吃饱了, 我对酒精过敏, 我开车. A reason is not rude; it lets the host stop offering without losing face."
+          ],
+          "body_ja": [
+            "食べ物、飲み物、贈り物、手助けの申し出は、受け入れる前に形式として一、二度断ります。最初の 不用了 は「もう一度すすめてください」の意味、真的不用 は本当の断りに近く、それでも主人はすすめ続けます。状況を読みましょう。三度すすめられたら本気なので、那我就不客气了（では遠慮なく）と受けてかまいません。",
+            "逆も同じです。本当にいらないときは、はっきり理由を添えて言います：我吃饱了、我对酒精过敏、我开车。理由を言うのは失礼ではなく、主人が面子を失わずにすすめるのをやめられます。"
+          ],
+          "items": [
+            { "zh": "不用了", "pinyin": "bù yòng le", "en": "No need (first, polite refusal)", "ja": "いえ、けっこうです（最初の形式的な断り）" },
+            { "zh": "真的不用", "pinyin": "zhēn de bù yòng", "en": "Really, no need", "ja": "本当にけっこうです" },
+            { "zh": "那我就不客气了", "pinyin": "nà wǒ jiù bù kè qi le", "en": "Then I'll accept, thank you", "ja": "では遠慮なくいただきます" },
+            { "zh": "我吃饱了", "pinyin": "wǒ chī bǎo le", "en": "I'm full", "ja": "おなかいっぱいです" },
+            { "zh": "下次吧", "pinyin": "xià cì ba", "en": "Next time (soft refusal)", "ja": "また今度（やんわり断る）" },
+            { "zh": "我考虑一下", "pinyin": "wǒ kǎo lǜ yī xià", "en": "Let me think about it (often = no)", "ja": "考えてみます（多くの場合＝いいえ）" }
+          ]
+        },
+        {
+          "title": "Gift taboos",
+          "title_ja": "贈り物のタブー",
+          "body": [
+            "Some gifts carry a bad pun. A clock (送钟 sounds like 送终, attending a death) is the famous one; an umbrella (伞 sounds like 散, to part) and a pear (梨 sounds like 离, to separate) are the others. Avoid sets of four (四 sounds like 死) and anything white or black for celebrations. Safe choices: fruit baskets, tea, snacks from your country, and anything in red. Gifts are usually not opened in front of the giver."
+          ],
+          "body_ja": [
+            "縁起の悪い語呂合わせを持つ贈り物があります。有名なのは時計（送钟 が 送终、臨終を看取るに聞こえる）で、ほかに傘（伞 が 散、別れる）、梨（梨 が 离、離れる）。四つ組（四 が 死）、お祝いに白や黒のものも避けます。無難なのは果物かご、お茶、自国のお菓子、赤いもの。贈り物は普通、贈り主の前では開けません。"
+          ],
+          "items": [
+            { "zh": "钟", "pinyin": "zhōng", "en": "clock: 送钟 sounds like 送终", "ja": "時計：送钟 は 送终（臨終）に聞こえる" },
+            { "zh": "伞", "pinyin": "sǎn", "en": "umbrella: sounds like 散, to part", "ja": "傘：散（別れる）と同音" },
+            { "zh": "梨", "pinyin": "lí", "en": "pear: sounds like 离, to separate", "ja": "梨：离（離れる）と同音" },
+            { "zh": "四", "pinyin": "sì", "en": "four: sounds like 死", "ja": "四：死 に近い音" },
+            { "zh": "八", "pinyin": "bā", "en": "eight: sounds like 发, to prosper (lucky)", "ja": "八：发（栄える）に近い音（縁起がよい）" },
+            { "zh": "红包", "pinyin": "hóng bāo", "en": "red envelope of money (weddings, New Year)", "ja": "お金を入れた赤い封筒（結婚式、旧正月）" }
+          ]
+        },
+        {
+          "title": "客气 and 不客气",
+          "title_ja": "客气 と 不客气",
+          "body": [
+            "客气 means polite in the sense of formal, reserved, standing on ceremony. 你太客气了 is what people say when you bring a gift or thank them too much; 别客气 means \"make yourself at home, don't hold back\"; and 不客气 as a reply to thanks literally says \"no need to be formal\". Being 客气 is good with strangers and bad with friends, who will tell you 跟我不用客气."
+          ],
+          "body_ja": [
+            "客气 は形式ばった、遠慮がちな、儀礼的な意味での「丁寧」です。你太客气了 は贈り物を持ってきたりお礼を言いすぎたりしたときに言われる言葉、别客气 は「くつろいで、遠慮しないで」、お礼への返事の 不客气 は文字どおり「形式ばらなくていい」です。客气 であることは知らない人には好ましく、友人には不要で、跟我不用客气 と言われます。"
+          ],
+          "items": [
+            { "zh": "你太客气了", "pinyin": "nǐ tài kè qi le", "en": "You're too kind / you shouldn't have", "ja": "ご丁寧にどうも、お気遣いなく" },
+            { "zh": "别客气", "pinyin": "bié kè qi", "en": "Don't stand on ceremony", "ja": "遠慮しないでください" },
+            { "zh": "跟我不用客气", "pinyin": "gēn wǒ bù yòng kè qi", "en": "No need to be formal with me", "ja": "私には遠慮しなくていいよ" },
+            { "zh": "不客气", "pinyin": "bù kè qi", "en": "You're welcome", "ja": "どういたしまして" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "levels",
+      "title": "Free real reading and listening by level",
+      "title_ja": "レベル別・無料の生教材（読む・聞く）",
+      "summary": "Where to find real Chinese you can actually follow at each level, with one line on what to do there.",
+      "summary_ja": "各レベルで実際に理解できる本物の中国語がどこにあるか、そこで何をするかを一行で。",
+      "minutes": 6,
+      "sections": [
+        {
+          "title": "How to use this list",
+          "title_ja": "このリストの使い方",
+          "body": [
+            "Pick one source per level and go back to it often; familiarity does more than variety. Aim for material where you understand most of it without a dictionary. For listening, replay short clips three times: once for the gist, once with the transcript, once without. For reading, use a pop-up dictionary and do not stop to write things down the first time through."
+          ],
+          "body_ja": [
+            "各レベルで一つの教材を選び、繰り返し戻りましょう。多様性より慣れのほうが効きます。辞書なしで大部分がわかる教材を目指します。リスニングは短いクリップを三回：要点をつかむため、字幕付きで、字幕なしで。リーディングはポップアップ辞書を使い、最初の一回は書き留めずに読み通します。"
+          ]
+        },
+        {
+          "title": "HSK 1–2: graded and slow",
+          "title_ja": "HSK 1〜2：段階別でゆっくり",
+          "body": [
+            "At this level real native media is out of reach, so use graded material made for learners and listen to teachers who speak slowly in Chinese."
+          ],
+          "body_ja": [
+            "このレベルではネイティブ向けの素材はまだ難しいので、学習者向けの段階別教材を使い、中国語でゆっくり話す先生の動画を聞きましょう。"
+          ],
+          "links": [
+            { "level": "HSK 1–2", "name": "Mandarin Bean", "url": "https://mandarinbean.com", "note": "Short graded stories with audio and pinyin toggles; read one a day.", "note_ja": "音声とピンイン切替付きの短い段階別ストーリー。一日一話読みましょう。" },
+            { "level": "HSK 1–2", "name": "Chinese Reading Practice", "url": "https://chinesereadingpractice.com", "note": "Beginner texts with hover translations; start with the beginner section.", "note_ja": "ホバー翻訳付きの初級テキスト。beginner セクションから始めましょう。" },
+            { "level": "HSK 1–2", "name": "Grace Mandarin Chinese (YouTube)", "url": "https://www.youtube.com/@GraceMandarinChinese", "note": "Clear pronunciation and grammar videos; shadow the example sentences.", "note_ja": "発音と文法のわかりやすい動画。例文をシャドーイングしましょう。" },
+            { "level": "HSK 1–2", "name": "Blabla Chinese (YouTube)", "url": "https://www.youtube.com/@blablachinese", "note": "Slow, all-Chinese videos about daily life with subtitles; watch twice.", "note_ja": "字幕付きのゆっくりした中国語だけの日常動画。二回見ましょう。" },
+            { "level": "HSK 1–2", "name": "Du Chinese (app)", "url": "https://www.duchinese.net", "note": "Graded reader app with audio; the free lessons rotate weekly.", "note_ja": "音声付きの段階別リーダーアプリ。無料レッスンは毎週入れ替わります。" }
+          ]
+        },
+        {
+          "title": "HSK 3–4: slow native-style content",
+          "title_ja": "HSK 3〜4：ゆっくりしたネイティブ風の内容",
+          "body": [
+            "Now you can follow Chinese spoken slowly and clearly about real topics. Transcripts matter: read along the first time."
+          ],
+          "body_ja": [
+            "ここからは、実際の話題についてゆっくりはっきり話された中国語が追えます。字幕やスクリプトが大事で、最初は読みながら聞きましょう。"
+          ],
+          "links": [
+            { "level": "HSK 3–4", "name": "Mandarin Corner", "url": "https://mandarincorner.org", "note": "Street interviews and daily-life videos with pinyin subtitles and transcripts.", "note_ja": "ピンイン字幕とスクリプト付きの街頭インタビューや日常動画。" },
+            { "level": "HSK 3–4", "name": "Slow Chinese 慢速中文", "url": "https://www.slow-chinese.com", "note": "Short essays on Chinese culture read slowly; listen, then read the text.", "note_ja": "中国文化についての短いエッセイをゆっくり朗読。聞いてから本文を読みましょう。" },
+            { "level": "HSK 3–4", "name": "The Chairman's Bao", "url": "https://www.thechairmansbao.com", "note": "Graded news articles by HSK level; a few are free, the rest need a subscription.", "note_ja": "HSK レベル別の段階的ニュース記事。一部無料、残りは有料です。" },
+            { "level": "HSK 3–4", "name": "ChinesePod", "url": "https://www.chinesepod.com", "note": "Dialogue-based podcast lessons; the intermediate dialogues are good shadowing material.", "note_ja": "会話ベースのポッドキャストレッスン。中級の会話はシャドーイングに向いています。" }
+          ]
+        },
+        {
+          "title": "HSK 5–6: real native media",
+          "title_ja": "HSK 5〜6：本物のネイティブメディア",
+          "body": [
+            "Switch to what Chinese people actually watch and read. Pick topics you already know in your own language so the context carries you. Bilibili has subtitles on most videos; 喜马拉雅 is the podcast and audiobook platform; 知乎 answers are good reading practice because they are written in a conversational register."
+          ],
+          "body_ja": [
+            "中国の人が実際に見て読むものに切り替えましょう。母語で知っている話題を選ぶと文脈が助けてくれます。Bilibili はほとんどの動画に字幕があり、喜马拉雅 はポッドキャストとオーディオブックのプラットフォーム、知乎 の回答は会話調で書かれているので読む練習に向いています。"
+          ],
+          "links": [
+            { "level": "HSK 5+", "name": "Bilibili 哔哩哔哩", "url": "https://www.bilibili.com", "note": "Video platform; search a hobby you know and watch with Chinese subtitles.", "note_ja": "動画プラットフォーム。知っている趣味を検索して中国語字幕で見ましょう。" },
+            { "level": "HSK 5+", "name": "知乎 Zhihu", "url": "https://www.zhihu.com", "note": "Q&A site; read the top answer to a question you care about.", "note_ja": "Q&A サイト。関心のある質問のトップ回答を読みましょう。" },
+            { "level": "HSK 5+", "name": "喜马拉雅 Ximalaya", "url": "https://www.ximalaya.com", "note": "Podcasts and audiobooks; find a chat show and listen on walks.", "note_ja": "ポッドキャストとオーディオブック。トーク番組を見つけて散歩中に聞きましょう。" },
+            { "level": "HSK 5+", "name": "CCTV 央视网", "url": "https://tv.cctv.com", "note": "State TV, including 新闻联播, the clearest standard-Mandarin news read anywhere.", "note_ja": "国営テレビ。新闻联播 は最も明瞭な標準中国語のニュースです。" },
+            { "level": "HSK 6", "name": "人民网 People's Daily", "url": "https://www.people.com.cn", "note": "Newspaper Chinese; read headlines daily, one article a week.", "note_ja": "新聞の中国語。見出しは毎日、記事は週に一本読みましょう。" },
+            { "level": "HSK 6", "name": "微信读书 WeChat Read", "url": "https://weread.qq.com", "note": "E-book app; many novels are free, with a built-in dictionary.", "note_ja": "電子書籍アプリ。多くの小説が無料で、辞書が内蔵されています。" }
+          ]
+        },
+        {
+          "title": "Tools for every level",
+          "title_ja": "全レベル共通のツール",
+          "body": [
+            "A good dictionary matters more than any other tool. Pleco on your phone (the free version is enough) and MDBG in a browser cover everything from a menu to a novel."
+          ],
+          "body_ja": [
+            "よい辞書はほかのどのツールより大事です。携帯の Pleco（無料版で十分）とブラウザの MDBG で、メニューから小説まで対応できます。"
+          ],
+          "links": [
+            { "level": "All", "name": "Pleco (app)", "url": "https://www.pleco.com", "note": "The dictionary app: handwriting input and camera lookup for signs and menus.", "note_ja": "定番の辞書アプリ。手書き入力とカメラ検索で看板やメニューが読めます。" },
+            { "level": "All", "name": "MDBG Chinese Dictionary", "url": "https://www.mdbg.net", "note": "Free web dictionary built on CC-CEDICT; paste any text to annotate it.", "note_ja": "CC-CEDICT に基づく無料のウェブ辞書。テキストを貼り付けて注釈を付けられます。" }
+          ]
+        }
+      ]
+    }
+  ]
+}

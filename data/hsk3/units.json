@@ -3,7 +3,8 @@
   "id": "unit:hsk3:01",
   "no": 1,
   "level": "hsk3",
-  "title": "Unit 1",
+  "title": "Doing it yourself",
+  "title_ja": "自分でやってみる",
   "chars": [
    "hanzi:啊",
    "hanzi:把",
@@ -47,7 +48,8 @@
   "id": "unit:hsk3:02",
   "no": 2,
   "level": "hsk3",
-  "title": "Unit 2",
+  "title": "What matters in the world",
+  "title_ja": "世界で大切なこと",
   "chars": [
    "hanzi:该",
    "hanzi:带",
@@ -93,7 +95,8 @@
   "id": "unit:hsk3:03",
   "no": 3,
   "level": "hsk3",
-  "title": "Unit 3",
+  "title": "Decisions and competitions",
+  "title_ja": "決める・競う",
   "chars": [
    "hanzi:其",
    "hanzi:赛",
@@ -144,7 +147,8 @@
   "id": "unit:hsk3:04",
   "no": 4,
   "level": "hsk3",
-  "title": "Unit 4",
+  "title": "Believing and finishing",
+  "title_ja": "信じる・やりとげる",
   "chars": [
    "hanzi:或",
    "hanzi:者",
@@ -191,7 +195,8 @@
   "id": "unit:hsk3:05",
   "no": 5,
   "level": "hsk3",
-  "title": "Unit 5",
+  "title": "Effort and the city",
+  "title_ja": "努力と都会",
   "chars": [
    "hanzi:努",
    "hanzi:力",
@@ -237,7 +242,8 @@
   "id": "unit:hsk3:06",
   "no": 6,
   "level": "hsk3",
-  "title": "Unit 6",
+  "title": "Changes and check-ups",
+  "title_ja": "変化と検査",
   "chars": [
    "hanzi:较",
    "hanzi:换",
@@ -278,7 +284,8 @@
   "id": "unit:hsk3:07",
   "no": 7,
   "level": "hsk3",
-  "title": "Unit 7",
+  "title": "Music, photos and the bank",
+  "title_ja": "音楽・写真・銀行",
   "chars": [
    "hanzi:据",
    "hanzi:记",
@@ -323,7 +330,8 @@
   "id": "unit:hsk3:08",
   "no": 8,
   "level": "hsk3",
-  "title": "Unit 8",
+  "title": "Stories, news and health",
+  "title_ja": "物語・ニュース・健康",
   "chars": [
    "hanzi:故",
    "hanzi:般",
@@ -366,7 +374,8 @@
   "id": "unit:hsk3:09",
   "no": 9,
   "level": "hsk3",
-  "title": "Unit 9",
+  "title": "Young, nearby and just now",
+  "title_ja": "若さ・近所・さっき",
   "chars": [
    "hanzi:差",
    "hanzi:婚",
@@ -412,7 +421,8 @@
   "id": "unit:hsk3:10",
   "no": 10,
   "level": "hsk3",
-  "title": "Unit 10",
+  "title": "Habits and weekends",
+  "title_ja": "習慣と週末",
   "chars": [
    "hanzi:祝",
    "hanzi:层",
@@ -456,7 +466,8 @@
   "id": "unit:hsk3:11",
   "no": 11,
   "level": "hsk3",
-  "title": "Unit 11",
+  "title": "Birds, trees and gifts",
+  "title_ja": "鳥・木・贈り物",
   "chars": [
    "hanzi:饿",
    "hanzi:树",
@@ -498,7 +509,8 @@
   "id": "unit:hsk3:12",
   "no": 12,
   "level": "hsk3",
-  "title": "Unit 12",
+  "title": "Sun, river and park",
+  "title_ja": "太陽・川・公園",
   "chars": [
    "hanzi:南",
    "hanzi:提",
@@ -546,7 +558,8 @@
   "id": "unit:hsk3:13",
   "no": 13,
   "level": "hsk3",
-  "title": "Unit 13",
+  "title": "Clean, quiet and comfortable",
+  "title_ja": "清潔・静か・快適",
   "chars": [
    "hanzi:搬",
    "hanzi:舒",
@@ -591,7 +604,8 @@
   "id": "unit:hsk3:14",
   "no": 14,
   "level": "hsk3",
-  "title": "Unit 14",
+  "title": "Kitchen and neighbours",
+  "title_ja": "台所とご近所",
   "chars": [
    "hanzi:酒",
    "hanzi:糕",
@@ -633,7 +647,8 @@
   "id": "unit:hsk3:15",
   "no": 15,
   "level": "hsk3",
-  "title": "Unit 15",
+  "title": "Streets, colds and exercise",
+  "title_ja": "通り・風邪・運動",
   "chars": [
    "hanzi:鼻",
    "hanzi:叔",
@@ -678,7 +693,8 @@
   "id": "unit:hsk3:16",
   "no": 16,
   "level": "hsk3",
-  "title": "Unit 16",
+  "title": "Seasons at home",
+  "title_ja": "季節と家の中",
   "chars": [
    "hanzi:刮",
    "hanzi:矮",
@@ -718,7 +734,8 @@
   "id": "unit:hsk3:17",
   "no": 17,
   "level": "hsk3",
-  "title": "Unit 17",
+  "title": "Clothes, fruit and cleaning",
+  "title_ja": "服・果物・掃除",
   "chars": [
    "hanzi:衬",
    "hanzi:衫",
@@ -760,7 +777,8 @@
   "id": "unit:hsk3:18",
   "no": 18,
   "level": "hsk3",
-  "title": "Unit 18",
+  "title": "Pencils, passports and mountains",
+  "title_ja": "鉛筆・パスポート・山",
   "chars": [
    "hanzi:护",
    "hanzi:级",
@@ -802,7 +820,8 @@
   "id": "unit:hsk3:19",
   "no": 19,
   "level": "hsk3",
-  "title": "Unit 19",
+  "title": "Blackboard and suitcase",
+  "title_ja": "黒板とスーツケース",
   "chars": [
    "hanzi:板",
    "hanzi:李"

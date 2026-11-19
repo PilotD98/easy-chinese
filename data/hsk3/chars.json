@@ -13,7 +13,12 @@
    "a5"
   ],
   "meanings": [
-   "modal particle ending sentence, showing affirmation, approval, or consent"
+   "(sentence-final particle)",
+   "ah; oh"
+  ],
+  "meanings_ja": [
+   "～ね・～よ（語気助詞）",
+   "ああ"
   ],
   "strokes": 10,
   "radical": "口",
@@ -21,6 +26,8 @@
    "口",
    "阿"
   ],
+  "mnemonic": "A mouth 口 beside 阿 lets out a soft 'ah': 啊 is the little sigh that ends a sentence.",
+  "mnemonic_ja": "口 のそばで 阿 と「あぁ」ともらす。啊＝文末の「～ね」という吐息。",
   "hint": "mouth",
   "examples": [
    "vocab:hsk3:a5-啊"
@@ -40,9 +47,14 @@
    "ba3"
   ],
   "meanings": [
-   "hold",
-   "hold a baby in position to help it urinate or defecate",
-   "handlebar"
+   "(object marker: take…and)",
+   "to hold",
+   "(classifier for handled things)"
+  ],
+  "meanings_ja": [
+   "～を（処置の目的語マーカー）",
+   "握る",
+   "（柄のある物の量詞）"
   ],
   "strokes": 7,
   "radical": "扌",
@@ -50,6 +62,8 @@
    "扌",
    "巴"
   ],
+  "mnemonic": "A hand 扌 grips a snake 巴 by the handle: 把 takes hold of the object and does something with it.",
+  "mnemonic_ja": "手 扌 が蛇 巴 をつかむ。把＝目的語をつかんで何かをする。",
   "hint": "hand",
   "examples": [
    "vocab:hsk3:ba3-把"
@@ -69,9 +83,12 @@
    "bei4"
   ],
   "meanings": [
-   "quilt",
-   "cover (with)",
-   "used to indicate passive voice (placed before the doer of the action like \"by\" in English passive-voice sentences, or, if the doer is not mentioned, before the verb)"
+   "(passive marker)",
+   "quilt"
+  ],
+  "meanings_ja": [
+   "～される（受身マーカー）",
+   "掛け布団"
   ],
   "strokes": 10,
   "radical": "衤",
@@ -79,6 +96,8 @@
    "衤",
    "皮"
   ],
+  "mnemonic": "Cloth 衤 of animal skin 皮 is a quilt; lying under it, things get done TO you: the passive 被.",
+  "mnemonic_ja": "布 衤 と皮 皮 で掛け布団。その下では何かを「される」側。被＝受身。",
   "hint": "cloth",
   "examples": [
    "vocab:hsk3:bei4-被"
@@ -98,15 +117,18 @@
    "ji3"
   ],
   "meanings": [
-   "self",
-   "oneself",
-   "sixth of the ten Heavenly Stems 十天干"
+   "self; oneself (in 自己)"
+  ],
+  "meanings_ja": [
+   "自分（自己）"
   ],
   "strokes": 3,
   "radical": "己",
   "components": [
    "乚"
   ],
+  "mnemonic": "A single bent thread 乚 is just yourself, alone: 己 means 'self'.",
+  "mnemonic_ja": "一本の曲がった糸 乚 はただ自分ひとり。己＝自分。",
   "hint": "A loom woven with thread",
   "examples": [
    "vocab:hsk3:zi4ji3-自己"
@@ -126,15 +148,20 @@
    "yong4"
   ],
   "meanings": [
-   "use",
-   "(coverb) with",
-   "need"
+   "to use",
+   "with (by means of)"
+  ],
+  "meanings_ja": [
+   "使う",
+   "～で（手段）"
   ],
   "strokes": 5,
   "radical": "用",
   "components": [
    "冂"
   ],
+  "mnemonic": "A box frame 冂 with lines inside is a tool rack: 用 means 'to use'.",
+  "mnemonic_ja": "枠 冂 の中に道具を並べた棚。用＝使う。",
   "examples": [
    "vocab:hsk3:yong4-用",
    "vocab:hsk3:zuo4yong4-作用"
@@ -154,9 +181,12 @@
    "ru2"
   ],
   "meanings": [
-   "as",
-   "as if",
-   "such as"
+   "if (in 如果)",
+   "like; as"
+  ],
+  "meanings_ja": [
+   "もし（如果）",
+   "～のよう"
   ],
   "strokes": 6,
   "radical": "女",
@@ -164,6 +194,8 @@
    "女",
    "口"
   ],
+  "mnemonic": "A woman 女 does as her mouth 口 is told: 如 means 'as, like, if'.",
+  "mnemonic_ja": "女 が 口 の言うとおりにする。如＝～のように、もし。",
   "hint": "A wife 女 following her husband's words 口",
   "examples": [
    "vocab:hsk3:ru2guo3-如果"
@@ -183,13 +215,18 @@
    "you4"
   ],
   "meanings": [
-   "(once) again",
-   "also",
-   "both... and..."
+   "again",
+   "both… and (又…又…)"
+  ],
+  "meanings_ja": [
+   "また",
+   "～でもあり～でもある"
   ],
   "strokes": 2,
   "radical": "又",
   "components": [],
+  "mnemonic": "A right hand 又 reaches out once more: 又 means 'again'.",
+  "mnemonic_ja": "右手 又 がまた伸びる。又＝また、再び。",
   "hint": "A right hand, representing a pair; compare 左",
   "examples": [
    "vocab:hsk3:you4-又"
@@ -209,7 +246,12 @@
    "zhi3"
   ],
   "meanings": [
-   "only"
+   "only",
+   "(classifier for animals)"
+  ],
+  "meanings_ja": [
+   "～だけ",
+   "（動物の量詞）"
   ],
   "strokes": 5,
   "radical": "口",
@@ -217,6 +259,8 @@
    "口",
    "八"
   ],
+  "mnemonic": "From the mouth 口 only a puff of eight 八 breaths escapes: 只 means 'only'.",
+  "mnemonic_ja": "口 から 八 ほどの息しか出ない。只＝ただ～だけ。",
   "hint": "Simple words 八 coming from the mouth 口",
   "examples": [
    "vocab:hsk3:zhi3-只"
@@ -236,9 +280,10 @@
    "geng4"
   ],
   "meanings": [
-   "more",
-   "even more",
-   "further"
+   "even more; further"
+  ],
+  "meanings_ja": [
+   "さらに・もっと"
   ],
   "strokes": 7,
   "radical": "曰",
@@ -247,6 +292,8 @@
    "曰",
    "乂"
   ],
+  "mnemonic": "One 一 extra line over 曰 and a cross 乂 adds even more: 更 means 'even more'.",
+  "mnemonic_ja": "曰 の上に 一 を足し 乂 で締める。更＝さらに、もっと。",
   "examples": [
    "vocab:hsk3:geng4-更"
   ]
@@ -265,9 +312,10 @@
    "xu1"
   ],
   "meanings": [
-   "require",
-   "need",
-   "want"
+   "to need (in 需要)"
+  ],
+  "meanings_ja": [
+   "必要とする（需要）"
   ],
   "strokes": 14,
   "radical": "雨",
@@ -275,6 +323,8 @@
    "雨",
    "而"
   ],
+  "mnemonic": "Rain 雨 is what the crops 而 need: 需 means 'to need'.",
+  "mnemonic_ja": "雨 が作物 而 に必要だ。需＝必要とする。",
   "hint": "Rain 雨 needed for crops to grow",
   "examples": [
    "vocab:hsk3:xu1yao4-需要"
@@ -296,9 +346,14 @@
    "de5"
   ],
   "meanings": [
-   "earth",
-   "ground",
-   "field"
+   "(adverbial marker -ly)",
+   "ground; earth",
+   "place"
+  ],
+  "meanings_ja": [
+   "～に（連用修飾のマーカー）",
+   "地面",
+   "場所"
   ],
   "strokes": 6,
   "radical": "土",
@@ -306,6 +361,8 @@
    "土",
    "也"
   ],
+  "mnemonic": "Earth 土 is where everything 也 stands: 地 means 'ground', and also marks an adverb.",
+  "mnemonic_ja": "土 の上に何でも 也 立つ。地＝大地、そして副詞の「～に」。",
   "hint": "earth",
   "examples": [
    "vocab:hsk3:de5-地",
@@ -326,15 +383,20 @@
    "cai2"
   ],
   "meanings": [
-   "ability",
-   "sb of a certain type",
-   "a capable individual"
+   "only then; not until",
+   "talent"
+  ],
+  "meanings_ja": [
+   "やっと・～してはじめて",
+   "才能"
   ],
   "strokes": 3,
   "radical": "扌",
   "components": [
    "扌"
   ],
+  "mnemonic": "A sprout pushing through the ground only then shows its talent: 才 means 'only then' and 'talent'.",
+  "mnemonic_ja": "土から芽が出てやっと才能が見える。才＝やっと、才能。",
   "hint": "A sprout growing in the ground, representing a budding talent",
   "examples": [
    "vocab:hsk3:cai2-才",
@@ -355,9 +417,14 @@
    "gen1"
   ],
   "meanings": [
-   "heel",
-   "follow closely",
-   "go with"
+   "with",
+   "to follow",
+   "heel"
+  ],
+  "meanings_ja": [
+   "～と",
+   "ついていく",
+   "かかと"
   ],
   "strokes": 13,
   "radical": "足",
@@ -365,6 +432,8 @@
    "足",
    "艮"
   ],
+  "mnemonic": "A foot 足 planted firmly 艮 behind someone follows them: 跟 means 'with' and 'to follow'.",
+  "mnemonic_ja": "足 をしっかり 艮 後ろに置いてついていく。跟＝～と、ついていく。",
   "hint": "foot",
   "examples": [
    "vocab:hsk3:gen1-跟"
@@ -384,9 +453,12 @@
    "xiang4"
   ],
   "meanings": [
-   "resemble",
-   "be like",
-   "look as if"
+   "to resemble; to be like",
+   "image; portrait"
+  ],
+  "meanings_ja": [
+   "似ている",
+   "像"
   ],
   "strokes": 13,
   "radical": "亻",
@@ -394,6 +466,8 @@
    "亻",
    "象"
   ],
+  "mnemonic": "A person 亻 drawn to resemble an elephant 象 is a likeness: 像 means 'to resemble'.",
+  "mnemonic_ja": "人 亻 が象 象 に似せて描かれた像。像＝似ている。",
   "hint": "person",
   "examples": [
    "vocab:hsk3:xiang4-像"
@@ -413,9 +487,12 @@
    "ying1"
   ],
   "meanings": [
-   "agree (to do sth)",
-   "should",
-   "ought to"
+   "should (in 应该)",
+   "to respond"
+  ],
+  "meanings_ja": [
+   "～すべき（应该）",
+   "応じる"
   ],
   "strokes": 7,
   "radical": "广",
@@ -424,6 +501,8 @@
    "⺍",
    "一"
   ],
+  "mnemonic": "Under a roof 广 small marks ⺍ line up on one 一 shelf as they should: 应 means 'should'.",
+  "mnemonic_ja": "屋根 广 の下で印 ⺍ が 一 列に当然並ぶ。应＝～すべき。",
   "examples": [
    "vocab:hsk3:ying1gai1-应该"
   ]
@@ -442,9 +521,10 @@
    "gai1"
   ],
   "meanings": [
-   "should",
-   "ought to",
-   "probably"
+   "should; ought to (in 应该)"
+  ],
+  "meanings_ja": [
+   "～すべき（应该）"
   ],
   "strokes": 8,
   "radical": "讠",
@@ -452,6 +532,8 @@
    "讠",
    "亥"
   ],
+  "mnemonic": "Speech 讠 at the pig hour 亥 says 'you ought to go to bed': 该 means 'should'.",
+  "mnemonic_ja": "言葉 讠 が亥の刻 亥 に「もう寝るべき」と言う。该＝～すべき。",
   "hint": "speech",
   "examples": [
    "vocab:hsk3:ying1gai1-应该"
@@ -471,9 +553,12 @@
    "dai4"
   ],
   "meanings": [
-   "band",
-   "belt",
-   "girdle"
+   "to bring; to carry",
+   "belt; band"
+  ],
+  "meanings_ja": [
+   "持っていく・連れていく",
+   "帯"
   ],
   "strokes": 9,
   "radical": "巾",
@@ -482,6 +567,8 @@
    "冖",
    "巾"
   ],
+  "mnemonic": "A cloth 巾 belt with many loops 卅 tied under a cover 冖 carries things: 带 means 'to bring'.",
+  "mnemonic_ja": "布 巾 の帯に輪 卅 と覆い 冖 をつけて物を運ぶ。带＝持っていく、帯。",
   "hint": "A belt, creasing one's robe above 卅 but not below 巾",
   "examples": [
    "vocab:hsk3:dai4-带"
@@ -501,9 +588,12 @@
    "wei4"
   ],
   "meanings": [
-   "position",
-   "location",
-   "place"
+   "(polite classifier for people)",
+   "position; seat"
+  ],
+  "meanings_ja": [
+   "（人を数える丁寧な量詞）",
+   "位置・席"
   ],
   "strokes": 7,
   "radical": "亻",
@@ -511,6 +601,8 @@
    "亻",
    "立"
   ],
+  "mnemonic": "A person 亻 standing 立 in their spot is a position: 位 means 'seat' and politely counts people.",
+  "mnemonic_ja": "人 亻 が 立 つ場所が位置。位＝席、丁寧に人を数える。",
   "hint": "The place where a person 亻 stands 立",
   "examples": [
    "vocab:hsk3:wei4-位"
@@ -530,9 +622,14 @@
    "zhong3"
   ],
   "meanings": [
+   "kind; type",
    "seed",
-   "species",
-   "kind"
+   "to plant"
+  ],
+  "meanings_ja": [
+   "種類",
+   "種",
+   "植える"
   ],
   "strokes": 9,
   "radical": "禾",
@@ -540,6 +637,8 @@
    "禾",
    "中"
   ],
+  "mnemonic": "Grain 禾 planted in the center 中 of the field grows into its kind: 种 means 'kind' and 'seed'.",
+  "mnemonic_ja": "穀物 禾 を畑の真ん中 中 にまく。种＝種類、種。",
   "hint": "grain",
   "examples": [
    "vocab:hsk3:zhong3-种"
@@ -561,15 +660,22 @@
    "fa5"
   ],
   "meanings": [
-   "send out",
-   "show (one's feeling)",
-   "issue"
+   "to send out; to issue",
+   "to develop (in 发展)",
+   "hair (fà)"
+  ],
+  "meanings_ja": [
+   "発する・送る",
+   "発展する",
+   "髪（fà）"
   ],
   "strokes": 5,
   "radical": "又",
   "components": [
    "又"
   ],
+  "mnemonic": "A hand 又 flicks something out into the air: 发 means 'to send out'.",
+  "mnemonic_ja": "手 又 がぱっと放つ。发＝発する、送り出す。",
   "examples": [
    "vocab:hsk3:fa1xian4-发现",
    "vocab:hsk3:tou2fa5-头发"
@@ -589,9 +695,12 @@
    "ding4"
   ],
   "meanings": [
-   "fix",
-   "subscribe to (a newspaper etc)",
-   "congeal"
+   "to fix; to decide",
+   "certainly (in 一定)"
+  ],
+  "meanings_ja": [
+   "定める・決める",
+   "きっと（一定）"
   ],
   "strokes": 8,
   "radical": "宀",
@@ -599,6 +708,8 @@
    "宀",
    "疋"
   ],
+  "mnemonic": "A person settles their feet 疋 under a roof 宀 and stays: 定 means 'to fix, to decide'.",
+  "mnemonic_ja": "屋根 宀 の下に足 疋 を据えて動かない。定＝定める、決める。",
   "hint": "A person 疋 settling under a roof 宀",
   "examples": [
    "vocab:hsk3:yi1ding4-一定",
@@ -620,8 +731,11 @@
   ],
   "meanings": [
    "straight",
-   "straighten",
-   "fair and reasonable"
+   "continuously (in 一直)"
+  ],
+  "meanings_ja": [
+   "まっすぐ",
+   "ずっと（一直）"
   ],
   "strokes": 8,
   "radical": "目",
@@ -630,6 +744,8 @@
    "目",
    "一"
   ],
+  "mnemonic": "Ten 十 eyes 目 on one 一 line look straight ahead: 直 means 'straight'.",
+  "mnemonic_ja": "十 の目 目 が 一 本の線を見る。直＝まっすぐ。",
   "hint": "To look someone in the eye 目",
   "examples": [
    "vocab:hsk3:yi1zhi2-一直"
@@ -649,15 +765,20 @@
    "shi4"
   ],
   "meanings": [
-   "life",
-   "age",
-   "generation"
+   "world (in 世界)",
+   "generation; lifetime"
+  ],
+  "meanings_ja": [
+   "世界",
+   "世代・一生"
   ],
   "strokes": 5,
   "radical": "一",
   "components": [
    "廿"
   ],
+  "mnemonic": "Three leaves 廿 on a branch are three generations: 世 means 'generation, world'.",
+  "mnemonic_ja": "枝に葉が三枚 廿、三つの世代。世＝世代、世の中。",
   "hint": "Three leaves on a branch",
   "examples": [
    "vocab:hsk3:shi4jie4-世界"
@@ -678,8 +799,11 @@
   ],
   "meanings": [
    "boundary",
-   "limit",
-   "domain"
+   "realm (in 世界)"
+  ],
+  "meanings_ja": [
+   "境界",
+   "～界（世界）"
   ],
   "strokes": 9,
   "radical": "田",
@@ -687,6 +811,8 @@
    "田",
    "介"
   ],
+  "mnemonic": "Fields 田 divided between 介 neighbors have a boundary: 界 means 'boundary, realm'.",
+  "mnemonic_ja": "田 を間 介 で分ける線が境界。界＝境、～界。",
   "hint": "farm",
   "examples": [
    "vocab:hsk3:shi4jie4-世界"
@@ -706,13 +832,18 @@
    "er2"
   ],
   "meanings": [
-   "and",
-   "as well as",
-   "and so"
+   "and; but",
+   "and yet (in 而且)"
+  ],
+  "meanings_ja": [
+   "そして・しかし",
+   "しかも（而且）"
   ],
   "strokes": 6,
   "radical": "而",
   "components": [],
+  "mnemonic": "A beard flowing down links chin and chest: 而 is the little 'and' that links clauses.",
+  "mnemonic_ja": "あごから胸へ流れるひげ。而＝文と文をつなぐ「そして」。",
   "examples": [
    "vocab:hsk3:er2qie3-而且"
   ]
@@ -731,9 +862,10 @@
    "qie3"
   ],
   "meanings": [
-   "and",
-   "moreover",
-   "yet"
+   "moreover (in 而且)"
+  ],
+  "meanings_ja": [
+   "さらに（而且）"
   ],
   "strokes": 5,
   "radical": "一",
@@ -741,6 +873,8 @@
    "月",
    "一"
   ],
+  "mnemonic": "A stone altar 月 on its base 一 holds one offering, moreover another: 且 means 'moreover'.",
+  "mnemonic_ja": "台 一 の上の祭壇 月 に供え物をさらに重ねる。且＝しかも。",
   "hint": "A stone altar",
   "examples": [
    "vocab:hsk3:er2qie3-而且"
@@ -761,8 +895,13 @@
   ],
   "meanings": [
    "heavy",
-   "serious",
-   "attach importance to"
+   "important (in 重要)",
+   "again (chóng)"
+  ],
+  "meanings_ja": [
+   "重い",
+   "重要な",
+   "再び（chóng）"
   ],
   "strokes": 9,
   "radical": "里",
@@ -770,6 +909,8 @@
    "千",
    "里"
   ],
+  "mnemonic": "Carrying a load a thousand 千 miles 里 feels heavy: 重 means 'heavy, important'.",
+  "mnemonic_ja": "荷を千 千 里 里 運ぶと重い。重＝重い、重要。",
   "hint": "A burden carried for a thousand 千 miles 里",
   "examples": [
    "vocab:hsk3:zhong4yao4-重要"
@@ -789,7 +930,10 @@
    "bi4"
   ],
   "meanings": [
-   "must"
+   "must; certainly (in 必须)"
+  ],
+  "meanings_ja": [
+   "必ず（必须）"
   ],
   "strokes": 5,
   "radical": "心",
@@ -797,6 +941,8 @@
    "心",
    "丿"
   ],
+  "mnemonic": "A heart 心 pierced by a stroke 丿 is fixed in place: 必 means 'must'.",
+  "mnemonic_ja": "心 を一本 丿 で貫いて固定する。必＝必ず。",
   "examples": [
    "vocab:hsk3:bi4xu1-必须"
   ]
@@ -815,9 +961,10 @@
    "xu1"
   ],
   "meanings": [
-   "must",
-   "have to",
-   "wait"
+   "must (in 必须)"
+  ],
+  "meanings_ja": [
+   "～しなければならない（必须）"
   ],
   "strokes": 9,
   "radical": "彡",
@@ -825,6 +972,8 @@
    "彡",
    "页"
   ],
+  "mnemonic": "Hair 彡 must grow on a face 页: 须 means 'must'.",
+  "mnemonic_ja": "顔 页 にひげ 彡 は必ず生える。须＝～しなければならない。",
   "hint": "Hair 彡 growing on the face 页",
   "examples": [
    "vocab:hsk3:bi4xu1-必须"
@@ -844,15 +993,22 @@
    "fang1"
   ],
   "meanings": [
+   "direction; side",
    "square",
-   "power or involution (math.)",
-   "upright"
+   "method (in 方法)"
+  ],
+  "meanings_ja": [
+   "方向・側",
+   "四角",
+   "方法"
   ],
   "strokes": 4,
   "radical": "方",
   "components": [
    "亠"
   ],
+  "mnemonic": "A lid 亠 on a square box points in each direction: 方 means 'square, direction, method'.",
+  "mnemonic_ja": "ふた 亠 のついた四角い箱が各方向を指す。方＝四角、方向、方法。",
   "examples": [
    "vocab:hsk3:di4fang1-地方",
    "vocab:hsk3:fang1bian4-方便",
@@ -873,9 +1029,12 @@
    "qi2"
   ],
   "meanings": [
-   "his",
-   "her",
-   "its"
+   "its; his; their",
+   "(in 其他, 其实)"
+  ],
+  "meanings_ja": [
+   "その",
+   "（其他・其实の其）"
   ],
   "strokes": 8,
   "radical": "八",
@@ -884,6 +1043,8 @@
    "一",
    "八"
   ],
+  "mnemonic": "A basket 甘 on a stand 一八 belongs to someone: 其 means 'its, his, their'.",
+  "mnemonic_ja": "台 一八 に載せたかご 甘 は誰かのもの。其＝その。",
   "examples": [
    "vocab:hsk3:qi2ta1-其他",
    "vocab:hsk3:qi2shi2-其实"
@@ -903,9 +1064,10 @@
    "sai4"
   ],
   "meanings": [
-   "compete",
-   "competition",
-   "match"
+   "to compete; match (in 比赛)"
+  ],
+  "meanings_ja": [
+   "競う・試合（比赛）"
   ],
   "strokes": 14,
   "radical": "贝",
@@ -913,6 +1075,8 @@
    "宀",
    "贝"
   ],
+  "mnemonic": "Under one roof 宀 people race for the money 贝: 赛 means 'to compete'.",
+  "mnemonic_ja": "屋根 宀 の下で金 贝 をかけて競う。赛＝競う、試合。",
   "hint": "money",
   "examples": [
    "vocab:hsk3:bi3sai4-比赛"
@@ -932,9 +1096,10 @@
    "ran2"
   ],
   "meanings": [
-   "correct",
-   "right",
-   "so"
+   "so; like that (in 然后, 虽然, 当然)"
+  ],
+  "meanings_ja": [
+   "そのように（然后・虽然・当然）"
   ],
   "strokes": 12,
   "radical": "灬",
@@ -942,6 +1107,8 @@
    "肰",
    "灬"
   ],
+  "mnemonic": "Dog meat 肰 roasting over fire 灬 is 'just so': 然 means 'so, like that'.",
+  "mnemonic_ja": "肉 肰 が火 灬 であぶられて「そのとおり」。然＝そのように。",
   "hint": "fire",
   "examples": [
    "vocab:hsk3:ran2hou4-然后",
@@ -962,9 +1129,10 @@
    "dan1"
   ],
   "meanings": [
-   "undertake",
-   "carry",
-   "shoulder"
+   "to shoulder; to bear (in 担心)"
+  ],
+  "meanings_ja": [
+   "担う（担心）"
   ],
   "strokes": 8,
   "radical": "扌",
@@ -972,6 +1140,8 @@
    "扌",
    "旦"
   ],
+  "mnemonic": "A hand 扌 shoulders the load at dawn 旦: 担 means 'to shoulder, to bear'.",
+  "mnemonic_ja": "手 扌 が夜明け 旦 に荷を担ぐ。担＝担う。",
   "hint": "hand",
   "examples": [
    "vocab:hsk3:dan1xin1-担心"
@@ -992,12 +1162,17 @@
   ],
   "meanings": [
    "heart",
-   "mind",
-   "intention"
+   "mind; feelings"
+  ],
+  "meanings_ja": [
+   "心臓",
+   "心・気持ち"
   ],
   "strokes": 4,
   "radical": "心",
   "components": [],
+  "mnemonic": "Three drops of blood around a heart shape: 心 means 'heart, mind'.",
+  "mnemonic_ja": "心臓のまわりに血が三滴。心＝心臓、こころ。",
   "hint": "A heart",
   "examples": [
    "vocab:hsk3:dan1xin1-担心",
@@ -1020,9 +1195,12 @@
    "tiao2"
   ],
   "meanings": [
-   "strip",
-   "item",
-   "article"
+   "(classifier for long things)",
+   "strip; item"
+  ],
+  "meanings_ja": [
+   "（細長い物の量詞）",
+   "条・項目"
   ],
   "strokes": 7,
   "radical": "木",
@@ -1030,6 +1208,8 @@
    "夂",
    "木"
   ],
+  "mnemonic": "A footstep 夂 along a tree 木 trunk is a long strip: 条 counts long thin things.",
+  "mnemonic_ja": "木 の幹に足 夂 を沿わせた細長い一本。条＝細長い物を数える。",
   "examples": [
    "vocab:hsk3:tiao2-条",
    "vocab:hsk3:mian4tiao2-面条"
@@ -1049,9 +1229,12 @@
    "fang4"
   ],
   "meanings": [
-   "put",
-   "place",
-   "release"
+   "to put; to place",
+   "to release; to let go"
+  ],
+  "meanings_ja": [
+   "置く",
+   "放す・解放する"
   ],
   "strokes": 8,
   "radical": "攵",
@@ -1059,6 +1242,8 @@
    "方",
    "攵"
   ],
+  "mnemonic": "A hand with a stick 攵 lets the square 方 go: 放 means 'to put, to release'.",
+  "mnemonic_ja": "棒を持つ手 攵 が四角 方 を手放す。放＝置く、放す。",
   "hint": "let go",
   "examples": [
    "vocab:hsk3:fang4-放",
@@ -1079,9 +1264,10 @@
    "na2"
   ],
   "meanings": [
-   "hold",
-   "seize",
-   "catch"
+   "to take; to hold"
+  ],
+  "meanings_ja": [
+   "手に取る・持つ"
   ],
   "strokes": 10,
   "radical": "手",
@@ -1089,6 +1275,8 @@
    "合",
    "手"
   ],
+  "mnemonic": "A hand 手 closes 合 around something and takes it: 拿 means 'to take, to hold'.",
+  "mnemonic_ja": "手 手 が 合 わさって物をつかむ。拿＝手に取る。",
   "hint": "hand",
   "examples": [
    "vocab:hsk3:na2-拿"
@@ -1108,9 +1296,12 @@
    "jie3"
   ],
   "meanings": [
-   "divide",
-   "break up",
-   "split"
+   "to untie; to solve",
+   "to understand (in 了解)"
+  ],
+  "meanings_ja": [
+   "解く",
+   "理解する（了解）"
   ],
   "strokes": 13,
   "radical": "角",
@@ -1119,6 +1310,8 @@
    "刀",
    "牛"
   ],
+  "mnemonic": "A knife 刀 cuts the horn 角 off an ox 牛, taking it apart: 解 means 'to untie, to solve'.",
+  "mnemonic_ja": "刀 で牛 牛 の角 角 を切り離す。解＝解く、分解する。",
   "hint": "To cut 刀 the horns 角 off of an ox 牛; 角 also provides the pronunciation",
   "examples": [
    "vocab:hsk3:liao3jie3-了解",
@@ -1139,9 +1332,14 @@
    "guo4"
   ],
   "meanings": [
-   "cross",
-   "go over",
-   "pass (time)"
+   "(experiential particle: have done)",
+   "to pass; to cross",
+   "to spend (time)"
+  ],
+  "meanings_ja": [
+   "～したことがある（助詞）",
+   "過ぎる・渡る",
+   "過ごす"
   ],
   "strokes": 6,
   "radical": "辶",
@@ -1149,6 +1347,8 @@
    "辶",
    "寸"
   ],
+  "mnemonic": "Walking 辶 a short inch 寸 past the line: 过 means 'to pass', and marks past experience.",
+  "mnemonic_ja": "歩いて 辶 一寸 寸 だけ線を越える。过＝過ぎる、～したことがある。",
   "hint": "walk",
   "examples": [
    "vocab:hsk3:guo4qu4-过去",
@@ -1169,9 +1369,10 @@
    "can1"
   ],
   "meanings": [
-   "take part in",
-   "participate",
-   "join"
+   "to take part (in 参加)"
+  ],
+  "meanings_ja": [
+   "参加する"
   ],
   "strokes": 8,
   "radical": "厶",
@@ -1180,6 +1381,8 @@
    "大",
    "彡"
   ],
+  "mnemonic": "A big 大 person with a private 厶 goal and flowing hair 彡 joins in: 参 means 'to take part'.",
+  "mnemonic_ja": "大 きな人が内心 厶 の思いと髪 彡 をなびかせ加わる。参＝参加する。",
   "examples": [
    "vocab:hsk3:can1jia1-参加"
   ]
@@ -1198,9 +1401,14 @@
    "jia1"
   ],
   "meanings": [
-   "add",
-   "(math.) plus",
-   "increase"
+   "to add",
+   "plus",
+   "to join (in 参加)"
+  ],
+  "meanings_ja": [
+   "加える",
+   "プラス",
+   "参加する"
   ],
   "strokes": 5,
   "radical": "力",
@@ -1208,6 +1416,8 @@
    "力",
    "口"
   ],
+  "mnemonic": "Strength 力 added to words 口 makes more: 加 means 'to add'.",
+  "mnemonic_ja": "力 を言葉 口 に加える。加＝加える、足す。",
   "hint": "Supporting a cause with the strength 力 of one's words 口",
   "examples": [
    "vocab:hsk3:can1jia1-参加"
@@ -1227,9 +1437,12 @@
    "jue2"
   ],
   "meanings": [
-   "decide",
-   "determine",
-   "execute (sb)"
+   "to decide (in 决定)",
+   "definitely (in 决不)"
+  ],
+  "meanings_ja": [
+   "決める（决定）",
+   "決して（决不）"
   ],
   "strokes": 6,
   "radical": "冫",
@@ -1237,6 +1450,8 @@
    "冫",
    "夬"
   ],
+  "mnemonic": "Ice 冫 breaks open 夬 and the river decides its course: 决 means 'to decide'.",
+  "mnemonic_ja": "氷 冫 が割れて 夬 川が流れを決める。决＝決める。",
   "examples": [
    "vocab:hsk3:jue2ding4-决定",
    "vocab:hsk3:jie3jue2-解决"
@@ -1256,9 +1471,10 @@
    "xuan3"
   ],
   "meanings": [
-   "choose",
-   "pick",
-   "select"
+   "to choose; to select (in 选择)"
+  ],
+  "meanings_ja": [
+   "選ぶ（选择）"
   ],
   "strokes": 9,
   "radical": "辶",
@@ -1266,6 +1482,8 @@
    "辶",
    "先"
   ],
+  "mnemonic": "Walk 辶 to the front 先 and pick the first one: 选 means 'to choose'.",
+  "mnemonic_ja": "歩いて 辶 先 頭に行き一つを選ぶ。选＝選ぶ。",
   "hint": "walk",
   "examples": [
    "vocab:hsk3:xuan3ze2-选择"
@@ -1285,15 +1503,18 @@
    "ze2"
   ],
   "meanings": [
-   "select",
-   "choose",
-   "pick over"
+   "to choose (in 选择)"
+  ],
+  "meanings_ja": [
+   "選ぶ（选择）"
   ],
   "strokes": 8,
   "radical": "扌",
   "components": [
    "扌"
   ],
+  "mnemonic": "A hand 扌 sorts through a pile and picks out the best: 择 means 'to select'.",
+  "mnemonic_ja": "手 扌 が山をより分けて最良を取る。择＝選び取る。",
   "examples": [
    "vocab:hsk3:xuan3ze2-选择"
   ]
@@ -1312,9 +1533,12 @@
    "huo4"
   ],
   "meanings": [
-   "maybe",
-   "perhaps",
-   "might"
+   "or (in 或者)",
+   "perhaps"
+  ],
+  "meanings_ja": [
+   "あるいは（或者）",
+   "もしかすると"
   ],
   "strokes": 8,
   "radical": "戈",
@@ -1323,6 +1547,8 @@
    "口",
    "一"
   ],
+  "mnemonic": "A spear 戈 guards a mouth 口 on a line 一, one or the other: 或 means 'or, perhaps'.",
+  "mnemonic_ja": "矛 戈 が線 一 の上の口 口 を守る、あれかこれか。或＝あるいは。",
   "hint": "To defend yourself 口 with a spear 戈; \"or else\"",
   "examples": [
    "vocab:hsk3:huo4zhe3-或者"
@@ -1342,9 +1568,10 @@
    "zhe3"
   ],
   "meanings": [
-   "(after a verb or adjective) one who (is) ...",
-   "(after a noun) person involved in ...",
-   "-er"
+   "one who; -er (in 或者, 记者)"
+  ],
+  "meanings_ja": [
+   "～する人（或者・记者）"
   ],
   "strokes": 8,
   "radical": "耂",
@@ -1352,6 +1579,8 @@
    "耂",
    "日"
   ],
+  "mnemonic": "An old man 耂 in the sun 日 is 'the one who': 者 turns a verb into a doer.",
+  "mnemonic_ja": "老人 耂 が日 日 の下にいる「～する者」。者＝～する人。",
   "examples": [
    "vocab:hsk3:huo4zhe3-或者"
   ]
@@ -1370,9 +1599,12 @@
    "shi3"
   ],
   "meanings": [
-   "make",
-   "cause",
-   "enable"
+   "to make; to cause",
+   "to use"
+  ],
+  "meanings_ja": [
+   "～させる",
+   "使う"
   ],
   "strokes": 8,
   "radical": "亻",
@@ -1380,6 +1612,8 @@
    "亻",
    "吏"
   ],
+  "mnemonic": "A person 亻 is made an official 吏 and sent to act: 使 means 'to make, to cause'.",
+  "mnemonic_ja": "人 亻 を役人 吏 にして働かせる。使＝～させる。",
   "hint": "A person 亻 working for the government 吏",
   "examples": [
    "vocab:hsk3:shi3-使"
@@ -1399,9 +1633,12 @@
    "shi2"
   ],
   "meanings": [
-   "real",
-   "true",
-   "honest"
+   "real; true (in 其实)",
+   "solid; fruit"
+  ],
+  "meanings_ja": [
+   "実際の（其实）",
+   "実・中身"
   ],
   "strokes": 8,
   "radical": "宀",
@@ -1409,6 +1646,8 @@
    "宀",
    "头"
   ],
+  "mnemonic": "Under a roof 宀 a head 头 is really there: 实 means 'real, true'.",
+  "mnemonic_ja": "屋根 宀 の下に本当に頭 头 がある。实＝実際の。",
   "examples": [
    "vocab:hsk3:qi2shi2-其实"
   ]
@@ -1427,9 +1666,10 @@
    "qiu2"
   ],
   "meanings": [
-   "seek",
-   "look for",
-   "request"
+   "to request; to seek (in 要求)"
+  ],
+  "meanings_ja": [
+   "求める（要求）"
   ],
   "strokes": 7,
   "radical": "氺",
@@ -1437,6 +1677,8 @@
    "一",
    "氺"
   ],
+  "mnemonic": "One 一 fur coat dripping 氺 is what you ask for in winter: 求 means 'to request, to seek'.",
+  "mnemonic_ja": "一 枚の毛皮から水 氺 が滴る、冬に求める物。求＝求める。",
   "examples": [
    "vocab:hsk3:yao1qiu2-要求"
   ]
@@ -1455,9 +1697,12 @@
    "xin4"
   ],
   "meanings": [
-   "letter",
-   "mail",
-   "trust"
+   "letter (mail)",
+   "to believe; to trust"
+  ],
+  "meanings_ja": [
+   "手紙",
+   "信じる"
   ],
   "strokes": 9,
   "radical": "亻",
@@ -1465,6 +1710,8 @@
    "亻",
    "言"
   ],
+  "mnemonic": "A person 亻 whose words 言 you trust writes you a letter: 信 means 'letter, to believe'.",
+  "mnemonic_ja": "人 亻 の言葉 言 を信じる、その人からの手紙。信＝手紙、信じる。",
   "examples": [
    "vocab:hsk3:xin4-信",
    "vocab:hsk3:xiang1xin4-相信"
@@ -1484,9 +1731,14 @@
    "dang1"
   ],
   "meanings": [
-   "ding dong (bell)",
-   "be",
-   "act as"
+   "to serve as; to be",
+   "when; at the time of",
+   "fitting (dàng)"
+  ],
+  "meanings_ja": [
+   "～になる・務める",
+   "～のとき",
+   "適切な（dàng）"
   ],
   "strokes": 6,
   "radical": "⺌",
@@ -1494,6 +1746,8 @@
    "⺌",
    "彐"
   ],
+  "mnemonic": "A small crest ⺌ on a snout 彐 fits exactly when it should: 当 means 'to serve as, when'.",
+  "mnemonic_ja": "小さな冠 ⺌ が鼻先 彐 にぴたり合う。当＝～になる、～のとき。",
   "examples": [
    "vocab:hsk3:dang1ran2-当然"
   ]
@@ -1512,9 +1766,14 @@
    "jie1"
   ],
   "meanings": [
-   "receive",
-   "answer (the phone)",
-   "meet or welcome sb"
+   "to receive; to answer (phone)",
+   "to pick up (a person)",
+   "to connect"
+  ],
+  "meanings_ja": [
+   "受け取る・出る（電話）",
+   "迎える",
+   "つなぐ"
   ],
   "strokes": 11,
   "radical": "扌",
@@ -1522,6 +1781,8 @@
    "扌",
    "妾"
   ],
+  "mnemonic": "A hand 扌 receives the concubine 妾 at the door: 接 means 'to receive, to pick up'.",
+  "mnemonic_ja": "手 扌 が妾 妾 を門で迎える。接＝受け取る、迎える。",
   "hint": "hand",
   "examples": [
    "vocab:hsk3:jie1-接"
@@ -1543,9 +1804,12 @@
    "xiang4"
   ],
   "meanings": [
-   "each other",
-   "one another",
-   "mutually"
+   "each other; mutually",
+   "appearance (xiàng)"
+  ],
+  "meanings_ja": [
+   "互いに",
+   "姿（xiàng）"
   ],
   "strokes": 9,
   "radical": "目",
@@ -1553,6 +1817,8 @@
    "木",
    "目"
   ],
+  "mnemonic": "An eye 目 watches a tree 木 and the tree watches back: 相 means 'each other'.",
+  "mnemonic_ja": "目 が木 木 を見て、木も見返す。相＝互いに。",
   "hint": "To stare 目 at a tree 木, meaning to observe",
   "examples": [
    "vocab:hsk3:xiang1xin4-相信",
@@ -1574,8 +1840,11 @@
   ],
   "meanings": [
    "flower",
-   "blossom",
-   "fancy pattern"
+   "to spend (money/time)"
+  ],
+  "meanings_ja": [
+   "花",
+   "費やす"
   ],
   "strokes": 7,
   "radical": "艹",
@@ -1583,6 +1852,8 @@
    "艹",
    "化"
   ],
+  "mnemonic": "Grass 艹 transforms 化 into a flower, and then your money transforms away: 花 means 'flower, to spend'.",
+  "mnemonic_ja": "草 艹 が変化 化 して花に、お金も変化して消える。花＝花、費やす。",
   "hint": "A flower 艹 in bloom 化; 化 also provides the pronunciation",
   "examples": [
    "vocab:hsk3:hua1-花",
@@ -1603,8 +1874,10 @@
    "sui1"
   ],
   "meanings": [
-   "although",
-   "even though"
+   "although (in 虽然)"
+  ],
+  "meanings_ja": [
+   "～だけれども（虽然）"
   ],
   "strokes": 9,
   "radical": "虫",
@@ -1612,6 +1885,8 @@
    "口",
    "虫"
   ],
+  "mnemonic": "A mouth 口 above a bug 虫 says 'although it is small…': 虽 means 'although'.",
+  "mnemonic_ja": "虫 の上の口 口 が「小さいけれども」と言う。虽＝～だけれども。",
   "examples": [
    "vocab:hsk3:sui1ran2-虽然"
   ]
@@ -1630,9 +1905,10 @@
    "yu2"
   ],
   "meanings": [
-   "go",
-   "take",
-   "sentence-final interrogative particle"
+   "in; at; to (in 终于, 对于)"
+  ],
+  "meanings_ja": [
+   "～に・～において（终于・对于）"
   ],
   "strokes": 3,
   "radical": "二",
@@ -1640,6 +1916,8 @@
    "二",
    "亅"
   ],
+  "mnemonic": "Two 二 lines hooked 亅 together point to a place: 于 means 'in, at, to'.",
+  "mnemonic_ja": "二 本の線を鉤 亅 でつなぎ場所を示す。于＝～に、～において。",
   "examples": [
    "vocab:hsk3:guan1yu2-关于",
    "vocab:hsk3:zhong1yu2-终于"
@@ -1659,9 +1937,12 @@
    "cheng2"
   ],
   "meanings": [
-   "succeed",
-   "finish",
-   "complete"
+   "to become",
+   "to succeed; to complete"
+  ],
+  "meanings_ja": [
+   "～になる",
+   "成し遂げる"
   ],
   "strokes": 6,
   "radical": "戈",
@@ -1669,6 +1950,8 @@
    "丁",
    "戈"
   ],
+  "mnemonic": "A nail 丁 driven with a spear 戈 finishes the job: 成 means 'to become, to succeed'.",
+  "mnemonic_ja": "矛 戈 で釘 丁 を打ち込み仕上げる。成＝～になる、成し遂げる。",
   "examples": [
    "vocab:hsk3:wan2cheng2-完成",
    "vocab:hsk3:cheng2ji4-成绩"
@@ -1688,9 +1971,12 @@
    "jie2"
   ],
   "meanings": [
-   "knot",
-   "sturdy",
-   "bond"
+   "to tie; to conclude (in 结束, 结婚)",
+   "knot"
+  ],
+  "meanings_ja": [
+   "結ぶ・終える（结束・结婚）",
+   "結び目"
   ],
   "strokes": 9,
   "radical": "纟",
@@ -1698,6 +1984,8 @@
    "纟",
    "吉"
   ],
+  "mnemonic": "Thread 纟 tied in a lucky 吉 knot binds things together: 结 means 'to tie, to conclude'.",
+  "mnemonic_ja": "糸 纟 を縁起よく 吉 結ぶ。结＝結ぶ、終える。",
   "hint": "thread",
   "examples": [
    "vocab:hsk3:jie2shu4-结束",
@@ -1718,9 +2006,12 @@
    "shu4"
   ],
   "meanings": [
-   "bind",
-   "bunch",
-   "bundle"
+   "to bind; to end (in 结束)",
+   "bunch"
+  ],
+  "meanings_ja": [
+   "束ねる・終わる（结束）",
+   "束"
   ],
   "strokes": 7,
   "radical": "木",
@@ -1728,6 +2019,8 @@
    "木",
    "口"
   ],
+  "mnemonic": "Lumber 木 bound by a rope 口 is a finished bundle: 束 means 'to bind, to end'.",
+  "mnemonic_ja": "材木 木 を縄 口 で縛った束。束＝束ねる、終わる。",
   "hint": "Lumber 木 bound by rope 口",
   "examples": [
    "vocab:hsk3:jie2shu4-结束"
@@ -1747,8 +2040,10 @@
    "nu3"
   ],
   "meanings": [
-   "exert",
-   "strive"
+   "to strive (in 努力)"
+  ],
+  "meanings_ja": [
+   "努める（努力）"
   ],
   "strokes": 7,
   "radical": "力",
@@ -1756,6 +2051,8 @@
    "奴",
    "力"
   ],
+  "mnemonic": "A slave 奴 using all their strength 力 strives: 努 means 'to strive'.",
+  "mnemonic_ja": "奴 が力 力 の限り励む。努＝努める。",
   "hint": "strength",
   "examples": [
    "vocab:hsk3:nu3li4-努力"
@@ -1775,15 +2072,20 @@
    "li4"
   ],
   "meanings": [
-   "power",
-   "force",
-   "strength"
+   "strength; power",
+   "effort"
+  ],
+  "meanings_ja": [
+   "力",
+   "努力"
   ],
   "strokes": 2,
   "radical": "力",
   "components": [
    "丿"
   ],
+  "mnemonic": "The blade of a plow digging in: 力 means 'strength'.",
+  "mnemonic_ja": "土に食い込む鋤の刃。力＝力。",
   "hint": "A plow's head representing strength",
   "examples": [
    "vocab:hsk3:nu3li4-努力"
@@ -1803,9 +2105,12 @@
    "ban4"
   ],
   "meanings": [
-   "take care of (a matter)",
-   "establish",
-   "(law) to handle"
+   "to handle; to do",
+   "to set up (in 办公室)"
+  ],
+  "meanings_ja": [
+   "処理する・行う",
+   "事務（办公室）"
   ],
   "strokes": 4,
   "radical": "力",
@@ -1813,6 +2118,8 @@
    "力",
    "八"
   ],
+  "mnemonic": "Strength 力 with sweat flying 八 on both sides gets the job done: 办 means 'to handle'.",
+  "mnemonic_ja": "力 の両側に汗 八 が飛んで事を片付ける。办＝処理する。",
   "hint": "strength",
   "examples": [
    "vocab:hsk3:ban4fa3-办法",
@@ -1833,9 +2140,12 @@
    "fa3"
   ],
   "meanings": [
-   "law",
-   "method",
-   "way"
+   "method; way (in 办法)",
+   "law"
+  ],
+  "meanings_ja": [
+   "方法（办法）",
+   "法律"
   ],
   "strokes": 8,
   "radical": "氵",
@@ -1843,6 +2153,8 @@
    "氵",
    "去"
   ],
+  "mnemonic": "Water 氵 goes 去 the way the stream must: 法 means 'law, method'.",
+  "mnemonic_ja": "水 氵 が決まった道を行く 去。法＝法、方法。",
   "hint": "The course 去 followed by a stream 氵",
   "examples": [
    "vocab:hsk3:ban4fa3-办法"
@@ -1862,9 +2174,10 @@
    "te4"
   ],
   "meanings": [
-   "special",
-   "unique",
-   "distinguished"
+   "special; especially (in 特别)"
+  ],
+  "meanings_ja": [
+   "特別な（特别）"
   ],
   "strokes": 10,
   "radical": "牛",
@@ -1872,6 +2185,8 @@
    "牛",
    "寺"
   ],
+  "mnemonic": "An ox 牛 kept at the temple 寺 is special: 特 means 'special'.",
+  "mnemonic_ja": "寺 寺 に飼われる牛 牛 は特別。特＝特別な。",
   "hint": "ox",
   "examples": [
    "vocab:hsk3:te4bie2-特别"
@@ -1891,9 +2206,12 @@
    "nan2"
   ],
   "meanings": [
-   "difficult (to...)",
-   "problem",
-   "difficulty"
+   "difficult",
+   "unpleasant (in 难过, 难看)"
+  ],
+  "meanings_ja": [
+   "難しい",
+   "つらい・不快（难过）"
   ],
   "strokes": 10,
   "radical": "又",
@@ -1901,6 +2219,8 @@
    "又",
    "隹"
   ],
+  "mnemonic": "A hand 又 trying to catch a bird 隹 finds it hard: 难 means 'difficult'.",
+  "mnemonic_ja": "手 又 で鳥 隹 を捕まえるのは難しい。难＝難しい。",
   "hint": "A hand 又 trying to grasp at a bird 隹",
   "examples": [
    "vocab:hsk3:nan2-难",
@@ -1921,9 +2241,12 @@
    "zhu4"
   ],
   "meanings": [
-   "classifier for stakes, sums of money, transactions or beams of light",
-   "annotate",
-   "an annotation"
+   "to pay attention (in 注意)",
+   "to pour; to note"
+  ],
+  "meanings_ja": [
+   "注意する",
+   "注ぐ・注記する"
   ],
   "strokes": 8,
   "radical": "氵",
@@ -1931,6 +2254,8 @@
    "氵",
    "主"
   ],
+  "mnemonic": "Water 氵 poured onto the main 主 point: 注 means 'to pour, to pay attention'.",
+  "mnemonic_ja": "水 氵 を主 主 な一点に注ぐ。注＝注ぐ、注意する。",
   "hint": "water",
   "examples": [
    "vocab:hsk3:zhu4yi4-注意"
@@ -1950,9 +2275,12 @@
    "jiang3"
   ],
   "meanings": [
-   "speak",
-   "explain",
-   "negotiate"
+   "to speak; to explain",
+   "to stress"
+  ],
+  "meanings_ja": [
+   "話す・説明する",
+   "重んじる"
   ],
   "strokes": 6,
   "radical": "讠",
@@ -1960,6 +2288,8 @@
    "讠",
    "井"
   ],
+  "mnemonic": "Words 讠 gather round a well 井 as neighbors talk: 讲 means 'to speak, to explain'.",
+  "mnemonic_ja": "井戸 井 のまわりで言葉 讠 を交わす。讲＝話す、説明する。",
   "hint": "speech",
   "examples": [
    "vocab:hsk3:jiang3-讲"
@@ -1979,14 +2309,18 @@
    "wan4"
   ],
   "meanings": [
-   "ten thousand",
-   "a great number"
+   "ten thousand"
+  ],
+  "meanings_ja": [
+   "万"
   ],
   "strokes": 3,
   "radical": "一",
   "components": [
    "一"
   ],
+  "mnemonic": "A scorpion with its tail curled, once a swarm of ten thousand: 万 means 'ten thousand'.",
+  "mnemonic_ja": "尾を曲げたサソリ、群れは一万匹。万＝万。",
   "examples": [
    "vocab:hsk3:wan4-万"
   ]
@@ -2005,9 +2339,12 @@
    "yue4"
   ],
   "meanings": [
-   "exceed",
-   "climb over",
-   "surpass"
+   "the more… (越…越…)",
+   "to exceed; to cross"
+  ],
+  "meanings_ja": [
+   "～すればするほど",
+   "越える"
   ],
   "strokes": 12,
   "radical": "走",
@@ -2015,6 +2352,8 @@
    "走",
    "戉"
   ],
+  "mnemonic": "Running 走 with a halberd 戉 over the wall: 越 means 'to exceed, the more…'.",
+  "mnemonic_ja": "走 って矛 戉 を持ち壁を越える。越＝越える、～すればするほど。",
   "hint": "run",
   "examples": [
    "vocab:hsk3:yue4-越"
@@ -2034,9 +2373,12 @@
    "cheng2"
   ],
   "meanings": [
-   "city walls",
-   "city",
-   "town"
+   "city (in 城市)",
+   "city wall"
+  ],
+  "meanings_ja": [
+   "都市（城市）",
+   "城壁"
   ],
   "strokes": 9,
   "radical": "土",
@@ -2044,6 +2386,8 @@
    "土",
    "成"
   ],
+  "mnemonic": "Earth 土 piled up to complete 成 a wall makes a city: 城 means 'city'.",
+  "mnemonic_ja": "土 を積んで壁を完成 成 させた町。城＝都市。",
   "hint": "earth",
   "examples": [
    "vocab:hsk3:cheng2shi4-城市"
@@ -2063,9 +2407,12 @@
    "shi4"
   ],
   "meanings": [
-   "market",
-   "city",
-   "municipality (administrative unit)"
+   "city; municipality",
+   "market (in 超市)"
+  ],
+  "meanings_ja": [
+   "市",
+   "市場（超市）"
   ],
   "strokes": 5,
   "radical": "巾",
@@ -2073,6 +2420,8 @@
    "亠",
    "巾"
   ],
+  "mnemonic": "A banner 亠 over cloth 巾 stalls marks the market: 市 means 'city, market'.",
+  "mnemonic_ja": "旗 亠 と布 巾 の屋台が並ぶ市場。市＝市、市場。",
   "examples": [
    "vocab:hsk3:cheng2shi4-城市",
    "vocab:hsk3:chao1shi4-超市"
@@ -2092,9 +2441,12 @@
    "xiang3"
   ],
   "meanings": [
-   "echo",
-   "sound",
-   "noise"
+   "to sound; to ring",
+   "to influence (in 影响)"
+  ],
+  "meanings_ja": [
+   "鳴る",
+   "影響する"
   ],
   "strokes": 9,
   "radical": "口",
@@ -2102,6 +2454,8 @@
    "口",
    "向"
   ],
+  "mnemonic": "A mouth 口 shouting toward 向 the hills echoes back: 响 means 'to sound, to echo'.",
+  "mnemonic_ja": "口 が山に向かって 向 叫ぶとこだまが響く。响＝鳴る、響く。",
   "hint": "mouth",
   "examples": [
    "vocab:hsk3:ying3xiang3-影响"
@@ -2121,9 +2475,10 @@
    "xi4"
   ],
   "meanings": [
-   "trick",
-   "drama",
-   "play"
+   "play; drama (in 游戏, 京戏)"
+  ],
+  "meanings_ja": [
+   "劇・遊び（游戏）"
   ],
   "strokes": 6,
   "radical": "戈",
@@ -2131,6 +2486,8 @@
    "又",
    "戈"
   ],
+  "mnemonic": "A hand 又 twirls a spear 戈 for show: 戏 means 'play, drama'.",
+  "mnemonic_ja": "手 又 が矛 戈 を回して見せる芸。戏＝劇、遊び。",
   "hint": "A hand 又 doing tricks with a spear 戈",
   "examples": [
    "vocab:hsk3:you2xi4-游戏"
@@ -2151,14 +2508,19 @@
   ],
   "meanings": [
    "horse",
-   "horse or cavalry piece in Chinese chess",
-   "knight in Western chess"
+   "immediately (in 马上)"
+  ],
+  "meanings_ja": [
+   "馬",
+   "すぐに（马上）"
   ],
   "strokes": 3,
   "radical": "马",
   "components": [
    "一"
   ],
+  "mnemonic": "A horse galloping left with its mane streaming: 马 means 'horse'.",
+  "mnemonic_ja": "たてがみをなびかせ左へ駆ける馬。马＝馬。",
   "hint": "Simplified form of 馬, a horse galloping to the left",
   "examples": [
    "vocab:hsk3:ma3-马",
@@ -2179,8 +2541,12 @@
    "jiao4"
   ],
   "meanings": [
-   "compared to",
-   "(before an adjective) relatively"
+   "relatively; comparatively (in 比较)",
+   "to compare"
+  ],
+  "meanings_ja": [
+   "比較的（比较）",
+   "比べる"
   ],
   "strokes": 10,
   "radical": "车",
@@ -2188,6 +2554,8 @@
    "车",
    "交"
   ],
+  "mnemonic": "Two carts 车 cross 交 paths and get compared: 较 means 'relatively, to compare'.",
+  "mnemonic_ja": "車 车 が交差 交 して比べられる。较＝比較的、比べる。",
   "hint": "cart",
   "examples": [
    "vocab:hsk3:bi3jiao4-比较"
@@ -2207,9 +2575,10 @@
    "huan4"
   ],
   "meanings": [
-   "exchange",
-   "change (clothes etc)",
-   "substitute"
+   "to exchange; to change"
+  ],
+  "meanings_ja": [
+   "交換する・替える"
   ],
   "strokes": 10,
   "radical": "扌",
@@ -2217,6 +2586,8 @@
    "扌",
    "奂"
   ],
+  "mnemonic": "A hand 扌 swaps one dazzling 奂 thing for another: 换 means 'to exchange'.",
+  "mnemonic_ja": "手 扌 が華やかな 奂 物を交換する。换＝交換する。",
   "hint": "hand",
   "examples": [
    "vocab:hsk3:huan4-换"
@@ -2236,8 +2607,10 @@
    "zhong1"
   ],
   "meanings": [
-   "end",
-   "finish"
+   "end; finally (in 终于)"
+  ],
+  "meanings_ja": [
+   "終わり・ついに（终于）"
   ],
   "strokes": 8,
   "radical": "纟",
@@ -2245,6 +2618,8 @@
    "纟",
    "冬"
   ],
+  "mnemonic": "Thread 纟 runs out as winter 冬 ends the year: 终 means 'end, finally'.",
+  "mnemonic_ja": "糸 纟 が冬 冬 の終わりで尽きる。终＝終わり、ついに。",
   "hint": "thread",
   "examples": [
    "vocab:hsk3:zhong1yu2-终于"
@@ -2266,12 +2641,17 @@
   "meanings": [
    "face"
   ],
+  "meanings_ja": [
+   "顔"
+  ],
   "strokes": 11,
   "radical": "⺼",
   "components": [
    "⺼",
    "佥"
   ],
+  "mnemonic": "Flesh ⺼ that everyone 佥 looks at first is the face: 脸 means 'face'.",
+  "mnemonic_ja": "みんな 佥 が最初に見る肉 ⺼ の部分。脸＝顔。",
   "hint": "flesh",
   "examples": [
    "vocab:hsk3:lian3-脸"
@@ -2292,8 +2672,13 @@
   ],
   "meanings": [
    "mouth",
-   "classifier for things with mouths (people, domestic animals, cannons, wells etc)",
-   "classifier for bites or mouthfuls"
+   "opening; entrance",
+   "(classifier for people in a family)"
+  ],
+  "meanings_ja": [
+   "口",
+   "入口",
+   "（家族の人数の量詞）"
   ],
   "strokes": 3,
   "radical": "口",
@@ -2301,6 +2686,8 @@
    "冂",
    "一"
   ],
+  "mnemonic": "An open square mouth: 口 means 'mouth, opening'.",
+  "mnemonic_ja": "ぱっくり開いた四角い口。口＝口、入口。",
   "hint": "An open mouth",
   "examples": [
    "vocab:hsk3:kou3-口"
@@ -2320,9 +2707,12 @@
    "chu2"
   ],
   "meanings": [
-   "get rid of",
-   "remove",
-   "exclude"
+   "except; besides (in 除了)",
+   "to remove"
+  ],
+  "meanings_ja": [
+   "～を除いて（除了）",
+   "取り除く"
   ],
   "strokes": 9,
   "radical": "阝",
@@ -2330,6 +2720,8 @@
    "阝",
    "余"
   ],
+  "mnemonic": "The city 阝 clears away the extra 余: 除 means 'to remove, except'.",
+  "mnemonic_ja": "町 阝 が余分 余 を取り除く。除＝取り除く、～を除いて。",
   "hint": "The waste 余 produced by a city 阝",
   "examples": [
    "vocab:hsk3:chu2le5-除了"
@@ -2349,9 +2741,12 @@
    "zong3"
   ],
   "meanings": [
-   "sum up",
-   "in every case",
-   "anyway"
+   "always (in 总是)",
+   "overall; general"
+  ],
+  "meanings_ja": [
+   "いつも（总是）",
+   "総合的な"
   ],
   "strokes": 9,
   "radical": "心",
@@ -2360,6 +2755,8 @@
    "口",
    "心"
   ],
+  "mnemonic": "Many mouths 口 with sparks 丷 and one heart 心 always agree: 总 means 'always, overall'.",
+  "mnemonic_ja": "口 口 と火花 丷 と一つの心 心 がいつも一致。总＝いつも、総じて。",
   "hint": "Many mouths 口 speaking with one mind 心",
   "examples": [
    "vocab:hsk3:zong3shi4-总是"
@@ -2379,15 +2776,20 @@
    "shuang1"
   ],
   "meanings": [
-   "two",
-   "double",
-   "pair"
+   "pair (classifier)",
+   "double"
+  ],
+  "meanings_ja": [
+   "～組・～足（量詞）",
+   "二重の"
   ],
   "strokes": 4,
   "radical": "又",
   "components": [
    "又"
   ],
+  "mnemonic": "Two right hands 又又 side by side make a pair: 双 means 'pair'.",
+  "mnemonic_ja": "右手 又 が二つ並んで一組。双＝対、一組。",
   "hint": "Two hands 又 side-by-side",
   "examples": [
    "vocab:hsk3:shuang1-双"
@@ -2407,9 +2809,12 @@
    "tu1"
   ],
   "meanings": [
-   "dash",
-   "move forward quickly",
-   "bulge"
+   "sudden (in 突然)",
+   "to dash"
+  ],
+  "meanings_ja": [
+   "突然",
+   "突き出す"
   ],
   "strokes": 9,
   "radical": "穴",
@@ -2417,6 +2822,8 @@
    "穴",
    "犬"
   ],
+  "mnemonic": "A dog 犬 bursts out of a cave 穴 suddenly: 突 means 'sudden'.",
+  "mnemonic_ja": "犬 犬 が穴 穴 から突然飛び出す。突＝突然。",
   "hint": "A dog 犬 rushing out of a cave 穴",
   "examples": [
    "vocab:hsk3:tu1ran2-突然"
@@ -2436,15 +2843,20 @@
    "duan4"
   ],
   "meanings": [
-   "paragraph",
-   "section",
-   "segment"
+   "section; paragraph",
+   "(classifier for periods, passages)"
+  ],
+  "meanings_ja": [
+   "段落・区間",
+   "（時間・文章の区切りの量詞）"
   ],
   "strokes": 9,
   "radical": "殳",
   "components": [
    "殳"
   ],
+  "mnemonic": "A hand with a chisel 殳 cuts stone into sections: 段 means 'section, paragraph'.",
+  "mnemonic_ja": "のみ 殳 を持つ手が石を段に切る。段＝段落、区切り。",
   "hint": "A hand using a chisel 殳 to cut stone",
   "examples": [
    "vocab:hsk3:duan4-段"
@@ -2464,9 +2876,10 @@
    "jian3"
   ],
   "meanings": [
-   "check",
-   "examine",
-   "inspect"
+   "to inspect (in 检查)"
+  ],
+  "meanings_ja": [
+   "検査する（检查）"
   ],
   "strokes": 11,
   "radical": "木",
@@ -2474,6 +2887,8 @@
    "木",
    "佥"
   ],
+  "mnemonic": "Every 佥 piece of wood 木 is inspected: 检 means 'to inspect'.",
+  "mnemonic_ja": "木 木 を一本残らず 佥 調べる。检＝検査する。",
   "hint": "wood",
   "examples": [
    "vocab:hsk3:jian3cha2-检查"
@@ -2493,9 +2908,10 @@
    "cha2"
   ],
   "meanings": [
-   "research",
-   "check",
-   "investigate"
+   "to check; to look up"
+  ],
+  "meanings_ja": [
+   "調べる"
   ],
   "strokes": 9,
   "radical": "木",
@@ -2503,6 +2919,8 @@
    "木",
    "旦"
   ],
+  "mnemonic": "Check the wood 木 at dawn 旦 before building: 查 means 'to check, to look up'.",
+  "mnemonic_ja": "夜明け 旦 に木 木 を調べてから建てる。查＝調べる。",
   "examples": [
    "vocab:hsk3:jian3cha2-检查"
   ]
@@ -2521,9 +2939,12 @@
    "rong2"
   ],
   "meanings": [
-   "hold",
-   "contain",
-   "allow"
+   "easy (in 容易)",
+   "to contain; to allow"
+  ],
+  "meanings_ja": [
+   "易しい（容易）",
+   "容れる・許す"
   ],
   "strokes": 10,
   "radical": "宀",
@@ -2531,6 +2952,8 @@
    "宀",
    "谷"
   ],
+  "mnemonic": "A roof 宀 over a valley 谷 holds everything easily: 容 means 'to contain, easy'.",
+  "mnemonic_ja": "屋根 宀 が谷 谷 を覆い何でも容れる。容＝容れる、易しい。",
   "hint": "roof",
   "examples": [
    "vocab:hsk3:rong2yi4-容易"
@@ -2550,9 +2973,12 @@
    "yi4"
   ],
   "meanings": [
-   "easy",
-   "amiable",
-   "change"
+   "easy (in 容易)",
+   "to change (in 贸易)"
+  ],
+  "meanings_ja": [
+   "易しい（容易）",
+   "交易（贸易）"
   ],
   "strokes": 8,
   "radical": "日",
@@ -2560,6 +2986,8 @@
    "日",
    "勿"
   ],
+  "mnemonic": "The sun 日 changes without effort 勿: 易 means 'easy, to change'.",
+  "mnemonic_ja": "太陽 日 は難なく 勿 変わる。易＝易しい、変える。",
   "examples": [
    "vocab:hsk3:rong2yi4-容易"
   ]
@@ -2579,8 +3007,13 @@
   ],
   "meanings": [
    "root",
-   "basis",
-   "classifier for long slender objects, e.g. cigarettes, guitar strings"
+   "(classifier for long thin objects)",
+   "according to (in 根据)"
+  ],
+  "meanings_ja": [
+   "根",
+   "（細長い物の量詞）",
+   "～によれば（根据）"
   ],
   "strokes": 10,
   "radical": "木",
@@ -2588,6 +3021,8 @@
    "木",
    "艮"
   ],
+  "mnemonic": "A tree 木 held firmly 艮 in the ground by its root: 根 means 'root, basis'.",
+  "mnemonic_ja": "木 を地中にしっかり 艮 支える根。根＝根、根拠。",
   "hint": "tree",
   "examples": [
    "vocab:hsk3:gen1ju4-根据"
@@ -2607,9 +3042,10 @@
    "ju4"
   ],
   "meanings": [
-   "according to",
-   "act in accordance with",
-   "depend on"
+   "according to (in 根据)"
+  ],
+  "meanings_ja": [
+   "～に基づいて（根据）"
   ],
   "strokes": 11,
   "radical": "扌",
@@ -2617,6 +3053,8 @@
    "扌",
    "居"
   ],
+  "mnemonic": "A hand 扌 holds the place 居 it rests on: 据 means 'according to, based on'.",
+  "mnemonic_ja": "手 扌 が住まい 居 をよりどころにする。据＝～に基づいて。",
   "hint": "hand",
   "examples": [
    "vocab:hsk3:gen1ju4-根据"
@@ -2636,9 +3074,12 @@
    "ji4"
   ],
   "meanings": [
-   "record",
-   "note",
-   "memorize"
+   "to remember; to note down",
+   "record (in 记者, 日记)"
+  ],
+  "meanings_ja": [
+   "覚える・記録する",
+   "記録（记者・日记）"
   ],
   "strokes": 5,
   "radical": "讠",
@@ -2646,6 +3087,8 @@
    "讠",
    "己"
   ],
+  "mnemonic": "Words 讠 written for yourself 己 are a note: 记 means 'to remember, to record'.",
+  "mnemonic_ja": "自分 己 のために書く言葉 讠。记＝覚える、記録する。",
   "hint": "A private 己 note 讠; 己 also provides the pronunciation",
   "examples": [
    "vocab:hsk3:ji4de5-记得",
@@ -2666,7 +3109,10 @@
    "liang4"
   ],
   "meanings": [
-   "classifier for vehicles"
+   "(classifier for vehicles)"
+  ],
+  "meanings_ja": [
+   "～台（車の量詞）"
   ],
   "strokes": 11,
   "radical": "车",
@@ -2674,6 +3120,8 @@
    "车",
    "两"
   ],
+  "mnemonic": "Two 两 carts 车 roll by, counted one by one: 辆 is the classifier for vehicles.",
+  "mnemonic_ja": "車 车 が二 两 台通り過ぎる。辆＝車を数える「～台」。",
   "hint": "Two 两 carts 车; 两 also provides the pronunciation",
   "examples": [
    "vocab:hsk3:liang4-辆"
@@ -2693,9 +3141,12 @@
    "jian3"
   ],
   "meanings": [
-   "simple",
-   "uncomplicated",
-   "letter"
+   "simple (in 简单)",
+   "brief"
+  ],
+  "meanings_ja": [
+   "簡単な（简单）",
+   "簡潔な"
   ],
   "strokes": 13,
   "radical": "⺮",
@@ -2703,6 +3154,8 @@
    "⺮",
    "间"
   ],
+  "mnemonic": "Bamboo ⺮ slips with a gap 间 between words keep it simple: 简 means 'simple'.",
+  "mnemonic_ja": "竹 ⺮ の札に間 间 をあけて簡潔に書く。简＝簡単な。",
   "hint": "bamboo",
   "examples": [
    "vocab:hsk3:jian3dan1-简单"
@@ -2722,15 +3175,20 @@
    "dan1"
   ],
   "meanings": [
-   "bill",
-   "list",
-   "form"
+   "single; simple (in 简单)",
+   "list; form (in 菜单)"
+  ],
+  "meanings_ja": [
+   "単一の・簡単な（简单）",
+   "リスト（菜单）"
   ],
   "strokes": 8,
   "radical": "丷",
   "components": [
    "丷"
   ],
+  "mnemonic": "Two dots 丷 over a single flat list: 单 means 'single, list'.",
+  "mnemonic_ja": "点 丷 の下に一枚の平らなリスト。单＝単一の、リスト。",
   "examples": [
    "vocab:hsk3:jian3dan1-简单",
    "vocab:hsk3:cai4dan1-菜单"
@@ -2750,9 +3208,10 @@
    "ban4"
   ],
   "meanings": [
-   "half",
-   "semi-",
-   "incomplete"
+   "half"
+  ],
+  "meanings_ja": [
+   "半分"
   ],
   "strokes": 5,
   "radical": "十",
@@ -2760,6 +3219,8 @@
    "丷",
    "牛"
   ],
+  "mnemonic": "An ox 牛 split 丷 down the middle gives two halves: 半 means 'half'.",
+  "mnemonic_ja": "牛 牛 を真ん中で割って 丷 二つに。半＝半分。",
   "hint": "A cow 牛 splitting 丷 wood in half",
   "examples": [
    "vocab:hsk3:ban4-半"
@@ -2779,9 +3240,12 @@
    "yuan4"
   ],
   "meanings": [
-   "honest and prudent",
-   "be willing",
-   "wish (that sth may happen)"
+   "to be willing (in 愿意)",
+   "wish"
+  ],
+  "meanings_ja": [
+   "～したい（愿意）",
+   "願い"
   ],
   "strokes": 14,
   "radical": "心",
@@ -2789,6 +3253,8 @@
    "原",
    "心"
   ],
+  "mnemonic": "The heart 心 returns to its source 原 and wishes: 愿 means 'to be willing, wish'.",
+  "mnemonic_ja": "心 が源 原 に戻って願う。愿＝願う、～したい。",
   "hint": "heart",
   "examples": [
    "vocab:hsk3:yuan4yi4-愿意"
@@ -2808,9 +3274,12 @@
    "yin1"
   ],
   "meanings": [
-   "sound",
-   "noise",
-   "note (of musical scale)"
+   "sound (in 声音)",
+   "music (in 音乐)"
+  ],
+  "meanings_ja": [
+   "音（声音）",
+   "音楽"
   ],
   "strokes": 9,
   "radical": "音",
@@ -2818,6 +3287,8 @@
    "立",
    "日"
   ],
+  "mnemonic": "Standing 立 over the sun 日, a voice carries far: 音 means 'sound'.",
+  "mnemonic_ja": "太陽 日 の上に立ち 立 声を響かせる。音＝音。",
   "hint": "A tongue 立 forming a sound in the mouth 日",
   "examples": [
    "vocab:hsk3:yin1yue4-音乐",
@@ -2838,9 +3309,14 @@
    "bao1"
   ],
   "meanings": [
-   "cover",
-   "wrap",
-   "hold"
+   "bag",
+   "to wrap",
+   "bun (in 包子)"
+  ],
+  "meanings_ja": [
+   "かばん",
+   "包む",
+   "まんじゅう（包子）"
   ],
   "strokes": 5,
   "radical": "勹",
@@ -2848,6 +3324,8 @@
    "勹",
    "巳"
   ],
+  "mnemonic": "A wrapper 勹 swaddles a baby 巳: 包 means 'to wrap, bag'.",
+  "mnemonic_ja": "包み 勹 が赤ん坊 巳 をくるむ。包＝包む、かばん。",
   "hint": "To swaddle 勹 a baby 巳; 勹 also provides the pronunciation",
   "examples": [
    "vocab:hsk3:bao1-包",
@@ -2868,9 +3346,12 @@
    "lou2"
   ],
   "meanings": [
-   "house with more than 1 story",
-   "storied building",
-   "floor"
+   "building; storied building",
+   "floor; storey"
+  ],
+  "meanings_ja": [
+   "建物・ビル",
+   "階"
   ],
   "strokes": 13,
   "radical": "木",
@@ -2878,6 +3359,8 @@
    "木",
    "娄"
   ],
+  "mnemonic": "Wood 木 stacked floor upon floor 娄 makes a tall building: 楼 means 'building, floor'.",
+  "mnemonic_ja": "木 を階ごとに積み上げ 娄 た高い建物。楼＝ビル、階。",
   "hint": "wood",
   "examples": [
    "vocab:hsk3:lou2-楼"
@@ -2897,9 +3380,12 @@
    "qing1"
   ],
   "meanings": [
-   "(of water etc) clear",
-   "quiet",
-   "pure"
+   "clear (in 清楚)",
+   "clean; pure"
+  ],
+  "meanings_ja": [
+   "はっきりした（清楚）",
+   "清い"
   ],
   "strokes": 11,
   "radical": "氵",
@@ -2907,6 +3393,8 @@
    "氵",
    "青"
   ],
+  "mnemonic": "Water 氵 as clear as a blue-green 青 sky: 清 means 'clear, clean'.",
+  "mnemonic_ja": "水 氵 が青空 青 のように澄む。清＝澄んだ、清い。",
   "hint": "water",
   "examples": [
    "vocab:hsk3:qing1chu5-清楚"
@@ -2926,9 +3414,10 @@
    "chu5"
   ],
   "meanings": [
-   "distinct",
-   "clear",
-   "orderly"
+   "clear; distinct (in 清楚)"
+  ],
+  "meanings_ja": [
+   "はっきりした（清楚）"
   ],
   "strokes": 13,
   "radical": "木",
@@ -2936,6 +3425,8 @@
    "林",
    "疋"
   ],
+  "mnemonic": "A forest 林 with a clear footpath 疋 through it: 楚 means 'distinct, clear'.",
+  "mnemonic_ja": "林 林 にはっきりした小道 疋 が通る。楚＝はっきりした。",
   "examples": [
    "vocab:hsk3:qing1chu5-清楚"
   ]
@@ -2954,9 +3445,14 @@
    "zhao4"
   ],
   "meanings": [
-   "shine",
-   "illuminate",
-   "according to"
+   "to take (a photo); photo (in 照片)",
+   "according to",
+   "to shine"
+  ],
+  "meanings_ja": [
+   "写真を撮る（照片）",
+   "～に従って",
+   "照らす"
   ],
   "strokes": 13,
   "radical": "灬",
@@ -2964,6 +3460,8 @@
    "昭",
    "灬"
   ],
+  "mnemonic": "Bright light 昭 and fire 灬 shine on the subject of a photo: 照 means 'to shine, photo'.",
+  "mnemonic_ja": "明るい光 昭 と火 灬 が被写体を照らす。照＝照らす、写真。",
   "hint": "fire",
   "examples": [
    "vocab:hsk3:zhao4pian4-照片",
@@ -2984,13 +3482,20 @@
    "pian4"
   ],
   "meanings": [
-   "thin piece",
-   "flake",
-   "a slice"
+   "slice; sheet",
+   "(classifier for slices, areas)",
+   "film (in 照片, 片子)"
+  ],
+  "meanings_ja": [
+   "薄片",
+   "（薄い物・面の量詞）",
+   "写真・映像（照片）"
   ],
   "strokes": 4,
   "radical": "片",
   "components": [],
+  "mnemonic": "Half a tree trunk split lengthwise is a thin slab: 片 means 'slice, piece'.",
+  "mnemonic_ja": "木の幹を縦に割った薄い板。片＝薄片、一切れ。",
   "hint": "Half of a tree trunk; compare 爿",
   "examples": [
    "vocab:hsk3:zhao4pian4-照片"
@@ -3011,8 +3516,11 @@
   ],
   "meanings": [
    "silver",
-   "silver-colored",
-   "relating to money or currency"
+   "bank (in 银行)"
+  ],
+  "meanings_ja": [
+   "銀",
+   "銀行"
   ],
   "strokes": 11,
   "radical": "钅",
@@ -3020,6 +3528,8 @@
    "钅",
    "艮"
   ],
+  "mnemonic": "Metal 钅 that holds its shine firmly 艮 is silver: 银 means 'silver, bank'.",
+  "mnemonic_ja": "輝きをしっかり 艮 保つ金属 钅。银＝銀、銀行。",
   "hint": "money",
   "examples": [
    "vocab:hsk3:yin2hang2-银行"
@@ -3039,9 +3549,14 @@
    "gu4"
   ],
   "meanings": [
-   "happening",
-   "instance",
-   "reason"
+   "story (in 故事)",
+   "reason",
+   "old; former"
+  ],
+  "meanings_ja": [
+   "物語（故事）",
+   "理由",
+   "古い"
   ],
   "strokes": 9,
   "radical": "攵",
@@ -3049,6 +3564,8 @@
    "古",
    "攵"
   ],
+  "mnemonic": "Old 古 events tapped out 攵 one by one make a story: 故 means 'story, reason'.",
+  "mnemonic_ja": "古 い出来事を一つずつ叩いて 攵 語る。故＝物語、理由。",
   "hint": "tap",
   "examples": [
    "vocab:hsk3:gu4shi5-故事"
@@ -3068,9 +3585,10 @@
    "ban1"
   ],
   "meanings": [
-   "sort",
-   "kind",
-   "class"
+   "sort; kind (in 一般)"
+  ],
+  "meanings_ja": [
+   "種類・ふつう（一般）"
   ],
   "strokes": 10,
   "radical": "舟",
@@ -3078,6 +3596,8 @@
    "舟",
    "殳"
   ],
+  "mnemonic": "A tool 殳 sorts goods on a boat 舟 into kinds: 般 means 'sort, kind'.",
+  "mnemonic_ja": "舟 舟 の上で道具 殳 を使い品を種類分け。般＝種類、ふつう。",
   "hint": "Using a tool 殳 to sort items on a tray 舟",
   "examples": [
    "vocab:hsk3:yi1ban1-一般"
@@ -3097,9 +3617,14 @@
    "wen2"
   ],
   "meanings": [
-   "hear",
-   "news",
-   "well-known"
+   "news (in 新闻)",
+   "to smell",
+   "to hear"
+  ],
+  "meanings_ja": [
+   "ニュース（新闻）",
+   "嗅ぐ",
+   "聞く"
   ],
   "strokes": 9,
   "radical": "门",
@@ -3107,6 +3632,8 @@
    "门",
    "耳"
   ],
+  "mnemonic": "An ear 耳 at the door 门 hears the news: 闻 means 'to hear, news'.",
+  "mnemonic_ja": "門 门 に耳 耳 を当ててニュースを聞く。闻＝聞く、ニュース。",
   "hint": "ear",
   "examples": [
    "vocab:hsk3:xin1wen2-新闻"
@@ -3126,15 +3653,20 @@
    "sheng1"
   ],
   "meanings": [
-   "sound",
-   "voice",
-   "tone"
+   "sound; voice (in 声音)",
+   "tone (of a syllable)"
+  ],
+  "meanings_ja": [
+   "声・音（声音）",
+   "声調"
   ],
   "strokes": 7,
   "radical": "士",
   "components": [
    "士"
   ],
+  "mnemonic": "A scholar 士 calling out across the hall: 声 means 'sound, voice'.",
+  "mnemonic_ja": "士 が広間に声を張り上げる。声＝声、音。",
   "hint": "Simplified form of 聲; see that character for the etymology",
   "examples": [
    "vocab:hsk3:sheng1yin1-声音"
@@ -3154,8 +3686,10 @@
    "shi4"
   ],
   "meanings": [
-   "show",
-   "reveal"
+   "to show (in 表示)"
+  ],
+  "meanings_ja": [
+   "示す（表示）"
   ],
   "strokes": 5,
   "radical": "示",
@@ -3163,6 +3697,8 @@
    "二",
    "小"
   ],
+  "mnemonic": "An altar 二 with legs 小 displays the offering: 示 means 'to show'.",
+  "mnemonic_ja": "脚 小 のついた祭壇 二 が供え物を見せる。示＝示す。",
   "hint": "An altar",
   "examples": [
    "vocab:hsk3:biao3shi4-表示"
@@ -3182,9 +3718,14 @@
    "li4"
   ],
   "meanings": [
+   "history (in 历史)",
    "calendar",
-   "experience",
-   "undergo"
+   "to experience"
+  ],
+  "meanings_ja": [
+   "歴史",
+   "暦",
+   "経験する"
   ],
   "strokes": 4,
   "radical": "厂",
@@ -3192,6 +3733,8 @@
    "厂",
    "力"
   ],
+  "mnemonic": "Strength 力 stored under a cliff 厂 through the ages: 历 means 'history, calendar'.",
+  "mnemonic_ja": "崖 厂 の下に力 力 を蓄えた年月。历＝歴史、暦。",
   "hint": "calendar",
   "examples": [
    "vocab:hsk3:li4shi3-历史"
@@ -3211,9 +3754,10 @@
    "shi3"
   ],
   "meanings": [
-   "history",
-   "annals",
-   "title of an official historian in ancient China"
+   "history (in 历史)"
+  ],
+  "meanings_ja": [
+   "歴史"
   ],
   "strokes": 5,
   "radical": "口",
@@ -3221,6 +3765,8 @@
    "口",
    "乂"
   ],
+  "mnemonic": "A hand 乂 holds a pen to a mouth 口 and records what was said: 史 means 'history'.",
+  "mnemonic_ja": "手 乂 が筆で口 口 の言葉を記録する。史＝歴史。",
   "hint": "A hand 乂 using a pen to record a history",
   "examples": [
    "vocab:hsk3:li4shi3-历史"
@@ -3240,7 +3786,10 @@
    "ku1"
   ],
   "meanings": [
-   "cry"
+   "to cry; to weep"
+  ],
+  "meanings_ja": [
+   "泣く"
   ],
   "strokes": 10,
   "radical": "口",
@@ -3248,6 +3797,8 @@
    "口",
    "犬"
   ],
+  "mnemonic": "Two eyes 口口 and a dog 犬 howling: 哭 means 'to cry'.",
+  "mnemonic_ja": "二つの目 口口 と遠吠えする犬 犬。哭＝泣く。",
   "hint": "To shed a tear from your eyes 口 over a person 犬",
   "examples": [
    "vocab:hsk3:ku1-哭"
@@ -3267,9 +3818,10 @@
    "gan3"
   ],
   "meanings": [
-   "dare",
-   "daring",
-   "(polite) may I venture"
+   "to dare"
+  ],
+  "meanings_ja": [
+   "あえて～する"
   ],
   "strokes": 11,
   "radical": "攵",
@@ -3277,6 +3829,8 @@
    "耳",
    "攵"
   ],
+  "mnemonic": "A hand with a stick 攵 strikes the beast by the ear 耳: 敢 means 'to dare'.",
+  "mnemonic_ja": "棒を持つ手 攵 が獣の耳 耳 を打つ。敢＝あえて～する。",
   "hint": "A hand with a stick 攵 striking a beast 耳",
   "examples": [
    "vocab:hsk3:gan3-敢"
@@ -3296,9 +3850,12 @@
    "yi4"
   ],
   "meanings": [
-   "comment on",
-   "discuss",
-   "suggest"
+   "to discuss (in 会议)",
+   "to suggest (in 建议)"
+  ],
+  "meanings_ja": [
+   "議論する（会议）",
+   "提案する（建议）"
   ],
   "strokes": 5,
   "radical": "讠",
@@ -3306,6 +3863,8 @@
    "讠",
    "义"
   ],
+  "mnemonic": "Words 讠 about what is right 义 are a discussion: 议 means 'to discuss, to suggest'.",
+  "mnemonic_ja": "正義 义 について言葉 讠 を交わす。议＝議論する、提案する。",
   "hint": "speech",
   "examples": [
    "vocab:hsk3:hui4yi4-会议"
@@ -3326,8 +3885,11 @@
   ],
   "meanings": [
    "low",
-   "beneath",
-   "lower (one's head)"
+   "to lower"
+  ],
+  "meanings_ja": [
+   "低い",
+   "下げる"
   ],
   "strokes": 7,
   "radical": "亻",
@@ -3335,6 +3897,8 @@
    "亻",
    "氐"
   ],
+  "mnemonic": "A person 亻 bending to the ground 氐 is low: 低 means 'low'.",
+  "mnemonic_ja": "人 亻 が地面 氐 まで身をかがめる。低＝低い。",
   "examples": [
    "vocab:hsk3:di1-低"
   ]
@@ -3353,15 +3917,22 @@
    "jie2"
   ],
   "meanings": [
-   "joint",
-   "solar term (one of the 24 divisions of the year in the traditional Chinese calendar)",
-   "seasonal festival"
+   "festival; holiday",
+   "section; joint",
+   "(classifier for class periods)"
+  ],
+  "meanings_ja": [
+   "祭り・祝日",
+   "節",
+   "（授業のコマの量詞）"
   ],
   "strokes": 5,
   "radical": "艹",
   "components": [
    "艹"
   ],
+  "mnemonic": "Grass 艹 with a joint, like a bamboo segment, marks a festival: 节 means 'joint, festival'.",
+  "mnemonic_ja": "草 艹 の節、竹の節目が祭りの区切り。节＝節、祭り。",
   "hint": "Simplified form of 節; sections of bamboo ⺮",
   "examples": [
    "vocab:hsk3:jie2mu4-节目",
@@ -3383,8 +3954,13 @@
   ],
   "meanings": [
    "eye",
-   "eye (of a net)",
-   "mesh size"
+   "item (in 节目)",
+   "purpose (in 目的)"
+  ],
+  "meanings_ja": [
+   "目",
+   "項目（节目）",
+   "目的"
   ],
   "strokes": 5,
   "radical": "目",
@@ -3392,6 +3968,8 @@
    "口",
    "二"
   ],
+  "mnemonic": "An eye drawn on its side, pupil in the middle: 目 means 'eye'.",
+  "mnemonic_ja": "横に立てた目、真ん中に瞳。目＝目。",
   "hint": "An eye drawn on its side",
   "examples": [
    "vocab:hsk3:jie2mu4-节目"
@@ -3411,9 +3989,10 @@
    "jian4"
   ],
   "meanings": [
-   "healthy",
-   "invigorate",
-   "strengthen"
+   "healthy (in 健康)"
+  ],
+  "meanings_ja": [
+   "健康な"
   ],
   "strokes": 10,
   "radical": "亻",
@@ -3421,6 +4000,8 @@
    "亻",
    "建"
   ],
+  "mnemonic": "A person 亻 strong enough to build 建 is healthy: 健 means 'healthy'.",
+  "mnemonic_ja": "建 てる力のある人 亻 は健康。健＝健康な。",
   "hint": "Someone 亻 who can build 建 things; 建 also provides the pronunciation",
   "examples": [
    "vocab:hsk3:jian4kang1-健康"
@@ -3440,9 +4021,10 @@
    "kang1"
   ],
   "meanings": [
-   "healthy",
-   "peaceful",
-   "abundant"
+   "healthy; well (in 健康)"
+  ],
+  "meanings_ja": [
+   "健康な"
   ],
   "strokes": 11,
   "radical": "广",
@@ -3450,6 +4032,8 @@
    "广",
    "隶"
   ],
+  "mnemonic": "A house 广 with a servant 隶 to help is well and at peace: 康 means 'healthy, well'.",
+  "mnemonic_ja": "家 广 に召使い 隶 がいて安らか。康＝健康な、安らか。",
   "hint": "A home 广 with a servant 隶",
   "examples": [
    "vocab:hsk3:jian4kang1-健康"
@@ -3469,9 +4053,14 @@
    "cha4"
   ],
   "meanings": [
-   "different",
-   "wrong",
-   "fall short"
+   "poor; inferior",
+   "to differ; to fall short",
+   "difference"
+  ],
+  "meanings_ja": [
+   "劣っている",
+   "差がある・足りない",
+   "差"
   ],
   "strokes": 9,
   "radical": "工",
@@ -3479,6 +4068,8 @@
    "羊",
    "工"
   ],
+  "mnemonic": "Work 工 done by a sheep 羊 falls short: 差 means 'poor, to differ'.",
+  "mnemonic_ja": "羊 羊 のした仕事 工 は劣る。差＝劣る、差がある。",
   "hint": "Work 工 done by a sheep 羊; incompetence",
   "examples": [
    "vocab:hsk3:cha4-差"
@@ -3498,9 +4089,10 @@
    "hun1"
   ],
   "meanings": [
-   "to get married",
-   "marriage",
-   "wedding"
+   "marriage (in 结婚)"
+  ],
+  "meanings_ja": [
+   "結婚"
   ],
   "strokes": 11,
   "radical": "女",
@@ -3508,6 +4100,8 @@
    "女",
    "昏"
   ],
+  "mnemonic": "A woman 女 wed at dusk 昏, the old hour for weddings: 婚 means 'marriage'.",
+  "mnemonic_ja": "女 が夕暮れ 昏 に嫁ぐ、昔の婚礼の時刻。婚＝結婚。",
   "hint": "woman",
   "examples": [
    "vocab:hsk3:jie2hun1-结婚"
@@ -3527,9 +4121,12 @@
    "duan3"
   ],
   "meanings": [
-   "short",
-   "brief",
-   "lack"
+   "short (in length or time)",
+   "shortcoming"
+  ],
+  "meanings_ja": [
+   "短い",
+   "短所"
   ],
   "strokes": 12,
   "radical": "矢",
@@ -3537,6 +4134,8 @@
    "矢",
    "豆"
   ],
+  "mnemonic": "An arrow 矢 no longer than a bean 豆 pot is short: 短 means 'short'.",
+  "mnemonic_ja": "豆 豆 の器ほどの長さしかない矢 矢。短＝短い。",
   "hint": "dart",
   "examples": [
    "vocab:hsk3:duan3-短"
@@ -3556,9 +4155,10 @@
    "hu1"
   ],
   "meanings": [
-   "(classical particle similar to 于) in",
-   "at",
-   "from"
+   "(particle, in 几乎, 似乎)"
+  ],
+  "meanings_ja": [
+   "（助詞、几乎・似乎）"
   ],
   "strokes": 5,
   "radical": "丿",
@@ -3566,6 +4166,8 @@
    "丿",
    "丷"
   ],
+  "mnemonic": "A stroke 丿 over two dots 丷 trails off like a sigh: 乎 is the particle in 几乎.",
+  "mnemonic_ja": "一画 丿 と点 丷 がため息のように消える。乎＝几乎などの助詞。",
   "examples": [
    "vocab:hsk3:ji1hu1-几乎"
   ]
@@ -3584,8 +4186,12 @@
    "fu4"
   ],
   "meanings": [
-   "add",
-   "be close to"
+   "nearby (in 附近)",
+   "to attach"
+  ],
+  "meanings_ja": [
+   "近く（附近）",
+   "付ける"
   ],
   "strokes": 7,
   "radical": "阝",
@@ -3593,6 +4199,8 @@
    "阝",
    "付"
   ],
+  "mnemonic": "A hill 阝 you can hand over to 付 is right nearby: 附 means 'nearby, to attach'.",
+  "mnemonic_ja": "手渡せる 付 ほど近い丘 阝。附＝近く、付ける。",
   "hint": "place",
   "examples": [
    "vocab:hsk3:fu4jin4-附近"
@@ -3613,8 +4221,11 @@
   ],
   "meanings": [
    "foot",
-   "leg (of an animal or an object)",
-   "base (of an object)"
+   "base; leg (of furniture)"
+  ],
+  "meanings_ja": [
+   "足",
+   "脚部"
   ],
   "strokes": 11,
   "radical": "⺼",
@@ -3622,6 +4233,8 @@
    "⺼",
    "却"
   ],
+  "mnemonic": "The flesh ⺼ that steps back 却 is the foot: 脚 means 'foot, leg'.",
+  "mnemonic_ja": "後ろに退く 却 肉 ⺼ の部分。脚＝足。",
   "hint": "flesh",
   "examples": [
    "vocab:hsk3:jiao3-脚"
@@ -3641,9 +4254,14 @@
    "zhu3"
   ],
   "meanings": [
-   "owner",
-   "master",
-   "host"
+   "main; principal (in 主要)",
+   "master; host",
+   "to advocate"
+  ],
+  "meanings_ja": [
+   "主な（主要）",
+   "主人",
+   "主張する"
   ],
   "strokes": 5,
   "radical": "丶",
@@ -3651,6 +4269,8 @@
    "丶",
    "王"
   ],
+  "mnemonic": "A flame 丶 on top of the lamp 王 is the master of the house: 主 means 'master, main'.",
+  "mnemonic_ja": "灯 王 の上の炎 丶 が家の主。主＝主人、主な。",
   "hint": "A lamp 王 with a flame 丶",
   "examples": [
    "vocab:hsk3:zhu3yao4-主要"
@@ -3670,9 +4290,10 @@
    "yu4"
   ],
   "meanings": [
-   "to meet",
-   "to encounter",
-   "to come across"
+   "to meet; to encounter (in 遇到)"
+  ],
+  "meanings_ja": [
+   "出会う（遇到）"
   ],
   "strokes": 12,
   "radical": "辶",
@@ -3680,6 +4301,8 @@
    "辶",
    "禺"
   ],
+  "mnemonic": "Walking 辶 you bump into a monkey 禺: 遇 means 'to meet, to encounter'.",
+  "mnemonic_ja": "歩いて 辶 いると猿 禺 に出くわす。遇＝出会う。",
   "hint": "walk",
   "examples": [
    "vocab:hsk3:yu4dao4-遇到"
@@ -3699,9 +4322,14 @@
    "qing1"
   ],
   "meanings": [
-   "light",
-   "easy",
+   "light (in weight)",
+   "young (in 年轻)",
    "gentle"
+  ],
+  "meanings_ja": [
+   "軽い",
+   "若い（年轻）",
+   "穏やかな"
   ],
   "strokes": 9,
   "radical": "车",
@@ -3710,6 +4338,8 @@
    "又",
    "工"
   ],
+  "mnemonic": "A cart 车 a hand 又 can lift with little work 工 is light: 轻 means 'light'.",
+  "mnemonic_ja": "手 又 で楽に 工 持ち上がる車 车。轻＝軽い。",
   "hint": "cart",
   "examples": [
    "vocab:hsk3:nian2qing1-年轻"
@@ -3729,13 +4359,18 @@
    "jiu3"
   ],
   "meanings": [
-   "(of a period of time) long"
+   "long (time)"
+  ],
+  "meanings_ja": [
+   "長い（時間）"
   ],
   "strokes": 3,
   "radical": "丿",
   "components": [
    "勹"
   ],
+  "mnemonic": "A person 勹 held back by a stroke stays a long time: 久 means 'long (time)'.",
+  "mnemonic_ja": "人 勹 が一画に引き止められ長居する。久＝長い（時間）。",
   "examples": [
    "vocab:hsk3:jiu3-久"
   ]
@@ -3754,9 +4389,12 @@
    "hua4"
   ],
   "meanings": [
-   "draw",
-   "picture",
-   "draw (a line) (variant of 划)"
+   "to draw; to paint",
+   "painting; picture"
+  ],
+  "meanings_ja": [
+   "描く",
+   "絵"
   ],
   "strokes": 8,
   "radical": "田",
@@ -3765,6 +4403,8 @@
    "凵",
    "田"
   ],
+  "mnemonic": "A field 田 in a frame 凵 under one 一 line is a picture on an easel: 画 means 'to draw'.",
+  "mnemonic_ja": "枠 凵 の中の田 田 と上の線 一 が画架の絵。画＝描く、絵。",
   "hint": "A painting on an easel; compare 畫, which includes the brush",
   "examples": [
    "vocab:hsk3:hua4-画"
@@ -3784,7 +4424,10 @@
    "yan3"
   ],
   "meanings": [
-   "perform (a play etc)"
+   "to perform; to act (in 表演)"
+  ],
+  "meanings_ja": [
+   "演じる（表演）"
   ],
   "strokes": 14,
   "radical": "氵",
@@ -3792,6 +4435,8 @@
    "氵",
    "寅"
   ],
+  "mnemonic": "Water 氵 flows through the whole tiger-hour 寅 show: 演 means 'to perform'.",
+  "mnemonic_ja": "水 氵 が寅の刻 寅 の舞台を流れる。演＝演じる。",
   "hint": "water",
   "examples": [
    "vocab:hsk3:biao3yan3-表演"
@@ -3811,9 +4456,12 @@
    "gang1"
   ],
   "meanings": [
-   "exactly",
-   "barely",
-   "just"
+   "just; a moment ago (in 刚才)",
+   "exactly"
+  ],
+  "meanings_ja": [
+   "～したばかり（刚才）",
+   "ちょうど"
   ],
   "strokes": 6,
   "radical": "刂",
@@ -3821,6 +4469,8 @@
    "冈",
    "刂"
   ],
+  "mnemonic": "A knife 刂 just struck the ridge 冈: 刚 means 'just now, exactly'.",
+  "mnemonic_ja": "刀 刂 が尾根 冈 をたった今打った。刚＝～したばかり。",
   "hint": "knife",
   "examples": [
    "vocab:hsk3:gang1cai2-刚才"
@@ -3840,9 +4490,12 @@
    "huan2"
   ],
   "meanings": [
-   "ring",
-   "hoop",
-   "loop"
+   "ring; link",
+   "surroundings (in 环境)"
+  ],
+  "meanings_ja": [
+   "輪",
+   "環境"
   ],
   "strokes": 8,
   "radical": "王",
@@ -3850,6 +4503,8 @@
    "王",
    "不"
   ],
+  "mnemonic": "Jade 王 that is not 不 a line but a ring: 环 means 'ring, surroundings'.",
+  "mnemonic_ja": "線では 不 なく輪になった玉 王。环＝輪、環境。",
   "hint": "jade",
   "examples": [
    "vocab:hsk3:huan2jing4-环境"
@@ -3869,9 +4524,12 @@
    "jing4"
   ],
   "meanings": [
-   "border",
-   "place",
-   "condition"
+   "environment; situation (in 环境)",
+   "border"
+  ],
+  "meanings_ja": [
+   "環境・境遇",
+   "境界"
   ],
   "strokes": 14,
   "radical": "土",
@@ -3879,6 +4537,8 @@
    "土",
    "竟"
   ],
+  "mnemonic": "Earth 土 ends 竟 at the border: 境 means 'border, environment'.",
+  "mnemonic_ja": "土 が終わる 竟 ところが境。境＝境界、環境。",
   "hint": "earth",
   "examples": [
    "vocab:hsk3:huan2jing4-环境"
@@ -3898,9 +4558,10 @@
    "zhu4"
   ],
   "meanings": [
-   "pray for",
-   "wish (sb bon voyage, happy birthday etc)",
-   "person who invokes the spirits during sacrificial ceremonies"
+   "to wish (sb well); to congratulate"
+  ],
+  "meanings_ja": [
+   "祝う・～を願う"
   ],
   "strokes": 9,
   "radical": "礻",
@@ -3908,6 +4569,8 @@
    "礻",
    "兄"
   ],
+  "mnemonic": "An elder brother 兄 praying at the altar 礻 wishes you well: 祝 means 'to wish'.",
+  "mnemonic_ja": "兄 兄 が祭壇 礻 で祈り幸せを願う。祝＝祝う、願う。",
   "hint": "A person 兄 praying before an altar 礻",
   "examples": [
    "vocab:hsk3:zhu4-祝"
@@ -3927,9 +4590,12 @@
    "ceng2"
   ],
   "meanings": [
-   "pile on top of one another",
-   "layer",
-   "floor (of a building)"
+   "floor; storey (classifier)",
+   "layer"
+  ],
+  "meanings_ja": [
+   "～階（量詞）",
+   "層"
   ],
   "strokes": 7,
   "radical": "尸",
@@ -3937,6 +4603,8 @@
    "尸",
    "云"
   ],
+  "mnemonic": "A body 尸 stacked like clouds 云, layer on layer: 层 means 'layer, floor'.",
+  "mnemonic_ja": "屋根 尸 の下に雲 云 が層をなす。层＝層、階。",
   "hint": "Simplified form of 層; 曾 provides the pronunciation",
   "examples": [
    "vocab:hsk3:ceng2-层"
@@ -3956,8 +4624,10 @@
    "tui3"
   ],
   "meanings": [
-   "leg",
-   "hip bone"
+   "leg"
+  ],
+  "meanings_ja": [
+   "脚"
   ],
   "strokes": 13,
   "radical": "⺼",
@@ -3965,6 +4635,8 @@
    "⺼",
    "退"
   ],
+  "mnemonic": "The flesh ⺼ you use to walk back 退: 腿 means 'leg'.",
+  "mnemonic_ja": "退く 退 ときに使う肉 ⺼。腿＝脚。",
   "hint": "Flesh ⺼ used to walk 退; 退 also provides the pronunciation",
   "examples": [
    "vocab:hsk3:tui3-腿"
@@ -3985,8 +4657,11 @@
   ],
   "meanings": [
    "bad",
-   "spoiled",
-   "broken"
+   "broken; spoiled"
+  ],
+  "meanings_ja": [
+   "悪い",
+   "壊れた"
   ],
   "strokes": 7,
   "radical": "土",
@@ -3994,6 +4669,8 @@
    "土",
    "不"
   ],
+  "mnemonic": "Earth 土 that will not 不 hold is bad: 坏 means 'bad, broken'.",
+  "mnemonic_ja": "持ちこたえ 不 ない土 土 は悪い。坏＝悪い、壊れた。",
   "hint": "earth",
   "examples": [
    "vocab:hsk3:huai4-坏"
@@ -4015,12 +4692,17 @@
   "meanings": [
    "shoe"
   ],
+  "meanings_ja": [
+   "靴"
+  ],
   "strokes": 15,
   "radical": "革",
   "components": [
    "革",
    "圭"
   ],
+  "mnemonic": "Leather 革 shaped over a jade tablet 圭 makes a shoe: 鞋 means 'shoe'.",
+  "mnemonic_ja": "革 革 を玉 圭 の型にかぶせた靴。鞋＝靴。",
   "hint": "leather",
   "examples": [
    "vocab:hsk3:xie2-鞋"
@@ -4040,9 +4722,12 @@
    "guan4"
   ],
   "meanings": [
-   "accustomed to",
-   "used to",
-   "indulge"
+   "accustomed (in 习惯)",
+   "to spoil (a child)"
+  ],
+  "meanings_ja": [
+   "慣れる（习惯）",
+   "甘やかす"
   ],
   "strokes": 11,
   "radical": "忄",
@@ -4050,6 +4735,8 @@
    "忄",
    "贯"
   ],
+  "mnemonic": "A heart 忄 strung 贯 on the same routine every day: 惯 means 'accustomed'.",
+  "mnemonic_ja": "心 忄 が毎日同じことに貫かれる 贯。惯＝慣れる。",
   "hint": "heart",
   "examples": [
    "vocab:hsk3:xi2guan4-习惯"
@@ -4069,9 +4756,10 @@
    "bian4"
   ],
   "meanings": [
-   "change",
-   "become different",
-   "transform"
+   "to change; to become (in 变化)"
+  ],
+  "meanings_ja": [
+   "変わる（变化）"
   ],
   "strokes": 8,
   "radical": "又",
@@ -4079,6 +4767,8 @@
    "亦",
    "又"
   ],
+  "mnemonic": "Also 亦 the hand 又 changes what it touches: 变 means 'to change'.",
+  "mnemonic_ja": "手 又 が触れたものを次々 亦 変える。变＝変わる。",
   "examples": [
    "vocab:hsk3:bian4hua4-变化"
   ]
@@ -4097,9 +4787,10 @@
    "hua4"
   ],
   "meanings": [
-   "make into",
-   "change into",
-   "-ization"
+   "to change; -ize (in 变化, 文化)"
+  ],
+  "meanings_ja": [
+   "変化する・～化（变化・文化）"
   ],
   "strokes": 4,
   "radical": "匕",
@@ -4107,6 +4798,8 @@
    "亻",
    "匕"
   ],
+  "mnemonic": "A person 亻 next to a figure flipped upside down 匕 has transformed: 化 means 'to change'.",
+  "mnemonic_ja": "人 亻 の隣に逆さの人 匕、変身した。化＝変化する。",
   "examples": [
    "vocab:hsk3:bian4hua4-变化",
    "vocab:hsk3:wen2hua4-文化"
@@ -4126,9 +4819,12 @@
    "zhou1"
   ],
   "meanings": [
-   "make a circuit",
-   "circle",
-   "circumference"
+   "week (in 周末)",
+   "circumference; around"
+  ],
+  "meanings_ja": [
+   "週（周末）",
+   "周囲"
   ],
   "strokes": 8,
   "radical": "口",
@@ -4137,6 +4833,8 @@
    "土",
    "口"
   ],
+  "mnemonic": "A border 冂 around land 土 with a well 口, one full circle: 周 means 'week, around'.",
+  "mnemonic_ja": "井戸 口 のある土地 土 を囲む 冂 ひと回り。周＝週、周囲。",
   "hint": "Border 冂 around land 土 with a well 口",
   "examples": [
    "vocab:hsk3:zhou1mo4-周末"
@@ -4156,9 +4854,12 @@
    "mo4"
   ],
   "meanings": [
-   "tip",
-   "end",
-   "final stage"
+   "end (in 周末)",
+   "tip"
+  ],
+  "meanings_ja": [
+   "末（周末）",
+   "先端"
   ],
   "strokes": 5,
   "radical": "木",
@@ -4166,6 +4867,8 @@
    "木",
    "一"
   ],
+  "mnemonic": "A line 一 at the top of the tree 木 marks its tip: 末 means 'end, tip'.",
+  "mnemonic_ja": "木 のてっぺんの線 一 が先端。末＝末、先端。",
   "hint": "The top 一 of a tree 木",
   "examples": [
    "vocab:hsk3:zhou1mo4-周末"
@@ -4185,9 +4888,10 @@
    "wang4"
   ],
   "meanings": [
-   "forget",
-   "overlook",
-   "neglect"
+   "to forget"
+  ],
+  "meanings_ja": [
+   "忘れる"
   ],
   "strokes": 7,
   "radical": "心",
@@ -4195,6 +4899,8 @@
    "亡",
    "心"
   ],
+  "mnemonic": "A heart 心 that has lost 亡 something has forgotten: 忘 means 'to forget'.",
+  "mnemonic_ja": "心 から何かが失われ 亡 た。忘＝忘れる。",
   "hint": "heart",
   "examples": [
    "vocab:hsk3:wang4ji4-忘记"
@@ -4214,9 +4920,14 @@
    "suan4"
   ],
   "meanings": [
-   "calculate",
-   "include",
-   "count"
+   "to calculate",
+   "to count as; to be considered",
+   "to plan (in 打算)"
+  ],
+  "meanings_ja": [
+   "計算する",
+   "～とみなす",
+   "つもり（打算）"
   ],
   "strokes": 14,
   "radical": "⺮",
@@ -4224,6 +4935,8 @@
    "⺮",
    "具"
   ],
+  "mnemonic": "Bamboo ⺮ rods on a tray 具 are an abacus: 算 means 'to calculate'.",
+  "mnemonic_ja": "竹 ⺮ の棒を盤 具 に並べたそろばん。算＝計算する。",
   "hint": "A bamboo ⺮ abacus 具",
   "examples": [
    "vocab:hsk3:da3suan4-打算"
@@ -4244,8 +4957,11 @@
   ],
   "meanings": [
    "extremely",
-   "pole (geography, physics)",
-   "utmost"
+   "pole; utmost"
+  ],
+  "meanings_ja": [
+   "きわめて",
+   "極"
   ],
   "strokes": 7,
   "radical": "木",
@@ -4253,6 +4969,8 @@
    "木",
    "及"
   ],
+  "mnemonic": "Wood 木 reaching 及 the very top: 极 means 'extremely, pole'.",
+  "mnemonic_ja": "木 が頂点に届く 及。极＝きわめて、極。",
   "hint": "wood",
   "examples": [
    "vocab:hsk3:ji2-极"
@@ -4272,9 +4990,14 @@
    "ju3"
   ],
   "meanings": [
-   "lift",
-   "hold up",
-   "cite"
+   "to lift; to raise",
+   "to hold (an event) (in 举行)",
+   "to cite"
+  ],
+  "meanings_ja": [
+   "挙げる",
+   "開催する（举行）",
+   "例を挙げる"
   ],
   "strokes": 9,
   "radical": "丶",
@@ -4282,6 +5005,8 @@
    "兴",
    "扌"
   ],
+  "mnemonic": "Everyone rises 兴 as a hand 扌 lifts the prize: 举 means 'to lift, to hold (an event)'.",
+  "mnemonic_ja": "みなが沸き 兴 手 扌 が賞を掲げる。举＝挙げる、開催する。",
   "hint": "hand",
   "examples": [
    "vocab:hsk3:ju3xing2-举行"
@@ -4301,9 +5026,10 @@
    "wu4"
   ],
   "meanings": [
-   "thing",
-   "substance",
-   "matter"
+   "thing; object (in 动物, 礼物)"
+  ],
+  "meanings_ja": [
+   "物（动物・礼物）"
   ],
   "strokes": 8,
   "radical": "牛",
@@ -4311,6 +5037,8 @@
    "牛",
    "勿"
   ],
+  "mnemonic": "An ox 牛 and its wisps 勿 of breath are things: 物 means 'thing'.",
+  "mnemonic_ja": "牛 牛 と吐息 勿、それが物。物＝物。",
   "hint": "ox",
   "examples": [
    "vocab:hsk3:dong4wu4-动物",
@@ -4331,8 +5059,10 @@
    "e4"
   ],
   "meanings": [
-   "hungry",
-   "starve (sb)"
+   "hungry"
+  ],
+  "meanings_ja": [
+   "お腹がすいた"
   ],
   "strokes": 10,
   "radical": "饣",
@@ -4340,6 +5070,8 @@
    "饣",
    "我"
   ],
+  "mnemonic": "I 我 want food 饣: 饿 means 'hungry'.",
+  "mnemonic_ja": "私 我 は食べ物 饣 が欲しい。饿＝お腹がすいた。",
   "hint": "To want 我 food 饣; 我 also provides the pronunciation",
   "examples": [
    "vocab:hsk3:e4-饿"
@@ -4359,9 +5091,10 @@
    "shu4"
   ],
   "meanings": [
-   "tree",
-   "cultivate",
-   "set up"
+   "tree"
+  ],
+  "meanings_ja": [
+   "木"
   ],
   "strokes": 9,
   "radical": "木",
@@ -4369,6 +5102,8 @@
    "木",
    "对"
   ],
+  "mnemonic": "Wood 木 that stands facing 对 you is a tree: 树 means 'tree'.",
+  "mnemonic_ja": "向かい 对 に立つ木 木。树＝木。",
   "hint": "tree",
   "examples": [
    "vocab:hsk3:shu4-树"
@@ -4388,9 +5123,14 @@
    "ping2"
   ],
   "meanings": [
-   "flat",
-   "make even",
-   "equal"
+   "flat; level",
+   "equal; calm",
+   "ordinary (in 水平, 平时)"
+  ],
+  "meanings_ja": [
+   "平らな",
+   "平等・平穏",
+   "ふだん（平时）・水準（水平）"
   ],
   "strokes": 5,
   "radical": "广",
@@ -4398,6 +5138,8 @@
    "干",
    "丷"
   ],
+  "mnemonic": "A balance beam 干 with two weights 丷 level: 平 means 'flat, equal'.",
+  "mnemonic_ja": "天秤 干 に二つの重り 丷 が釣り合う。平＝平ら、平等。",
   "hint": "A leveling scale",
   "examples": [
    "vocab:hsk3:shui3ping2-水平"
@@ -4417,9 +5159,12 @@
    "jie4"
   ],
   "meanings": [
-   "borrow",
-   "(used in combination with 给 or 出 etc) to lend",
-   "make use of"
+   "to borrow",
+   "to lend"
+  ],
+  "meanings_ja": [
+   "借りる",
+   "貸す"
   ],
   "strokes": 10,
   "radical": "亻",
@@ -4427,6 +5172,8 @@
    "亻",
    "昔"
   ],
+  "mnemonic": "A person 亻 returns to days past 昔 to borrow what they once had: 借 means 'to borrow, to lend'.",
+  "mnemonic_ja": "人 亻 が昔 昔 の持ち物を借りに戻る。借＝借りる、貸す。",
   "hint": "person",
   "examples": [
    "vocab:hsk3:jie4-借"
@@ -4447,8 +5194,13 @@
   ],
   "meanings": [
    "head",
-   "hair style",
-   "the top"
+   "top; end",
+   "(classifier for livestock)"
+  ],
+  "meanings_ja": [
+   "頭",
+   "先端・端",
+   "（家畜の量詞）"
   ],
   "strokes": 5,
   "radical": "大",
@@ -4456,6 +5208,8 @@
    "⺀",
    "大"
   ],
+  "mnemonic": "Two dots ⺀ on a big 大 body is the head on top: 头 means 'head'.",
+  "mnemonic_ja": "大 きな体の上に点 ⺀ が二つ、頭。头＝頭。",
   "hint": "high",
   "examples": [
    "vocab:hsk3:tou2fa5-头发"
@@ -4475,9 +5229,12 @@
    "hai4"
   ],
   "meanings": [
-   "do harm to",
-   "cause trouble to",
-   "harm"
+   "to harm",
+   "afraid (in 害怕)"
+  ],
+  "meanings_ja": [
+   "害する",
+   "怖がる（害怕）"
   ],
   "strokes": 10,
   "radical": "宀",
@@ -4486,6 +5243,8 @@
    "丰",
    "口"
   ],
+  "mnemonic": "Under a roof 宀 a sharp tongue 丰 and mouth 口 do harm: 害 means 'to harm'.",
+  "mnemonic_ja": "屋根 宀 の下で鋭い舌 丰 と口 口 が傷つける。害＝害する。",
   "examples": [
    "vocab:hsk3:hai4pa4-害怕"
   ]
@@ -4504,9 +5263,10 @@
    "pa4"
   ],
   "meanings": [
-   "be afraid",
-   "fear",
-   "dread"
+   "to fear; to be afraid"
+  ],
+  "meanings_ja": [
+   "恐れる"
   ],
   "strokes": 8,
   "radical": "忄",
@@ -4514,6 +5274,8 @@
    "忄",
    "白"
   ],
+  "mnemonic": "A heart 忄 goes white 白 with fear: 怕 means 'to be afraid'.",
+  "mnemonic_ja": "心 忄 が恐怖で白く 白 なる。怕＝恐れる。",
   "hint": "heart",
   "examples": [
    "vocab:hsk3:hai4pa4-害怕"
@@ -4533,13 +5295,16 @@
    "niao3"
   ],
   "meanings": [
-   "bird",
-   "\"bird\" radical in Chinese characters (Kangxi radical 196)",
-   "(intensifier) damned"
+   "bird"
+  ],
+  "meanings_ja": [
+   "鳥"
   ],
   "strokes": 5,
   "radical": "鸟",
   "components": [],
+  "mnemonic": "A bird with its beak, eye and tail feathers: 鸟 means 'bird'.",
+  "mnemonic_ja": "くちばしと目と尾羽のある鳥。鸟＝鳥。",
   "hint": "Simplified form of 烏, a bird",
   "examples": [
    "vocab:hsk3:niao3-鸟"
@@ -4559,8 +5324,10 @@
    "lan2"
   ],
   "meanings": [
-   "blue",
-   "indigo plant"
+   "blue"
+  ],
+  "meanings_ja": [
+   "青"
   ],
   "strokes": 13,
   "radical": "艹",
@@ -4568,6 +5335,8 @@
    "艹",
    "监"
   ],
+  "mnemonic": "A plant 艹 watched over 监 in the vat yields indigo: 蓝 means 'blue'.",
+  "mnemonic_ja": "桶で見守られ 监 た草 艹 から藍が出る。蓝＝青。",
   "hint": "plant",
   "examples": [
    "vocab:hsk3:lan2-蓝"
@@ -4587,7 +5356,12 @@
    "gu5"
   ],
   "meanings": [
-   "look after"
+   "to look after (in 照顾)",
+   "customer (in 顾客)"
+  ],
+  "meanings_ja": [
+   "世話をする（照顾）",
+   "客（顾客）"
   ],
   "strokes": 10,
   "radical": "页",
@@ -4595,6 +5369,8 @@
    "厄",
    "页"
   ],
+  "mnemonic": "Turning the head 页 back from danger 厄 to look after someone: 顾 means 'to look after'.",
+  "mnemonic_ja": "危険 厄 から頭 页 を向けて面倒を見る。顾＝世話をする。",
   "hint": "head",
   "examples": [
    "vocab:hsk3:zhao4gu5-照顾"
@@ -4614,9 +5390,12 @@
    "wen2"
   ],
   "meanings": [
-   "language",
-   "culture",
-   "writing"
+   "writing; language (in 中文)",
+   "culture (in 文化)"
+  ],
+  "meanings_ja": [
+   "文字・言語（中文）",
+   "文化"
   ],
   "strokes": 4,
   "radical": "文",
@@ -4624,6 +5403,8 @@
    "亠",
    "乂"
   ],
+  "mnemonic": "A tattooed chest 亠乂 was the first writing: 文 means 'writing, culture'.",
+  "mnemonic_ja": "入れ墨された胸 亠乂 が最初の文字。文＝文字、文化。",
   "hint": "A tattooed chest, representing writing",
   "examples": [
    "vocab:hsk3:wen2hua4-文化"
@@ -4643,8 +5424,12 @@
    "teng2"
   ],
   "meanings": [
-   "(it) hurts",
-   "love dearly"
+   "to hurt; painful",
+   "to love dearly"
+  ],
+  "meanings_ja": [
+   "痛い",
+   "かわいがる"
   ],
   "strokes": 10,
   "radical": "疒",
@@ -4652,6 +5437,8 @@
    "疒",
    "冬"
   ],
+  "mnemonic": "Sickness 疒 in winter 冬 hurts: 疼 means 'to hurt'.",
+  "mnemonic_ja": "冬 冬 の病 疒 は痛む。疼＝痛い。",
   "hint": "sickness",
   "examples": [
    "vocab:hsk3:teng2-疼"
@@ -4671,9 +5458,12 @@
    "qi2"
   ],
   "meanings": [
-   "strange",
-   "odd",
-   "weird"
+   "strange (in 奇怪)",
+   "wonderful (in 奇迹)"
+  ],
+  "meanings_ja": [
+   "奇妙な（奇怪）",
+   "不思議な"
   ],
   "strokes": 8,
   "radical": "大",
@@ -4681,6 +5471,8 @@
    "大",
    "可"
   ],
+  "mnemonic": "A big 大 person riding something you can 可 barely believe: 奇 means 'strange'.",
+  "mnemonic_ja": "大 きな人が信じ 可 がたい物に乗る。奇＝奇妙な。",
   "hint": "A person 大 riding a horse 可",
   "examples": [
    "vocab:hsk3:qi2guai4-奇怪"
@@ -4700,9 +5492,12 @@
    "guai4"
   ],
   "meanings": [
-   "odd",
-   "find strange",
-   "blame"
+   "strange (in 奇怪)",
+   "to blame"
+  ],
+  "meanings_ja": [
+   "奇妙な（奇怪）",
+   "責める"
   ],
   "strokes": 8,
   "radical": "忄",
@@ -4710,6 +5505,8 @@
    "忄",
    "圣"
   ],
+  "mnemonic": "A heart 忄 facing a saint 圣 feels something strange: 怪 means 'strange, to blame'.",
+  "mnemonic_ja": "心 忄 が聖人 圣 を前に奇妙に思う。怪＝奇妙な、責める。",
   "examples": [
    "vocab:hsk3:qi2guai4-奇怪"
   ]
@@ -4728,9 +5525,12 @@
    "li3"
   ],
   "meanings": [
-   "gift",
-   "rite",
-   "ceremony"
+   "gift (in 礼物)",
+   "courtesy; ceremony (in 礼貌)"
+  ],
+  "meanings_ja": [
+   "贈り物（礼物）",
+   "礼儀（礼貌）"
   ],
   "strokes": 5,
   "radical": "礻",
@@ -4738,6 +5538,8 @@
    "礻",
    "乚"
   ],
+  "mnemonic": "A hook 乚 of offering at the altar 礻: 礼 means 'gift, courtesy'.",
+  "mnemonic_ja": "祭壇 礻 に鉤 乚 で掛けた供え物。礼＝贈り物、礼儀。",
   "hint": "spirit",
   "examples": [
    "vocab:hsk3:li3wu4-礼物"
@@ -4759,6 +5561,9 @@
   "meanings": [
    "south"
   ],
+  "meanings_ja": [
+   "南"
+  ],
   "strokes": 9,
   "radical": "十",
   "components": [
@@ -4767,6 +5572,8 @@
    "丷",
    "干"
   ],
+  "mnemonic": "A bell hung under a cross 十 rang toward the warm south: 南 means 'south'.",
+  "mnemonic_ja": "十 字に吊るした鐘が暖かい南に鳴る。南＝南。",
   "hint": "A musical bell",
   "examples": [
    "vocab:hsk3:nan2-南"
@@ -4786,9 +5593,12 @@
    "ti2"
   ],
   "meanings": [
-   "carry (hanging down from the hand)",
-   "lift",
-   "put forward"
+   "to raise; to put forward (in 提高, 提供)",
+   "to carry (in hand)"
+  ],
+  "meanings_ja": [
+   "提起する・高める（提高・提供）",
+   "手に提げる"
   ],
   "strokes": 12,
   "radical": "扌",
@@ -4796,6 +5606,8 @@
    "扌",
    "是"
   ],
+  "mnemonic": "A hand 扌 lifts what is 是 right there: 提 means 'to lift, to put forward'.",
+  "mnemonic_ja": "手 扌 がそこにある 是 物を持ち上げる。提＝提げる、提起する。",
   "hint": "hand",
   "examples": [
    "vocab:hsk3:ti2gao1-提高"
@@ -4815,9 +5627,12 @@
    "man3"
   ],
   "meanings": [
-   "fill",
    "full",
-   "filled"
+   "satisfied (in 满意)"
+  ],
+  "meanings_ja": [
+   "満ちた",
+   "満足（满意）"
   ],
   "strokes": 13,
   "radical": "氵",
@@ -4826,6 +5641,8 @@
    "艹",
    "两"
   ],
+  "mnemonic": "Water 氵 fills both 两 sides up to the grass 艹: 满 means 'full'.",
+  "mnemonic_ja": "水 氵 が両側 两 とも草 艹 まで満ちる。满＝満ちた。",
   "hint": "water",
   "examples": [
    "vocab:hsk3:man3yi4-满意"
@@ -4845,9 +5662,10 @@
    "jiu4"
   ],
   "meanings": [
-   "old",
-   "opposite: new 新",
-   "former"
+   "old (of things); worn"
+  ],
+  "meanings_ja": [
+   "古い（物）"
   ],
   "strokes": 5,
   "radical": "日",
@@ -4855,6 +5673,8 @@
    "丨",
    "日"
   ],
+  "mnemonic": "A stick 丨 older than the sun 日: 旧 means 'old'.",
+  "mnemonic_ja": "太陽 日 より古い棒 丨。旧＝古い。",
   "hint": "Older than 丨 the sun 日",
   "examples": [
    "vocab:hsk3:jiu4-旧"
@@ -4874,9 +5694,10 @@
    "huang2"
   ],
   "meanings": [
-   "yellow",
-   "pornographic",
-   "fall through"
+   "yellow"
+  ],
+  "meanings_ja": [
+   "黄色"
   ],
   "strokes": 11,
   "radical": "黄",
@@ -4884,6 +5705,8 @@
    "由",
    "八"
   ],
+  "mnemonic": "A jade pendant 由 glowing yellow on its cord 八: 黄 means 'yellow'.",
+  "mnemonic_ja": "紐 八 に下げた玉 由 が黄色く光る。黄＝黄色。",
   "hint": "A jade pendant",
   "examples": [
    "vocab:hsk3:huang2-黄"
@@ -4903,9 +5726,14 @@
    "li3"
   ],
   "meanings": [
-   "texture",
-   "grain (of wood)",
-   "inner essence"
+   "reason; logic",
+   "to manage (in 经理)",
+   "to pay attention to"
+  ],
+  "meanings_ja": [
+   "道理",
+   "管理する（经理）",
+   "相手にする"
   ],
   "strokes": 11,
   "radical": "王",
@@ -4913,6 +5741,8 @@
    "王",
    "里"
   ],
+  "mnemonic": "Jade 王 cut along the grain of the village 里: 理 means 'reason, logic'.",
+  "mnemonic_ja": "玉 王 を里 里 の筋目に沿って削る。理＝道理。",
   "hint": "king",
   "examples": [
    "vocab:hsk3:jing1li3-经理"
@@ -4932,8 +5762,10 @@
    "qu4"
   ],
   "meanings": [
-   "interesting",
-   "interest"
+   "interest; fun (in 有趣, 兴趣)"
+  ],
+  "meanings_ja": [
+   "面白み・興味（有趣・兴趣）"
   ],
   "strokes": 15,
   "radical": "走",
@@ -4941,6 +5773,8 @@
    "走",
    "取"
   ],
+  "mnemonic": "Running 走 to take 取 what interests you: 趣 means 'interest, fun'.",
+  "mnemonic_ja": "面白い物を取り 取 に走る 走。趣＝興味、面白み。",
   "hint": "walk",
   "examples": [
    "vocab:hsk3:xing4qu4-兴趣"
@@ -4960,9 +5794,10 @@
    "ji4"
   ],
   "meanings": [
-   "spin (hemp etc)",
-   "merit",
-   "accomplishment"
+   "achievement (in 成绩)"
+  ],
+  "meanings_ja": [
+   "成績"
   ],
   "strokes": 11,
   "radical": "纟",
@@ -4970,6 +5805,8 @@
    "纟",
    "责"
   ],
+  "mnemonic": "Thread 纟 spun to meet your duty 责 is an achievement: 绩 means 'achievement'.",
+  "mnemonic_ja": "糸 纟 を紡いで務め 责 を果たす。绩＝成績。",
   "hint": "To complete 纟 one's duties 责; 责 also provides the pronunciation",
   "examples": [
    "vocab:hsk3:cheng2ji4-成绩"
@@ -4989,9 +5826,10 @@
    "cong1"
   ],
   "meanings": [
-   "sharp (of sight and hearing)",
-   "intelligent",
-   "clever"
+   "clever (in 聪明)"
+  ],
+  "meanings_ja": [
+   "賢い（聪明）"
   ],
   "strokes": 15,
   "radical": "耳",
@@ -4999,6 +5837,8 @@
    "耳",
    "总"
   ],
+  "mnemonic": "An ear 耳 that gathers everything 总 is clever: 聪 means 'clever'.",
+  "mnemonic_ja": "すべて 总 を集める耳 耳 は賢い。聪＝賢い。",
   "hint": "ear",
   "examples": [
    "vocab:hsk3:cong1ming5-聪明"
@@ -5018,9 +5858,10 @@
    "deng1"
   ],
   "meanings": [
-   "lamp",
-   "light",
-   "lantern"
+   "lamp; light"
+  ],
+  "meanings_ja": [
+   "明かり・ランプ"
   ],
   "strokes": 6,
   "radical": "火",
@@ -5028,6 +5869,8 @@
    "火",
    "丁"
   ],
+  "mnemonic": "Fire 火 on a nail 丁 stand is a lamp: 灯 means 'lamp'.",
+  "mnemonic_ja": "釘 丁 の台に火 火 をともす。灯＝明かり。",
   "hint": "fire",
   "examples": [
    "vocab:hsk3:deng1-灯"
@@ -5047,9 +5890,12 @@
    "yang5"
   ],
   "meanings": [
-   "positive (electric.)",
-   "sun",
-   "male principle (Taoism)"
+   "sun (in 太阳)",
+   "yang; positive"
+  ],
+  "meanings_ja": [
+   "太陽",
+   "陽"
   ],
   "strokes": 6,
   "radical": "阝",
@@ -5057,6 +5903,8 @@
    "阝",
    "日"
   ],
+  "mnemonic": "The side of the hill 阝 where the sun 日 shines: 阳 means 'sun, yang'.",
+  "mnemonic_ja": "太陽 日 の当たる丘 阝 の側。阳＝太陽、陽。",
   "hint": "The place 阝 of the sun 日; compare 阴",
   "examples": [
    "vocab:hsk3:tai4yang5-太阳"
@@ -5077,8 +5925,11 @@
   ],
   "meanings": [
    "sugar",
-   "sweets",
    "candy"
+  ],
+  "meanings_ja": [
+   "砂糖",
+   "あめ"
   ],
   "strokes": 16,
   "radical": "米",
@@ -5086,6 +5937,8 @@
    "米",
    "唐"
   ],
+  "mnemonic": "Rice 米 boiled down in Tang 唐 kitchens makes sugar: 糖 means 'sugar, candy'.",
+  "mnemonic_ja": "米 米 を唐 唐 の台所で煮詰めて砂糖に。糖＝砂糖、あめ。",
   "hint": "rice",
   "examples": [
    "vocab:hsk3:tang2-糖"
@@ -5105,8 +5958,10 @@
    "yuan2"
   ],
   "meanings": [
-   "land used for growing plants",
-   "site used for public recreation"
+   "garden; park (in 公园)"
+  ],
+  "meanings_ja": [
+   "園・公園"
   ],
   "strokes": 7,
   "radical": "囗",
@@ -5114,6 +5969,8 @@
    "囗",
    "元"
   ],
+  "mnemonic": "An enclosure 囗 with the first 元 sprouts is a garden: 园 means 'garden, park'.",
+  "mnemonic_ja": "囲い 囗 の中に初め 元 の芽が出る庭。园＝園、公園。",
   "hint": "enclosure",
   "examples": [
    "vocab:hsk3:gong1yuan2-公园",
@@ -5134,9 +5991,10 @@
    "qi2"
   ],
   "meanings": [
-   "sit astride",
-   "ride (a horse, bike etc)",
-   "classifier for saddle horses"
+   "to ride (a bike, horse)"
+  ],
+  "meanings_ja": [
+   "乗る（自転車・馬）"
   ],
   "strokes": 11,
   "radical": "马",
@@ -5144,6 +6002,8 @@
    "马",
    "奇"
   ],
+  "mnemonic": "Sitting on a horse 马 in a strange 奇 pose: 骑 means 'to ride'.",
+  "mnemonic_ja": "馬 马 に奇妙 奇 な姿勢でまたがる。骑＝乗る。",
   "hint": "horse",
   "examples": [
    "vocab:hsk3:qi2-骑"
@@ -5165,12 +6025,17 @@
   "meanings": [
    "river"
   ],
+  "meanings_ja": [
+   "川"
+  ],
   "strokes": 8,
   "radical": "氵",
   "components": [
    "氵",
    "可"
   ],
+  "mnemonic": "Water 氵 you can 可 sail along is a river: 河 means 'river'.",
+  "mnemonic_ja": "舟で行ける 可 水 氵。河＝川。",
   "hint": "water",
   "examples": [
    "vocab:hsk3:he2-河"
@@ -5190,9 +6055,10 @@
    "ban1"
   ],
   "meanings": [
-   "move (i.e. relocate oneself)",
-   "move (sth relatively heavy or bulky)",
-   "shift"
+   "to move (house, heavy things)"
+  ],
+  "meanings_ja": [
+   "引っ越す・運ぶ"
   ],
   "strokes": 13,
   "radical": "扌",
@@ -5200,6 +6066,8 @@
    "扌",
    "般"
   ],
+  "mnemonic": "A hand 扌 sorts and loads 般 the boat, then moves house: 搬 means 'to move'.",
+  "mnemonic_ja": "手 扌 が荷を舟に積み 般 運ぶ。搬＝運ぶ、引っ越す。",
   "hint": "hand",
   "examples": [
    "vocab:hsk3:ban1-搬"
@@ -5219,9 +6087,12 @@
    "shu1"
   ],
   "meanings": [
-   "stretch",
-   "unfold",
-   "relax"
+   "comfortable (in 舒服)",
+   "to stretch out"
+  ],
+  "meanings_ja": [
+   "快適な（舒服）",
+   "伸ばす"
   ],
   "strokes": 12,
   "radical": "舌",
@@ -5229,6 +6100,8 @@
    "舍",
    "予"
   ],
+  "mnemonic": "At home 舍 you give 予 yourself a stretch: 舒 means 'comfortable, to stretch'.",
+  "mnemonic_ja": "家 舍 で自分に 予 伸びを許す。舒＝快適な、伸ばす。",
   "hint": "home",
   "examples": [
    "vocab:hsk3:shu1fu5-舒服"
@@ -5248,9 +6121,12 @@
    "yu4"
   ],
   "meanings": [
-   "have children",
-   "raise or bring up",
-   "educate"
+   "to educate (in 教育, 体育)",
+   "to raise"
+  ],
+  "meanings_ja": [
+   "教育する（教育・体育）",
+   "育てる"
   ],
   "strokes": 8,
   "radical": "⺼",
@@ -5259,6 +6135,8 @@
    "厶",
    "⺼"
   ],
+  "mnemonic": "A baby ⺼ growing under the mother 亠厶: 育 means 'to raise, to educate'.",
+  "mnemonic_ja": "母 亠厶 の中で育つ赤ん坊 ⺼。育＝育てる、教育する。",
   "hint": "A pregnant woman with a baby ⺼ in her womb",
   "examples": [
    "vocab:hsk3:ti3yu4-体育"
@@ -5278,9 +6156,14 @@
    "jue2"
   ],
   "meanings": [
-   "role (theater)",
-   "compete",
-   "ancient three legged wine vessel"
+   "corner; angle",
+   "horn",
+   "jiao (1/10 yuan)"
+  ],
+  "meanings_ja": [
+   "角・隅",
+   "つの",
+   "角（元の十分の一）"
   ],
   "strokes": 7,
   "radical": "角",
@@ -5288,6 +6171,8 @@
    "⺈",
    "用"
   ],
+  "mnemonic": "An animal horn with lines across it, a sharp corner: 角 means 'horn, corner'.",
+  "mnemonic_ja": "筋の入った動物のつの、とがった角。角＝つの、角。",
   "hint": "A rhinoceros or other animal horn",
   "examples": [
    "vocab:hsk3:jue2-角"
@@ -5307,8 +6192,10 @@
    "pan2"
   ],
   "meanings": [
-   "healthy",
-   "at ease"
+   "fat; plump"
+  ],
+  "meanings_ja": [
+   "太っている"
   ],
   "strokes": 9,
   "radical": "⺼",
@@ -5316,6 +6203,8 @@
    "⺼",
    "半"
   ],
+  "mnemonic": "Flesh ⺼ that takes half 半 an ox to match is plump: 胖 means 'fat'.",
+  "mnemonic_ja": "牛の半分 半 ほどの肉 ⺼ がついている。胖＝太っている。",
   "hint": "flesh",
   "examples": [
    "vocab:hsk3:pan2-胖"
@@ -5336,8 +6225,13 @@
   ],
   "meanings": [
    "dry",
-   "dried food",
-   "empty"
+   "to do (gàn)",
+   "clean (in 干净)"
+  ],
+  "meanings_ja": [
+   "乾いた",
+   "する（gàn）",
+   "清潔な（干净）"
   ],
   "strokes": 3,
   "radical": "十",
@@ -5345,6 +6239,8 @@
    "一",
    "十"
   ],
+  "mnemonic": "A club or axe blade with nothing left on it: 干 means 'dry', and 'to do' (gàn).",
+  "mnemonic_ja": "何も残っていない斧の柄。干＝乾いた、する(gàn)。",
   "hint": "A club or axe",
   "examples": [
    "vocab:hsk3:gan1jing4-干净"
@@ -5364,9 +6260,12 @@
    "jing4"
   ],
   "meanings": [
-   "clean",
-   "completely",
-   "only"
+   "clean (in 干净)",
+   "only; purely"
+  ],
+  "meanings_ja": [
+   "清潔な（干净）",
+   "ただ～だけ"
   ],
   "strokes": 8,
   "radical": "冫",
@@ -5374,6 +6273,8 @@
    "冫",
    "争"
   ],
+  "mnemonic": "Ice 冫 fought over 争 until it is perfectly clear: 净 means 'clean'.",
+  "mnemonic_ja": "氷 冫 を争って 争 磨き上げ澄みきる。净＝清潔な。",
   "hint": "water",
   "examples": [
    "vocab:hsk3:gan1jing4-干净"
@@ -5394,8 +6295,11 @@
   ],
   "meanings": [
    "grass",
-   "straw",
-   "manuscript"
+   "rough draft"
+  ],
+  "meanings_ja": [
+   "草",
+   "下書き"
   ],
   "strokes": 9,
   "radical": "艹",
@@ -5403,6 +6307,8 @@
    "艹",
    "早"
   ],
+  "mnemonic": "Grass 艹 that comes up early 早 in spring: 草 means 'grass'.",
+  "mnemonic_ja": "春早く 早 芽を出す草 艹。草＝草。",
   "hint": "grass",
   "examples": [
    "vocab:hsk3:cao3-草"
@@ -5422,8 +6328,10 @@
    "tian2"
   ],
   "meanings": [
-   "sweet",
-   "(fig.) pleasant"
+   "sweet"
+  ],
+  "meanings_ja": [
+   "甘い"
   ],
   "strokes": 11,
   "radical": "甘",
@@ -5431,6 +6339,8 @@
    "舌",
    "甘"
   ],
+  "mnemonic": "A tongue 舌 tasting something sweet 甘: 甜 means 'sweet'.",
+  "mnemonic_ja": "舌 舌 が甘い 甘 ものを味わう。甜＝甘い。",
   "hint": "Something tasty 甘 to the tongue 舌",
   "examples": [
    "vocab:hsk3:tian2-甜"
@@ -5450,9 +6360,12 @@
    "an1"
   ],
   "meanings": [
-   "calm",
-   "safe",
-   "content"
+   "safe; peaceful (in 安全, 安静)",
+   "to install"
+  ],
+  "meanings_ja": [
+   "安全な・安らかな（安全・安静）",
+   "取り付ける"
   ],
   "strokes": 6,
   "radical": "宀",
@@ -5460,6 +6373,8 @@
    "宀",
    "女"
   ],
+  "mnemonic": "A woman 女 safe under a roof 宀: 安 means 'safe, peaceful'.",
+  "mnemonic_ja": "屋根 宀 の下で女 女 が安らぐ。安＝安全な、安らか。",
   "hint": "A woman 女 safe in a house 宀",
   "examples": [
    "vocab:hsk3:an1jing4-安静"
@@ -5479,9 +6394,12 @@
    "jing4"
   ],
   "meanings": [
-   "still",
-   "calm",
-   "quiet"
+   "quiet (in 安静)",
+   "still; calm"
+  ],
+  "meanings_ja": [
+   "静かな（安静）",
+   "穏やかな"
   ],
   "strokes": 14,
   "radical": "青",
@@ -5489,6 +6407,8 @@
    "青",
    "争"
   ],
+  "mnemonic": "Green 青 fields where no one fights 争 are quiet: 静 means 'quiet'.",
+  "mnemonic_ja": "争い 争 のない青 青 の野は静か。静＝静かな。",
   "hint": "nature",
   "examples": [
    "vocab:hsk3:an1jing4-安静"
@@ -5508,15 +6428,18 @@
    "ye4"
   ],
   "meanings": [
-   "line of business",
-   "industry",
-   "occupation"
+   "profession; business (in 作业, 毕业)"
+  ],
+  "meanings_ja": [
+   "業・仕事（作业・毕业）"
   ],
   "strokes": 5,
   "radical": "一",
   "components": [
    "一"
   ],
+  "mnemonic": "A row of tools standing on one 一 bench: 业 means 'profession, business'.",
+  "mnemonic_ja": "一 つの台に道具が並ぶ仕事場。业＝業、仕事。",
   "examples": [
    "vocab:hsk3:zuo4ye4-作业"
   ]
@@ -5535,9 +6458,12 @@
    "shou4"
   ],
   "meanings": [
-   "thin",
-   "lose weight",
-   "(of clothing) tight"
+   "thin; slim",
+   "(of clothes) tight"
+  ],
+  "meanings_ja": [
+   "やせた",
+   "（服が）きつい"
   ],
   "strokes": 14,
   "radical": "疒",
@@ -5545,6 +6471,8 @@
    "疒",
    "叟"
   ],
+  "mnemonic": "Sickness 疒 makes an old man 叟 thin: 瘦 means 'thin'.",
+  "mnemonic_ja": "病 疒 で老人 叟 がやせる。瘦＝やせた。",
   "hint": "sickness",
   "examples": [
    "vocab:hsk3:shou4-瘦"
@@ -5564,8 +6492,10 @@
    "lü4"
   ],
   "meanings": [
-   "green",
-   "(slang) (derived from 绿帽子) to cheat on (one's spouse or boyfriend or girlfriend)"
+   "green"
+  ],
+  "meanings_ja": [
+   "緑"
   ],
   "strokes": 11,
   "radical": "纟",
@@ -5573,6 +6503,8 @@
    "纟",
    "录"
   ],
+  "mnemonic": "Thread 纟 dyed and recorded 录 in green ink: 绿 means 'green'.",
+  "mnemonic_ja": "糸 纟 を染めて緑で記録 录 する。绿＝緑。",
   "hint": "silk",
   "examples": [
    "vocab:hsk3:lü4-绿"
@@ -5592,7 +6524,10 @@
    "pi2"
   ],
   "meanings": [
-   "beer"
+   "beer (in 啤酒)"
+  ],
+  "meanings_ja": [
+   "ビール（啤酒）"
   ],
   "strokes": 11,
   "radical": "口",
@@ -5600,6 +6535,8 @@
    "口",
    "卑"
   ],
+  "mnemonic": "A mouth 口 drinking the humble 卑 brew: 啤 means 'beer'.",
+  "mnemonic_ja": "口 で庶民 卑 の飲み物をあおる。啤＝ビール。",
   "hint": "mouth",
   "examples": [
    "vocab:hsk3:pi2jiu3-啤酒"
@@ -5619,9 +6556,12 @@
    "jiu3"
   ],
   "meanings": [
-   "wine (esp. rice wine)",
-   "liquor",
-   "spirits"
+   "alcohol; liquor",
+   "wine"
+  ],
+  "meanings_ja": [
+   "酒",
+   "ワイン"
   ],
   "strokes": 10,
   "radical": "酉",
@@ -5629,6 +6569,8 @@
    "氵",
    "酉"
   ],
+  "mnemonic": "Water 氵 in a wine jar 酉: 酒 means 'alcohol'.",
+  "mnemonic_ja": "酒壺 酉 に入った水 氵。酒＝酒。",
   "hint": "A jar 酉 of wine 氵; 酉 also provides the pronunciation",
   "examples": [
    "vocab:hsk3:pi2jiu3-啤酒"
@@ -5648,7 +6590,10 @@
    "gao1"
   ],
   "meanings": [
-   "cake"
+   "cake (in 蛋糕)"
+  ],
+  "meanings_ja": [
+   "ケーキ（蛋糕）"
   ],
   "strokes": 16,
   "radical": "米",
@@ -5656,6 +6601,8 @@
    "米",
    "羔"
   ],
+  "mnemonic": "Rice 米 flour baked like a little lamb 羔 bun: 糕 means 'cake'.",
+  "mnemonic_ja": "米 米 の粉を子羊 羔 の形に焼いた菓子。糕＝ケーキ。",
   "hint": "rice",
   "examples": [
    "vocab:hsk3:dan4gao1-蛋糕"
@@ -5675,9 +6622,12 @@
    "xian1"
   ],
   "meanings": [
-   "fresh",
-   "bright (in color)",
+   "fresh (in 新鲜)",
    "delicious"
+  ],
+  "meanings_ja": [
+   "新鮮な",
+   "おいしい"
   ],
   "strokes": 14,
   "radical": "鱼",
@@ -5685,6 +6635,8 @@
    "鱼",
    "羊"
   ],
+  "mnemonic": "Fish 鱼 and lamb 羊 both fresh from the market: 鲜 means 'fresh'.",
+  "mnemonic_ja": "魚 鱼 も羊 羊 も市場で新鮮。鲜＝新鮮な。",
   "hint": "fish",
   "examples": [
    "vocab:hsk3:xin1xian1-新鲜"
@@ -5705,7 +6657,11 @@
   ],
   "meanings": [
    "bowl",
-   "cup"
+   "(classifier: bowl of)"
+  ],
+  "meanings_ja": [
+   "茶碗",
+   "～杯（量詞）"
   ],
   "strokes": 13,
   "radical": "石",
@@ -5713,6 +6669,8 @@
    "石",
    "宛"
   ],
+  "mnemonic": "Stone 石 hollowed into a curved 宛 bowl: 碗 means 'bowl'.",
+  "mnemonic_ja": "石 石 をくぼませ 宛 た器。碗＝茶碗。",
   "hint": "stone",
   "examples": [
    "vocab:hsk3:wan3-碗"
@@ -5732,8 +6690,12 @@
    "shu4"
   ],
   "meanings": [
-   "number",
-   "several"
+   "number (in 数学, 数字)",
+   "to count (shǔ)"
+  ],
+  "meanings_ja": [
+   "数（数学・数字）",
+   "数える（shǔ）"
   ],
   "strokes": 13,
   "radical": "攵",
@@ -5741,6 +6703,8 @@
    "娄",
    "攵"
   ],
+  "mnemonic": "A hand 攵 taps out rice sacks 娄 one by one: 数 means 'number, to count'.",
+  "mnemonic_ja": "手 攵 が米袋 娄 を一つずつ叩いて数える。数＝数、数える。",
   "hint": "script",
   "examples": [
    "vocab:hsk3:shu4xue2-数学"
@@ -5760,9 +6724,12 @@
    "tie3"
   ],
   "meanings": [
-   "iron (metal)",
-   "arms",
-   "weapons"
+   "iron",
+   "subway (in 地铁)"
+  ],
+  "meanings_ja": [
+   "鉄",
+   "地下鉄（地铁）"
   ],
   "strokes": 10,
   "radical": "钅",
@@ -5770,6 +6737,8 @@
    "钅",
    "失"
   ],
+  "mnemonic": "Metal 钅 that loses 失 its shine and rusts is iron: 铁 means 'iron'.",
+  "mnemonic_ja": "輝きを失い 失 さびる金属 钅。铁＝鉄。",
   "hint": "metal",
   "examples": [
    "vocab:hsk3:di4tie3-地铁"
@@ -5789,9 +6758,14 @@
    "shua1"
   ],
   "meanings": [
-   "a brush",
-   "paint",
-   "brush"
+   "to brush",
+   "brush (in 牙刷)",
+   "to swipe (a card)"
+  ],
+  "meanings_ja": [
+   "磨く",
+   "ブラシ（牙刷）",
+   "（カードを）通す"
   ],
   "strokes": 8,
   "radical": "刂",
@@ -5800,6 +6774,8 @@
    "巾",
    "刂"
   ],
+  "mnemonic": "A bent figure 尸 scrubs with a cloth 巾 and a blade 刂: 刷 means 'to brush'.",
+  "mnemonic_ja": "かがんだ人 尸 が布 巾 と刃 刂 でこする。刷＝磨く、ブラシ。",
   "hint": "A person bent over 尸 with a towel 巾",
   "examples": [
    "vocab:hsk3:shua1-刷"
@@ -5819,7 +6795,10 @@
    "chu2"
   ],
   "meanings": [
-   "kitchen"
+   "kitchen (in 厨房)"
+  ],
+  "meanings_ja": [
+   "台所（厨房）"
   ],
   "strokes": 12,
   "radical": "厂",
@@ -5828,6 +6807,8 @@
    "豆",
    "寸"
   ],
+  "mnemonic": "Under the eaves 厂 a bean 豆 pot and a hand 寸 cook: 厨 means 'kitchen'.",
+  "mnemonic_ja": "軒 厂 の下で豆 豆 の鍋を手 寸 で煮る。厨＝台所。",
   "hint": "building",
   "examples": [
    "vocab:hsk3:chu2fang2-厨房"
@@ -5847,9 +6828,10 @@
    "lian4"
   ],
   "meanings": [
-   "practice",
-   "train",
-   "drill"
+   "to practice (in 练习)"
+  ],
+  "meanings_ja": [
+   "練習する"
   ],
   "strokes": 8,
   "radical": "纟",
@@ -5857,6 +6839,8 @@
    "纟",
    "柬"
   ],
+  "mnemonic": "Thread 纟 sorted 柬 again and again until smooth: 练 means 'to practice'.",
+  "mnemonic_ja": "糸 纟 を何度も選り分け 柬 滑らかに。练＝練習する。",
   "hint": "thread",
   "examples": [
    "vocab:hsk3:lian4xi2-练习"
@@ -5878,8 +6862,10 @@
    "ye5"
   ],
   "meanings": [
-   "grandpa",
-   "old gentleman"
+   "grandfather (in 爷爷)"
+  ],
+  "meanings_ja": [
+   "おじいさん（爷爷）"
   ],
   "strokes": 6,
   "radical": "父",
@@ -5887,6 +6873,8 @@
    "父",
    "卩"
   ],
+  "mnemonic": "A father 父 with a seal 卩 of seniority is grandpa: 爷 means 'grandfather'.",
+  "mnemonic_ja": "父 父 に年長の印 卩 がついておじいさん。爷＝おじいさん。",
   "hint": "father",
   "examples": [
    "vocab:hsk3:ye2ye5-爷爷"
@@ -5908,12 +6896,17 @@
   "meanings": [
    "cloud"
   ],
+  "meanings_ja": [
+   "雲"
+  ],
   "strokes": 4,
   "radical": "二",
   "components": [
    "二",
    "厶"
   ],
+  "mnemonic": "Two 二 layers of vapor 厶 curling in the sky: 云 means 'cloud'.",
+  "mnemonic_ja": "二 層の蒸気 厶 が空で巻く。云＝雲。",
   "hint": "A cloud",
   "examples": [
    "vocab:hsk3:yun2-云"
@@ -5933,9 +6926,10 @@
    "lin2"
   ],
   "meanings": [
-   "neighbor",
-   "adjacent",
-   "close to"
+   "neighbor (in 邻居)"
+  ],
+  "meanings_ja": [
+   "隣人（邻居）"
   ],
   "strokes": 7,
   "radical": "阝",
@@ -5943,6 +6937,8 @@
    "令",
    "阝"
   ],
+  "mnemonic": "The town 阝 next door answers your call 令: 邻 means 'neighbor'.",
+  "mnemonic_ja": "隣の町 阝 が呼びかけ 令 に応える。邻＝隣人。",
   "hint": "town",
   "examples": [
    "vocab:hsk3:lin2ju1-邻居"
@@ -5962,9 +6958,10 @@
    "ju1"
   ],
   "meanings": [
-   "to live",
-   "to reside",
-   "to dwell"
+   "to reside (in 邻居)"
+  ],
+  "meanings_ja": [
+   "住む（邻居）"
   ],
   "strokes": 8,
   "radical": "户",
@@ -5972,6 +6969,8 @@
    "户",
    "古"
   ],
+  "mnemonic": "Behind a door 户 for ages 古, you reside: 居 means 'to reside'.",
+  "mnemonic_ja": "戸 户 の奥に昔から 古 住む。居＝住む。",
   "hint": "door",
   "examples": [
    "vocab:hsk3:lin2ju1-邻居"
@@ -5991,15 +6990,18 @@
    "er3"
   ],
   "meanings": [
-   "ear",
-   "handle (archaeology)",
-   "and that is all (Classical Chinese)"
+   "ear (in 耳朵)"
+  ],
+  "meanings_ja": [
+   "耳"
   ],
   "strokes": 6,
   "radical": "耳",
   "components": [
    "二"
   ],
+  "mnemonic": "An ear with its lobe and folds: 耳 means 'ear'.",
+  "mnemonic_ja": "耳たぶとひだのある耳。耳＝耳。",
   "hint": "An ear",
   "examples": [
    "vocab:hsk3:er3duo5-耳朵"
@@ -6019,9 +7021,12 @@
    "duo5"
   ],
   "meanings": [
-   "flower",
-   "earlobe",
-   "fig. item on both sides"
+   "(classifier for flowers, clouds)",
+   "(in 耳朵)"
+  ],
+  "meanings_ja": [
+   "（花・雲の量詞）",
+   "（耳朵の朵）"
   ],
   "strokes": 6,
   "radical": "木",
@@ -6029,6 +7034,8 @@
    "几",
    "木"
   ],
+  "mnemonic": "A blossom 几 on a tree 木 counts flowers and earlobes: 朵 is the classifier for flowers.",
+  "mnemonic_ja": "木 に咲く花 几、花や耳たぶを数える。朵＝花の量詞。",
   "hint": "Flowers 几 blooming on a tree 木",
   "examples": [
    "vocab:hsk3:er3duo5-耳朵"
@@ -6048,7 +7055,10 @@
    "bi2"
   ],
   "meanings": [
-   "nose"
+   "nose (in 鼻子)"
+  ],
+  "meanings_ja": [
+   "鼻"
   ],
   "strokes": 14,
   "radical": "鼻",
@@ -6056,6 +7066,8 @@
    "自",
    "畀"
   ],
+  "mnemonic": "The self 自 (once a nose) gives air 畀 to the body: 鼻 means 'nose'.",
+  "mnemonic_ja": "自分 自（元は鼻）が体に空気を与える 畀。鼻＝鼻。",
   "hint": "self",
   "examples": [
    "vocab:hsk3:bi2zi5-鼻子"
@@ -6077,9 +7089,10 @@
    "shu5"
   ],
   "meanings": [
-   "uncle",
-   "father's younger brother",
-   "husband's younger brother"
+   "uncle (father's younger brother) (in 叔叔)"
+  ],
+  "meanings_ja": [
+   "おじ（叔叔）"
   ],
   "strokes": 8,
   "radical": "又",
@@ -6088,6 +7101,8 @@
    "小",
    "又"
   ],
+  "mnemonic": "The small 小 one above 上 whom a hand 又 points to is the younger uncle: 叔 means 'uncle'.",
+  "mnemonic_ja": "手 又 が指す上 上 の小さい 小 弟がおじ。叔＝おじ。",
   "hint": "The smaller 小 brother",
   "examples": [
    "vocab:hsk3:shu1shu5-叔叔"
@@ -6107,7 +7122,10 @@
    "zao3"
   ],
   "meanings": [
-   "bath"
+   "bath (in 洗澡)"
+  ],
+  "meanings_ja": [
+   "入浴（洗澡）"
   ],
   "strokes": 16,
   "radical": "氵",
@@ -6115,6 +7133,8 @@
    "氵",
    "喿"
   ],
+  "mnemonic": "Water 氵 and a chorus of chirping 喿 in the bath: 澡 means 'bath'.",
+  "mnemonic_ja": "水 氵 と鳥のさえずり 喿 の中で入浴。澡＝入浴。",
   "hint": "water",
   "examples": [
    "vocab:hsk3:xi3zao3-洗澡"
@@ -6134,9 +7154,10 @@
    "tu2"
   ],
   "meanings": [
-   "diagram",
-   "picture",
-   "drawing"
+   "picture; diagram (in 地图, 图书馆)"
+  ],
+  "meanings_ja": [
+   "図・絵（地图・图书馆）"
   ],
   "strokes": 8,
   "radical": "囗",
@@ -6144,6 +7165,8 @@
    "囗",
    "冬"
   ],
+  "mnemonic": "A map of winter 冬 roads inside a border 囗: 图 means 'picture, map'.",
+  "mnemonic_ja": "囲い 囗 の中に冬 冬 の道を描いた地図。图＝図、地図。",
   "hint": "Simplified form of 圖; a map of a district's 啚 borders 囗",
   "examples": [
    "vocab:hsk3:di4tu2-地图",
@@ -6164,8 +7187,10 @@
    "mao4"
   ],
   "meanings": [
-   "hat",
-   "cap"
+   "hat (in 帽子)"
+  ],
+  "meanings_ja": [
+   "帽子"
   ],
   "strokes": 12,
   "radical": "巾",
@@ -6173,6 +7198,8 @@
    "巾",
    "冒"
   ],
+  "mnemonic": "Cloth 巾 that rises 冒 over the head is a hat: 帽 means 'hat'.",
+  "mnemonic_ja": "頭の上に突き出た 冒 布 巾。帽＝帽子。",
   "hint": "towel",
   "examples": [
    "vocab:hsk3:mao4zi5-帽子"
@@ -6194,12 +7221,17 @@
   "meanings": [
    "street"
   ],
+  "meanings_ja": [
+   "通り"
+  ],
   "strokes": 12,
   "radical": "行",
   "components": [
    "行",
    "圭"
   ],
+  "mnemonic": "A road 行 paved with jade tablets 圭 is a street: 街 means 'street'.",
+  "mnemonic_ja": "道 行 に玉 圭 を敷き詰めた通り。街＝通り。",
   "hint": "walk",
   "examples": [
    "vocab:hsk3:jie1dao4-街道"
@@ -6219,9 +7251,12 @@
    "gan3"
   ],
   "meanings": [
-   "feel",
-   "move",
-   "touch"
+   "to feel (in 感觉, 感冒)",
+   "feeling; sense (in 感兴趣)"
+  ],
+  "meanings_ja": [
+   "感じる（感觉・感冒）",
+   "感情・感覚"
   ],
   "strokes": 13,
   "radical": "心",
@@ -6229,6 +7264,8 @@
    "咸",
    "心"
   ],
+  "mnemonic": "Everything 咸 touches the heart 心: 感 means 'to feel'.",
+  "mnemonic_ja": "すべて 咸 が心 心 に触れる。感＝感じる。",
   "hint": "Two hearts 心 beating together 咸",
   "examples": [
    "vocab:hsk3:gan3mao4-感冒"
@@ -6248,9 +7285,12 @@
    "mao4"
   ],
   "meanings": [
-   "emit",
-   "brave",
-   "falsely adopt (sb's identity etc)"
+   "to catch (a cold) (in 感冒)",
+   "to emit; to risk"
+  ],
+  "meanings_ja": [
+   "風邪（感冒）",
+   "出す・冒す"
   ],
   "strokes": 9,
   "radical": "冂",
@@ -6258,6 +7298,8 @@
    "日",
    "目"
   ],
+  "mnemonic": "An eye 目 peers out from under a cap 日 and braves the cold: 冒 means 'to emit, to risk'.",
+  "mnemonic_ja": "帽子 日 の下から目 目 が寒さに立ち向かう。冒＝出す、冒す。",
   "examples": [
    "vocab:hsk3:gan3mao4-感冒"
   ]
@@ -6276,9 +7318,10 @@
    "chi2"
   ],
   "meanings": [
-   "late",
-   "delayed",
-   "slow"
+   "late (in 迟到)"
+  ],
+  "meanings_ja": [
+   "遅い（迟到）"
   ],
   "strokes": 7,
   "radical": "辶",
@@ -6286,6 +7329,8 @@
    "辶",
    "尺"
   ],
+  "mnemonic": "Walking 辶 only a foot 尺 at a time makes you late: 迟 means 'late'.",
+  "mnemonic_ja": "一尺 尺 ずつしか歩か 辶 ないと遅れる。迟＝遅い。",
   "hint": "walk",
   "examples": [
    "vocab:hsk3:chi2dao4-迟到"
@@ -6305,9 +7350,14 @@
    "ke4"
   ],
   "meanings": [
-   "quarter (hour)",
+   "quarter (of an hour)",
    "moment",
-   "carve"
+   "to carve"
+  ],
+  "meanings_ja": [
+   "15分",
+   "瞬間",
+   "刻む"
   ],
   "strokes": 8,
   "radical": "刂",
@@ -6315,6 +7365,8 @@
    "亥",
    "刂"
   ],
+  "mnemonic": "A knife 刂 carves a notch each pig-hour 亥 on the water clock: 刻 means 'quarter hour, to carve'.",
+  "mnemonic_ja": "刀 刂 が水時計に亥 亥 の刻みを入れる。刻＝15分、刻む。",
   "hint": "knife",
   "examples": [
    "vocab:hsk3:ke4-刻"
@@ -6334,9 +7386,10 @@
    "duan4"
   ],
   "meanings": [
-   "forge",
-   "discipline",
-   "wrought"
+   "to forge; to exercise (in 锻炼)"
+  ],
+  "meanings_ja": [
+   "鍛える（锻炼）"
   ],
   "strokes": 14,
   "radical": "钅",
@@ -6344,6 +7397,8 @@
    "钅",
    "段"
   ],
+  "mnemonic": "Metal 钅 hammered in sections 段 is forged: 锻 means 'to forge, to exercise'.",
+  "mnemonic_ja": "金属 钅 を段 段 ごとに打って鍛える。锻＝鍛える。",
   "hint": "metal",
   "examples": [
    "vocab:hsk3:duan4lian4-锻炼"
@@ -6363,9 +7418,10 @@
    "lian4"
   ],
   "meanings": [
-   "refine",
-   "heat or forge (in fire)",
-   "polish (wording)"
+   "to refine; to train (in 锻炼)"
+  ],
+  "meanings_ja": [
+   "鍛える・練る（锻炼）"
   ],
   "strokes": 9,
   "radical": "火",
@@ -6373,6 +7429,8 @@
    "火",
    "柬"
   ],
+  "mnemonic": "Fire 火 sorts out 柬 the impurities: 炼 means 'to refine, to train'.",
+  "mnemonic_ja": "火 火 が不純物を選り分ける 柬。炼＝練る、鍛える。",
   "hint": "fire",
   "examples": [
    "vocab:hsk3:duan4lian4-锻炼"
@@ -6392,9 +7450,10 @@
    "ku4"
   ],
   "meanings": [
-   "underpants",
-   "trousers",
-   "pants"
+   "trousers; pants (in 裤子)"
+  ],
+  "meanings_ja": [
+   "ズボン（裤子）"
   ],
   "strokes": 12,
   "radical": "衤",
@@ -6402,6 +7461,8 @@
    "衤",
    "库"
   ],
+  "mnemonic": "Clothing 衤 stored in the garage 库 are trousers: 裤 means 'trousers'.",
+  "mnemonic_ja": "倉庫 库 にしまう衣 衤 はズボン。裤＝ズボン。",
   "hint": "clothes",
   "examples": [
    "vocab:hsk3:ku4zi5-裤子"
@@ -6423,6 +7484,9 @@
   "meanings": [
    "summer"
   ],
+  "meanings_ja": [
+   "夏"
+  ],
   "strokes": 10,
   "radical": "夊",
   "components": [
@@ -6430,6 +7494,8 @@
    "自",
    "夂"
   ],
+  "mnemonic": "A head 自 with legs 夂 dancing under the sun 一: 夏 means 'summer'.",
+  "mnemonic_ja": "太陽 一 の下で頭 自 と足 夂 が踊る。夏＝夏。",
   "examples": [
    "vocab:hsk3:xia4-夏"
   ]
@@ -6448,9 +7514,10 @@
    "ti1"
   ],
   "meanings": [
-   "ladder",
-   "steps",
-   "stairs"
+   "ladder; stairs (in 电梯)"
+  ],
+  "meanings_ja": [
+   "はしご・階段（电梯）"
   ],
   "strokes": 11,
   "radical": "木",
@@ -6458,6 +7525,8 @@
    "木",
    "弟"
   ],
+  "mnemonic": "Wooden 木 rungs lined up like younger brothers 弟: 梯 means 'ladder, stairs'.",
+  "mnemonic_ja": "木 の段が弟 弟 のように並ぶ。梯＝はしご、階段。",
   "hint": "wood",
   "examples": [
    "vocab:hsk3:dian4ti1-电梯"
@@ -6477,9 +7546,12 @@
    "gua1"
   ],
   "meanings": [
-   "scrape",
-   "blow",
-   "shave"
+   "to blow (wind) (in 刮风)",
+   "to scrape; to shave"
+  ],
+  "meanings_ja": [
+   "（風が）吹く（刮风）",
+   "削る・剃る"
   ],
   "strokes": 8,
   "radical": "刂",
@@ -6487,6 +7559,8 @@
    "舌",
    "刂"
   ],
+  "mnemonic": "A knife 刂 scrapes the tongue 舌 like a harsh wind: 刮 means 'to scrape, to blow'.",
+  "mnemonic_ja": "刀 刂 が舌 舌 を強風のように削る。刮＝削る、吹く。",
   "hint": "knife",
   "examples": [
    "vocab:hsk3:gua1-刮"
@@ -6506,9 +7580,12 @@
    "ai3"
   ],
   "meanings": [
-   "(of a person) short",
-   "(of a wall etc) low",
-   "(of rank) inferior (to)"
+   "short (in height)",
+   "low"
+  ],
+  "meanings_ja": [
+   "背が低い",
+   "低い"
   ],
   "strokes": 13,
   "radical": "矢",
@@ -6516,6 +7593,8 @@
    "矢",
    "委"
   ],
+  "mnemonic": "An arrow 矢 entrusted 委 to a short archer: 矮 means 'short'.",
+  "mnemonic_ja": "背の低い射手に委ね 委 た矢 矢。矮＝背が低い。",
   "hint": "dart",
   "examples": [
    "vocab:hsk3:ai3-矮"
@@ -6535,8 +7614,12 @@
    "jing4"
   ],
   "meanings": [
-   "mirror",
-   "lens"
+   "mirror (in 镜子)",
+   "lens (in 眼镜)"
+  ],
+  "meanings_ja": [
+   "鏡（镜子）",
+   "レンズ（眼镜）"
   ],
   "strokes": 16,
   "radical": "钅",
@@ -6544,6 +7627,8 @@
    "钅",
    "竟"
   ],
+  "mnemonic": "Metal 钅 polished until it finally 竟 shows your face: 镜 means 'mirror'.",
+  "mnemonic_ja": "金属 钅 を磨いてついに 竟 顔が映る。镜＝鏡。",
   "hint": "metal",
   "examples": [
    "vocab:hsk3:yan3jing4-眼镜"
@@ -6564,7 +7649,11 @@
   ],
   "meanings": [
    "net",
-   "network"
+   "internet (in 上网, 网站)"
+  ],
+  "meanings_ja": [
+   "網",
+   "インターネット（上网）"
   ],
   "strokes": 6,
   "radical": "网",
@@ -6572,6 +7661,8 @@
    "冂",
    "乂"
   ],
+  "mnemonic": "A frame 冂 with crossed 乂 strings is a net: 网 means 'net, internet'.",
+  "mnemonic_ja": "枠 冂 に糸を交差 乂 させた網。网＝網、ネット。",
   "hint": "A net for catching fish",
   "examples": [
    "vocab:hsk3:shang4wang3-上网"
@@ -6591,15 +7682,18 @@
    "chun1"
   ],
   "meanings": [
-   "spring (season)",
-   "gay",
-   "joyful"
+   "spring (season)"
+  ],
+  "meanings_ja": [
+   "春"
   ],
   "strokes": 9,
   "radical": "日",
   "components": [
    "日"
   ],
+  "mnemonic": "Three 三 people 人 under the sun 日 enjoying spring: 春 means 'spring'.",
+  "mnemonic_ja": "太陽 日 の下で三 三 人 人 が春を楽しむ。春＝春。",
   "hint": "sun",
   "examples": [
    "vocab:hsk3:chun1-春"
@@ -6620,8 +7714,11 @@
   ],
   "meanings": [
    "ice",
-   "chill sth",
-   "(of an object or substance) to feel cold"
+   "ice-cold (in 冰箱)"
+  ],
+  "meanings_ja": [
+   "氷",
+   "冷たい（冰箱）"
   ],
   "strokes": 6,
   "radical": "冫",
@@ -6629,6 +7726,8 @@
    "冫",
    "水"
   ],
+  "mnemonic": "Water 水 frozen into ice crystals 冫: 冰 means 'ice'.",
+  "mnemonic_ja": "水 水 が氷の結晶 冫 に凍る。冰＝氷。",
   "hint": "Ice-cold冫 water 水",
   "examples": [
    "vocab:hsk3:bing1xiang1-冰箱"
@@ -6648,9 +7747,10 @@
    "xiang1"
   ],
   "meanings": [
-   "box",
-   "trunk",
-   "chest"
+   "box; chest (in 冰箱, 箱子)"
+  ],
+  "meanings_ja": [
+   "箱（冰箱・箱子）"
   ],
   "strokes": 15,
   "radical": "⺮",
@@ -6658,6 +7758,8 @@
    "⺮",
    "相"
   ],
+  "mnemonic": "Bamboo ⺮ woven with each panel facing 相 another: 箱 means 'box'.",
+  "mnemonic_ja": "竹 ⺮ を互い 相 に組んだ箱。箱＝箱。",
   "hint": "bamboo",
   "examples": [
    "vocab:hsk3:bing1xiang1-冰箱",
@@ -6678,7 +7780,10 @@
    "a1"
   ],
   "meanings": [
-   "prefix used before monosyllabic names, kinship terms etc to indicate familiarity"
+   "(familiar name prefix) (in 阿姨)"
+  ],
+  "meanings_ja": [
+   "（親しみの接頭辞、阿姨）"
   ],
   "strokes": 7,
   "radical": "阝",
@@ -6686,6 +7791,8 @@
    "阝",
    "可"
   ],
+  "mnemonic": "In the hills 阝 you can 可 call anyone by a nickname: 阿 is the familiar prefix.",
+  "mnemonic_ja": "丘 阝 では誰でも 可 愛称で呼べる。阿＝親しみの接頭辞。",
   "hint": "place",
   "examples": [
    "vocab:hsk3:a1yi2-阿姨"
@@ -6705,8 +7812,10 @@
    "yi2"
   ],
   "meanings": [
-   "mother's sister",
-   "aunt"
+   "aunt (mother's sister) (in 阿姨)"
+  ],
+  "meanings_ja": [
+   "おば（阿姨）"
   ],
   "strokes": 9,
   "radical": "女",
@@ -6714,6 +7823,8 @@
    "女",
    "夷"
   ],
+  "mnemonic": "A woman 女 from the eastern tribes 夷, your mother's sister: 姨 means 'aunt'.",
+  "mnemonic_ja": "東方 夷 から来た女 女、母の姉妹。姨＝おば。",
   "hint": "woman",
   "examples": [
    "vocab:hsk3:a1yi2-阿姨"
@@ -6733,9 +7844,10 @@
    "chao1"
   ],
   "meanings": [
-   "exceed",
-   "overtake",
-   "surpass"
+   "to exceed; super- (in 超市, 超过)"
+  ],
+  "meanings_ja": [
+   "超える・超～（超市・超过）"
   ],
   "strokes": 12,
   "radical": "走",
@@ -6743,6 +7855,8 @@
    "走",
    "召"
   ],
+  "mnemonic": "Running 走 when summoned 召, you overtake everyone: 超 means 'to exceed, super'.",
+  "mnemonic_ja": "呼ばれ 召 て走り 走 みなを追い越す。超＝超える。",
   "hint": "run",
   "examples": [
    "vocab:hsk3:chao1shi4-超市"
@@ -6762,9 +7876,12 @@
    "ji2"
   ],
   "meanings": [
-   "urgent",
-   "pressing",
+   "urgent; anxious (in 着急)",
    "rapid"
+  ],
+  "meanings_ja": [
+   "急ぐ・焦る（着急）",
+   "急速な"
   ],
   "strokes": 9,
   "radical": "心",
@@ -6772,6 +7889,8 @@
    "刍",
    "心"
   ],
+  "mnemonic": "A heart 心 chasing after 刍 something is anxious: 急 means 'urgent, anxious'.",
+  "mnemonic_ja": "心 が何かを追いかけ 刍 焦る。急＝急ぐ、焦る。",
   "hint": "heart",
   "examples": [
    "vocab:hsk3:zhao2ji2-着急"
@@ -6791,9 +7910,10 @@
    "ji4"
   ],
   "meanings": [
-   "season",
-   "the last month of a season",
-   "fourth or youngest amongst brothers"
+   "season (in 季节)"
+  ],
+  "meanings_ja": [
+   "季節"
   ],
   "strokes": 8,
   "radical": "子",
@@ -6801,6 +7921,8 @@
    "禾",
    "子"
   ],
+  "mnemonic": "The time for planting seeds 子 of grain 禾: 季 means 'season'.",
+  "mnemonic_ja": "穀物 禾 の種 子 をまく時期。季＝季節。",
   "hint": "The time for planting seeds 子 of grain 禾",
   "examples": [
    "vocab:hsk3:ji4jie2-季节"
@@ -6820,8 +7942,10 @@
    "bao3"
   ],
   "meanings": [
-   "eat till full",
-   "satisfied"
+   "full (after eating)"
+  ],
+  "meanings_ja": [
+   "満腹の"
   ],
   "strokes": 8,
   "radical": "饣",
@@ -6829,6 +7953,8 @@
    "饣",
    "包"
   ],
+  "mnemonic": "Food 饣 wrapped 包 inside you: 饱 means 'full'.",
+  "mnemonic_ja": "食べ物 饣 を腹に包み 包 込む。饱＝満腹の。",
   "hint": "food",
   "examples": [
    "vocab:hsk3:bao3-饱"
@@ -6849,8 +7975,13 @@
   ],
   "meanings": [
    "empty",
-   "air",
-   "sky"
+   "sky; air (in 空气)",
+   "free time (kòng)"
+  ],
+  "meanings_ja": [
+   "空っぽの",
+   "空・空気",
+   "暇（kòng）"
   ],
   "strokes": 8,
   "radical": "穴",
@@ -6858,6 +7989,8 @@
    "穴",
    "工"
   ],
+  "mnemonic": "A cave 穴 dug out by work 工 is empty: 空 means 'empty, sky'.",
+  "mnemonic_ja": "工事 工 で掘った穴 穴 は空っぽ。空＝空っぽ、空。",
   "hint": "cave",
   "examples": [
    "vocab:hsk3:kong1tiao2-空调"
@@ -6877,9 +8010,12 @@
    "tiao2"
   ],
   "meanings": [
-   "harmonize",
-   "reconcile",
-   "blend"
+   "to adjust (in 空调)",
+   "tone; tune (diào)"
+  ],
+  "meanings_ja": [
+   "調節する（空调）",
+   "調子・曲（diào）"
   ],
   "strokes": 10,
   "radical": "讠",
@@ -6887,6 +8023,8 @@
    "讠",
    "周"
   ],
+  "mnemonic": "Words 讠 going all the way around 周 until everyone agrees: 调 means 'to adjust, tone'.",
+  "mnemonic_ja": "言葉 讠 が一周 周 して調子を合わせる。调＝調節する、調子。",
   "hint": "speech",
   "examples": [
    "vocab:hsk3:kong1tiao2-空调"
@@ -6906,9 +8044,10 @@
    "chen4"
   ],
   "meanings": [
-   "(of garments) against the skin",
-   "line",
-   "lining"
+   "shirt; lining (in 衬衫)"
+  ],
+  "meanings_ja": [
+   "シャツ・裏地（衬衫）"
   ],
   "strokes": 8,
   "radical": "衤",
@@ -6916,6 +8055,8 @@
    "衤",
    "寸"
   ],
+  "mnemonic": "Clothing 衤 an inch 寸 from the skin is the lining: 衬 means 'shirt, lining'.",
+  "mnemonic_ja": "肌から一寸 寸 の衣 衤 は裏地。衬＝シャツ、裏地。",
   "hint": "clothes",
   "examples": [
    "vocab:hsk3:chen4shan1-衬衫"
@@ -6935,8 +8076,10 @@
    "shan1"
   ],
   "meanings": [
-   "garment",
-   "jacket with open slits in place of sleeves"
+   "shirt; garment (in 衬衫)"
+  ],
+  "meanings_ja": [
+   "シャツ（衬衫）"
   ],
   "strokes": 8,
   "radical": "衤",
@@ -6944,6 +8087,8 @@
    "衤",
    "彡"
   ],
+  "mnemonic": "Clothing 衤 with fringed 彡 sleeves: 衫 means 'shirt'.",
+  "mnemonic_ja": "袖に飾り 彡 のある衣 衤。衫＝シャツ。",
   "hint": "clothes",
   "examples": [
    "vocab:hsk3:chen4shan1-衬衫"
@@ -6963,9 +8108,10 @@
    "bin1"
   ],
   "meanings": [
-   "visitor",
-   "guest",
-   "object (in grammar)"
+   "guest (in 宾馆)"
+  ],
+  "meanings_ja": [
+   "客（宾馆）"
   ],
   "strokes": 10,
   "radical": "宀",
@@ -6973,6 +8119,8 @@
    "宀",
    "兵"
   ],
+  "mnemonic": "A soldier 兵 lodged under your roof 宀 is a guest: 宾 means 'guest'.",
+  "mnemonic_ja": "屋根 宀 の下に泊まる兵 兵 は客。宾＝客。",
   "hint": "A solider 兵 quartered under one's roof 宀",
   "examples": [
    "vocab:hsk3:bin1guan3-宾馆"
@@ -6992,8 +8140,10 @@
    "dong1"
   ],
   "meanings": [
-   "winter",
-   "rat-a-tat"
+   "winter"
+  ],
+  "meanings_ja": [
+   "冬"
   ],
   "strokes": 5,
   "radical": "⺀",
@@ -7001,6 +8151,8 @@
    "夂",
    "⺀"
   ],
+  "mnemonic": "A man walking 夂 on ice ⺀: 冬 means 'winter'.",
+  "mnemonic_ja": "氷 ⺀ の上を歩く 夂 人。冬＝冬。",
   "hint": "A man walking 夂 on ice ⺀",
   "examples": [
    "vocab:hsk3:dong1-冬"
@@ -7020,9 +8172,10 @@
    "qun2"
   ],
   "meanings": [
-   "skirt",
-   "petticoat",
-   "apron"
+   "skirt (in 裙子)"
+  ],
+  "meanings_ja": [
+   "スカート（裙子）"
   ],
   "strokes": 12,
   "radical": "衤",
@@ -7030,6 +8183,8 @@
    "衤",
    "君"
   ],
+  "mnemonic": "Clothing 衤 fit for a lord 君 flows to the floor: 裙 means 'skirt'.",
+  "mnemonic_ja": "君主 君 にふさわしい衣 衤 が床まで流れる。裙＝スカート。",
   "hint": "clothes",
   "examples": [
    "vocab:hsk3:qun2zi5-裙子"
@@ -7050,8 +8205,13 @@
   ],
   "meanings": [
    "fragrant",
-   "sweet smelling",
-   "aromatic"
+   "delicious (smelling)",
+   "incense"
+  ],
+  "meanings_ja": [
+   "香りがよい",
+   "おいしそうな",
+   "線香"
   ],
   "strokes": 9,
   "radical": "香",
@@ -7059,6 +8219,8 @@
    "禾",
    "日"
   ],
+  "mnemonic": "Grain 禾 drying in the sun 日 smells sweet: 香 means 'fragrant'.",
+  "mnemonic_ja": "穀物 禾 が太陽 日 で乾いて香る。香＝香りがよい。",
   "hint": "A herb 禾 with a sweet 甘 smell",
   "examples": [
    "vocab:hsk3:xiang1jiao1-香蕉"
@@ -7078,7 +8240,10 @@
    "jiao1"
   ],
   "meanings": [
-   "banana"
+   "banana (in 香蕉)"
+  ],
+  "meanings_ja": [
+   "バナナ（香蕉）"
   ],
   "strokes": 15,
   "radical": "艹",
@@ -7086,6 +8251,8 @@
    "艹",
    "焦"
   ],
+  "mnemonic": "A plant 艹 whose fruit turns scorched 焦 brown when ripe: 蕉 means 'banana'.",
+  "mnemonic_ja": "熟すと焦げ 焦 色になる草 艹 の実。蕉＝バナナ。",
   "hint": "plant",
   "examples": [
    "vocab:hsk3:xiang1jiao1-香蕉"
@@ -7105,9 +8272,10 @@
    "qiu1"
   ],
   "meanings": [
-   "autumn",
-   "fall",
-   "harvest time"
+   "autumn"
+  ],
+  "meanings_ja": [
+   "秋"
   ],
   "strokes": 9,
   "radical": "禾",
@@ -7115,6 +8283,8 @@
    "禾",
    "火"
   ],
+  "mnemonic": "Grain 禾 stubble burned with fire 火 after harvest: 秋 means 'autumn'.",
+  "mnemonic_ja": "収穫後に穀物 禾 の茎を火 火 で焼く。秋＝秋。",
   "hint": "The time of year when farmers would burn 禾 crops 火",
   "examples": [
    "vocab:hsk3:qiu1-秋"
@@ -7134,9 +8304,12 @@
    "shao1"
   ],
   "meanings": [
-   "burn",
-   "heat (over a fire)",
-   "braise"
+   "to burn; to cook",
+   "fever (in 发烧)"
+  ],
+  "meanings_ja": [
+   "燃やす・煮る",
+   "発熱（发烧）"
   ],
   "strokes": 10,
   "radical": "火",
@@ -7144,6 +8317,8 @@
    "火",
    "尧"
   ],
+  "mnemonic": "Fire 火 piled high 尧 burns: 烧 means 'to burn, to cook'.",
+  "mnemonic_ja": "火 火 を高く 尧 積んで燃やす。烧＝燃やす、煮る。",
   "hint": "fire",
   "examples": [
    "vocab:hsk3:fa1shao1-发烧"
@@ -7163,15 +8338,18 @@
    "san3"
   ],
   "meanings": [
-   "umbrella",
-   "parasol",
-   "damask silk"
+   "umbrella"
+  ],
+  "meanings_ja": [
+   "傘"
   ],
   "strokes": 6,
   "radical": "人",
   "components": [
    "人"
   ],
+  "mnemonic": "A canopy with spokes over a person 人: 伞 means 'umbrella'.",
+  "mnemonic_ja": "人 人 の上に骨を広げた傘。伞＝傘。",
   "hint": "An umbrella",
   "examples": [
    "vocab:hsk3:san3-伞"
@@ -7191,9 +8369,12 @@
    "sao3"
   ],
   "meanings": [
-   "sweep (with a brush or broom)",
-   "sweep away",
-   "sweep (one's eyes etc) over"
+   "to sweep (in 打扫)",
+   "to scan (a code)"
+  ],
+  "meanings_ja": [
+   "掃く（打扫）",
+   "スキャンする"
   ],
   "strokes": 6,
   "radical": "扌",
@@ -7201,6 +8382,8 @@
    "扌",
    "彐"
   ],
+  "mnemonic": "A hand 扌 pushes a broom 彐 across the floor: 扫 means 'to sweep'.",
+  "mnemonic_ja": "手 扌 がほうき 彐 で床を掃く。扫＝掃く。",
   "hint": "Simplified form of 掃; to use 扌 a broom 帚; 帚 also provides the pronunciation",
   "examples": [
    "vocab:hsk3:da3sao3-打扫"
@@ -7220,9 +8403,10 @@
    "pu2"
   ],
   "meanings": [
-   "grapes",
-   "Portugal",
-   "Portuguese"
+   "grape (in 葡萄)"
+  ],
+  "meanings_ja": [
+   "ブドウ（葡萄）"
   ],
   "strokes": 12,
   "radical": "艹",
@@ -7230,6 +8414,8 @@
    "艹",
    "匍"
   ],
+  "mnemonic": "A plant 艹 that crawls 匍 up the trellis bears grapes: 葡 is the first half of 葡萄.",
+  "mnemonic_ja": "棚をはう 匍 草 艹 にブドウがなる。葡＝葡萄の葡。",
   "hint": "plant",
   "examples": [
    "vocab:hsk3:pu2tao5-葡萄"
@@ -7249,7 +8435,10 @@
    "tao5"
   ],
   "meanings": [
-   "grapes"
+   "grape (in 葡萄)"
+  ],
+  "meanings_ja": [
+   "ブドウ（葡萄）"
   ],
   "strokes": 11,
   "radical": "艹",
@@ -7257,6 +8446,8 @@
    "艹",
    "匋"
   ],
+  "mnemonic": "A plant 艹 whose fruit fills a clay jar 匋 with wine: 萄 is the second half of 葡萄.",
+  "mnemonic_ja": "草 艹 の実が壺 匋 を酒で満たす。萄＝葡萄の萄。",
   "hint": "plant",
   "examples": [
    "vocab:hsk3:pu2tao5-葡萄"
@@ -7276,9 +8467,14 @@
    "fu4"
   ],
   "meanings": [
-   "go and return",
-   "return",
-   "resume"
+   "to repeat; to review (in 复习)",
+   "to reply (in 回复)",
+   "complex (in 复杂)"
+  ],
+  "meanings_ja": [
+   "復習する（复习）",
+   "返事する（回复）",
+   "複雑な（复杂）"
   ],
   "strokes": 9,
   "radical": "夊",
@@ -7287,6 +8483,8 @@
    "日",
    "夂"
   ],
+  "mnemonic": "A person 亻 goes out 夂 every day 日 and comes back: 复 means 'to repeat, to return'.",
+  "mnemonic_ja": "人 亻 が毎日 日 出かけ 夂 また戻る。复＝繰り返す、戻る。",
   "hint": "A person 亻 who goes  somewhere 夂 every day 日",
   "examples": [
    "vocab:hsk3:fu4xi2-复习"
@@ -7306,9 +8504,10 @@
    "xiong2"
   ],
   "meanings": [
-   "bear",
-   "(coll.) to scold",
-   "(coll.) weak"
+   "bear (in 熊猫)"
+  ],
+  "meanings_ja": [
+   "クマ（熊猫）"
   ],
   "strokes": 14,
   "radical": "灬",
@@ -7316,6 +8515,8 @@
    "能",
    "灬"
   ],
+  "mnemonic": "A creature with ability 能 and four paw prints 灬: 熊 means 'bear'.",
+  "mnemonic_ja": "能力 能 と四つの足跡 灬 を持つ獣。熊＝クマ。",
   "hint": "A bear's 能 footprints 灬",
   "examples": [
    "vocab:hsk3:xiong2mao1-熊猫"
@@ -7335,7 +8536,10 @@
    "hu4"
   ],
   "meanings": [
-   "defend (sb) out of partiality"
+   "to protect (in 护照, 护士)"
+  ],
+  "meanings_ja": [
+   "守る（护照・护士）"
   ],
   "strokes": 7,
   "radical": "扌",
@@ -7343,6 +8547,8 @@
    "扌",
    "户"
   ],
+  "mnemonic": "A hand 扌 guards the door 户: 护 means 'to protect'.",
+  "mnemonic_ja": "手 扌 が戸 户 を守る。护＝守る。",
   "hint": "Guarding 扌 a home 户; 户 also provides the pronunciation",
   "examples": [
    "vocab:hsk3:hu4zhao4-护照"
@@ -7362,9 +8568,10 @@
    "ji2"
   ],
   "meanings": [
-   "level",
-   "grade",
-   "rank"
+   "level; grade (in 年级)"
+  ],
+  "meanings_ja": [
+   "級・学年（年级）"
   ],
   "strokes": 6,
   "radical": "纟",
@@ -7372,6 +8579,8 @@
    "纟",
    "及"
   ],
+  "mnemonic": "Thread 纟 reaching 及 the next step up: 级 means 'level, grade'.",
+  "mnemonic_ja": "糸 纟 が次の段に届く 及。级＝級、学年。",
   "hint": "silk",
   "examples": [
    "vocab:hsk3:nian2ji2-年级"
@@ -7391,7 +8600,10 @@
    "zhi1"
   ],
   "meanings": [
-   "juice"
+   "juice (in 果汁)"
+  ],
+  "meanings_ja": [
+   "ジュース・汁（果汁）"
   ],
   "strokes": 5,
   "radical": "氵",
@@ -7399,6 +8611,8 @@
    "氵",
    "十"
   ],
+  "mnemonic": "Water 氵 pressed from ten 十 fruits: 汁 means 'juice'.",
+  "mnemonic_ja": "十 個の果物から絞った水 氵。汁＝ジュース。",
   "hint": "water",
   "examples": [
    "vocab:hsk3:guo3zhi1-果汁"
@@ -7418,9 +8632,12 @@
    "pan2"
   ],
   "meanings": [
-   "tray",
-   "(finance) (bound form) market prices",
-   "(computing) (bound form) disk"
+   "plate; tray (in 盘子)",
+   "(classifier for dishes, games)"
+  ],
+  "meanings_ja": [
+   "皿（盘子）",
+   "（料理・試合の量詞）"
   ],
   "strokes": 11,
   "radical": "皿",
@@ -7428,6 +8645,8 @@
    "舟",
    "皿"
   ],
+  "mnemonic": "A boat-shaped 舟 dish 皿 is a tray: 盘 means 'plate, tray'.",
+  "mnemonic_ja": "舟 舟 の形の器 皿。盘＝皿、盆。",
   "hint": "dish",
   "examples": [
    "vocab:hsk3:pan2zi5-盘子"
@@ -7447,7 +8666,10 @@
    "qian1"
   ],
   "meanings": [
-   "lead (chemistry)"
+   "lead (metal) (in 铅笔)"
+  ],
+  "meanings_ja": [
+   "鉛（铅笔）"
   ],
   "strokes": 10,
   "radical": "钅",
@@ -7456,6 +8678,8 @@
    "几",
    "口"
   ],
+  "mnemonic": "A metal 钅 soft as a mouth 口 on a stool 几: 铅 means 'lead'.",
+  "mnemonic_ja": "台 几 と口 口 ほど柔らかい金属 钅。铅＝鉛。",
   "hint": "metal",
   "examples": [
    "vocab:hsk3:qian1bi3-铅笔"
@@ -7475,9 +8699,12 @@
    "bi3"
   ],
   "meanings": [
-   "writing brush",
-   "brushstroke",
-   "(classifier) stroke of a Chinese character"
+   "pen; brush",
+   "(classifier for strokes, sums)"
+  ],
+  "meanings_ja": [
+   "筆・ペン",
+   "（筆画・金額の量詞）"
   ],
   "strokes": 10,
   "radical": "⺮",
@@ -7485,6 +8712,8 @@
    "⺮",
    "毛"
   ],
+  "mnemonic": "A bamboo ⺮ rod tipped with hair 毛: 笔 means 'pen, brush'.",
+  "mnemonic_ja": "竹 ⺮ の軸に毛 毛 をつけた筆。笔＝筆、ペン。",
   "hint": "A bamboo rod ⺮ tipped with hair 毛",
   "examples": [
    "vocab:hsk3:qian1bi3-铅笔"
@@ -7506,12 +8735,17 @@
   "meanings": [
    "thirsty"
   ],
+  "meanings_ja": [
+   "のどが渇いた"
+  ],
   "strokes": 12,
   "radical": "氵",
   "components": [
    "氵",
    "曷"
   ],
+  "mnemonic": "Water 氵 you beg for 曷 when thirsty: 渴 means 'thirsty'.",
+  "mnemonic_ja": "のどが渇いて水 氵 を乞う 曷。渴＝のどが渇いた。",
   "hint": "water",
   "examples": [
    "vocab:hsk3:ke3-渴"
@@ -7531,9 +8765,10 @@
    "ci2"
   ],
   "meanings": [
-   "word",
-   "statement",
-   "a form of lyric poetry, flourishing in the Song dynasty 宋朝"
+   "word (in 词典, 生词)"
+  ],
+  "meanings_ja": [
+   "語・単語（词典）"
   ],
   "strokes": 7,
   "radical": "讠",
@@ -7541,6 +8776,8 @@
    "讠",
    "司"
   ],
+  "mnemonic": "Words 讠 that an official 司 manages carefully: 词 means 'word'.",
+  "mnemonic_ja": "役人 司 が管理する言葉 讠。词＝語。",
   "hint": "words",
   "examples": [
    "vocab:hsk3:ci2yu3-词语"
@@ -7560,9 +8797,12 @@
    "ju4"
   ],
   "meanings": [
-   "sentence",
-   "clause",
-   "phrase"
+   "sentence (in 句子)",
+   "(classifier for sentences)"
+  ],
+  "meanings_ja": [
+   "文（句子）",
+   "（文の量詞）"
   ],
   "strokes": 5,
   "radical": "口",
@@ -7570,6 +8810,8 @@
    "勹",
    "口"
   ],
+  "mnemonic": "A wrapper 勹 around a mouthful 口 of speech: 句 means 'sentence'.",
+  "mnemonic_ja": "口 の言葉をひと包み 勹 にする。句＝文。",
   "hint": "A phrase 勹 from the mouth 口",
   "examples": [
    "vocab:hsk3:ju4zi5-句子"
@@ -7589,7 +8831,10 @@
    "kuai4"
   ],
   "meanings": [
-   "chopstick"
+   "chopsticks (in 筷子)"
+  ],
+  "meanings_ja": [
+   "箸（筷子）"
   ],
   "strokes": 13,
   "radical": "⺮",
@@ -7597,6 +8842,8 @@
    "⺮",
    "快"
   ],
+  "mnemonic": "Bamboo ⺮ that makes eating fast 快: 筷 means 'chopsticks'.",
+  "mnemonic_ja": "食事を速く 快 する竹 ⺮。筷＝箸。",
   "hint": "bamboo",
   "examples": [
    "vocab:hsk3:kuai4zi5-筷子"
@@ -7616,9 +8863,12 @@
    "dian3"
   ],
   "meanings": [
-   "canon",
-   "law",
-   "standard work of scholarship"
+   "dictionary (in 词典)",
+   "standard; classic"
+  ],
+  "meanings_ja": [
+   "辞典（词典）",
+   "典範"
   ],
   "strokes": 8,
   "radical": "八",
@@ -7626,6 +8876,8 @@
    "曲",
    "八"
   ],
+  "mnemonic": "Two hands 八 hold up a bound 曲 book: 典 means 'dictionary, classic'.",
+  "mnemonic_ja": "両手 八 で綴じた 曲 本を掲げる。典＝辞典、典範。",
   "hint": "Two hands 八 holding a book 冊",
   "examples": [
    "vocab:hsk3:zi4dian3-字典"
@@ -7645,9 +8897,10 @@
    "pu3"
   ],
   "meanings": [
-   "general",
-   "popular",
-   "everywhere"
+   "general; universal (in 普通)"
+  ],
+  "meanings_ja": [
+   "普遍的な（普通）"
   ],
   "strokes": 12,
   "radical": "日",
@@ -7655,6 +8908,8 @@
    "並",
    "日"
   ],
+  "mnemonic": "Everyone standing side by side 並 under the sun 日: 普 means 'general, universal'.",
+  "mnemonic_ja": "太陽 日 の下にみなが並ぶ 並。普＝普遍的な。",
   "hint": "Everyone 並 under the sun 日",
   "examples": [
    "vocab:hsk3:pu3tong1hua4-普通话"
@@ -7674,9 +8929,14 @@
    "tong1"
   ],
   "meanings": [
-   "go through",
-   "know well",
-   "(suffix) expert"
+   "to go through; to connect",
+   "common (in 普通)",
+   "to understand"
+  ],
+  "meanings_ja": [
+   "通じる",
+   "普通の",
+   "精通する"
   ],
   "strokes": 10,
   "radical": "辶",
@@ -7684,6 +8944,8 @@
    "辶",
    "甬"
   ],
+  "mnemonic": "Walking 辶 through a passage 甬 to the other side: 通 means 'to go through'.",
+  "mnemonic_ja": "通路 甬 を歩いて 辶 向こうへ抜ける。通＝通じる。",
   "hint": "walk",
   "examples": [
    "vocab:hsk3:pu3tong1hua4-普通话"
@@ -7703,9 +8965,12 @@
    "pa2"
   ],
   "meanings": [
-   "crawl",
-   "climb",
-   "get up or sit up"
+   "to climb (in 爬山)",
+   "to crawl"
+  ],
+  "meanings_ja": [
+   "登る（爬山）",
+   "はう"
   ],
   "strokes": 8,
   "radical": "爪",
@@ -7713,6 +8978,8 @@
    "爪",
    "巴"
   ],
+  "mnemonic": "Claws 爪 grip the snake's 巴 back and climb: 爬 means 'to climb, to crawl'.",
+  "mnemonic_ja": "爪 爪 で蛇 巴 の背をつかみ登る。爬＝登る、はう。",
   "hint": "claw",
   "examples": [
    "vocab:hsk3:pa2shan1-爬山"
@@ -7732,8 +8999,10 @@
    "shan1"
   ],
   "meanings": [
-   "mountain",
-   "(coll.) small bundle of straw for silkworms to spin cocoons on"
+   "mountain; hill"
+  ],
+  "meanings_ja": [
+   "山"
   ],
   "strokes": 3,
   "radical": "山",
@@ -7741,6 +9010,8 @@
    "凵",
    "丨"
   ],
+  "mnemonic": "Three peaks rising from the ground: 山 means 'mountain'.",
+  "mnemonic_ja": "地面から三つの峰がそびえる。山＝山。",
   "hint": "Three mountain peaks",
   "examples": [
    "vocab:hsk3:pa2shan1-爬山"
@@ -7760,9 +9031,12 @@
    "ban3"
   ],
   "meanings": [
-   "board",
-   "plank",
-   "plate"
+   "board; plank (in 黑板)",
+   "boss (in 老板)"
+  ],
+  "meanings_ja": [
+   "板（黑板）",
+   "店主（老板）"
   ],
   "strokes": 8,
   "radical": "木",
@@ -7770,6 +9044,8 @@
    "木",
    "反"
   ],
+  "mnemonic": "Wood 木 turned over 反 flat is a board: 板 means 'board, plank'.",
+  "mnemonic_ja": "木 をひっくり返して 反 平らにした板。板＝板。",
   "hint": "wood",
   "examples": [
    "vocab:hsk3:hei1ban3-黑板"
@@ -7789,7 +9065,12 @@
    "li5"
   ],
   "meanings": [
+   "(surname Li)",
    "plum"
+  ],
+  "meanings_ja": [
+   "（姓）李",
+   "スモモ"
   ],
   "strokes": 7,
   "radical": "木",
@@ -7797,6 +9078,8 @@
    "木",
    "子"
   ],
+  "mnemonic": "A tree 木 whose child 子 is a plum, and a common surname: 李 means 'plum, Li'.",
+  "mnemonic_ja": "木 の子 子 がスモモ、よくある姓。李＝スモモ、李さん。",
   "hint": "wood",
   "examples": [
    "vocab:hsk3:xing2li5xiang1-行李箱"

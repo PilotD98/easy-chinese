@@ -9,11 +9,14 @@
   "unit": 1,
   "order": 120,
   "meanings": [
-   "right; correct",
-   "towards; at; for",
-   "concerning; regarding",
-   "to treat (sb a certain way)"
+   "right, correct",
+   "to; toward; regarding"
   ],
+  "meanings_ja": [
+   "正しい",
+   "〜に対して"
+  ],
+  "note_ja": "「はい、そのとおり」という返事にも使う。",
   "pos": [
    "p",
    "v",
@@ -36,11 +39,14 @@
   "unit": 1,
   "order": 120.01,
   "meanings": [
-   "to cross",
-   "to go over",
-   "to pass (time)",
-   "to celebrate (a holiday)"
+   "to pass; to cross",
+   "(after a verb) have done before"
   ],
+  "meanings_ja": [
+   "過ぎる・渡る",
+   "〜したことがある"
+  ],
+  "note_ja": "動詞の後ろで経験「〜したことがある」を表す。",
   "pos": [
    "u",
    "v",
@@ -63,10 +69,11 @@
   "unit": 1,
   "order": 120.02,
   "meanings": [
-   "and",
-   "as well as",
-   "and so",
-   "but (not)"
+   "and; but (connects clauses)"
+  ],
+  "meanings_ja": [
+   "そして",
+   "しかし"
   ],
   "pos": [
    "cc",
@@ -88,11 +95,14 @@
   "unit": 1,
   "order": 120.03,
   "meanings": [
-   "to wait for; to await",
-   "by the time; when; till",
-   "and so on; etc.; et al.",
-   "(used to end an enumeration)"
+   "to wait",
+   "and so on; etc."
   ],
+  "meanings_ja": [
+   "待つ",
+   "〜など"
+  ],
+  "note_ja": "「待つ」の意味が基本。「など」は後置用法。",
   "pos": [
    "v",
    "u"
@@ -113,9 +123,13 @@
   "unit": 1,
   "order": 120.04,
   "meanings": [
-   "(formal) and; together with (linking parallel nouns, verbs, or phrases)",
-   "(formal) with; from (marking the other participant in an interaction, comparison, or contrast, e.g. 与他握手 \"shake hands with him\", 与去年不同 \"different from last year\")"
+   "and; with (formal)"
   ],
+  "meanings_ja": [
+   "〜と",
+   "〜と共に"
+  ],
+  "note_ja": "「与える」ではなく「〜と」の意味。",
   "pos": [
    "p",
    "cc"
@@ -136,11 +150,14 @@
   "unit": 1,
   "order": 120.05,
   "meanings": [
-   "to be",
-   "to act as",
-   "manage",
-   "withstand"
+   "to be; to serve as",
+   "when; at the time of"
   ],
+  "meanings_ja": [
+   "〜になる・務める",
+   "〜のとき"
+  ],
+  "note_ja": "「当たる」ではなく「〜を務める、〜になる」。",
   "pos": [
    "p",
    "v"
@@ -166,6 +183,9 @@
    "her",
    "it"
   ],
+  "meanings_ja": [
+   "〜の(文語)"
+  ],
   "pos": [
    "u",
    "r",
@@ -187,10 +207,12 @@
   "unit": 1,
   "order": 120.07,
   "meanings": [
-   "to use",
-   "by means of",
-   "according to",
+   "with; by means of",
    "in order to"
+  ],
+  "meanings_ja": [
+   "〜で・〜によって",
+   "〜するために"
   ],
   "pos": [
    "p",
@@ -213,10 +235,12 @@
   "unit": 1,
   "order": 120.08,
   "meanings": [
-   "(after a verb) indicating the beginning and continuation of an action or a state",
-   "indicating an upward movement (e.g. after 站)",
-   "indicating completion",
-   "(after a perception verb, e.g. 看) expressing preliminary judgment"
+   "(after a verb) start to; up",
+   "when you (look/sound) …"
+  ],
+  "meanings_ja": [
+   "〜し始める",
+   "〜してみると"
   ],
   "pos": [
    "v"
@@ -239,9 +263,11 @@
   "order": 120.09,
   "meanings": [
    "to die",
-   "impassable",
-   "uncrossable",
-   "inflexible"
+   "dead"
+  ],
+  "meanings_ja": [
+   "死ぬ",
+   "死んだ"
   ],
   "pos": [
    "v",
@@ -265,11 +291,13 @@
   "unit": 1,
   "order": 120.1,
   "meanings": [
-   "but",
-   "yet",
-   "however",
-   "while"
+   "but; yet; however"
   ],
+  "meanings_ja": [
+   "しかし",
+   "〜なのに"
+  ],
+  "note_ja": "「かえって」ではなく「しかし、〜なのに」。",
   "pos": [
    "d"
   ],
@@ -289,9 +317,12 @@
   "unit": 1,
   "order": 120.11,
   "meanings": [
-   "to live",
-   "life",
-   "livelihood"
+   "life; daily life",
+   "to live"
+  ],
+  "meanings_ja": [
+   "生活",
+   "生活する"
   ],
   "pos": [
    "vn",
@@ -314,7 +345,11 @@
   "unit": 1,
   "order": 120.12,
   "meanings": [
-   "to happen; to occur; to take place; to arise (e.g. 发生问题 \"a problem arises\")"
+   "to happen; to occur"
+  ],
+  "meanings_ja": [
+   "起こる",
+   "発生する"
   ],
   "pos": [
    "v",
@@ -337,10 +372,12 @@
   "unit": 1,
   "order": 120.13,
   "meanings": [
-   "only",
-   "merely",
-   "no more than",
-   "but"
+   "but; however",
+   "only; merely"
+  ],
+  "meanings_ja": [
+   "でも・ただし",
+   "〜にすぎない"
   ],
   "pos": [
    "c",
@@ -364,9 +401,13 @@
   "unit": 1,
   "order": 120.14,
   "meanings": [
-   "all",
-   "to have; to possess; to own"
+   "all; every"
   ],
+  "meanings_ja": [
+   "すべての",
+   "あらゆる"
+  ],
+  "note_ja": "「所有」ではなく「すべての」。",
   "pos": [
    "b",
    "v"
@@ -388,7 +429,11 @@
   "unit": 1,
   "order": 120.15,
   "meanings": [
-   "circumstances; state of affairs; situation"
+   "situation; circumstances"
+  ],
+  "meanings_ja": [
+   "状況",
+   "事情"
   ],
   "pos": [
    "n"
@@ -410,8 +455,12 @@
   "unit": 1,
   "order": 120.16,
   "meanings": [
-   "final; last; ultimate",
+   "last; final",
    "finally; in the end"
+  ],
+  "meanings_ja": [
+   "最後の",
+   "最後に"
   ],
   "pos": [
    "f"
@@ -433,7 +482,10 @@
   "unit": 1,
   "order": 120.17,
   "meanings": [
-   "to become; to turn into"
+   "to become"
+  ],
+  "meanings_ja": [
+   "〜になる"
   ],
   "pos": [
    "v"
@@ -455,10 +507,14 @@
   "unit": 1,
   "order": 120.18,
   "meanings": [
-   "capable; competent",
-   "all right; OK!; will do",
-   "behavior; conduct"
+   "OK; all right",
+   "capable; competent"
   ],
+  "meanings_ja": [
+   "いい・OK",
+   "できる・有能だ"
+  ],
+  "note_ja": "「行く」ではなく「OK、いいよ」。",
   "pos": [
    "v",
    "g",
@@ -482,9 +538,14 @@
   "unit": 2,
   "order": 220.19,
   "meanings": [
-   "feeling; impression; sensation",
-   "to feel; to perceive"
+   "feeling",
+   "to feel; to sense"
   ],
+  "meanings_ja": [
+   "感じ・感覚",
+   "感じる"
+  ],
+  "note_ja": "動詞「〜と感じる、〜気がする」としてもよく使う。",
   "pos": [
    "n",
    "v"
@@ -506,7 +567,11 @@
   "unit": 1,
   "order": 120.2,
   "meanings": [
-   "to continue; to proceed with; to go on with"
+   "to continue; to go on"
+  ],
+  "meanings_ja": [
+   "続ける",
+   "継続する"
   ],
   "pos": [
    "v"
@@ -528,10 +593,11 @@
   "unit": 2,
   "order": 220.21,
   "meanings": [
-   "large place used for a specific purpose",
-   "stage",
-   "scene (of a play)",
-   "classifier for sporting or recreational activities"
+   "(measure word for events, shows, games)"
+  ],
+  "meanings_ja": [
+   "〜回・〜試合(量詞)",
+   "場所・場"
   ],
   "pos": [
    "qv",
@@ -553,10 +619,14 @@
   "unit": 2,
   "order": 220.22,
   "meanings": [
-   "(of a process etc) to proceed; to be in progress; to be underway",
-   "(of people) to carry out; to conduct (an investigation or discussion etc)",
-   "(of an army etc) to be on the march; to advance"
+   "to carry out; to conduct",
+   "to be in progress"
   ],
+  "meanings_ja": [
+   "行う",
+   "進める"
+  ],
+  "note_ja": "「進行する」より「〜を行う」の意味で使う。",
   "pos": [
    "v",
    "vn"
@@ -578,10 +648,11 @@
   "unit": 1,
   "order": 120.23,
   "meanings": [
-   "inside",
-   "inner",
-   "internal",
-   "within"
+   "inside; within"
+  ],
+  "meanings_ja": [
+   "内・中",
+   "〜以内"
   ],
   "pos": [
    "f"
@@ -602,11 +673,14 @@
   "unit": 2,
   "order": 220.24,
   "meanings": [
-   "to pass through; to get through",
-   "to adopt (a resolution); to pass (legislation)",
-   "to pass (a test)",
-   "by means of; through; via"
+   "through; by means of",
+   "to pass (a test, a law)"
   ],
+  "meanings_ja": [
+   "〜を通じて",
+   "通過する・合格する"
+  ],
+  "note_ja": "「〜を通じて」と「(試験に)合格する」の意味。",
   "pos": [
    "p",
    "v",
@@ -629,10 +703,11 @@
   "unit": 1,
   "order": 120.25,
   "meanings": [
-   "not to have",
-   "no",
-   "none",
-   "not"
+   "without; not have; no"
+  ],
+  "meanings_ja": [
+   "〜がない",
+   "無"
   ],
   "pos": [
    "v"
@@ -653,10 +728,13 @@
   "unit": 1,
   "order": 120.26,
   "meanings": [
-   "everything",
-   "every",
-   "all"
+   "everything; all"
   ],
+  "meanings_ja": [
+   "すべて",
+   "一切の"
+  ],
+  "note_ja": "否定なしで「すべて」の意味。日本語の「一切〜ない」とは違う。",
   "pos": [
    "r"
   ],
@@ -677,10 +755,12 @@
   "unit": 1,
   "order": 120.27,
   "meanings": [
-   "to follow",
-   "from",
-   "because of; due to",
-   "by; via; through"
+   "by (someone)",
+   "from; due to"
+  ],
+  "meanings_ja": [
+   "〜によって",
+   "〜から"
   ],
   "pos": [
    "p",
@@ -702,7 +782,11 @@
   "unit": 1,
   "order": 120.28,
   "meanings": [
-   "any; whatever; whichever"
+   "any; whatever"
+  ],
+  "meanings_ja": [
+   "いかなる",
+   "どんな〜でも"
   ],
   "pos": [
    "r"
@@ -724,8 +808,12 @@
   "unit": 2,
   "order": 220.29,
   "meanings": [
-   "safe; secure",
-   "safety; security"
+   "safe",
+   "safety"
+  ],
+  "meanings_ja": [
+   "安全な",
+   "安全"
   ],
   "pos": [
    "an",
@@ -750,9 +838,12 @@
   "unit": 2,
   "order": 220.3,
   "meanings": [
-   "outcome; result; consequence",
-   "in the end; as a result",
-   "to kill; to dispatch"
+   "result; outcome",
+   "as a result; in the end"
+  ],
+  "meanings_ja": [
+   "結果",
+   "結局"
   ],
   "pos": [
    "n",
@@ -775,8 +866,12 @@
   "unit": 2,
   "order": 220.31,
   "meanings": [
-   "complete; whole",
-   "totally; entirely"
+   "completely; entirely",
+   "complete"
+  ],
+  "meanings_ja": [
+   "完全に",
+   "完全な"
   ],
   "pos": [
    "ad",
@@ -799,10 +894,12 @@
   "unit": 2,
   "order": 220.32,
   "meanings": [
-   "to send out",
-   "to show (one's feeling)",
-   "to issue",
-   "to develop"
+   "to send (a message); to issue",
+   "to give out"
+  ],
+  "meanings_ja": [
+   "送る・発信する",
+   "配る"
   ],
   "pos": [
    "v",
@@ -825,9 +922,11 @@
   "order": 220.33,
   "meanings": [
    "plan",
-   "project",
-   "program",
    "to plan"
+  ],
+  "meanings_ja": [
+   "計画",
+   "計画する"
   ],
   "pos": [
    "n",
@@ -850,8 +949,11 @@
   "unit": 2,
   "order": 220.34,
   "meanings": [
-   "but; however",
-   "(used for emphasis) indeed"
+   "but; however"
+  ],
+  "meanings_ja": [
+   "でも",
+   "しかし"
   ],
   "pos": [
    "c",
@@ -875,11 +977,14 @@
   "unit": 2,
   "order": 220.35,
   "meanings": [
-   "to link",
-   "to join",
-   "to connect",
-   "continuously"
+   "even (连…也/都)",
+   "to connect"
   ],
+  "meanings_ja": [
+   "〜さえ・〜すら",
+   "つなぐ"
+  ],
+  "note_ja": "「連ねる」より「〜さえ」の強調用法が多い。",
   "pos": [
    "u",
    "d",
@@ -902,7 +1007,10 @@
   "unit": 2,
   "order": 220.36,
   "meanings": [
-   "(particle equivalent to 啊 after a vowel, expressing surprise or doubt)"
+   "(sentence-final particle, like 啊)"
+  ],
+  "meanings_ja": [
+   "〜よ・〜ね(語気助詞)"
   ],
   "pos": [
    "y"
@@ -923,10 +1031,11 @@
   "unit": 2,
   "order": 220.37,
   "meanings": [
-   "cause",
-   "origin",
-   "root cause",
-   "reason"
+   "reason; cause"
+  ],
+  "meanings_ja": [
+   "原因",
+   "理由"
   ],
   "pos": [
    "n"
@@ -948,9 +1057,14 @@
   "unit": 2,
   "order": 220.38,
   "meanings": [
-   "(piece of) news; information",
+   "news; information",
    "message"
   ],
+  "meanings_ja": [
+   "ニュース・知らせ",
+   "メッセージ"
+  ],
+  "note_ja": "「ニュース、知らせ」の意味。日本語の「消息(安否)」とは違う。",
   "pos": [
    "n"
   ],
@@ -971,7 +1085,10 @@
   "unit": 3,
   "order": 320.39,
   "meanings": [
-   "so long as; provided; if"
+   "as long as; provided that"
+  ],
+  "meanings_ja": [
+   "〜さえすれば"
   ],
   "pos": [
    "c"
@@ -993,11 +1110,13 @@
   "unit": 3,
   "order": 320.4,
   "meanings": [
-   "tree trunk",
-   "main part of sth",
-   "to manage",
-   "to work"
+   "to do; to work"
   ],
+  "meanings_ja": [
+   "する・やる",
+   "働く"
+  ],
+  "note_ja": "「干す」ではなく「する、やる」。",
   "pos": [
    "v",
    "a"
@@ -1018,7 +1137,11 @@
   "unit": 2,
   "order": 220.41,
   "meanings": [
-   "to accept (a suggestion, punishment, bribe etc); to acquiesce"
+   "to accept"
+  ],
+  "meanings_ja": [
+   "受け入れる",
+   "受け取る"
   ],
   "pos": [
    "v",
@@ -1041,9 +1164,11 @@
   "unit": 3,
   "order": 320.42,
   "meanings": [
-   "among",
-   "in",
-   "included among these"
+   "among them; of which"
+  ],
+  "meanings_ja": [
+   "その中",
+   "そのうち"
   ],
   "pos": [
    "r"
@@ -1066,8 +1191,11 @@
   "order": 220.43,
   "meanings": [
    "to succeed",
-   "success",
-   "successful; fruitful"
+   "success; successful"
+  ],
+  "meanings_ja": [
+   "成功する",
+   "成功"
   ],
   "pos": [
    "a",
@@ -1093,6 +1221,10 @@
   "meanings": [
    "even; so much so that"
   ],
+  "meanings_ja": [
+   "〜さえ",
+   "ひいては"
+  ],
   "pos": [
    "d",
    "c"
@@ -1115,9 +1247,11 @@
   "order": 220.45,
   "meanings": [
    "to pull",
-   "to play (a bowed instrument)",
-   "to drag",
-   "to draw"
+   "to play (a bowed instrument)"
+  ],
+  "meanings_ja": [
+   "引く",
+   "(弦楽器を)弾く"
   ],
   "pos": [
    "v",
@@ -1139,11 +1273,14 @@
   "unit": 2,
   "order": 220.46,
   "meanings": [
-   "to be certain; to be positive",
-   "assuredly; definitely",
-   "to give recognition; to affirm",
-   "affirmative (answer)"
+   "definitely; surely",
+   "to affirm; to be sure"
   ],
+  "meanings_ja": [
+   "きっと・必ず",
+   "肯定する"
+  ],
+  "note_ja": "副詞「きっと、絶対に」の意味でよく使う。",
   "pos": [
    "d",
    "v",
@@ -1167,7 +1304,11 @@
   "unit": 3,
   "order": 320.47,
   "meanings": [
-   "then; at that time"
+   "at that time; then"
+  ],
+  "meanings_ja": [
+   "当時",
+   "その時"
   ],
   "pos": [
    "t"
@@ -1189,10 +1330,12 @@
   "unit": 3,
   "order": 320.48,
   "meanings": [
-   "investigation",
-   "inquiry",
-   "to investigate",
-   "to survey"
+   "to investigate; to survey",
+   "investigation"
+  ],
+  "meanings_ja": [
+   "調査する",
+   "調査"
   ],
   "pos": [
    "v",
@@ -1215,8 +1358,11 @@
   "unit": 2,
   "order": 220.49,
   "meanings": [
-   "part; portion; piece",
-   "Taiwan pr."
+   "part; portion"
+  ],
+  "meanings_ja": [
+   "部分",
+   "一部"
   ],
   "pos": [
    "n",
@@ -1239,8 +1385,10 @@
   "unit": 3,
   "order": 320.5,
   "meanings": [
-   "capability",
-   "ability"
+   "ability; capability"
+  ],
+  "meanings_ja": [
+   "能力"
   ],
   "pos": [
    "n"
@@ -1263,9 +1411,11 @@
   "order": 220.51,
   "meanings": [
    "to protect",
-   "to defend",
-   "to safeguard",
    "protection"
+  ],
+  "meanings_ja": [
+   "保護する",
+   "守る"
   ],
   "pos": [
    "v",
@@ -1288,8 +1438,12 @@
   "unit": 3,
   "order": 320.52,
   "meanings": [
-   "genuine; real; true",
-   "really; indeed"
+   "real; genuine",
+   "truly"
+  ],
+  "meanings_ja": [
+   "本当の",
+   "真の"
   ],
   "pos": [
    "b",
@@ -1312,10 +1466,12 @@
   "unit": 3,
   "order": 320.53,
   "meanings": [
-   "to be in favor of",
    "to support",
-   "to back",
    "support"
+  ],
+  "meanings_ja": [
+   "支持する",
+   "支える・応援する"
   ],
   "pos": [
    "v",
@@ -1338,10 +1494,12 @@
   "unit": 3,
   "order": 320.54,
   "meanings": [
-   "to fall",
-   "to drop",
-   "to lag behind",
-   "to lose"
+   "to fall; to drop",
+   "(after a verb) away; off"
+  ],
+  "meanings_ja": [
+   "落ちる・落とす",
+   "〜してしまう"
   ],
   "pos": [
    "v"
@@ -1363,8 +1521,11 @@
   "order": 320.55,
   "meanings": [
    "to change",
-   "to alter",
-   "to transform"
+   "change"
+  ],
+  "meanings_ja": [
+   "変える・変わる",
+   "変化"
   ],
   "pos": [
    "v",
@@ -1387,7 +1548,11 @@
   "unit": 3,
   "order": 320.56,
   "meanings": [
-   "method; way; technique; procedure"
+   "method; way"
+  ],
+  "meanings_ja": [
+   "方法",
+   "やり方"
   ],
   "pos": [
    "n"
@@ -1409,10 +1574,12 @@
   "unit": 3,
   "order": 320.57,
   "meanings": [
-   "guarantee",
-   "to guarantee",
-   "to ensure",
-   "to safeguard"
+   "to guarantee; to ensure",
+   "guarantee"
+  ],
+  "meanings_ja": [
+   "保証する",
+   "約束する"
   ],
   "pos": [
    "v",
@@ -1435,7 +1602,11 @@
   "unit": 4,
   "order": 420.58,
   "meanings": [
-   "directly; direct"
+   "direct; directly"
+  ],
+  "meanings_ja": [
+   "直接に",
+   "直接の"
   ],
   "pos": [
    "ad",
@@ -1459,9 +1630,11 @@
   "order": 320.59,
   "meanings": [
    "to organize",
-   "organization",
-   "(biology) tissue",
-   "(textiles) weave"
+   "organization"
+  ],
+  "meanings_ja": [
+   "組織する",
+   "組織"
   ],
   "pos": [
    "n",
@@ -1484,8 +1657,11 @@
   "unit": 3,
   "order": 320,
   "meanings": [
-   "forever",
-   "eternal"
+   "forever; always"
+  ],
+  "meanings_ja": [
+   "永遠に",
+   "いつまでも"
   ],
   "pos": [
    "d",
@@ -1508,10 +1684,11 @@
   "unit": 4,
   "order": 420.01,
   "meanings": [
-   "respect",
-   "aspect",
-   "field",
-   "side"
+   "aspect; respect; side"
+  ],
+  "meanings_ja": [
+   "方面",
+   "面・側面"
   ],
   "pos": [
    "n"
@@ -1535,6 +1712,10 @@
   "meanings": [
    "perhaps; maybe"
   ],
+  "meanings_ja": [
+   "たぶん",
+   "もしかしたら"
+  ],
   "pos": [
    "d"
   ],
@@ -1555,11 +1736,14 @@
   "unit": 1,
   "order": 120.03,
   "meanings": [
-   "to exercise; to move about; to work out",
-   "shaky; unsteady; loose (tooth etc)",
-   "movable; flexible; liquid (capital etc)",
-   "(volcanic, seismic, economic etc) activity"
+   "activity; event",
+   "to move about"
   ],
+  "meanings_ja": [
+   "イベント・活動",
+   "体を動かす"
+  ],
+  "note_ja": "「イベント、行事」の意味でよく使う。",
   "pos": [
    "vn",
    "v"
@@ -1581,9 +1765,11 @@
   "unit": 3,
   "order": 320.04,
   "meanings": [
-   "to think over",
-   "to consider",
-   "consideration"
+   "to consider; to think over"
+  ],
+  "meanings_ja": [
+   "考える",
+   "検討する"
   ],
   "pos": [
    "v",
@@ -1606,7 +1792,10 @@
   "unit": 3,
   "order": 320.05,
   "meanings": [
-   "classifier for gifts, newspaper, magazine, papers, reports, contracts etc"
+   "(measure word for documents, portions, gifts)"
+  ],
+  "meanings_ja": [
+   "〜部・〜人前(量詞)"
   ],
   "pos": [
    "q"
@@ -1627,10 +1816,10 @@
   "unit": 3,
   "order": 320.06,
   "meanings": [
-   "to offer",
-   "to supply",
-   "to provide",
-   "to furnish"
+   "to provide; to offer"
+  ],
+  "meanings_ja": [
+   "提供する"
   ],
   "pos": [
    "v"
@@ -1652,10 +1841,14 @@
   "unit": 3,
   "order": 320.07,
   "meanings": [
-   "finger",
-   "to point at or to",
-   "to indicate or refer to",
-   "to depend on"
+   "to point at",
+   "to refer to",
+   "finger"
+  ],
+  "meanings_ja": [
+   "指す",
+   "指",
+   "意味する"
   ],
   "pos": [
    "v",
@@ -1677,11 +1870,14 @@
   "unit": 3,
   "order": 320.08,
   "meanings": [
-   "spirit",
-   "mind",
-   "consciousness",
-   "thought"
+   "spirit; mind",
+   "energy; vigor"
   ],
+  "meanings_ja": [
+   "精神",
+   "元気・活力"
+  ],
+  "note_ja": "jīngshen で「元気がある」の意味にもなる。",
   "pos": [
    "n"
   ],
@@ -1702,10 +1898,11 @@
   "unit": 4,
   "order": 420.09,
   "meanings": [
-   "to use",
-   "to employ",
-   "to apply",
-   "to make use of"
+   "to use"
+  ],
+  "meanings_ja": [
+   "使用する",
+   "使う"
   ],
   "pos": [
    "v",
@@ -1728,10 +1925,12 @@
   "unit": 4,
   "order": 420.1,
   "meanings": [
-   "representative",
-   "delegate",
    "to represent",
-   "to stand for"
+   "representative"
+  ],
+  "meanings_ja": [
+   "代表する",
+   "代表"
   ],
   "pos": [
    "n",
@@ -1754,7 +1953,11 @@
   "unit": 1,
   "order": 120.11,
   "meanings": [
-   "mission; assignment; task; duty; role"
+   "task; mission"
+  ],
+  "meanings_ja": [
+   "任務",
+   "タスク"
   ],
   "pos": [
    "n"
@@ -1776,11 +1979,14 @@
   "unit": 4,
   "order": 420.12,
   "meanings": [
-   "connection",
-   "contact",
-   "relation",
-   "to get in touch with"
+   "to contact; to get in touch",
+   "connection"
   ],
+  "meanings_ja": [
+   "連絡する",
+   "つながり"
+  ],
+  "note_ja": "「連絡する」の意味で日常的に使う。",
   "pos": [
    "v",
    "vn"
@@ -1802,7 +2008,11 @@
   "unit": 4,
   "order": 420.13,
   "meanings": [
-   "thus; consequently; as a result"
+   "therefore; so"
+  ],
+  "meanings_ja": [
+   "したがって",
+   "そのため"
   ],
   "pos": [
    "c"
@@ -1824,10 +2034,12 @@
   "unit": 4,
   "order": 420.14,
   "meanings": [
-   "platform",
-   "stage",
-   "terrace",
-   "stand"
+   "(measure word for machines)",
+   "platform; stage"
+  ],
+  "meanings_ja": [
+   "〜台(量詞)",
+   "舞台・台"
   ],
   "pos": [
    "q",
@@ -1850,10 +2062,12 @@
   "unit": 4,
   "order": 420.15,
   "meanings": [
-   "to calculate; to figure out",
-   "to include; to count in",
-   "to count; to be valid; to carry weight",
-   "to regard as; to consider (to be ...)"
+   "to calculate",
+   "to count as; to be considered"
+  ],
+  "meanings_ja": [
+   "計算する",
+   "〜と見なす"
   ],
   "pos": [
    "v",
@@ -1875,7 +2089,11 @@
   "unit": 4,
   "order": 420.16,
   "meanings": [
-   "to obtain; to receive; to get"
+   "to obtain; to gain"
+  ],
+  "meanings_ja": [
+   "獲得する",
+   "得る"
   ],
   "pos": [
    "v"
@@ -1897,10 +2115,12 @@
   "unit": 4,
   "order": 420.17,
   "meanings": [
-   "to leave (a message etc)",
-   "to retain",
-   "to stay",
-   "to remain"
+   "to stay; to remain",
+   "to leave (behind); to keep"
+  ],
+  "meanings_ja": [
+   "留まる",
+   "残す"
   ],
   "pos": [
    "v"
@@ -1921,8 +2141,11 @@
   "unit": 4,
   "order": 420.18,
   "meanings": [
-   "life (as the characteristic of living beings)",
-   "living being; creature"
+   "life (biological)"
+  ],
+  "meanings_ja": [
+   "生命",
+   "命"
   ],
   "pos": [
    "n"
@@ -1944,10 +2167,14 @@
   "unit": 4,
   "order": 420.19,
   "meanings": [
-   "to hand over; to deliver; to pay (money); to turn over",
-   "to make friends",
-   "(of lines) to intersect"
+   "to hand in; to pay",
+   "to make (friends)"
   ],
+  "meanings_ja": [
+   "提出する・払う",
+   "(友達を)作る"
+  ],
+  "note_ja": "「交わる」より「提出する、(お金を)払う」の意味が多い。",
   "pos": [
    "v",
    "g"
@@ -1968,7 +2195,11 @@
   "unit": 2,
   "order": 220.2,
   "meanings": [
-   "whole; all"
+   "all; whole"
+  ],
+  "meanings_ja": [
+   "全部",
+   "すべて"
   ],
   "pos": [
    "m"
@@ -1990,8 +2221,11 @@
   "unit": 5,
   "order": 520.21,
   "meanings": [
-   "just recently",
-   "just a moment ago"
+   "just now; a moment ago"
+  ],
+  "meanings_ja": [
+   "たった今",
+   "〜したばかり"
   ],
   "pos": [
    "d"
@@ -2012,7 +2246,11 @@
   "unit": 5,
   "order": 520.22,
   "meanings": [
-   "normal; regular"
+   "normal"
+  ],
+  "meanings_ja": [
+   "正常な",
+   "普通の"
   ],
   "pos": [
    "a",
@@ -2035,10 +2273,12 @@
   "unit": 4,
   "order": 420.23,
   "meanings": [
-   "additional",
-   "in addition",
-   "besides",
-   "separate"
+   "other; another",
+   "besides; in addition"
+  ],
+  "meanings_ja": [
+   "ほかの",
+   "そのほかに"
   ],
   "pos": [
    "r",
@@ -2062,8 +2302,10 @@
   "unit": 4,
   "order": 420.24,
   "meanings": [
-   "blood",
-   "colloquial pr. or"
+   "blood"
+  ],
+  "meanings_ja": [
+   "血"
   ],
   "pos": [
    "n"
@@ -2084,11 +2326,12 @@
   "unit": 4,
   "order": 420.25,
   "meanings": [
-   "straight",
-   "erect",
-   "to stick out (a part of the body)",
-   "to (physically) straighten up"
+   "quite; pretty (挺…的)"
   ],
+  "meanings_ja": [
+   "なかなか・けっこう"
+  ],
+  "note_ja": "副詞「なかなか、けっこう」の意味。",
   "pos": [
    "d",
    "v",
@@ -2111,8 +2354,11 @@
   "unit": 5,
   "order": 520.26,
   "meanings": [
-   "as if",
-   "to seem like"
+   "to seem; as if"
+  ],
+  "meanings_ja": [
+   "〜のようだ",
+   "〜みたい"
   ],
   "pos": [
    "v"
@@ -2134,10 +2380,12 @@
   "unit": 4,
   "order": 420.27,
   "meanings": [
-   "finally",
-   "in the end",
-   "when all is said and done",
-   "after all"
+   "on earth; after all (in questions)",
+   "in the end"
+  ],
+  "meanings_ja": [
+   "いったい",
+   "結局"
   ],
   "pos": [
    "d",
@@ -2162,6 +2410,9 @@
   "meanings": [
    "to thank; to be grateful"
   ],
+  "meanings_ja": [
+   "感謝する"
+  ],
   "pos": [
    "v",
    "vn"
@@ -2183,9 +2434,12 @@
   "unit": 4,
   "order": 420.29,
   "meanings": [
-   "to persevere with",
-   "to persist in",
-   "to insist on"
+   "to persist; to keep on",
+   "to insist"
+  ],
+  "meanings_ja": [
+   "やり通す・続ける",
+   "主張を貫く"
   ],
   "pos": [
    "v"
@@ -2207,9 +2461,12 @@
   "unit": 4,
   "order": 420.3,
   "meanings": [
-   "seat",
-   "base; stand",
-   "classifier for large immovable objects such as buildings, mountains, bridges etc"
+   "(measure word for buildings, mountains, bridges)",
+   "seat"
+  ],
+  "meanings_ja": [
+   "〜棟・〜座(量詞)",
+   "座席"
   ],
   "pos": [
    "q",
@@ -2233,6 +2490,9 @@
   "meanings": [
    "technology; technique; skill"
   ],
+  "meanings_ja": [
+   "技術"
+  ],
   "pos": [
    "n"
   ],
@@ -2253,10 +2513,11 @@
   "unit": 5,
   "order": 520.32,
   "meanings": [
-   "to go (in a direction)",
-   "to",
-   "towards",
-   "(of a train) bound for"
+   "toward; to"
+  ],
+  "meanings_ja": [
+   "〜へ",
+   "〜に向かって"
   ],
   "pos": [
    "p",
@@ -2278,7 +2539,11 @@
   "unit": 5,
   "order": 520.33,
   "meanings": [
-   "grave; serious; severe; critical"
+   "serious; severe"
+  ],
+  "meanings_ja": [
+   "深刻な",
+   "重大な"
   ],
   "pos": [
    "a",
@@ -2301,10 +2566,11 @@
   "unit": 5,
   "order": 520.34,
   "meanings": [
-   "to comprise",
-   "to include",
-   "to involve",
-   "to incorporate"
+   "to include"
+  ],
+  "meanings_ja": [
+   "含む",
+   "包括する"
   ],
   "pos": [
    "v"
@@ -2326,10 +2592,14 @@
   "unit": 2,
   "order": 220.35,
   "meanings": [
-   "original; former",
-   "originally; formerly; at first",
-   "so, actually, as it turns out"
+   "so it turns out; actually",
+   "original; originally"
   ],
+  "meanings_ja": [
+   "なんだ〜だったのか",
+   "もとの・もともと"
+  ],
+  "note_ja": "「もともと」のほか、気づいた時の「なんだ、〜だったのか」でよく使う。",
   "pos": [
    "d",
    "b"
@@ -2351,11 +2621,16 @@
   "unit": 5,
   "order": 520.36,
   "meanings": [
-   "light; ray",
-   "bright; shiny",
-   "only; merely",
-   "used up; finished"
+   "only; just",
+   "light",
+   "used up"
   ],
+  "meanings_ja": [
+   "〜だけ",
+   "光",
+   "使い切った"
+  ],
+  "note_ja": "「〜だけ」や「使い切る(吃光)」の意味に注意。",
   "pos": [
    "n",
    "d",
@@ -2380,6 +2655,9 @@
   "meanings": [
    "law"
   ],
+  "meanings_ja": [
+   "法律"
+  ],
   "pos": [
    "n"
   ],
@@ -2402,6 +2680,10 @@
   "meanings": [
    "father"
   ],
+  "meanings_ja": [
+   "父親",
+   "父"
+  ],
   "pos": [
    "n"
   ],
@@ -2422,7 +2704,11 @@
   "unit": 5,
   "order": 520.39,
   "meanings": [
-   "and; besides; moreover; furthermore; in addition"
+   "and; moreover"
+  ],
+  "meanings_ja": [
+   "そして",
+   "しかも"
   ],
   "pos": [
    "c"
@@ -2445,9 +2731,11 @@
   "order": 520.4,
   "meanings": [
    "to receive",
-   "to accept",
-   "to collect",
-   "to put away"
+   "to collect; to put away"
+  ],
+  "meanings_ja": [
+   "受け取る",
+   "片付ける・集める"
   ],
   "pos": [
    "v"
@@ -2470,6 +2758,9 @@
   "meanings": [
    "society"
   ],
+  "meanings_ja": [
+   "社会"
+  ],
   "pos": [
    "n"
   ],
@@ -2490,10 +2781,12 @@
   "unit": 3,
   "order": 320.42,
   "meanings": [
-   "proof",
-   "certificate",
-   "identification",
-   "testimonial"
+   "to prove",
+   "proof; certificate"
+  ],
+  "meanings_ja": [
+   "証明する",
+   "証明書"
   ],
   "pos": [
    "v",
@@ -2519,6 +2812,9 @@
   "meanings": [
    "reporter; journalist"
   ],
+  "meanings_ja": [
+   "記者"
+  ],
   "pos": [
    "n"
   ],
@@ -2539,10 +2835,12 @@
   "unit": 4,
   "order": 420.44,
   "meanings": [
-   "bottom; base",
-   "background; foundation",
-   "copy (of a manuscript or receipt etc) kept as a record",
-   "(suffix) end of a year or month"
+   "bottom",
+   "end (of a month or year)"
+  ],
+  "meanings_ja": [
+   "底",
+   "〜末(月末・年末)"
   ],
   "pos": [
    "f",
@@ -2564,10 +2862,12 @@
   "unit": 5,
   "order": 520.45,
   "meanings": [
-   "indeed",
-   "really",
-   "reliable",
-   "real"
+   "indeed; really",
+   "reliable; true"
+  ],
+  "meanings_ja": [
+   "確かに",
+   "確実な"
   ],
   "pos": [
    "ad",
@@ -2591,9 +2891,11 @@
   "unit": 5,
   "order": 520.46,
   "meanings": [
-   "not to be concerned",
-   "regardless of",
-   "no matter"
+   "no matter; regardless"
+  ],
+  "meanings_ja": [
+   "〜にかかわらず",
+   "〜であろうと"
   ],
   "pos": [
    "c",
@@ -2616,7 +2918,11 @@
   "unit": 2,
   "order": 220.47,
   "meanings": [
-   "to receive (praise, an education, punishment etc); to be ...ed (praised, educated, punished etc)"
+   "to receive; to be subjected to"
+  ],
+  "meanings_ja": [
+   "受ける",
+   "〜される"
   ],
   "pos": [
    "v"
@@ -2638,10 +2944,12 @@
   "unit": 5,
   "order": 520.48,
   "meanings": [
-   "development",
-   "growth",
    "to develop",
-   "to grow"
+   "development"
+  ],
+  "meanings_ja": [
+   "発展する",
+   "発展"
   ],
   "pos": [
    "v",
@@ -2664,10 +2972,11 @@
   "unit": 5,
   "order": 520.49,
   "meanings": [
-   "to speak",
-   "to talk",
-   "to converse",
-   "to chat"
+   "to talk; to discuss"
+  ],
+  "meanings_ja": [
+   "話す",
+   "語る"
   ],
   "pos": [
    "v",
@@ -2689,8 +2998,10 @@
   "unit": 2,
   "order": 220.5,
   "meanings": [
-   "at least",
-   "(to say the) least"
+   "at least"
+  ],
+  "meanings_ja": [
+   "少なくとも"
   ],
   "pos": [
    "d"
@@ -2712,11 +3023,14 @@
   "unit": 6,
   "order": 620.51,
   "meanings": [
-   "explanation",
    "to explain",
-   "to interpret",
-   "to resolve"
+   "explanation"
   ],
+  "meanings_ja": [
+   "説明する",
+   "説明"
+  ],
+  "note_ja": "「解釈」より「説明する、釈明する」の意味。",
   "pos": [
    "v",
    "vn"
@@ -2738,8 +3052,12 @@
   "unit": 6,
   "order": 620.52,
   "meanings": [
-   "to be responsible for; to be in charge of; to bear responsibility for",
-   "conscientious"
+   "to be responsible for",
+   "responsible; conscientious"
+  ],
+  "meanings_ja": [
+   "責任を負う",
+   "担当する"
   ],
   "pos": [
    "v",
@@ -2763,7 +3081,11 @@
   "unit": 6,
   "order": 620.53,
   "meanings": [
-   "first of all; in the first place"
+   "first of all; firstly"
+  ],
+  "meanings_ja": [
+   "まず",
+   "最初に"
   ],
   "pos": [
    "d",
@@ -2786,7 +3108,10 @@
   "unit": 6,
   "order": 620.54,
   "meanings": [
-   "to comprehend; to understand"
+   "to understand"
+  ],
+  "meanings_ja": [
+   "理解する"
   ],
   "pos": [
    "v",
@@ -2810,7 +3135,11 @@
   "order": 720.55,
   "meanings": [
    "to report (news)",
-   "report"
+   "news report"
+  ],
+  "meanings_ja": [
+   "報道する",
+   "報道"
   ],
   "pos": [
    "v",
@@ -2834,10 +3163,12 @@
   "unit": 6,
   "order": 620.56,
   "meanings": [
-   "to arrange",
-   "to plan",
-   "to set up",
-   "arrangements"
+   "to arrange; to schedule",
+   "arrangement"
+  ],
+  "meanings_ja": [
+   "手配する",
+   "段取り・予定"
   ],
   "pos": [
    "v",
@@ -2862,6 +3193,9 @@
   "meanings": [
    "dream"
   ],
+  "meanings_ja": [
+   "夢"
+  ],
   "pos": [
    "n",
    "g"
@@ -2882,7 +3216,11 @@
   "unit": 7,
   "order": 720.58,
   "meanings": [
-   "again; once more; re-"
+   "again; anew"
+  ],
+  "meanings_ja": [
+   "改めて",
+   "再び"
   ],
   "pos": [
    "d"
@@ -2904,9 +3242,12 @@
   "unit": 6,
   "order": 620.59,
   "meanings": [
-   "happiness",
    "happy",
-   "blessed"
+   "happiness"
+  ],
+  "meanings_ja": [
+   "幸せな",
+   "幸福"
   ],
   "pos": [
    "a",
@@ -2931,8 +3272,11 @@
   "order": 720,
   "meanings": [
    "nature",
-   "natural",
-   "naturally"
+   "natural; naturally"
+  ],
+  "meanings_ja": [
+   "自然",
+   "自然な・当然"
   ],
   "pos": [
    "n",
@@ -2956,7 +3300,10 @@
   "unit": 6,
   "order": 620.01,
   "meanings": [
-   "responsibility; duty; liability"
+   "responsibility"
+  ],
+  "meanings_ja": [
+   "責任"
   ],
   "pos": [
    "n"
@@ -2978,10 +3325,11 @@
   "unit": 7,
   "order": 720.02,
   "meanings": [
-   "to test",
-   "to try",
-   "experiment",
-   "examination"
+   "to try; to test"
+  ],
+  "meanings_ja": [
+   "試す",
+   "試みる"
   ],
   "pos": [
    "v",
@@ -3003,10 +3351,11 @@
   "unit": 6,
   "order": 620.03,
   "meanings": [
-   "to do",
-   "to manage",
-   "to handle",
-   "to play with"
+   "to do; to make; to handle"
+  ],
+  "meanings_ja": [
+   "する・いじる",
+   "〜にする"
   ],
   "pos": [
    "v"
@@ -3027,9 +3376,10 @@
   "unit": 6,
   "order": 620.04,
   "meanings": [
-   "to beat",
-   "to win",
-   "to profit"
+   "to win"
+  ],
+  "meanings_ja": [
+   "勝つ"
   ],
   "pos": [
    "v"
@@ -3050,10 +3400,12 @@
   "unit": 7,
   "order": 720.05,
   "meanings": [
-   "to fill",
    "full",
-   "filled",
-   "packed"
+   "satisfied"
+  ],
+  "meanings_ja": [
+   "いっぱいの",
+   "満ちる"
   ],
   "pos": [
    "a",
@@ -3077,10 +3429,12 @@
   "unit": 7,
   "order": 720.06,
   "meanings": [
-   "to explain",
-   "to illustrate",
-   "to indicate",
-   "to show"
+   "to explain; to show",
+   "explanation"
+  ],
+  "meanings_ja": [
+   "説明する",
+   "説明"
   ],
   "pos": [
    "v",
@@ -3104,9 +3458,11 @@
   "unit": 3,
   "order": 320.07,
   "meanings": [
-   "many",
-   "a lot of",
-   "much"
+   "many; a lot of"
+  ],
+  "meanings_ja": [
+   "多くの",
+   "たくさんの"
   ],
   "pos": [
    "m"
@@ -3128,8 +3484,14 @@
   "unit": 6,
   "order": 620.08,
   "meanings": [
-   "pressure"
+   "pressure",
+   "stress"
   ],
+  "meanings_ja": [
+   "プレッシャー・ストレス",
+   "圧力"
+  ],
+  "note_ja": "「ストレス」の意味でよく使う。",
   "pos": [
    "n"
   ],
@@ -3150,10 +3512,11 @@
   "unit": 1,
   "order": 120.09,
   "meanings": [
-   "due to",
-   "as a result of",
-   "thanks to",
-   "owing to"
+   "because of; due to"
+  ],
+  "meanings_ja": [
+   "〜のため",
+   "〜によって"
   ],
   "pos": [
    "p",
@@ -3178,6 +3541,10 @@
   "meanings": [
    "mother"
   ],
+  "meanings_ja": [
+   "母親",
+   "母"
+  ],
   "pos": [
    "n"
   ],
@@ -3198,7 +3565,11 @@
   "unit": 6,
   "order": 620.11,
   "meanings": [
-   "to renounce; to abandon; to give up"
+   "to give up; to abandon"
+  ],
+  "meanings_ja": [
+   "あきらめる",
+   "放棄する"
   ],
   "pos": [
    "v"
@@ -3220,11 +3591,14 @@
   "unit": 7,
   "order": 720.12,
   "meanings": [
-   "idea",
-   "opinion",
-   "suggestion",
-   "objection"
+   "opinion; suggestion",
+   "objection; complaint"
   ],
+  "meanings_ja": [
+   "意見",
+   "不満"
+  ],
+  "note_ja": "「意見」のほか「不満、苦情」(有意见)の意味も。",
   "pos": [
    "n"
   ],
@@ -3245,7 +3619,11 @@
   "unit": 6,
   "order": 620.13,
   "meanings": [
-   "course of events; process"
+   "process; course"
+  ],
+  "meanings_ja": [
+   "過程",
+   "プロセス"
   ],
   "pos": [
    "n"
@@ -3267,7 +3645,10 @@
   "unit": 6,
   "order": 620.14,
   "meanings": [
-   "even if; even though"
+   "even if"
+  ],
+  "meanings_ja": [
+   "たとえ〜でも"
   ],
   "pos": [
    "c"
@@ -3289,10 +3670,12 @@
   "unit": 7,
   "order": 720.15,
   "meanings": [
-   "despite",
-   "although",
-   "even though",
-   "in spite of"
+   "although; even though",
+   "feel free to"
+  ],
+  "meanings_ja": [
+   "〜だけれども",
+   "遠慮なく"
   ],
   "pos": [
    "c",
@@ -3315,7 +3698,12 @@
   "unit": 7,
   "order": 720.16,
   "meanings": [
-   "(lit. and fig.) deep"
+   "deep",
+   "profound; dark (color)"
+  ],
+  "meanings_ja": [
+   "深い",
+   "(色が)濃い"
   ],
   "pos": [
    "a",
@@ -3339,8 +3727,11 @@
   "unit": 7,
   "order": 720.17,
   "meanings": [
-   "each",
-   "every"
+   "each; every"
+  ],
+  "meanings_ja": [
+   "各〜",
+   "それぞれの"
   ],
   "pos": [
    "r"
@@ -3361,7 +3752,11 @@
   "unit": 7,
   "order": 720.18,
   "meanings": [
-   "still; as before; yet"
+   "still; yet"
+  ],
+  "meanings_ja": [
+   "依然として",
+   "やはり"
   ],
   "pos": [
    "d"
@@ -3383,8 +3778,11 @@
   "unit": 7,
   "order": 720.19,
   "meanings": [
-   "worth the money",
-   "to merit; to deserve; to be worth (doing sth)"
+   "to be worth (doing)",
+   "to deserve"
+  ],
+  "meanings_ja": [
+   "〜する価値がある"
   ],
   "pos": [
    "v"
@@ -3409,6 +3807,10 @@
    "to experience; to go through",
    "experience"
   ],
+  "meanings_ja": [
+   "経験する",
+   "経歴"
+  ],
   "pos": [
    "v",
    "n"
@@ -3430,8 +3832,14 @@
   "unit": 7,
   "order": 720.21,
   "meanings": [
-   "to discuss; to talk over"
+   "to discuss",
+   "discussion"
   ],
+  "meanings_ja": [
+   "話し合う",
+   "議論する"
+  ],
+  "note_ja": "日常的な「話し合う」にも使う。",
   "pos": [
    "v",
    "vn"
@@ -3453,9 +3861,11 @@
   "unit": 8,
   "order": 820.22,
   "meanings": [
-   "to surpass",
-   "to exceed",
-   "to outstrip"
+   "to exceed; to surpass"
+  ],
+  "meanings_ja": [
+   "超える",
+   "上回る"
   ],
   "pos": [
    "v"
@@ -3477,8 +3887,14 @@
   "unit": 7,
   "order": 720.23,
   "meanings": [
-   "vacation"
+   "vacation; leave (jià)",
+   "fake; false (jiǎ)"
   ],
+  "meanings_ja": [
+   "休暇(jià)",
+   "偽の(jiǎ)"
+  ],
+  "note_ja": "jià は「休暇」、jiǎ は「偽の」。",
   "pos": [
    "a",
    "ad",
@@ -3501,8 +3917,11 @@
   "unit": 8,
   "order": 820.24,
   "meanings": [
-   "afterwards; later",
-   "newly arrived"
+   "later; afterwards"
+  ],
+  "meanings_ja": [
+   "その後",
+   "後に"
   ],
   "pos": [
    "t"
@@ -3524,10 +3943,10 @@
   "unit": 7,
   "order": 720.25,
   "meanings": [
-   "mouth",
-   "beak",
-   "nozzle",
-   "spout (of teapot etc)"
+   "mouth"
+  ],
+  "meanings_ja": [
+   "口"
   ],
   "pos": [
    "n"
@@ -3550,6 +3969,10 @@
   "meanings": [
    "address"
   ],
+  "meanings_ja": [
+   "住所",
+   "アドレス"
+  ],
   "pos": [
    "n"
   ],
@@ -3570,8 +3993,11 @@
   "unit": 7,
   "order": 720.27,
   "meanings": [
-   "no matter what or how",
-   "regardless of whether..."
+   "no matter; regardless of"
+  ],
+  "meanings_ja": [
+   "〜にかかわらず",
+   "〜を問わず"
   ],
   "pos": [
    "c"
@@ -3593,11 +4019,14 @@
   "unit": 7,
   "order": 720.28,
   "meanings": [
-   "nervous",
-   "keyed up",
-   "intense",
-   "tense"
+   "nervous; tense",
+   "in short supply"
   ],
+  "meanings_ja": [
+   "緊張する",
+   "(時間・物が)足りない"
+  ],
+  "note_ja": "「緊張」のほか、時間や物が「足りない、ひっ迫している」の意味も。",
   "pos": [
    "a",
    "ad",
@@ -3620,10 +4049,12 @@
   "unit": 7,
   "order": 720.29,
   "meanings": [
-   "to save; to economize; to be frugal",
-   "to omit; to delete; to leave out",
-   "province",
-   "provincial capital"
+   "to save; to economize",
+   "province"
+  ],
+  "meanings_ja": [
+   "節約する",
+   "省"
   ],
   "pos": [
    "n",
@@ -3645,11 +4076,13 @@
   "unit": 8,
   "order": 820.3,
   "meanings": [
-   "very",
-   "completely",
-   "utterly",
-   "extremely"
+   "very; extremely"
   ],
+  "meanings_ja": [
+   "非常に",
+   "とても"
+  ],
+  "note_ja": "「十分(じゅうぶん)」ではなく「非常に」。",
   "pos": [
    "d"
   ],
@@ -3670,9 +4103,11 @@
   "unit": 7,
   "order": 720.31,
   "meanings": [
-   "to accompany",
-   "to keep sb company",
-   "to assist"
+   "to accompany; to keep company"
+  ],
+  "meanings_ja": [
+   "付き添う",
+   "一緒にいる"
   ],
   "pos": [
    "v"
@@ -3693,11 +4128,14 @@
   "unit": 7,
   "order": 720.32,
   "meanings": [
-   "to hang; to suspend (from a hook etc)",
-   "to hang up (the phone)",
-   "(of a line) to be dead",
-   "to be worried; to be concerned"
+   "to hang",
+   "to hang up (the phone)"
   ],
+  "meanings_ja": [
+   "掛ける",
+   "(電話を)切る"
+  ],
+  "note_ja": "挂电话 は「電話を切る」。",
   "pos": [
    "v",
    "q"
@@ -3718,10 +4156,12 @@
   "unit": 8,
   "order": 820.33,
   "meanings": [
-   "original",
-   "originally",
-   "at first",
-   "it goes without saying"
+   "originally; at first",
+   "of course"
+  ],
+  "meanings_ja": [
+   "もともと",
+   "本来"
   ],
   "pos": [
    "d",
@@ -3744,9 +4184,10 @@
   "unit": 9,
   "order": 920.34,
   "meanings": [
-   "condition; circumstance; term; factor",
-   "requirement; prerequisite; qualification",
-   "situation; state; condition"
+   "condition; requirement"
+  ],
+  "meanings_ja": [
+   "条件"
   ],
   "pos": [
    "n"
@@ -3768,9 +4209,11 @@
   "unit": 7,
   "order": 720.35,
   "meanings": [
-   "to advertise",
-   "a commercial",
    "advertisement"
+  ],
+  "meanings_ja": [
+   "広告",
+   "CM"
   ],
   "pos": [
    "n"
@@ -3794,6 +4237,10 @@
   "meanings": [
    "police; police officer"
   ],
+  "meanings_ja": [
+   "警察",
+   "警察官"
+  ],
   "pos": [
    "n"
   ],
@@ -3814,10 +4261,12 @@
   "unit": 8,
   "order": 820.37,
   "meanings": [
-   "crucial point",
-   "crux",
-   "key",
+   "key; crucial point",
    "crucial"
+  ],
+  "meanings_ja": [
+   "鍵・ポイント",
+   "重要な"
   ],
   "pos": [
    "n",
@@ -3840,10 +4289,12 @@
   "unit": 9,
   "order": 920.38,
   "meanings": [
-   "appearance",
-   "manner",
-   "pattern",
-   "model"
+   "appearance; look",
+   "manner"
+  ],
+  "meanings_ja": [
+   "様子",
+   "見た目"
   ],
   "pos": [
    "n"
@@ -3866,9 +4317,11 @@
   "order": 820.39,
   "meanings": [
    "difficult",
-   "challenging",
-   "straitened circumstances",
-   "difficult situation"
+   "difficulty"
+  ],
+  "meanings_ja": [
+   "困難な",
+   "困難"
   ],
   "pos": [
    "a",
@@ -3891,11 +4344,14 @@
   "unit": 8,
   "order": 820.4,
   "meanings": [
-   "specialty",
-   "specialized field",
-   "main field of study (at university)",
-   "major"
+   "major (field of study)",
+   "professional"
   ],
+  "meanings_ja": [
+   "専攻",
+   "専門的な"
+  ],
+  "note_ja": "大学の「専攻」の意味でよく使う。",
   "pos": [
    "n"
   ],
@@ -3916,8 +4372,10 @@
   "unit": 9,
   "order": 920.41,
   "meanings": [
-   "don't tell me ...",
-   "could it be that...?"
+   "could it be that…? (rhetorical)"
+  ],
+  "meanings_ja": [
+   "まさか〜ではあるまい"
   ],
   "pos": [
    "d"
@@ -3939,8 +4397,12 @@
   "unit": 8,
   "order": 820.42,
   "meanings": [
-   "to stipulate; to specify; to prescribe; to fix (a price); to set (a quota)",
-   "regulations; rules; provisions; stipulations"
+   "rule; regulation",
+   "to stipulate"
+  ],
+  "meanings_ja": [
+   "規定",
+   "定める"
   ],
   "pos": [
    "n",
@@ -3963,7 +4425,11 @@
   "unit": 9,
   "order": 920.43,
   "meanings": [
-   "thereupon; as a result; consequently; thus; hence"
+   "so; thereupon"
+  ],
+  "meanings_ja": [
+   "そこで",
+   "それで"
   ],
   "pos": [
    "cc"
@@ -3985,7 +4451,11 @@
   "unit": 5,
   "order": 520.44,
   "meanings": [
-   "correct; sound; right; proper"
+   "correct; right"
+  ],
+  "meanings_ja": [
+   "正しい",
+   "正確な"
   ],
   "pos": [
    "a",
@@ -4008,8 +4478,13 @@
   "unit": 9,
   "order": 920.45,
   "meanings": [
-   "romance; love (romantic)"
+   "(romantic) love"
   ],
+  "meanings_ja": [
+   "恋愛",
+   "愛"
+  ],
+  "note_ja": "男女間の「恋愛、愛」の意味。",
   "pos": [
    "n"
   ],
@@ -4030,9 +4505,12 @@
   "unit": 8,
   "order": 820.46,
   "meanings": [
-   "group",
-   "crowd",
-   "flock, herd, pack etc"
+   "(measure word) group; crowd",
+   "chat group"
+  ],
+  "meanings_ja": [
+   "〜群(量詞)",
+   "グループ"
   ],
   "pos": [
    "q",
@@ -4054,10 +4532,12 @@
   "unit": 8,
   "order": 820.47,
   "meanings": [
-   "enough (sufficient)",
-   "enough (too much)",
-   "(coll.) (before adj.) really",
-   "(coll.) to reach by stretching out"
+   "enough",
+   "quite; really"
+  ],
+  "meanings_ja": [
+   "足りる",
+   "十分だ"
   ],
   "pos": [
    "v",
@@ -4080,10 +4560,13 @@
   "order": 920.48,
   "meanings": [
    "fire",
-   "urgent",
-   "ammunition",
-   "fiery or flaming"
+   "popular; hot"
   ],
+  "meanings_ja": [
+   "火",
+   "人気がある"
+  ],
+  "note_ja": "口語で「人気がある、ヒットする」の意味も。",
   "pos": [
    "n",
    "a",
@@ -4105,7 +4588,10 @@
   "unit": 9,
   "order": 920.49,
   "meanings": [
-   "direction; orientation"
+   "direction"
+  ],
+  "meanings_ja": [
+   "方向"
   ],
   "pos": [
    "n"
@@ -4127,8 +4613,11 @@
   "unit": 9,
   "order": 920.5,
   "meanings": [
-   "marketplace; market; bazaar",
-   "(economics) market"
+   "market"
+  ],
+  "meanings_ja": [
+   "市場",
+   "マーケット"
   ],
   "pos": [
    "n"
@@ -4150,9 +4639,12 @@
   "unit": 9,
   "order": 920.51,
   "meanings": [
-   "to educate",
-   "to teach",
-   "education"
+   "education",
+   "to educate"
+  ],
+  "meanings_ja": [
+   "教育",
+   "教育する"
   ],
   "pos": [
    "vn",
@@ -4175,10 +4667,11 @@
   "unit": 8,
   "order": 820.52,
   "meanings": [
-   "to take",
-   "to get",
-   "to choose",
-   "to fetch"
+   "to take; to get; to pick up"
+  ],
+  "meanings_ja": [
+   "取る",
+   "受け取る"
   ],
   "pos": [
    "v"
@@ -4199,8 +4692,12 @@
   "unit": 8,
   "order": 820.53,
   "meanings": [
-   "danger",
-   "dangerous"
+   "dangerous",
+   "danger"
+  ],
+  "meanings_ja": [
+   "危険な",
+   "危険"
   ],
   "pos": [
    "a",
@@ -4224,10 +4721,12 @@
   "unit": 5,
   "order": 520.54,
   "meanings": [
-   "to supervise",
    "to manage",
-   "to administer",
    "management"
+  ],
+  "meanings_ja": [
+   "管理する",
+   "管理"
   ],
   "pos": [
    "vn",
@@ -4250,10 +4749,12 @@
   "unit": 8,
   "order": 820.55,
   "meanings": [
-   "in confusion or disorder",
-   "in a confused state of mind",
-   "disorder",
-   "upheaval"
+   "messy; chaotic",
+   "randomly; carelessly"
+  ],
+  "meanings_ja": [
+   "散らかった",
+   "むやみに"
   ],
   "pos": [
    "d",
@@ -4276,7 +4777,11 @@
   "unit": 8,
   "order": 820.56,
   "meanings": [
-   "to fit; to suit"
+   "to suit; to fit"
+  ],
+  "meanings_ja": [
+   "適する",
+   "合う"
   ],
   "pos": [
    "v"
@@ -4300,6 +4805,10 @@
   "meanings": [
    "formal; official"
   ],
+  "meanings_ja": [
+   "正式な",
+   "公式の"
+  ],
   "pos": [
    "ad",
    "a"
@@ -4321,7 +4830,11 @@
   "unit": 9,
   "order": 920.58,
   "meanings": [
-   "to give rise to; to lead to; to cause; to arouse"
+   "to cause; to give rise to"
+  ],
+  "meanings_ja": [
+   "引き起こす",
+   "招く"
   ],
   "pos": [
    "v"
@@ -4343,9 +4856,12 @@
   "unit": 10,
   "order": 1020.59,
   "meanings": [
-   "always",
-   "at all times",
-   "never (if used in negative sentence)"
+   "never (with negative)",
+   "always"
+  ],
+  "meanings_ja": [
+   "これまで一度も(〜ない)",
+   "従来"
   ],
   "pos": [
    "d"
@@ -4367,10 +4883,11 @@
   "unit": 9,
   "order": 920,
   "meanings": [
-   "to hold",
-   "to carry (in one's arms)",
-   "to hug",
-   "to embrace"
+   "to hold (in arms); to hug"
+  ],
+  "meanings_ja": [
+   "抱く",
+   "抱える"
   ],
   "pos": [
    "v"
@@ -4393,6 +4910,10 @@
   "meanings": [
    "lawyer"
   ],
+  "meanings_ja": [
+   "弁護士"
+  ],
+  "note_ja": "「弁護士」の意味。",
   "pos": [
    "n"
   ],
@@ -4413,7 +4934,10 @@
   "unit": 1,
   "order": 120.02,
   "meanings": [
-   "content; substance; details"
+   "content"
+  ],
+  "meanings_ja": [
+   "内容"
   ],
   "pos": [
    "n"
@@ -4436,9 +4960,11 @@
   "order": 1020.03,
   "meanings": [
    "to notify",
-   "to inform",
-   "notice",
-   "notification"
+   "notice"
+  ],
+  "meanings_ja": [
+   "通知する",
+   "通知"
   ],
   "pos": [
    "n",
@@ -4461,9 +4987,14 @@
   "unit": 10,
   "order": 1020.04,
   "meanings": [
-   "emotion; sentiment",
-   "affection; feelings between two persons"
+   "feelings; emotion",
+   "affection"
   ],
+  "meanings_ja": [
+   "感情",
+   "愛情・情"
+  ],
+  "note_ja": "「感情」のほか「愛情、親しみ」の意味も。",
   "pos": [
    "n"
   ],
@@ -4484,7 +5015,11 @@
   "unit": 9,
   "order": 920.05,
   "meanings": [
-   "spectators; audience; visitors (to an exhibition etc)"
+   "audience; spectators"
+  ],
+  "meanings_ja": [
+   "観客",
+   "視聴者"
   ],
   "pos": [
    "n"
@@ -4506,7 +5041,10 @@
   "unit": 10,
   "order": 1020.06,
   "meanings": [
-   "purpose; aim; goal; target; objective"
+   "purpose; goal"
+  ],
+  "meanings_ja": [
+   "目的"
   ],
   "pos": [
    "n"
@@ -4530,6 +5068,9 @@
   "meanings": [
    "international"
   ],
+  "meanings_ja": [
+   "国際"
+  ],
   "pos": [
    "n"
   ],
@@ -4552,6 +5093,9 @@
   "meanings": [
    "beautiful"
   ],
+  "meanings_ja": [
+   "美しい"
+  ],
   "pos": [
    "a",
    "an"
@@ -4573,8 +5117,10 @@
   "unit": 9,
   "order": 920.09,
   "meanings": [
-   "experience",
-   "to go through; to experience"
+   "experience"
+  ],
+  "meanings_ja": [
+   "経験"
   ],
   "pos": [
    "n",
@@ -4597,10 +5143,12 @@
   "unit": 9,
   "order": 920.1,
   "meanings": [
-   "broken",
-   "damaged",
-   "worn out",
-   "lousy"
+   "broken; worn out",
+   "to break"
+  ],
+  "meanings_ja": [
+   "破れた・壊れた",
+   "破る"
   ],
   "pos": [
    "v",
@@ -4623,9 +5171,11 @@
   "order": 920.11,
   "meanings": [
    "to push",
-   "to cut",
-   "to refuse",
-   "to reject"
+   "to postpone"
+  ],
+  "meanings_ja": [
+   "押す",
+   "延期する"
   ],
   "pos": [
    "v"
@@ -4646,10 +5196,11 @@
   "unit": 9,
   "order": 920.12,
   "meanings": [
-   "knife; blade; single-edged sword; cutlass",
-   "(slang) (loanword) dollar",
-   "classifier for sets of one hundred sheets (of paper)",
-   "classifier for knife cuts or stabs"
+   "knife"
+  ],
+  "meanings_ja": [
+   "ナイフ",
+   "刀"
   ],
   "pos": [
    "n",
@@ -4672,9 +5223,11 @@
   "order": 920.13,
   "meanings": [
    "science",
-   "scientific knowledge",
-   "scientific",
-   "rational"
+   "scientific"
+  ],
+  "meanings_ja": [
+   "科学",
+   "科学的な"
   ],
   "pos": [
    "n",
@@ -4700,6 +5253,11 @@
   "meanings": [
    "mood; frame of mind"
   ],
+  "meanings_ja": [
+   "気分",
+   "気持ち"
+  ],
+  "note_ja": "「気分、機嫌」の意味。",
   "pos": [
    "n"
   ],
@@ -4720,9 +5278,12 @@
   "unit": 9,
   "order": 920.15,
   "meanings": [
-   "standard; norm; criterion",
-   "(adjective) standard",
-   "good; correct; conforming to a standard"
+   "standard; criterion",
+   "standard (adj.)"
+  ],
+  "meanings_ja": [
+   "基準",
+   "標準的な"
   ],
   "pos": [
    "n",
@@ -4745,8 +5306,10 @@
   "unit": 9,
   "order": 920.16,
   "meanings": [
-   "occupation; profession; vocation",
-   "professional"
+   "occupation; profession"
+  ],
+  "meanings_ja": [
+   "職業"
   ],
   "pos": [
    "n"
@@ -4768,10 +5331,13 @@
   "unit": 9,
   "order": 920.17,
   "meanings": [
-   "wonderful",
-   "marvelous",
-   "brilliant"
+   "wonderful; brilliant"
   ],
+  "meanings_ja": [
+   "素晴らしい",
+   "見事な"
+  ],
+  "note_ja": "「素晴らしい、見応えがある」の意味。",
   "pos": [
    "a"
   ],
@@ -4792,10 +5358,10 @@
   "unit": 10,
   "order": 1020.18,
   "meanings": [
-   "range",
-   "scope",
-   "limit",
-   "extent"
+   "range; scope"
+  ],
+  "meanings_ja": [
+   "範囲"
   ],
   "pos": [
    "n"
@@ -4817,7 +5383,11 @@
   "unit": 10,
   "order": 1020.19,
   "meanings": [
-   "speed; rate; velocity; (music) tempo"
+   "speed"
+  ],
+  "meanings_ja": [
+   "速度",
+   "スピード"
   ],
   "pos": [
    "n"
@@ -4839,11 +5409,14 @@
   "unit": 11,
   "order": 1120.2,
   "meanings": [
-   "really",
-   "actually",
-   "indeed",
-   "true"
+   "really; indeed",
+   "honest"
   ],
+  "meanings_ja": [
+   "本当に",
+   "実に"
+  ],
+  "note_ja": "「実在」ではなく「本当に、実に」。",
   "pos": [
    "d",
    "a"
@@ -4865,10 +5438,10 @@
   "unit": 10,
   "order": 1020.21,
   "meanings": [
-   "result",
-   "effect",
-   "efficacy",
-   "(theater) sound or visual effects"
+   "effect; result"
+  ],
+  "meanings_ja": [
+   "効果"
   ],
   "pos": [
    "n"
@@ -4890,9 +5463,10 @@
   "unit": 10,
   "order": 1020.22,
   "meanings": [
-   "everywhere",
-   "all over",
-   "classifier for actions: one time"
+   "(measure word) time (through); once over"
+  ],
+  "meanings_ja": [
+   "〜回(初めから終わりまで)"
   ],
   "pos": [
    "qv",
@@ -4917,7 +5491,11 @@
   "order": 1020.23,
   "meanings": [
    "economy",
-   "economic"
+   "economical"
+  ],
+  "meanings_ja": [
+   "経済",
+   "経済的な"
   ],
   "pos": [
    "n"
@@ -4939,7 +5517,11 @@
   "unit": 10,
   "order": 1020.24,
   "meanings": [
-   "according to; in accordance with; on the basis of"
+   "according to"
+  ],
+  "meanings_ja": [
+   "〜に従って",
+   "〜のとおりに"
   ],
   "pos": [
    "p",
@@ -4962,7 +5544,10 @@
   "unit": 10,
   "order": 1020.25,
   "meanings": [
-   "to oppose; to be against; to object to"
+   "to oppose; to object"
+  ],
+  "meanings_ja": [
+   "反対する"
   ],
   "pos": [
    "v",
@@ -4985,10 +5570,11 @@
   "unit": 10,
   "order": 1020.26,
   "meanings": [
-   "unexpectedly",
-   "to one's surprise",
-   "in spite of everything",
-   "in that crazy way"
+   "unexpectedly; to one's surprise"
+  ],
+  "meanings_ja": [
+   "なんと",
+   "意外にも"
   ],
   "pos": [
    "d"
@@ -5010,9 +5596,12 @@
   "unit": 11,
   "order": 1120.27,
   "meanings": [
-   "important point; main point; focus",
-   "key (project etc)",
-   "to focus on; to put the emphasis on"
+   "key point; focus",
+   "key; priority"
+  ],
+  "meanings_ja": [
+   "重点",
+   "ポイント"
   ],
   "pos": [
    "n",
@@ -5035,10 +5624,10 @@
   "unit": 10,
   "order": 1020.28,
   "meanings": [
-   "(two, three etc) -fold",
-   "times (multiplier)",
-   "double",
-   "to increase or multiply"
+   "times; -fold"
+  ],
+  "meanings_ja": [
+   "〜倍"
   ],
   "pos": [
    "q",
@@ -5060,10 +5649,11 @@
   "unit": 10,
   "order": 1020.29,
   "meanings": [
-   "to wake up",
-   "to be awake",
-   "to become aware",
-   "to sober up"
+   "to wake up"
+  ],
+  "meanings_ja": [
+   "目が覚める",
+   "起きる"
   ],
   "pos": [
    "v",
@@ -5086,8 +5676,12 @@
   "unit": 10,
   "order": 1020.3,
   "meanings": [
-   "to dislike; to loathe",
-   "annoying; troublesome"
+   "to dislike; to hate",
+   "annoying"
+  ],
+  "meanings_ja": [
+   "嫌う・嫌い",
+   "うっとうしい"
   ],
   "pos": [
    "v"
@@ -5109,9 +5703,14 @@
   "unit": 10,
   "order": 1020.31,
   "meanings": [
-   "to lose; to be beaten",
-   "(coll.) to enter (a password)"
+   "to lose (a game)",
+   "to enter (a password)"
   ],
+  "meanings_ja": [
+   "負ける",
+   "入力する"
+  ],
+  "note_ja": "「輸送」ではなく「負ける」。",
   "pos": [
    "v"
   ],
@@ -5131,7 +5730,10 @@
   "unit": 10,
   "order": 1020.32,
   "meanings": [
-   "we or us (including both the speaker and the person(s) spoken to)"
+   "we; us (including the listener)"
+  ],
+  "meanings_ja": [
+   "私たち(聞き手を含む)"
   ],
   "pos": [
    "r"
@@ -5153,7 +5755,10 @@
   "unit": 11,
   "order": 1120.33,
   "meanings": [
-   "otherwise; if not; or (else)"
+   "otherwise; or else"
+  ],
+  "meanings_ja": [
+   "さもなければ"
   ],
   "pos": [
    "c"
@@ -5175,7 +5780,11 @@
   "unit": 11,
   "order": 1120.34,
   "meanings": [
-   "free (of charge)"
+   "free of charge"
+  ],
+  "meanings_ja": [
+   "無料の",
+   "無料で"
   ],
   "pos": [
    "v",
@@ -5198,8 +5807,11 @@
   "unit": 12,
   "order": 1220.35,
   "meanings": [
-   "movement; motion; action",
-   "to act; to move"
+   "movement; action"
+  ],
+  "meanings_ja": [
+   "動作",
+   "動き"
   ],
   "pos": [
    "n",
@@ -5222,9 +5834,11 @@
   "unit": 11,
   "order": 1120.36,
   "meanings": [
-   "two (colloquial equivalent of 两个)",
-   "both",
-   "some"
+   "two (people); both"
+  ],
+  "meanings_ja": [
+   "二人",
+   "二つ"
   ],
   "pos": [
    "m"
@@ -5245,7 +5859,11 @@
   "unit": 11,
   "order": 1120.37,
   "meanings": [
-   "to raise; to increase"
+   "to increase; to add"
+  ],
+  "meanings_ja": [
+   "増やす",
+   "増える"
   ],
   "pos": [
    "v",
@@ -5268,10 +5886,11 @@
   "unit": 11,
   "order": 1120.38,
   "meanings": [
-   "famous",
-   "noted",
-   "well-known",
-   "celebrated"
+   "famous; well-known"
+  ],
+  "meanings_ja": [
+   "著名な",
+   "有名な"
   ],
   "pos": [
    "n"
@@ -5293,7 +5912,11 @@
   "unit": 11,
   "order": 1120.39,
   "meanings": [
-   "to refuse; to decline; to reject"
+   "to refuse; to reject"
+  ],
+  "meanings_ja": [
+   "断る",
+   "拒否する"
   ],
   "pos": [
    "v",
@@ -5316,10 +5939,13 @@
   "unit": 11,
   "order": 1120.4,
   "meanings": [
-   "handsome; graceful; dashing; elegant",
-   "(coll.) cool!; sweet!",
-   "(Chinese chess) general (on the red side, equivalent to a king in Western chess)"
+   "handsome; cool"
   ],
+  "meanings_ja": [
+   "かっこいい",
+   "ハンサムな"
+  ],
+  "note_ja": "「帥(率いる)」ではなく「かっこいい」。",
   "pos": [
    "nr",
    "g"
@@ -5340,8 +5966,10 @@
   "unit": 11,
   "order": 1120.41,
   "meanings": [
-   "not just; not limited to",
-   "(as a correlative conjunction) not only (..., but also ...)"
+   "not only"
+  ],
+  "meanings_ja": [
+   "〜だけでなく"
   ],
   "pos": [
    "c"
@@ -5363,7 +5991,12 @@
   "unit": 11,
   "order": 1120.42,
   "meanings": [
-   "smoothly; without a hitch"
+   "smooth; without a hitch",
+   "smoothly"
+  ],
+  "meanings_ja": [
+   "順調な",
+   "順調に"
   ],
   "pos": [
    "a",
@@ -5388,6 +6021,10 @@
   "meanings": [
    "art"
   ],
+  "meanings_ja": [
+   "芸術",
+   "アート"
+  ],
   "pos": [
    "n"
   ],
@@ -5408,9 +6045,14 @@
   "unit": 12,
   "order": 1220.44,
   "meanings": [
-   "trouble; inconvenience",
-   "inconvenient; troublesome; annoying",
-   "to bother sb; to put sb to trouble"
+   "trouble; hassle",
+   "troublesome",
+   "to bother (someone)"
+  ],
+  "meanings_ja": [
+   "面倒",
+   "面倒な",
+   "手間をかける"
   ],
   "pos": [
    "an",
@@ -5435,8 +6077,12 @@
   "unit": 12,
   "order": 1220.45,
   "meanings": [
-   "to apply for sth",
-   "application form"
+   "to apply for",
+   "application"
+  ],
+  "meanings_ja": [
+   "申請する",
+   "申し込む"
   ],
   "pos": [
    "v",
@@ -5460,10 +6106,12 @@
   "unit": 12,
   "order": 1220.46,
   "meanings": [
-   "to act (in a play)",
    "to perform",
-   "to put on (a performance)",
-   "performance"
+   "performance; show"
+  ],
+  "meanings_ja": [
+   "公演する",
+   "公演・ショー"
   ],
   "pos": [
    "v",
@@ -5486,10 +6134,12 @@
   "unit": 12,
   "order": 1220.47,
   "meanings": [
-   "hog",
-   "pig",
-   "swine"
+   "pig"
   ],
+  "meanings_ja": [
+   "豚"
+  ],
+  "note_ja": "「イノシシ」ではなく「豚」。",
   "pos": [
    "n"
   ],
@@ -5512,6 +6162,10 @@
    "to compete",
    "competition"
   ],
+  "meanings_ja": [
+   "競争する",
+   "競争"
+  ],
   "pos": [
    "vn",
    "v"
@@ -5533,8 +6187,12 @@
   "unit": 12,
   "order": 1220.49,
   "meanings": [
-   "to estimate; to assess; to calculate",
-   "(coll.) to reckon; to think (that ...)"
+   "to estimate",
+   "to reckon; probably"
+  ],
+  "meanings_ja": [
+   "推測する",
+   "〜だろうと思う"
   ],
   "pos": [
    "v",
@@ -5557,10 +6215,12 @@
   "unit": 12,
   "order": 1220.5,
   "meanings": [
-   "to be defeated",
-   "to lose",
-   "to fail (e.g. experiments)",
+   "to fail; to lose",
    "failure"
+  ],
+  "meanings_ja": [
+   "失敗する",
+   "負ける"
   ],
   "pos": [
    "v",
@@ -5585,6 +6245,9 @@
   "meanings": [
    "century"
   ],
+  "meanings_ja": [
+   "世紀"
+  ],
   "pos": [
    "n"
   ],
@@ -5607,6 +6270,10 @@
   "meanings": [
    "to manufacture; to make"
   ],
+  "meanings_ja": [
+   "製造する",
+   "作り出す"
+  ],
   "pos": [
    "v",
    "vn"
@@ -5628,10 +6295,10 @@
   "unit": 13,
   "order": 1320.53,
   "meanings": [
-   "have no choice or option but to",
-   "cannot but",
-   "have to",
-   "can't help it"
+   "to have no choice but to"
+  ],
+  "meanings_ja": [
+   "〜せざるを得ない"
   ],
   "pos": [
    "d"
@@ -5653,7 +6320,11 @@
   "unit": 13,
   "order": 1320.54,
   "meanings": [
-   "local"
+   "local; in the area"
+  ],
+  "meanings_ja": [
+   "現地の",
+   "地元の"
   ],
   "pos": [
    "s"
@@ -5675,10 +6346,12 @@
   "unit": 12,
   "order": 1220.55,
   "meanings": [
-   "roughly",
    "probably",
-   "rough",
-   "approximate"
+   "roughly; approximately"
+  ],
+  "meanings_ja": [
+   "たぶん",
+   "おおよそ"
   ],
   "pos": [
    "d",
@@ -5701,7 +6374,11 @@
   "unit": 12,
   "order": 1220.56,
   "meanings": [
-   "to permit; to allow"
+   "to allow; to permit"
+  ],
+  "meanings_ja": [
+   "許す",
+   "許可する"
   ],
   "pos": [
    "v",
@@ -5726,6 +6403,9 @@
   "meanings": [
    "professor"
   ],
+  "meanings_ja": [
+   "教授"
+  ],
   "pos": [
    "n",
    "v"
@@ -5747,10 +6427,10 @@
   "unit": 12,
   "order": 1220.58,
   "meanings": [
-   "to stop",
-   "to pause",
-   "to arrange",
-   "to lay out"
+   "(measure word for meals, scoldings)"
+  ],
+  "meanings_ja": [
+   "〜回(食事・叱責などの量詞)"
   ],
   "pos": [
    "qv",
@@ -5772,7 +6452,11 @@
   "unit": 13,
   "order": 1320.59,
   "meanings": [
-   "to attract; to appeal to; to fascinate"
+   "to attract"
+  ],
+  "meanings_ja": [
+   "引きつける",
+   "魅了する"
   ],
   "pos": [
    "v"
@@ -5794,10 +6478,12 @@
   "unit": 13,
   "order": 1320,
   "meanings": [
-   "common",
-   "joint",
-   "jointly",
-   "together"
+   "common; joint",
+   "together; jointly"
+  ],
+  "meanings_ja": [
+   "共通の",
+   "共同で"
   ],
   "pos": [
    "d",
@@ -5822,6 +6508,9 @@
   "meanings": [
    "magazine"
   ],
+  "meanings_ja": [
+   "雑誌"
+  ],
   "pos": [
    "n"
   ],
@@ -5842,7 +6531,11 @@
   "unit": 13,
   "order": 1320.02,
   "meanings": [
-   "since; as; this being the case"
+   "since; now that"
+  ],
+  "meanings_ja": [
+   "〜である以上",
+   "〜だからには"
   ],
   "pos": [
    "c"
@@ -5864,7 +6557,11 @@
   "unit": 13,
   "order": 1320.03,
   "meanings": [
-   "to stop; to halt; to cease"
+   "to stop; to cease"
+  ],
+  "meanings_ja": [
+   "停止する",
+   "やめる"
   ],
   "pos": [
    "v"
@@ -5886,9 +6583,11 @@
   "unit": 10,
   "order": 1020.04,
   "meanings": [
-   "to remind",
-   "to call attention to",
-   "to warn of"
+   "to remind"
+  ],
+  "meanings_ja": [
+   "注意を促す",
+   "思い出させる"
   ],
   "pos": [
    "v",
@@ -5913,6 +6612,10 @@
   "meanings": [
    "actor; actress; performer"
   ],
+  "meanings_ja": [
+   "俳優",
+   "役者"
+  ],
   "pos": [
    "n"
   ],
@@ -5933,10 +6636,10 @@
   "unit": 13,
   "order": 1320.06,
   "meanings": [
-   "manner",
-   "bearing",
-   "attitude",
-   "approach"
+   "attitude; manner"
+  ],
+  "meanings_ja": [
+   "態度"
   ],
   "pos": [
    "n"
@@ -5958,7 +6661,11 @@
   "unit": 10,
   "order": 1020.07,
   "meanings": [
-   "environs; surroundings; periphery"
+   "surroundings; around"
+  ],
+  "meanings_ja": [
+   "周囲",
+   "周り"
   ],
   "pos": [
    "f"
@@ -5981,8 +6688,11 @@
   "order": 1320.08,
   "meanings": [
    "to lose",
-   "to put aside",
-   "to throw"
+   "to throw away"
+  ],
+  "meanings_ja": [
+   "なくす",
+   "捨てる"
   ],
   "pos": [
    "v"
@@ -6005,6 +6715,9 @@
   "meanings": [
    "complicated; complex"
   ],
+  "meanings_ja": [
+   "複雑な"
+  ],
   "pos": [
    "a"
   ],
@@ -6025,7 +6738,11 @@
   "unit": 13,
   "order": 1320.1,
   "meanings": [
-   "to express; to convey"
+   "to express"
+  ],
+  "meanings_ja": [
+   "表現する",
+   "伝える"
   ],
   "pos": [
    "v",
@@ -6048,10 +6765,10 @@
   "unit": 14,
   "order": 1420.11,
   "meanings": [
-   "numeral",
-   "digit",
-   "number",
-   "figure"
+   "number; figure; digit"
+  ],
+  "meanings_ja": [
+   "数字"
   ],
   "pos": [
    "n"
@@ -6076,6 +6793,10 @@
    "to invite",
    "invitation"
   ],
+  "meanings_ja": [
+   "招待する",
+   "招く"
+  ],
   "pos": [
    "v",
    "vn"
@@ -6097,10 +6818,10 @@
   "unit": 4,
   "order": 420.13,
   "meanings": [
-   "to be connected",
-   "traffic",
-   "transportation",
-   "communications"
+   "traffic; transportation"
+  ],
+  "meanings_ja": [
+   "交通"
   ],
   "pos": [
    "n"
@@ -6122,7 +6843,11 @@
   "unit": 13,
   "order": 1320.14,
   "meanings": [
-   "outstanding; excellent"
+   "excellent; outstanding"
+  ],
+  "meanings_ja": [
+   "優秀な",
+   "優れた"
   ],
   "pos": [
    "a"
@@ -6145,9 +6870,11 @@
   "order": 1420.15,
   "meanings": [
    "bright; light",
-   "to shine; to flash",
-   "loud and clear",
-   "to show (one's passport etc); to make public (one's views etc)"
+   "to shine; to light up"
+  ],
+  "meanings_ja": [
+   "明るい",
+   "光る"
   ],
   "pos": [
    "v",
@@ -6169,10 +6896,10 @@
   "unit": 13,
   "order": 1320.16,
   "meanings": [
-   "sheet",
-   "piece of writing",
-   "bound set of bamboo slips used for record keeping (old)",
-   "classifier for written items: chapter, article"
+   "(measure word for articles, essays)"
+  ],
+  "meanings_ja": [
+   "〜編・〜本(文章の量詞)"
   ],
   "pos": [
    "q",
@@ -6194,7 +6921,11 @@
   "unit": 13,
   "order": 1320.17,
   "meanings": [
-   "child"
+   "child; children"
+  ],
+  "meanings_ja": [
+   "児童",
+   "子ども"
   ],
   "pos": [
    "n"
@@ -6216,9 +6947,14 @@
   "unit": 14,
   "order": 1420.18,
   "meanings": [
-   "best",
-   "had better ...; it would be best to ..."
+   "had better; it would be best to",
+   "best"
   ],
+  "meanings_ja": [
+   "〜したほうがいい",
+   "最もよい"
+  ],
+  "note_ja": "「〜したほうがいい」という助言の副詞としてよく使う。",
   "pos": [
    "d"
   ],
@@ -6239,9 +6975,12 @@
   "unit": 13,
   "order": 1320.19,
   "meanings": [
-   "flavor; taste",
-   "(fig.) feeling (of ...); sense (of ...); hint (of ...)",
-   "(fig.) interest; delight"
+   "taste; flavor",
+   "smell"
+  ],
+  "meanings_ja": [
+   "味",
+   "におい"
   ],
   "pos": [
    "n"
@@ -6263,10 +7002,12 @@
   "unit": 14,
   "order": 1420.2,
   "meanings": [
-   "to break",
-   "to snap",
-   "to cut off",
-   "to give up or abstain from sth"
+   "to break; to snap",
+   "to cut off"
+  ],
+  "meanings_ja": [
+   "切れる・折れる",
+   "断つ"
   ],
   "pos": [
    "v",
@@ -6288,11 +7029,14 @@
   "unit": 14,
   "order": 1420.21,
   "meanings": [
-   "ten million",
-   "countless",
-   "many",
-   "one must by all means"
+   "by all means; be sure to (千万要/别)",
+   "ten million"
   ],
+  "meanings_ja": [
+   "くれぐれも・絶対に",
+   "一千万"
+  ],
+  "note_ja": "「くれぐれも、絶対に(〜しないで)」の副詞用法に注意。",
   "pos": [
    "m",
    "t"
@@ -6314,8 +7058,10 @@
   "unit": 14,
   "order": 1420.22,
   "meanings": [
-   "to set off; to start (on a journey)",
-   "(fig.) to proceed from (a particular standpoint or basis)"
+   "to set out; to depart"
+  ],
+  "meanings_ja": [
+   "出発する"
   ],
   "pos": [
    "v"
@@ -6337,8 +7083,12 @@
   "unit": 14,
   "order": 1420.23,
   "meanings": [
-   "distance; separation (in space or time)",
-   "to be ... away from; to be ... from"
+   "distance",
+   "to be (a distance) away from"
+  ],
+  "meanings_ja": [
+   "距離",
+   "〜から離れている"
   ],
   "pos": [
    "n",
@@ -6361,10 +7111,11 @@
   "unit": 14,
   "order": 1420.24,
   "meanings": [
-   "light",
-   "gentle",
-   "relaxed",
-   "effortless"
+   "relaxed; easy"
+  ],
+  "meanings_ja": [
+   "気楽な",
+   "リラックスした"
   ],
   "pos": [
    "a",
@@ -6387,8 +7138,10 @@
   "unit": 14,
   "order": 1420.25,
   "meanings": [
-   "wall",
-   "(slang) to block (a website) (usu. in the passive: 被墙)"
+   "wall"
+  ],
+  "meanings_ja": [
+   "壁"
   ],
   "pos": [
    "n"
@@ -6409,9 +7162,10 @@
   "unit": 14,
   "order": 1420.26,
   "meanings": [
-   "graduation",
-   "to graduate",
-   "to finish school"
+   "to graduate"
+  ],
+  "meanings_ja": [
+   "卒業する"
   ],
   "pos": [
    "v",
@@ -6434,8 +7188,11 @@
   "unit": 14,
   "order": 1420.27,
   "meanings": [
-   "to doubt (sth); to be skeptical of",
-   "to have one's doubts; to harbor suspicions; to suspect that"
+   "to doubt; to suspect"
+  ],
+  "meanings_ja": [
+   "疑う",
+   "怪しむ"
   ],
   "pos": [
    "v",
@@ -6458,10 +7215,12 @@
   "unit": 14,
   "order": 1420.28,
   "meanings": [
-   "to decorate",
-   "to embellish",
-   "to repair",
+   "to repair; to fix",
    "to build"
+  ],
+  "meanings_ja": [
+   "修理する",
+   "建設する"
   ],
   "pos": [
    "v"
@@ -6484,6 +7243,10 @@
   "meanings": [
    "price"
   ],
+  "meanings_ja": [
+   "価格",
+   "値段"
+  ],
   "pos": [
    "n"
   ],
@@ -6504,10 +7267,10 @@
   "unit": 14,
   "order": 1420.3,
   "meanings": [
-   "to put on or wear (glasses, hat, gloves etc)",
-   "to respect",
-   "to bear",
-   "to support"
+   "to wear (glasses, hat, accessories)"
+  ],
+  "meanings_ja": [
+   "(眼鏡・帽子などを)かける・かぶる・つける"
   ],
   "pos": [
    "v",
@@ -6529,10 +7292,12 @@
   "unit": 14,
   "order": 1420.31,
   "meanings": [
-   "to go to the bottom of a matter",
-   "after all",
-   "when all is said and done",
-   "(in an interrogative sentence) finally"
+   "on earth; actually (in questions)",
+   "after all"
+  ],
+  "meanings_ja": [
+   "いったい",
+   "結局"
   ],
   "pos": [
    "d",
@@ -6555,10 +7320,12 @@
   "unit": 15,
   "order": 1520.32,
   "meanings": [
-   "light",
-   "easy",
-   "gentle",
-   "soft"
+   "light (weight)",
+   "gentle; soft"
+  ],
+  "meanings_ja": [
+   "軽い",
+   "そっと"
   ],
   "pos": [
    "a",
@@ -6582,7 +7349,11 @@
   "unit": 15,
   "order": 1520.33,
   "meanings": [
-   "however; but; yet"
+   "however; but"
+  ],
+  "meanings_ja": [
+   "しかし",
+   "しかしながら"
   ],
   "pos": [
    "c"
@@ -6604,10 +7375,12 @@
   "unit": 14,
   "order": 1420.34,
   "meanings": [
-   "to exchange",
-   "exchange",
-   "communication",
-   "interaction"
+   "to communicate; to exchange",
+   "exchange; communication"
+  ],
+  "meanings_ja": [
+   "交流する",
+   "意見を交換する"
   ],
   "pos": [
    "vn",
@@ -6631,8 +7404,11 @@
   "order": 1420.35,
   "meanings": [
    "excited",
-   "excitement",
-   "(physiology) excitation"
+   "excitement"
+  ],
+  "meanings_ja": [
+   "興奮する",
+   "わくわくする"
   ],
   "pos": [
    "v",
@@ -6656,11 +7432,14 @@
   "unit": 8,
   "order": 820.36,
   "meanings": [
-   "to trap",
-   "to surround",
-   "hard-pressed",
-   "stranded"
+   "sleepy",
+   "to trap; stranded"
   ],
+  "meanings_ja": [
+   "眠い",
+   "困窮する"
+  ],
+  "note_ja": "「眠い」の意味で日常的に使う。「困る」ではない。",
   "pos": [
    "v",
    "an",
@@ -6683,8 +7462,11 @@
   "unit": 14,
   "order": 1420.37,
   "meanings": [
-   "in accordance with; to agree with; to conform to; to meet (a requirement)",
-   "(physics) coincidence"
+   "to conform to; to match"
+  ],
+  "meanings_ja": [
+   "合致する",
+   "〜に合う"
   ],
   "pos": [
    "v"
@@ -6706,8 +7488,11 @@
   "unit": 15,
   "order": 1520.38,
   "meanings": [
-   "to lie down; to recline",
-   "(of an object) to lie horizontally"
+   "to lie down"
+  ],
+  "meanings_ja": [
+   "横になる",
+   "寝そべる"
   ],
   "pos": [
    "v"
@@ -6728,8 +7513,11 @@
   "unit": 15,
   "order": 1520.39,
   "meanings": [
-   "answer",
-   "solution"
+   "answer; solution"
+  ],
+  "meanings_ja": [
+   "答え",
+   "解答"
   ],
   "pos": [
    "n"
@@ -6753,6 +7541,10 @@
   "meanings": [
    "skin"
   ],
+  "meanings_ja": [
+   "皮膚",
+   "肌"
+  ],
   "pos": [
    "n"
   ],
@@ -6773,8 +7565,11 @@
   "unit": 15,
   "order": 1520.41,
   "meanings": [
-   "to waste",
-   "to squander"
+   "to waste"
+  ],
+  "meanings_ja": [
+   "浪費する",
+   "無駄にする"
   ],
   "pos": [
    "v",
@@ -6797,10 +7592,12 @@
   "unit": 15,
   "order": 1520.42,
   "meanings": [
-   "(used to describe sb or sth that makes a very strong impression, whether favorable or unfavorable) terrible; intense; severe; devastating; amazing; awesome; outstanding",
-   "(of a person) stern; strict; harsh; shrewd; tough",
-   "(of an animal) fierce",
-   "(of a resemblance) striking"
+   "amazing; awesome",
+   "severe; intense"
+  ],
+  "meanings_ja": [
+   "すごい",
+   "激しい・ひどい"
   ],
   "pos": [
    "a",
@@ -6823,10 +7620,11 @@
   "unit": 15,
   "order": 1520.43,
   "meanings": [
-   "to esteem",
-   "to respect",
-   "to honor",
-   "to value"
+   "to respect"
+  ],
+  "meanings_ja": [
+   "尊重する",
+   "尊敬する"
   ],
   "pos": [
    "v",
@@ -6849,10 +7647,14 @@
   "unit": 15,
   "order": 1520.44,
   "meanings": [
-   "to move emotionally",
-   "to stir up (emotions)",
-   "to excite"
+   "excited; moved",
+   "to excite; to stir up"
   ],
+  "meanings_ja": [
+   "感激する",
+   "興奮する"
+  ],
+  "note_ja": "「激動」ではなく「感激する、興奮する」。",
   "pos": [
    "a",
    "an"
@@ -6874,10 +7676,10 @@
   "unit": 15,
   "order": 1520.45,
   "meanings": [
-   "to cheat",
-   "to swindle",
-   "to deceive",
-   "to get on (a horse etc) by swinging one leg over"
+   "to cheat; to deceive"
+  ],
+  "meanings_ja": [
+   "だます"
   ],
   "pos": [
    "v",
@@ -6899,9 +7701,12 @@
   "unit": 15,
   "order": 1520.46,
   "meanings": [
-   "pitiful",
-   "pathetic",
-   "to have pity on"
+   "pitiful; poor",
+   "to pity"
+  ],
+  "meanings_ja": [
+   "かわいそうな",
+   "哀れむ"
   ],
   "pos": [
    "v",
@@ -6927,6 +7732,10 @@
   "meanings": [
    "language"
   ],
+  "meanings_ja": [
+   "言語",
+   "言葉"
+  ],
   "pos": [
    "n"
   ],
@@ -6947,10 +7756,12 @@
   "unit": 15,
   "order": 1520.48,
   "meanings": [
-   "to rub; to scratch",
-   "to wipe; to polish",
-   "to apply (lipstick, lotion etc)",
-   "to brush (past)"
+   "to wipe; to rub",
+   "to apply (cream)"
+  ],
+  "meanings_ja": [
+   "拭く",
+   "こする・塗る"
   ],
   "pos": [
    "v"
@@ -6972,10 +7783,13 @@
   "order": 1620.49,
   "meanings": [
    "fragrant",
-   "sweet smelling",
-   "aromatic",
-   "savory or appetizing"
+   "delicious (smell/taste)"
   ],
+  "meanings_ja": [
+   "いい香りがする",
+   "(食べ物が)おいしい"
+  ],
+  "note_ja": "食べ物が「おいしい、香ばしい」の意味でも使う。",
   "pos": [
    "n",
    "a",
@@ -6997,9 +7811,11 @@
   "unit": 15,
   "order": 1520.5,
   "meanings": [
-   "mature; ripe",
-   "to mature; to ripen",
-   "Taiwan pr."
+   "mature; ripe"
+  ],
+  "meanings_ja": [
+   "成熟した",
+   "熟した"
   ],
   "pos": [
    "a",
@@ -7022,9 +7838,12 @@
   "unit": 15,
   "order": 1520.51,
   "meanings": [
-   "bored",
-   "boring",
-   "senseless"
+   "bored; boring",
+   "silly; pointless"
+  ],
+  "meanings_ja": [
+   "退屈な",
+   "つまらない"
   ],
   "pos": [
    "a",
@@ -7047,11 +7866,13 @@
   "unit": 15,
   "order": 1520.52,
   "meanings": [
-   "article",
-   "essay",
-   "literary works",
-   "writings"
+   "article; essay"
   ],
+  "meanings_ja": [
+   "記事・文章",
+   "論文"
+  ],
+  "note_ja": "まとまった「記事、論文、作文」を指す。",
   "pos": [
    "n"
   ],
@@ -7073,7 +7894,11 @@
   "order": 120.53,
   "meanings": [
    "to trust",
-   "to have confidence in"
+   "trust"
+  ],
+  "meanings_ja": [
+   "信頼する",
+   "信頼"
   ],
   "pos": [
    "v",
@@ -7098,6 +7923,9 @@
   "meanings": [
    "website"
   ],
+  "meanings_ja": [
+   "ウェブサイト"
+  ],
   "pos": [
    "n"
   ],
@@ -7118,7 +7946,10 @@
   "unit": 16,
   "order": 1620.55,
   "meanings": [
-   "the earth"
+   "the Earth"
+  ],
+  "meanings_ja": [
+   "地球"
   ],
   "pos": [
    "n"
@@ -7140,10 +7971,12 @@
   "unit": 9,
   "order": 920.56,
   "meanings": [
-   "reality",
-   "practice",
-   "practical",
-   "realistic"
+   "actual; real",
+   "reality"
+  ],
+  "meanings_ja": [
+   "実際の",
+   "現実"
   ],
   "pos": [
    "n",
@@ -7167,7 +8000,10 @@
   "unit": 16,
   "order": 1620.57,
   "meanings": [
-   "(a person's) age"
+   "age"
+  ],
+  "meanings_ja": [
+   "年齢"
   ],
   "pos": [
    "n"
@@ -7189,10 +8025,12 @@
   "unit": 16,
   "order": 1620.58,
   "meanings": [
-   "almost",
-   "nearly",
-   "more or less",
+   "almost; nearly",
    "about the same"
+  ],
+  "meanings_ja": [
+   "ほとんど",
+   "だいたい同じ"
   ],
   "pos": [
    "l"
@@ -7215,9 +8053,12 @@
   "unit": 16,
   "order": 1620.59,
   "meanings": [
-   "it is a pity",
-   "what a pity",
-   "unfortunately"
+   "it's a pity; unfortunately",
+   "regrettable"
+  ],
+  "meanings_ja": [
+   "残念だ",
+   "惜しい"
   ],
   "pos": [
    "v",
@@ -7240,9 +8081,12 @@
   "unit": 5,
   "order": 520,
   "meanings": [
-   "sunshine",
-   "(of personality) upbeat; energetic",
-   "transparent (open to public scrutiny)"
+   "sunshine; sunlight",
+   "cheerful (personality)"
+  ],
+  "meanings_ja": [
+   "日光",
+   "明るい(性格)"
   ],
   "pos": [
    "n",
@@ -7266,7 +8110,11 @@
   "order": 1620.01,
   "meanings": [
    "to recall",
-   "memories"
+   "memory"
+  ],
+  "meanings_ja": [
+   "思い出す",
+   "思い出"
   ],
   "pos": [
    "v",
@@ -7289,8 +8137,10 @@
   "unit": 16,
   "order": 1620.02,
   "meanings": [
-   "air",
-   "atmosphere"
+   "air"
+  ],
+  "meanings_ja": [
+   "空気"
   ],
   "pos": [
    "n"
@@ -7312,9 +8162,12 @@
   "unit": 16,
   "order": 1620.03,
   "meanings": [
-   "(raw) material",
-   "data",
-   "(fig.) person who has the potential to do the job"
+   "material",
+   "data; documents"
+  ],
+  "meanings_ja": [
+   "材料",
+   "資料"
   ],
   "pos": [
    "n"
@@ -7336,7 +8189,12 @@
   "unit": 16,
   "order": 1620.04,
   "meanings": [
-   "to be familiar with; to know well"
+   "to be familiar with",
+   "familiar"
+  ],
+  "meanings_ja": [
+   "よく知っている",
+   "慣れている"
   ],
   "pos": [
    "v",
@@ -7360,10 +8218,12 @@
   "unit": 16,
   "order": 1620.05,
   "meanings": [
-   "as one wishes",
-   "as one pleases",
-   "at random",
-   "negligent"
+   "as one likes; casual",
+   "whatever; anything is fine"
+  ],
+  "meanings_ja": [
+   "自由に・適当に",
+   "何でもいい"
   ],
   "pos": [
    "ad",
@@ -7387,10 +8247,11 @@
   "unit": 16,
   "order": 1620.06,
   "meanings": [
-   "to knock against",
-   "to bump into",
-   "to run into",
-   "to meet by accident"
+   "to bump into; to collide"
+  ],
+  "meanings_ja": [
+   "ぶつかる",
+   "衝突する"
   ],
   "pos": [
    "v"
@@ -7411,9 +8272,11 @@
   "unit": 16,
   "order": 1620.07,
   "meanings": [
-   "each other",
-   "mutually",
-   "mutual"
+   "each other; mutually"
+  ],
+  "meanings_ja": [
+   "互いに",
+   "お互い"
   ],
   "pos": [
    "d",
@@ -7436,7 +8299,11 @@
   "unit": 8,
   "order": 820.08,
   "meanings": [
-   "suitable; fitting; appropriate"
+   "suitable; appropriate"
+  ],
+  "meanings_ja": [
+   "ちょうどよい",
+   "適切な"
   ],
   "pos": [
    "a"
@@ -7459,8 +8326,11 @@
   "order": 1220.09,
   "meanings": [
    "disappointed",
-   "to lose hope",
-   "to despair"
+   "to lose hope"
+  ],
+  "meanings_ja": [
+   "失望する",
+   "がっかりする"
   ],
   "pos": [
    "a",
@@ -7484,8 +8354,10 @@
   "unit": 16,
   "order": 1620.1,
   "meanings": [
-   "impression (sth that stays in one's mind)",
-   "a memory"
+   "impression"
+  ],
+  "meanings_ja": [
+   "印象"
   ],
   "pos": [
    "n"
@@ -7507,7 +8379,10 @@
   "unit": 16,
   "order": 1620.11,
   "meanings": [
-   "number"
+   "number (phone, room, etc.)"
+  ],
+  "meanings_ja": [
+   "番号"
   ],
   "pos": [
    "n"
@@ -7530,6 +8405,10 @@
   "order": 1720.12,
   "meanings": [
    "to be born"
+  ],
+  "meanings_ja": [
+   "生まれる",
+   "出生"
   ],
   "pos": [
    "v",
@@ -7554,6 +8433,9 @@
   "meanings": [
    "bridge"
   ],
+  "meanings_ja": [
+   "橋"
+  ],
   "pos": [
    "n"
   ],
@@ -7573,8 +8455,12 @@
   "unit": 16,
   "order": 1620.14,
   "meanings": [
-   "base; foundation; basis",
-   "basic; fundamental"
+   "foundation; basis",
+   "basic"
+  ],
+  "meanings_ja": [
+   "基礎",
+   "基本的な"
   ],
   "pos": [
    "n"
@@ -7596,9 +8482,11 @@
   "unit": 8,
   "order": 820.15,
   "meanings": [
-   "to adapt",
-   "to fit",
-   "to suit"
+   "to adapt; to get used to"
+  ],
+  "meanings_ja": [
+   "適応する",
+   "慣れる"
   ],
   "pos": [
    "v",
@@ -7621,8 +8509,11 @@
   "unit": 17,
   "order": 1720.16,
   "meanings": [
-   "to earn",
-   "to make a profit"
+   "to earn (money); to make a profit"
+  ],
+  "meanings_ja": [
+   "稼ぐ",
+   "もうける"
   ],
   "pos": [
    "v"
@@ -7645,6 +8536,10 @@
   "meanings": [
    "to guess"
   ],
+  "meanings_ja": [
+   "推測する",
+   "当てる"
+  ],
   "pos": [
    "v"
   ],
@@ -7666,6 +8561,10 @@
   "meanings": [
    "everywhere"
   ],
+  "meanings_ja": [
+   "至る所",
+   "あちこち"
+  ],
   "pos": [
    "d"
   ],
@@ -7686,7 +8585,10 @@
   "unit": 17,
   "order": 1720.19,
   "meanings": [
-   "foodstuff; food; provisions"
+   "food; foodstuff"
+  ],
+  "meanings_ja": [
+   "食品"
   ],
   "pos": [
    "n"
@@ -7708,8 +8610,12 @@
   "unit": 17,
   "order": 1720.2,
   "meanings": [
-   "approximately",
+   "approximately; about",
    "probably"
+  ],
+  "meanings_ja": [
+   "およそ",
+   "たぶん"
   ],
   "pos": [
    "d"
@@ -7731,9 +8637,12 @@
   "unit": 17,
   "order": 1720.21,
   "meanings": [
-   "to shift to an earlier date",
-   "to do sth ahead of time",
+   "to move up (a date); to do ahead of time",
    "in advance"
+  ],
+  "meanings_ja": [
+   "繰り上げる",
+   "前もって～する"
   ],
   "pos": [
    "v",
@@ -7756,7 +8665,11 @@
   "unit": 17,
   "order": 1720.22,
   "meanings": [
-   "temporary; provisional; for the time being"
+   "temporarily; for the time being"
+  ],
+  "meanings_ja": [
+   "一時的に",
+   "とりあえず"
   ],
   "pos": [
    "d",
@@ -7779,10 +8692,12 @@
   "unit": 17,
   "order": 1720.23,
   "meanings": [
-   "active",
-   "energetic",
-   "vigorous",
-   "positive (outlook)"
+   "active; enthusiastic",
+   "positive (attitude)"
+  ],
+  "meanings_ja": [
+   "積極的な",
+   "前向きな"
   ],
   "pos": [
    "a",
@@ -7805,10 +8720,12 @@
   "unit": 17,
   "order": 1720.24,
   "meanings": [
-   "high level",
-   "high grade",
-   "advanced",
-   "high-ranking"
+   "advanced; high-level",
+   "high-grade; high-class"
+  ],
+  "meanings_ja": [
+   "上級の",
+   "高級な"
   ],
   "pos": [
    "a"
@@ -7830,11 +8747,12 @@
   "unit": 17,
   "order": 1720.25,
   "meanings": [
-   "soup",
-   "hot or boiling water",
-   "decoction of medicinal herbs",
-   "water in which sth has been boiled"
+   "soup"
   ],
+  "meanings_ja": [
+   "スープ"
+  ],
+  "note_ja": "「湯」の簡体字だが、意味は「スープ」。お湯は 热水・开水。",
   "pos": [
    "n",
    "nr"
@@ -7855,10 +8773,14 @@
   "unit": 17,
   "order": 1720.26,
   "meanings": [
-   "echo",
-   "sound",
-   "noise",
-   "to make a sound"
+   "to sound; to ring",
+   "loud",
+   "(classifier for sounds)"
+  ],
+  "meanings_ja": [
+   "鳴る",
+   "音が響く",
+   "（音が）大きい"
   ],
   "pos": [
    "v",
@@ -7881,9 +8803,10 @@
   "unit": 17,
   "order": 1720.27,
   "meanings": [
-   "to take in",
-   "income",
-   "revenue"
+   "income; revenue"
+  ],
+  "meanings_ja": [
+   "収入"
   ],
   "pos": [
    "n",
@@ -7906,11 +8829,13 @@
   "unit": 17,
   "order": 1720.28,
   "meanings": [
-   "fear",
-   "to dread",
-   "I'm afraid that...",
-   "perhaps"
+   "I'm afraid (that …); probably"
   ],
+  "meanings_ja": [
+   "おそらく（悪い予想）",
+   "～かもしれない"
+  ],
+  "note_ja": "「恐れる」という動詞ではなく、「おそらく～だろう」という副詞。",
   "pos": [
    "d"
   ],
@@ -7931,8 +8856,13 @@
   "unit": 17,
   "order": 1720.29,
   "meanings": [
-   "careful; attentive; cautious",
-   "to be careful; to look out"
+   "careful; attentive",
+   "carefully"
+  ],
+  "meanings_ja": [
+   "注意深い",
+   "細かい",
+   "入念に"
   ],
   "pos": [
    "ad",
@@ -7955,7 +8885,12 @@
   "unit": 14,
   "order": 1420.3,
   "meanings": [
-   "strict; stringent; tight; rigorous"
+   "strict; rigorous",
+   "strictly"
+  ],
+  "meanings_ja": [
+   "厳しい",
+   "厳格な"
   ],
   "pos": [
    "a",
@@ -7979,8 +8914,13 @@
   "unit": 17,
   "order": 1720.31,
   "meanings": [
-   "timely; at the right time",
+   "in time; timely",
    "promptly; without delay"
+  ],
+  "meanings_ja": [
+   "間に合って",
+   "すぐに",
+   "タイムリーな"
   ],
   "pos": [
    "ad",
@@ -8003,8 +8943,10 @@
   "unit": 18,
   "order": 1820.32,
   "meanings": [
-   "knowledge",
-   "intellectual"
+   "knowledge"
+  ],
+  "meanings_ja": [
+   "知識"
   ],
   "pos": [
    "n"
@@ -8026,10 +8968,15 @@
   "unit": 8,
   "order": 820.33,
   "meanings": [
-   "specialized; dedicated (to a particular field or purpose)",
-   "specially; specifically (for a particular purpose)",
-   "(of institutions, personnel etc) designated or assigned for a specific task; special"
+   "specially; specifically",
+   "specialized"
   ],
+  "meanings_ja": [
+   "わざわざ",
+   "専門の",
+   "専門的に"
+  ],
+  "note_ja": "副詞として「わざわざ・特に」の意味でよく使う。",
   "pos": [
    "d",
    "b"
@@ -8051,10 +8998,11 @@
   "unit": 17,
   "order": 1720.34,
   "meanings": [
-   "tool",
-   "instrument",
-   "utensil",
-   "means (to achieve a goal etc)"
+   "tool; instrument"
+  ],
+  "meanings_ja": [
+   "道具",
+   "工具"
   ],
   "pos": [
    "n"
@@ -8076,10 +9024,12 @@
   "unit": 18,
   "order": 1820.35,
   "meanings": [
-   "to shed",
-   "to take off",
-   "to escape",
-   "to get away from"
+   "to take off (clothes, shoes)",
+   "to escape from"
+  ],
+  "meanings_ja": [
+   "脱ぐ",
+   "抜け出す"
   ],
   "pos": [
    "v"
@@ -8101,9 +9051,13 @@
   "order": 1820.36,
   "meanings": [
    "bitter",
-   "hardship",
-   "pain",
+   "hard; painful (life)",
    "to suffer"
+  ],
+  "meanings_ja": [
+   "苦い",
+   "つらい",
+   "苦しむ"
   ],
   "pos": [
    "a",
@@ -8127,11 +9081,14 @@
   "unit": 18,
   "order": 1820.37,
   "meanings": [
-   "to hire",
-   "to rent",
-   "to charter",
+   "to rent; to hire",
    "to rent out"
   ],
+  "meanings_ja": [
+   "借りる（賃貸）",
+   "貸す（賃貸）"
+  ],
+  "note_ja": "借りる側・貸す側どちらにも使う。",
   "pos": [
    "v",
    "g"
@@ -8154,6 +9111,10 @@
   "meanings": [
    "especially; particularly"
   ],
+  "meanings_ja": [
+   "特に",
+   "とりわけ"
+  ],
   "pos": [
    "d"
   ],
@@ -8175,7 +9136,10 @@
   "order": 1820.39,
   "meanings": [
    "page",
-   "leaf"
+   "(classifier for pages)"
+  ],
+  "meanings_ja": [
+   "ページ"
   ],
   "pos": [
    "q",
@@ -8200,6 +9164,10 @@
    "to throw",
    "to throw away"
   ],
+  "meanings_ja": [
+   "投げる",
+   "捨てる"
+  ],
   "pos": [
    "v"
   ],
@@ -8219,9 +9187,13 @@
   "unit": 18,
   "order": 1820.41,
   "meanings": [
-   "confidence",
-   "faith (in sb or sth)"
+   "confidence; faith"
   ],
+  "meanings_ja": [
+   "自信",
+   "確信"
+  ],
+  "note_ja": "「信心（しんじん）」ではなく「自信・確信」。",
   "pos": [
    "n"
   ],
@@ -8242,9 +9214,11 @@
   "unit": 18,
   "order": 1820.42,
   "meanings": [
-   "doctor (as an academic degree)",
-   "(old) person specialized in a skill or trade",
-   "(old) court academician"
+   "doctor (PhD); doctoral degree"
+  ],
+  "meanings_ja": [
+   "博士",
+   "博士号"
   ],
   "pos": [
    "n"
@@ -8268,6 +9242,10 @@
   "meanings": [
    "deliberately; on purpose"
   ],
+  "meanings_ja": [
+   "わざと",
+   "故意に"
+  ],
   "pos": [
    "d",
    "b"
@@ -8289,9 +9267,11 @@
   "unit": 18,
   "order": 1820.44,
   "meanings": [
-   "way of looking at a thing",
-   "view",
-   "opinion"
+   "view; opinion"
+  ],
+  "meanings_ja": [
+   "見方",
+   "意見"
   ],
   "pos": [
    "n"
@@ -8315,6 +9295,9 @@
   "meanings": [
    "romantic"
   ],
+  "meanings_ja": [
+   "ロマンチックな"
+  ],
   "pos": [
    "a",
    "an"
@@ -8336,7 +9319,11 @@
   "unit": 18,
   "order": 1820.46,
   "meanings": [
-   "to lessen; to decrease; to reduce; to lower"
+   "to reduce; to decrease"
+  ],
+  "meanings_ja": [
+   "減らす",
+   "減る"
   ],
   "pos": [
    "v",
@@ -8359,11 +9346,16 @@
   "unit": 18,
   "order": 1820.47,
   "meanings": [
-   "exhausting",
-   "hard",
-   "tough",
-   "arduous"
+   "hard; exhausting (work)",
+   "to work hard; to go to trouble",
+   "(thanks for your) hard work"
   ],
+  "meanings_ja": [
+   "苦労する",
+   "つらい",
+   "お疲れさま"
+  ],
+  "note_ja": "「辛苦了」でねぎらいの「お疲れさま」。",
   "pos": [
    "a",
    "v",
@@ -8387,9 +9379,11 @@
   "unit": 18,
   "order": 1820.48,
   "meanings": [
-   "to remain",
-   "to be left",
-   "to have as remainder"
+   "to be left over; to remain"
+  ],
+  "meanings_ja": [
+   "残る",
+   "余る"
   ],
   "pos": [
    "v"
@@ -8410,10 +9404,13 @@
   "unit": 19,
   "order": 1920.49,
   "meanings": [
-   "just (in time)",
-   "just right",
-   "just enough",
-   "to happen to"
+   "just right; exactly",
+   "just in time; happen to"
+  ],
+  "meanings_ja": [
+   "ちょうどいい",
+   "ちょうど（そのとき）",
+   "折よく"
   ],
   "pos": [
    "z"
@@ -8435,10 +9432,13 @@
   "unit": 19,
   "order": 1920.5,
   "meanings": [
-   "to take the initiative",
-   "to do sth of one's own accord",
-   "spontaneous",
-   "active"
+   "on one's own initiative; proactive",
+   "actively; voluntarily"
+  ],
+  "meanings_ja": [
+   "自発的な",
+   "進んで～する",
+   "主導的な"
   ],
   "pos": [
    "ad",
@@ -8462,10 +9462,14 @@
   "unit": 18,
   "order": 1820.51,
   "meanings": [
-   "hard; stiff; solid",
-   "(fig.) strong; firm",
-   "resolutely; uncompromisingly",
-   "laboriously; with great difficulty"
+   "hard; stiff",
+   "firm; tough",
+   "stubbornly; by force"
+  ],
+  "meanings_ja": [
+   "硬い",
+   "強い・頑固な",
+   "無理に"
   ],
   "pos": [
    "a",
@@ -8487,10 +9491,12 @@
   "unit": 18,
   "order": 1820.52,
   "meanings": [
-   "to restrict",
-   "to limit",
-   "to confine",
-   "restriction"
+   "to limit; to restrict",
+   "limit; restriction"
+  ],
+  "meanings_ja": [
+   "制限する",
+   "制限"
   ],
   "pos": [
    "v",
@@ -8513,7 +9519,12 @@
   "unit": 18,
   "order": 1820.53,
   "meanings": [
-   "to judge; to determine; judgment"
+   "to judge; to decide",
+   "judgment"
+  ],
+  "meanings_ja": [
+   "判断する",
+   "判断"
   ],
   "pos": [
    "v",
@@ -8537,9 +9548,11 @@
   "unit": 4,
   "order": 420.54,
   "meanings": [
-   "modern times",
-   "modern age",
-   "modern era"
+   "modern; modern times"
+  ],
+  "meanings_ja": [
+   "現代",
+   "現代の"
   ],
   "pos": [
    "t"
@@ -8561,11 +9574,15 @@
   "unit": 18,
   "order": 1820.55,
   "meanings": [
-   "to pluck (a string)",
-   "to play (a string instrument)",
-   "to spring or leap",
-   "to shoot (e.g. with a catapult)"
+   "to play (piano, guitar); to pluck",
+   "to spring; to bounce"
   ],
+  "meanings_ja": [
+   "（ピアノ・ギターを）弾く",
+   "はじく",
+   "弾む"
+  ],
+  "note_ja": "tán で「弾く」。dàn と読むと「弾丸」。",
   "pos": [
    "v",
    "g",
@@ -8587,7 +9604,11 @@
   "unit": 19,
   "order": 1920.56,
   "meanings": [
-   "interesting; fascinating; amusing"
+   "interesting; fun"
+  ],
+  "meanings_ja": [
+   "面白い",
+   "興味深い"
   ],
   "pos": [
    "a"
@@ -8611,6 +9632,9 @@
   "meanings": [
    "kilometer"
   ],
+  "meanings_ja": [
+   "キロメートル"
+  ],
   "pos": [
    "q",
    "n"
@@ -8632,7 +9656,11 @@
   "unit": 19,
   "order": 1920.58,
   "meanings": [
-   "wages; pay"
+   "wages; salary"
+  ],
+  "meanings_ja": [
+   "給料",
+   "賃金"
   ],
   "pos": [
    "n"
@@ -8654,8 +9682,12 @@
   "unit": 17,
   "order": 1720.59,
   "meanings": [
-   "benefit; advantage; merit",
-   "gain; profit"
+   "benefit; advantage"
+  ],
+  "meanings_ja": [
+   "利点",
+   "メリット",
+   "利益"
   ],
   "pos": [
    "n"
@@ -8677,9 +9709,12 @@
   "unit": 19,
   "order": 1920,
   "meanings": [
-   "to grieve",
-   "to be broken-hearted",
-   "to feel deeply hurt"
+   "sad; heartbroken"
+  ],
+  "meanings_ja": [
+   "悲しむ",
+   "悲しい",
+   "心を痛める"
   ],
   "pos": [
    "a"
@@ -8702,9 +9737,11 @@
   "order": 1920.01,
   "meanings": [
    "difference",
-   "to distinguish",
-   "to discriminate",
-   "to make a distinction"
+   "to distinguish"
+  ],
+  "meanings_ja": [
+   "違い",
+   "区別する"
   ],
   "pos": [
    "n",
@@ -8727,9 +9764,12 @@
   "unit": 19,
   "order": 1920.02,
   "meanings": [
-   "to eclipse",
-   "confused; ignorant (variant of 暗)",
-   "dark (variant of 暗)"
+   "dark; dim",
+   "secret; hidden"
+  ],
+  "meanings_ja": [
+   "暗い",
+   "ひそかな"
   ],
   "pos": [
    "a",
@@ -8751,9 +9791,11 @@
   "unit": 19,
   "order": 1920.03,
   "meanings": [
-   "in the future",
-   "future",
-   "the future"
+   "future; in the future"
+  ],
+  "meanings_ja": [
+   "将来",
+   "将来に"
   ],
   "pos": [
    "t"
@@ -8775,7 +9817,11 @@
   "unit": 15,
   "order": 1520.04,
   "meanings": [
-   "to chat; to gossip"
+   "to chat"
+  ],
+  "meanings_ja": [
+   "おしゃべりする",
+   "雑談する"
   ],
   "pos": [
    "v",
@@ -8798,8 +9844,10 @@
   "unit": 19,
   "order": 1920.05,
   "meanings": [
-   "novel",
-   "fiction"
+   "novel; fiction"
+  ],
+  "meanings_ja": [
+   "小説"
   ],
   "pos": [
    "n"
@@ -8821,7 +9869,13 @@
   "unit": 19,
   "order": 1920.06,
   "meanings": [
-   "to encourage"
+   "to encourage",
+   "encouragement"
+  ],
+  "meanings_ja": [
+   "励ます",
+   "激励する",
+   "励まし"
   ],
   "pos": [
    "v",
@@ -8844,10 +9898,13 @@
   "unit": 20,
   "order": 2020.07,
   "meanings": [
-   "an ideal",
-   "a dream",
-   "ideal",
-   "perfect"
+   "ideal; dream",
+   "ideal (adj.); perfect"
+  ],
+  "meanings_ja": [
+   "理想",
+   "夢",
+   "理想的な"
   ],
   "pos": [
    "n",
@@ -8870,7 +9927,10 @@
   "unit": 19,
   "order": 1920.08,
   "meanings": [
-   "to regret; to feel remorse"
+   "to regret"
+  ],
+  "meanings_ja": [
+   "後悔する"
   ],
   "pos": [
    "v",
@@ -8894,7 +9954,11 @@
   "unit": 20,
   "order": 2020.09,
   "meanings": [
-   "to conduct; to hold (an event)"
+   "to hold (an event); to organize"
+  ],
+  "meanings_ja": [
+   "開催する",
+   "催す"
   ],
   "pos": [
    "v",
@@ -8917,9 +9981,13 @@
   "unit": 20,
   "order": 2020.1,
   "meanings": [
-   "to move (sb)",
-   "to touch (sb emotionally)",
-   "moving"
+   "to be moved; to touch (emotionally)",
+   "moving; touching"
+  ],
+  "meanings_ja": [
+   "感動する",
+   "感動させる",
+   "感動的な"
   ],
   "pos": [
    "v",
@@ -8946,6 +10014,10 @@
   "meanings": [
    "customer; client"
   ],
+  "meanings_ja": [
+   "顧客",
+   "お客"
+  ],
   "pos": [
    "n"
   ],
@@ -8966,8 +10038,11 @@
   "unit": 3,
   "order": 320.12,
   "meanings": [
-   "to form; to make up; to constitute",
-   "composition; makeup"
+   "to form; to make up; to consist of"
+  ],
+  "meanings_ja": [
+   "構成する",
+   "～からなる"
   ],
   "pos": [
    "v",
@@ -8990,8 +10065,13 @@
   "unit": 14,
   "order": 1420.13,
   "meanings": [
-   "(of a contagious disease etc) to spread; to propagate",
-   "(of a style of clothing, song etc) popular; fashionable"
+   "popular; fashionable",
+   "to be in fashion; to spread"
+  ],
+  "meanings_ja": [
+   "流行する",
+   "はやりの",
+   "流行"
   ],
   "pos": [
    "v",
@@ -9014,10 +10094,11 @@
   "unit": 19,
   "order": 1920.14,
   "meanings": [
-   "to arrange",
-   "to tidy up",
-   "to sort out",
-   "to straighten out"
+   "to tidy up; to sort out; to organize"
+  ],
+  "meanings_ja": [
+   "整理する",
+   "片付ける"
   ],
   "pos": [
    "v",
@@ -9040,8 +10121,14 @@
   "unit": 19,
   "order": 1920.15,
   "meanings": [
-   "noisy; loud",
-   "to quarrel; to argue"
+   "noisy",
+   "to quarrel",
+   "to disturb (with noise)"
+  ],
+  "meanings_ja": [
+   "うるさい",
+   "口げんかする",
+   "騒ぐ"
   ],
   "pos": [
    "v"
@@ -9062,8 +10149,12 @@
   "unit": 19,
   "order": 1920.16,
   "meanings": [
-   "rich; plentiful; abundant",
+   "rich; abundant; plentiful",
    "to enrich"
+  ],
+  "meanings_ja": [
+   "豊富な",
+   "豊かにする"
   ],
   "pos": [
    "a",
@@ -9086,9 +10177,11 @@
   "unit": 19,
   "order": 1920.17,
   "meanings": [
-   "to excuse",
-   "to forgive",
-   "to pardon"
+   "to forgive; to excuse"
+  ],
+  "meanings_ja": [
+   "許す",
+   "大目に見る"
   ],
   "pos": [
    "v",
@@ -9111,9 +10204,11 @@
   "unit": 19,
   "order": 1920.18,
   "meanings": [
-   "belly",
-   "abdomen",
-   "stomach"
+   "belly; stomach"
+  ],
+  "meanings_ja": [
+   "おなか",
+   "腹"
   ],
   "pos": [
    "n",
@@ -9136,9 +10231,11 @@
   "unit": 20,
   "order": 2020.19,
   "meanings": [
-   "ordinarily",
-   "in normal times",
-   "in peacetime"
+   "usually; ordinarily; at normal times"
+  ],
+  "meanings_ja": [
+   "普段",
+   "平常時"
   ],
   "pos": [
    "t"
@@ -9160,10 +10257,10 @@
   "unit": 19,
   "order": 1920.2,
   "meanings": [
-   "hot (spicy)",
-   "pungent",
-   "(of chili pepper, raw onions etc) to sting",
-   "to burn"
+   "spicy; hot (taste)"
+  ],
+  "meanings_ja": [
+   "辛い"
   ],
   "pos": [
    "a",
@@ -9188,6 +10285,10 @@
   "meanings": [
    "author; writer"
   ],
+  "meanings_ja": [
+   "作者",
+   "著者"
+  ],
   "pos": [
    "n"
   ],
@@ -9208,10 +10309,13 @@
   "unit": 20,
   "order": 2020.22,
   "meanings": [
-   "(physics) mass",
-   "quality (i.e. degree of excellence)",
-   "quality and quantity"
+   "quality"
   ],
+  "meanings_ja": [
+   "品質",
+   "質"
+  ],
+  "note_ja": "日常では「品質」。「質量（しつりょう）」の意味は物理の文脈のみ。",
   "pos": [
    "n"
   ],
@@ -9232,7 +10336,11 @@
   "unit": 20,
   "order": 2020.23,
   "meanings": [
-   "cheerful; happy; pleasant; delighted"
+   "happy; pleasant; cheerful"
+  ],
+  "meanings_ja": [
+   "愉快な",
+   "楽しい"
   ],
   "pos": [
    "a",
@@ -9256,9 +10364,13 @@
   "unit": 20,
   "order": 2020.24,
   "meanings": [
-   "to entrust; to place in sb's care",
-   "to send by post; to mail"
+   "to mail; to send (by post)"
   ],
+  "meanings_ja": [
+   "郵送する",
+   "（手紙・荷物を）送る"
+  ],
+  "note_ja": "「寄せる・寄る」ではなく「郵送する」。",
   "pos": [
    "v"
   ],
@@ -9278,7 +10390,11 @@
   "unit": 5,
   "order": 520.25,
   "meanings": [
-   "accurate; exact; precise"
+   "accurate; precise"
+  ],
+  "meanings_ja": [
+   "正確な",
+   "的確な"
   ],
   "pos": [
    "a",
@@ -9301,9 +10417,11 @@
   "unit": 20,
   "order": 2020.26,
   "meanings": [
-   "detailed",
-   "in detail",
-   "minute"
+   "detailed; in detail"
+  ],
+  "meanings_ja": [
+   "詳しい",
+   "詳細な"
   ],
   "pos": [
    "a",
@@ -9326,9 +10444,10 @@
   "unit": 20,
   "order": 2020.27,
   "meanings": [
-   "to prohibit",
-   "to forbid",
-   "to ban"
+   "to prohibit; to ban"
+  ],
+  "meanings_ja": [
+   "禁止する"
   ],
   "pos": [
    "v"
@@ -9350,10 +10469,12 @@
   "unit": 20,
   "order": 2020.28,
   "meanings": [
-   "circle",
-   "round",
-   "circular",
-   "spherical"
+   "round; circular",
+   "circle"
+  ],
+  "meanings_ja": [
+   "丸い",
+   "円"
   ],
   "pos": [
    "g",
@@ -9377,8 +10498,11 @@
   "unit": 21,
   "order": 2120.29,
   "meanings": [
-   "calm; cool-headed; dispassionate",
-   "(of a place) deserted; quiet"
+   "calm; cool-headed"
+  ],
+  "meanings_ja": [
+   "冷静な",
+   "落ち着いている"
   ],
   "pos": [
    "a",
@@ -9402,7 +10526,11 @@
   "unit": 20,
   "order": 2020.3,
   "meanings": [
-   "shopping"
+   "to shop; shopping"
+  ],
+  "meanings_ja": [
+   "買い物する",
+   "ショッピング"
   ],
   "pos": [
    "v",
@@ -9425,9 +10553,11 @@
   "unit": 20,
   "order": 2020.31,
   "meanings": [
-   "amount; quantity",
-   "quantitative",
-   "(math.) scalar quantity"
+   "quantity; amount"
+  ],
+  "meanings_ja": [
+   "数量",
+   "量"
   ],
   "pos": [
    "n"
@@ -9451,6 +10581,10 @@
   "meanings": [
    "brave; courageous"
   ],
+  "meanings_ja": [
+   "勇敢な",
+   "勇ましい"
+  ],
   "pos": [
    "a",
    "ad",
@@ -9473,7 +10607,10 @@
   "unit": 20,
   "order": 2020.33,
   "meanings": [
-   "(loanword) chocolate"
+   "chocolate"
+  ],
+  "meanings_ja": [
+   "チョコレート"
   ],
   "pos": [
    "n"
@@ -9496,9 +10633,12 @@
   "unit": 19,
   "order": 1920.34,
   "meanings": [
-   "rich",
-   "abundant",
-   "wealthy"
+   "rich; wealthy",
+   "abundant"
+  ],
+  "meanings_ja": [
+   "豊かな",
+   "裕福な"
   ],
   "pos": [
    "g",
@@ -9520,11 +10660,16 @@
   "unit": 20,
   "order": 2020.35,
   "meanings": [
-   "pride",
-   "arrogance",
-   "conceited",
-   "proud of sth"
+   "proud",
+   "arrogant; conceited",
+   "pride"
   ],
+  "meanings_ja": [
+   "誇りに思う",
+   "傲慢な",
+   "誇り"
+  ],
+  "note_ja": "良い意味の「誇り」にも悪い意味の「傲慢」にも使う。",
   "pos": [
    "an",
    "a"
@@ -9546,10 +10691,10 @@
   "unit": 20,
   "order": 2020.36,
   "meanings": [
-   "nature",
-   "disposition",
-   "temperament",
-   "character"
+   "personality; character"
+  ],
+  "meanings_ja": [
+   "性格"
   ],
   "pos": [
    "n"
@@ -9571,7 +10716,11 @@
   "unit": 20,
   "order": 2020.37,
   "meanings": [
-   "to reduce; to lower; to bring down"
+   "to lower; to reduce"
+  ],
+  "meanings_ja": [
+   "下げる",
+   "低下する"
   ],
   "pos": [
    "v",
@@ -9594,10 +10743,11 @@
   "unit": 21,
   "order": 2120.38,
   "meanings": [
-   "really",
-   "sure enough",
-   "as expected",
-   "if indeed"
+   "as expected; sure enough"
+  ],
+  "meanings_ja": [
+   "案の定",
+   "やはり"
   ],
   "pos": [
    "d",
@@ -9620,9 +10770,11 @@
   "unit": 16,
   "order": 1620.39,
   "meanings": [
-   "along with",
-   "in the wake of",
-   "following"
+   "along with; as (… changes)"
+  ],
+  "meanings_ja": [
+   "～につれて",
+   "～に伴って"
   ],
   "pos": [
    "p"
@@ -9644,7 +10796,11 @@
   "unit": 21,
   "order": 2120.4,
   "meanings": [
-   "to have no other option but to ...; to have to; to be forced to"
+   "to have no choice but to"
+  ],
+  "meanings_ja": [
+   "～するしかない",
+   "やむを得ず"
   ],
   "pos": [
    "d"
@@ -9666,8 +10822,11 @@
   "unit": 21,
   "order": 2120.41,
   "meanings": [
-   "cipher; secret code",
    "password; PIN"
+  ],
+  "meanings_ja": [
+   "パスワード",
+   "暗証番号"
   ],
   "pos": [
    "n"
@@ -9689,7 +10848,10 @@
   "unit": 21,
   "order": 2120.42,
   "meanings": [
-   "Asia (abbr. for 亚细亚洲)"
+   "Asia"
+  ],
+  "meanings_ja": [
+   "アジア"
   ],
   "pos": [
    "ns"
@@ -9713,6 +10875,10 @@
   "meanings": [
    "to apologize"
   ],
+  "meanings_ja": [
+   "謝る",
+   "謝罪する"
+  ],
   "pos": [
    "v",
    "vn"
@@ -9734,9 +10900,11 @@
   "unit": 21,
   "order": 2120.44,
   "meanings": [
-   "classifier for times, round trips or rows",
-   "a time",
-   "a trip"
+   "(classifier for trips) time; trip"
+  ],
+  "meanings_ja": [
+   "（往復の回数）～回",
+   "～度"
   ],
   "pos": [
    "qv",
@@ -9759,7 +10927,11 @@
   "order": 2120.45,
   "meanings": [
    "soft",
-   "flexible"
+   "weak; gentle"
+  ],
+  "meanings_ja": [
+   "柔らかい",
+   "弱い"
   ],
   "pos": [
    "a",
@@ -9781,9 +10953,12 @@
   "unit": 21,
   "order": 2120.46,
   "meanings": [
-   "to visit; to call on (a person or place)",
-   "(computing) to visit (a website); to access (a network resource etc)",
-   "(Tw) to interview (e.g. for a report or feature story)"
+   "to visit (formally); to call on",
+   "to access (a website)"
+  ],
+  "meanings_ja": [
+   "訪問する",
+   "（サイトに）アクセスする"
   ],
   "pos": [
    "v",
@@ -9808,6 +10983,10 @@
   "meanings": [
    "forest"
   ],
+  "meanings_ja": [
+   "森林",
+   "森"
+  ],
   "pos": [
    "n"
   ],
@@ -9828,8 +11007,11 @@
   "unit": 22,
   "order": 2220.48,
   "meanings": [
-   "friendly; amicable",
-   "close friend"
+   "friendly; amicable"
+  ],
+  "meanings_ja": [
+   "友好的な",
+   "親しい"
   ],
   "pos": [
    "a",
@@ -9852,8 +11034,12 @@
   "unit": 21,
   "order": 2120.49,
   "meanings": [
-   "to taste; to try (food)",
-   "to experience"
+   "to taste; to try (food)"
+  ],
+  "meanings_ja": [
+   "味見する",
+   "味わう",
+   "試す"
   ],
   "pos": [
    "v"
@@ -9874,7 +11060,10 @@
   "unit": 21,
   "order": 2120.5,
   "meanings": [
-   "100 million"
+   "hundred million"
+  ],
+  "meanings_ja": [
+   "億"
   ],
   "pos": [
    "m"
@@ -9895,8 +11084,12 @@
   "unit": 22,
   "order": 2220.51,
   "meanings": [
-   "to talk (with sb)",
-   "dialogue; conversation"
+   "dialogue; conversation",
+   "to have a dialogue"
+  ],
+  "meanings_ja": [
+   "対話",
+   "会話する"
   ],
   "pos": [
    "vn",
@@ -9919,10 +11112,12 @@
   "unit": 21,
   "order": 2120.52,
   "meanings": [
-   "to put in order",
-   "to tidy up",
-   "to pack",
-   "to repair"
+   "to tidy up; to put in order",
+   "to pack (bags)"
+  ],
+  "meanings_ja": [
+   "片付ける",
+   "（荷物を）まとめる"
   ],
   "pos": [
    "v"
@@ -9944,10 +11139,13 @@
   "unit": 21,
   "order": 2120.53,
   "meanings": [
-   "broadcast",
-   "broadcasting",
-   "to broadcast",
-   "(formal) to propagate"
+   "broadcast; radio",
+   "to broadcast"
+  ],
+  "meanings_ja": [
+   "放送",
+   "ラジオ放送",
+   "放送する"
   ],
   "pos": [
    "vn",
@@ -9973,6 +11171,10 @@
   "meanings": [
    "gradually"
   ],
+  "meanings_ja": [
+   "だんだん",
+   "次第に"
+  ],
   "pos": [
    "d"
   ],
@@ -9995,6 +11197,9 @@
   "meanings": [
    "key"
   ],
+  "meanings_ja": [
+   "鍵"
+  ],
   "pos": [
    "n"
   ],
@@ -10016,9 +11221,11 @@
   "order": 2220.56,
   "meanings": [
    "sour",
-   "tart",
-   "sick at heart",
-   "grieved"
+   "sore; aching (muscles)"
+  ],
+  "meanings_ja": [
+   "酸っぱい",
+   "（体が）だるい・痛い"
   ],
   "pos": [
    "a",
@@ -10040,7 +11247,12 @@
   "unit": 22,
   "order": 2220.57,
   "meanings": [
-   "(lit. and fig.) to pollute; to contaminate"
+   "to pollute",
+   "pollution"
+  ],
+  "meanings_ja": [
+   "汚染する",
+   "汚染"
   ],
   "pos": [
    "vn",
@@ -10065,6 +11277,9 @@
   "meanings": [
    "temperature"
   ],
+  "meanings_ja": [
+   "温度"
+  ],
   "pos": [
    "n"
   ],
@@ -10085,9 +11300,11 @@
   "unit": 22,
   "order": 2220.59,
   "meanings": [
-   "lone",
-   "lonely",
-   "loneliness"
+   "lonely; alone"
+  ],
+  "meanings_ja": [
+   "孤独な",
+   "寂しい"
   ],
   "pos": [
    "a",
@@ -10110,8 +11327,11 @@
   "unit": 22,
   "order": 2220,
   "meanings": [
-   "drink",
-   "beverage"
+   "drink; beverage"
+  ],
+  "meanings_ja": [
+   "飲み物",
+   "飲料"
   ],
   "pos": [
    "n"
@@ -10133,10 +11353,11 @@
   "unit": 22,
   "order": 2220.01,
   "meanings": [
-   "wide",
-   "broad",
-   "loose",
-   "relaxed"
+   "wide; broad"
+  ],
+  "meanings_ja": [
+   "広い（幅が）",
+   "幅"
   ],
   "pos": [
    "a"
@@ -10157,7 +11378,10 @@
   "unit": 22,
   "order": 2220.02,
   "meanings": [
-   "for example; for instance; such as"
+   "for example; such as"
+  ],
+  "meanings_ja": [
+   "例えば"
   ],
   "pos": [
    "v"
@@ -10182,6 +11406,10 @@
    "to congratulate",
    "congratulations"
   ],
+  "meanings_ja": [
+   "祝う",
+   "お祝い"
+  ],
   "pos": [
    "v",
    "vn"
@@ -10203,8 +11431,15 @@
   "unit": 22,
   "order": 2220.04,
   "meanings": [
-   "to criticize; criticism"
+   "to criticize",
+   "criticism"
   ],
+  "meanings_ja": [
+   "批判する",
+   "叱る",
+   "批評"
+  ],
+  "note_ja": "日常では「叱る・注意する」の意味で使うことが多い。",
   "pos": [
    "v",
    "vn"
@@ -10226,7 +11461,11 @@
   "unit": 23,
   "order": 2320.05,
   "meanings": [
-   "to attach importance to sth; to value"
+   "to value; to attach importance to"
+  ],
+  "meanings_ja": [
+   "重視する",
+   "重んじる"
   ],
   "pos": [
    "v",
@@ -10249,7 +11488,13 @@
   "unit": 11,
   "order": 1120.06,
   "meanings": [
-   "to grow; to increase"
+   "to grow; to increase",
+   "growth"
+  ],
+  "meanings_ja": [
+   "増加する",
+   "成長する",
+   "増加"
   ],
   "pos": [
    "v",
@@ -10272,8 +11517,13 @@
   "unit": 10,
   "order": 1020.07,
   "meanings": [
-   "opposite",
-   "contrary"
+   "opposite; contrary",
+   "on the contrary"
+  ],
+  "meanings_ja": [
+   "正反対の",
+   "逆に",
+   "反対に"
   ],
   "pos": [
    "v",
@@ -10296,9 +11546,12 @@
   "unit": 22,
   "order": 2220.08,
   "meanings": [
-   "to lift",
-   "to raise",
-   "(of two or more persons) to carry"
+   "to lift; to raise",
+   "to carry (together)"
+  ],
+  "meanings_ja": [
+   "持ち上げる",
+   "（二人で）担ぐ"
   ],
   "pos": [
    "v"
@@ -10319,11 +11572,14 @@
   "unit": 23,
   "order": 2320.09,
   "meanings": [
-   "plan",
-   "idea",
-   "decision",
-   "Beijing pr."
+   "idea; plan"
   ],
+  "meanings_ja": [
+   "アイデア",
+   "考え",
+   "方法"
+  ],
+  "note_ja": "「主意（しゅい）」ではなく「アイデア・考え」。",
   "pos": [
    "n"
   ],
@@ -10344,9 +11600,11 @@
   "unit": 22,
   "order": 2220.1,
   "meanings": [
-   "to expand",
-   "to enlarge",
-   "to broaden one's scope"
+   "to expand; to enlarge"
+  ],
+  "meanings_ja": [
+   "拡大する",
+   "広げる"
   ],
   "pos": [
    "v",
@@ -10369,9 +11627,11 @@
   "unit": 23,
   "order": 2320.11,
   "meanings": [
-   "premium",
-   "award money",
-   "bonus"
+   "bonus; prize money"
+  ],
+  "meanings_ja": [
+   "ボーナス",
+   "賞金"
   ],
   "pos": [
    "n"
@@ -10395,6 +11655,9 @@
   "meanings": [
    "salt"
   ],
+  "meanings_ja": [
+   "塩"
+  ],
   "pos": [
    "n"
   ],
@@ -10414,9 +11677,13 @@
   "unit": 2,
   "order": 220.13,
   "meanings": [
-   "to feel unwell",
-   "to suffer pain",
-   "to be difficult to bear"
+   "to feel unwell; uncomfortable",
+   "to feel bad; upset"
+  ],
+  "meanings_ja": [
+   "気分が悪い",
+   "つらい",
+   "やりきれない"
   ],
   "pos": [
    "a"
@@ -10438,7 +11705,10 @@
   "unit": 23,
   "order": 2320.14,
   "meanings": [
-   "nationality; ethnic group"
+   "ethnic group; nationality"
+  ],
+  "meanings_ja": [
+   "民族"
   ],
   "pos": [
    "n"
@@ -10460,7 +11730,11 @@
   "unit": 23,
   "order": 2320.15,
   "meanings": [
-   "(scheduled) flight; (scheduled) sailing"
+   "flight (scheduled)"
+  ],
+  "meanings_ja": [
+   "（飛行機の）便",
+   "フライト"
   ],
   "pos": [
    "n"
@@ -10482,9 +11756,11 @@
   "unit": 23,
   "order": 2320.16,
   "meanings": [
-   "occasionally",
-   "once in a while",
-   "sometimes"
+   "occasionally; once in a while"
+  ],
+  "meanings_ja": [
+   "たまに",
+   "時々"
   ],
   "pos": [
    "d",
@@ -10507,11 +11783,15 @@
   "unit": 17,
   "order": 1720.17,
   "meanings": [
-   "appointment",
-   "engagement",
-   "date",
-   "to arrange to meet"
+   "date; appointment",
+   "to have a date"
   ],
+  "meanings_ja": [
+   "デート",
+   "（会う）約束",
+   "デートする"
+  ],
+  "note_ja": "「約束」全般ではなく、主に人と会う「デート・会う約束」。",
   "pos": [
    "v",
    "n",
@@ -10534,9 +11814,11 @@
   "unit": 2,
   "order": 220.18,
   "meanings": [
-   "unbearable",
-   "unable to endure",
-   "can't stand"
+   "can't stand; unbearable"
+  ],
+  "meanings_ja": [
+   "耐えられない",
+   "我慢できない"
   ],
   "pos": [
    "l"
@@ -10560,9 +11842,11 @@
   "order": 2320.19,
   "meanings": [
    "thick",
-   "deep or profound",
-   "kind",
-   "generous"
+   "deep (feeling); generous"
+  ],
+  "meanings_ja": [
+   "厚い",
+   "（情が）深い"
   ],
   "pos": [
    "a"
@@ -10585,6 +11869,9 @@
   "meanings": [
    "nurse"
   ],
+  "meanings_ja": [
+   "看護師"
+  ],
   "pos": [
    "n"
   ],
@@ -10605,7 +11892,11 @@
   "unit": 9,
   "order": 920.21,
   "meanings": [
-   "to visit (a place, e.g. museum or factory); to tour; to look around"
+   "to visit; to tour (a place)"
+  ],
+  "meanings_ja": [
+   "見学する",
+   "参観する"
   ],
   "pos": [
    "v",
@@ -10628,9 +11919,10 @@
   "unit": 11,
   "order": 1120.22,
   "meanings": [
-   "conveniently",
-   "in passing",
-   "without much extra effort"
+   "in passing; while you're at it; by the way"
+  ],
+  "meanings_ja": [
+   "ついでに"
   ],
   "pos": [
    "d"
@@ -10652,9 +11944,11 @@
   "unit": 23,
   "order": 2320.23,
   "meanings": [
-   "companionship",
-   "fellowship",
    "friendship"
+  ],
+  "meanings_ja": [
+   "友情",
+   "友好"
   ],
   "pos": [
    "n"
@@ -10676,10 +11970,13 @@
   "unit": 23,
   "order": 2320.24,
   "meanings": [
-   "stupid",
-   "foolish",
-   "silly",
-   "slow-witted"
+   "stupid; dumb",
+   "clumsy"
+  ],
+  "meanings_ja": [
+   "ばかな",
+   "頭が悪い",
+   "不器用な"
   ],
   "pos": [
    "a",
@@ -10701,8 +11998,10 @@
   "unit": 23,
   "order": 2320.25,
   "meanings": [
-   "(loanword) sofa",
-   "(Internet slang) first reply to a forum post"
+   "sofa; couch"
+  ],
+  "meanings_ja": [
+   "ソファー"
   ],
   "pos": [
    "n"
@@ -10724,8 +12023,13 @@
   "unit": 23,
   "order": 2320.26,
   "meanings": [
-   "to be patient",
+   "patient",
    "patience"
+  ],
+  "meanings_ja": [
+   "辛抱強い",
+   "根気",
+   "忍耐"
   ],
   "pos": [
    "a",
@@ -10749,7 +12053,12 @@
   "unit": 24,
   "order": 2420.27,
   "meanings": [
-   "to play a joke; to make fun of; to joke"
+   "to joke; to kid",
+   "to make fun of"
+  ],
+  "meanings_ja": [
+   "冗談を言う",
+   "からかう"
   ],
   "pos": [
    "v"
@@ -10772,11 +12081,14 @@
   "unit": 23,
   "order": 2320.28,
   "meanings": [
-   "to mirror",
-   "to reflect",
-   "mirror image",
-   "reflection"
+   "to reflect; to mirror",
+   "to report (a problem); to relay"
   ],
+  "meanings_ja": [
+   "反映する",
+   "（意見・問題を）伝える"
+  ],
+  "note_ja": "「（上に）意見や問題を伝える」という用法が多い。",
   "pos": [
    "v",
    "vn"
@@ -10798,8 +12110,10 @@
   "unit": 23,
   "order": 2320.29,
   "meanings": [
-   "plant",
-   "vegetation"
+   "plant; vegetation"
+  ],
+  "meanings_ja": [
+   "植物"
   ],
   "pos": [
    "n"
@@ -10821,8 +12135,12 @@
   "unit": 24,
   "order": 2420.3,
   "meanings": [
-   "notebook (stationery)",
-   "(computing) laptop; notebook (abbr. for 笔记本电脑)"
+   "notebook",
+   "laptop"
+  ],
+  "meanings_ja": [
+   "ノート",
+   "ノートパソコン"
   ],
   "pos": [
    "n"
@@ -10845,9 +12163,13 @@
   "unit": 24,
   "order": 2420.31,
   "meanings": [
-   "opposite; across (the street etc)",
-   "directly in front of one; up ahead",
+   "opposite side; across from",
    "face to face"
+  ],
+  "meanings_ja": [
+   "向かい側",
+   "真向かい",
+   "面と向かって"
   ],
   "pos": [
    "f",
@@ -10873,6 +12195,9 @@
   "meanings": [
    "credit card"
   ],
+  "meanings_ja": [
+   "クレジットカード"
+  ],
   "pos": [
    "n"
   ],
@@ -10894,7 +12219,11 @@
   "unit": 24,
   "order": 2420.33,
   "meanings": [
-   "to lose weight"
+   "to lose weight; to diet"
+  ],
+  "meanings_ja": [
+   "ダイエットする",
+   "減量する"
   ],
   "pos": [
    "v",
@@ -10917,8 +12246,13 @@
   "unit": 24,
   "order": 2420.34,
   "meanings": [
-   "next",
-   "secondly"
+   "secondly; next",
+   "secondary"
+  ],
+  "meanings_ja": [
+   "次に",
+   "二番目に",
+   "二の次"
   ],
   "pos": [
    "c",
@@ -10941,10 +12275,12 @@
   "unit": 24,
   "order": 2420.35,
   "meanings": [
-   "to hit",
-   "to strike",
-   "to tap",
-   "to rap"
+   "to knock; to tap",
+   "to strike"
+  ],
+  "meanings_ja": [
+   "ノックする",
+   "たたく"
   ],
   "pos": [
    "v"
@@ -10965,9 +12301,15 @@
   "unit": 24,
   "order": 2420.36,
   "meanings": [
-   "character; temperament; disposition",
-   "bad temper"
+   "temper",
+   "temperament; disposition"
   ],
+  "meanings_ja": [
+   "気性",
+   "かんしゃく",
+   "性格"
+  ],
+  "note_ja": "「脾気」の読みは pí qi。「发脾气」で「怒る」。",
   "pos": [
    "n"
   ],
@@ -10988,10 +12330,13 @@
   "unit": 24,
   "order": 2420.37,
   "meanings": [
-   "to translate",
-   "to interpret",
-   "translator",
-   "interpreter"
+   "to translate; to interpret",
+   "translator; translation"
+  ],
+  "meanings_ja": [
+   "翻訳する",
+   "通訳する",
+   "翻訳者・通訳者"
   ],
   "pos": [
    "n"
@@ -11013,9 +12358,13 @@
   "unit": 24,
   "order": 2420.38,
   "meanings": [
-   "to be worried",
-   "to be distressed",
-   "worries"
+   "worried; troubled",
+   "worries; trouble"
+  ],
+  "meanings_ja": [
+   "悩む",
+   "悩み",
+   "いらだつ"
   ],
   "pos": [
    "an",
@@ -11038,7 +12387,11 @@
   "unit": 24,
   "order": 2420.39,
   "meanings": [
-   "characteristic; trait; feature"
+   "characteristic; feature"
+  ],
+  "meanings_ja": [
+   "特徴",
+   "特色"
   ],
   "pos": [
    "n"
@@ -11060,7 +12413,11 @@
   "unit": 5,
   "order": 520.4,
   "meanings": [
-   "usually; in many cases; more often than not"
+   "often; more often than not"
+  ],
+  "meanings_ja": [
+   "往々にして",
+   "よく（～しがちだ）"
   ],
   "pos": [
    "d"
@@ -11083,6 +12440,10 @@
   "meanings": [
    "scenery; landscape"
   ],
+  "meanings_ja": [
+   "風景",
+   "景色"
+  ],
   "pos": [
    "n"
   ],
@@ -11103,10 +12464,15 @@
   "unit": 25,
   "order": 2520.42,
   "meanings": [
-   "joke; jest",
-   "to laugh at; to mock",
-   "ridiculous; absurd"
+   "joke",
+   "to laugh at; to mock"
   ],
+  "meanings_ja": [
+   "笑い話",
+   "ジョーク",
+   "笑いものにする"
+  ],
+  "note_ja": "「笑い話・ジョーク」。「闹笑话」で「笑いものになる失敗をする」。",
   "pos": [
    "n"
   ],
@@ -11128,6 +12494,10 @@
   "order": 2420.43,
   "meanings": [
    "ocean"
+  ],
+  "meanings_ja": [
+   "海洋",
+   "海"
   ],
   "pos": [
    "n"
@@ -11151,6 +12521,9 @@
   "meanings": [
    "window"
   ],
+  "meanings_ja": [
+   "窓"
+  ],
   "pos": [
    "n"
   ],
@@ -11171,7 +12544,10 @@
   "unit": 25,
   "order": 2520.45,
   "meanings": [
-   "not only (... but also ...)"
+   "not only (… but also)"
+  ],
+  "meanings_ja": [
+   "～だけでなく"
   ],
   "pos": [
    "c"
@@ -11193,7 +12569,12 @@
   "unit": 24,
   "order": 2420.46,
   "meanings": [
-   "to replace; to take the place of"
+   "to replace; to substitute for"
+  ],
+  "meanings_ja": [
+   "代わりをする",
+   "取って代わる",
+   "代替する"
   ],
   "pos": [
    "v"
@@ -11217,6 +12598,9 @@
   "meanings": [
    "furniture"
   ],
+  "meanings_ja": [
+   "家具"
+  ],
   "pos": [
    "n"
   ],
@@ -11237,7 +12621,11 @@
   "unit": 24,
   "order": 2420.48,
   "meanings": [
-   "classifier for trees, cabbages, plants etc"
+   "(classifier for trees and plants)"
+  ],
+  "meanings_ja": [
+   "（木・草の数）～本",
+   "～株"
   ],
   "pos": [
    "q"
@@ -11258,10 +12646,13 @@
   "unit": 20,
   "order": 2020.49,
   "meanings": [
-   "to consult",
-   "to talk over",
-   "to discuss"
+   "to discuss; to talk over; to consult"
   ],
+  "meanings_ja": [
+   "相談する",
+   "話し合う"
+  ],
+  "note_ja": "「商量（しょうりょう）」ではなく日常語の「相談する」。",
   "pos": [
    "v"
   ],
@@ -11284,6 +12675,9 @@
   "meanings": [
    "lion"
   ],
+  "meanings_ja": [
+   "ライオン"
+  ],
   "pos": [
    "n"
   ],
@@ -11304,7 +12698,11 @@
   "unit": 25,
   "order": 2520.51,
   "meanings": [
-   "a little bit"
+   "a little; slightly"
+  ],
+  "meanings_ja": [
+   "少し",
+   "ちょっと"
   ],
   "pos": [
    "d"
@@ -11326,9 +12724,10 @@
   "unit": 25,
   "order": 2520.52,
   "meanings": [
-   "perspiration",
-   "sweat",
-   "to be speechless (out of helplessness, embarrassment etc) (Internet slang used as an interjection)"
+   "sweat"
+  ],
+  "meanings_ja": [
+   "汗"
   ],
   "pos": [
    "n"
@@ -11349,10 +12748,11 @@
   "unit": 25,
   "order": 2520.53,
   "meanings": [
-   "lack",
-   "shortage of",
-   "shortfall",
-   "to be short (of)"
+   "to lack; to be short of"
+  ],
+  "meanings_ja": [
+   "欠けている",
+   "不足する"
   ],
   "pos": [
    "v"
@@ -11374,7 +12774,13 @@
   "unit": 25,
   "order": 2520.54,
   "meanings": [
-   "to read"
+   "to read",
+   "reading"
+  ],
+  "meanings_ja": [
+   "読む",
+   "読書する",
+   "読解"
   ],
   "pos": [
    "v",
@@ -11397,11 +12803,13 @@
   "unit": 25,
   "order": 2520.55,
   "meanings": [
-   "poor",
-   "destitute",
-   "to use up",
-   "to exhaust"
+   "poor (not rich)"
   ],
+  "meanings_ja": [
+   "貧しい",
+   "貧乏な"
+  ],
+  "note_ja": "「窮」の簡体字だが、主に「貧しい」の意味。",
   "pos": [
    "a",
    "d",
@@ -11423,10 +12831,13 @@
   "unit": 25,
   "order": 2520.56,
   "meanings": [
-   "to decorate",
-   "to dress",
-   "to make up",
-   "to adorn"
+   "to dress up; to make up",
+   "style of dress"
+  ],
+  "meanings_ja": [
+   "着飾る",
+   "おしゃれする",
+   "身なり"
   ],
   "pos": [
    "v",
@@ -11451,6 +12862,10 @@
   "meanings": [
    "seat"
   ],
+  "meanings_ja": [
+   "座席",
+   "席"
+  ],
   "pos": [
    "n"
   ],
@@ -11473,6 +12888,9 @@
   "meanings": [
    "capital (city)"
   ],
+  "meanings_ja": [
+   "首都"
+  ],
   "pos": [
    "n"
   ],
@@ -11493,10 +12911,13 @@
   "unit": 25,
   "order": 2520.59,
   "meanings": [
-   "to be startled",
-   "to be shocked",
-   "to be amazed"
+   "to be surprised; to be shocked"
   ],
+  "meanings_ja": [
+   "驚く",
+   "びっくりする"
+  ],
+  "note_ja": "「惊く」の意味。食べることとは無関係。",
   "pos": [
    "a"
   ],
@@ -11517,7 +12938,11 @@
   "unit": 25,
   "order": 2520,
   "meanings": [
-   "suddenly; all of a sudden"
+   "suddenly"
+  ],
+  "meanings_ja": [
+   "突然",
+   "急に"
   ],
   "pos": [
    "d"
@@ -11539,8 +12964,11 @@
   "unit": 25,
   "order": 2520.01,
   "meanings": [
-   "to envy",
-   "to admire"
+   "to envy; to admire"
+  ],
+  "meanings_ja": [
+   "うらやむ",
+   "うらやましく思う"
   ],
   "pos": [
    "v",
@@ -11563,10 +12991,12 @@
   "unit": 26,
   "order": 2620.02,
   "meanings": [
-   "to sign up",
-   "to enter one's name",
-   "to apply",
-   "to register"
+   "to sign up; to register; to apply"
+  ],
+  "meanings_ja": [
+   "申し込む",
+   "登録する",
+   "エントリーする"
   ],
   "pos": [
    "v",
@@ -11589,10 +13019,13 @@
   "unit": 25,
   "order": 2520.03,
   "meanings": [
-   "dirty",
-   "filthy",
-   "to get (sth) dirty"
+   "dirty"
   ],
+  "meanings_ja": [
+   "汚い",
+   "汚れている"
+  ],
+  "note_ja": "「臓」の簡体字と同形だが、zāng で「汚い」。",
   "pos": [
    "a",
    "g"
@@ -11615,6 +13048,10 @@
   "meanings": [
    "extremely"
   ],
+  "meanings_ja": [
+   "きわめて",
+   "非常に"
+  ],
   "pos": [
    "d"
   ],
@@ -11636,6 +13073,9 @@
   "order": 2620.05,
   "meanings": [
    "diary"
+  ],
+  "meanings_ja": [
+   "日記"
   ],
   "pos": [
    "n"
@@ -11660,6 +13100,10 @@
    "to sympathize with",
    "sympathy"
   ],
+  "meanings_ja": [
+   "同情する",
+   "同情"
+  ],
   "pos": [
    "v",
    "vn"
@@ -11681,8 +13125,12 @@
   "unit": 25,
   "order": 2520.07,
   "meanings": [
-   "to stroll",
-   "to visit"
+   "to stroll; to wander around",
+   "to browse (shops)"
+  ],
+  "meanings_ja": [
+   "ぶらぶら歩く",
+   "見て回る"
   ],
   "pos": [
    "v"
@@ -11703,10 +13151,13 @@
   "unit": 26,
   "order": 2620.08,
   "meanings": [
-   "to sum up",
-   "to conclude",
-   "summary",
-   "résumé"
+   "to sum up; to summarize",
+   "summary"
+  ],
+  "meanings_ja": [
+   "総括する",
+   "まとめる",
+   "まとめ"
   ],
   "pos": [
    "v",
@@ -11729,9 +13180,11 @@
   "unit": 25,
   "order": 2520.09,
   "meanings": [
-   "to disturb",
-   "to bother",
-   "to trouble"
+   "to disturb; to bother"
+  ],
+  "meanings_ja": [
+   "邪魔する",
+   "お邪魔する"
   ],
   "pos": [
    "v"
@@ -11753,8 +13206,12 @@
   "unit": 26,
   "order": 2620.1,
   "meanings": [
-   "(loanword) humor",
-   "humorous"
+   "humorous",
+   "humor"
+  ],
+  "meanings_ja": [
+   "ユーモアのある",
+   "ユーモア"
   ],
   "pos": [
    "a",
@@ -11778,8 +13235,11 @@
   "order": 2620.11,
   "meanings": [
    "to misunderstand",
-   "to mistake",
    "misunderstanding"
+  ],
+  "meanings_ja": [
+   "誤解する",
+   "誤解"
   ],
   "pos": [
    "v",
@@ -11802,9 +13262,11 @@
   "unit": 21,
   "order": 2120.12,
   "meanings": [
-   "to be sorry",
-   "to feel apologetic",
-   "sorry!"
+   "sorry; to feel apologetic"
+  ],
+  "meanings_ja": [
+   "申し訳なく思う",
+   "すみません"
   ],
   "pos": [
    "a",
@@ -11828,10 +13290,14 @@
   "unit": 26,
   "order": 2620.13,
   "meanings": [
-   "master",
-   "qualified worker",
-   "respectful form of address for older men"
+   "master (craftsman)",
+   "(polite address for a worker, driver)"
   ],
+  "meanings_ja": [
+   "師匠",
+   "（職人・運転手などへの呼びかけ）～さん"
+  ],
+  "note_ja": "運転手・職人など労働者への敬称として日常的に使う。",
   "pos": [
    "n"
   ],
@@ -11852,10 +13318,11 @@
   "unit": 26,
   "order": 2620.14,
   "meanings": [
-   "flower",
-   "earlobe",
-   "fig. item on both sides",
-   "classifier for flowers, clouds etc"
+   "(classifier for flowers, clouds)"
+  ],
+  "meanings_ja": [
+   "（花・雲の数）～輪",
+   "～朵"
   ],
   "pos": [
    "q",
@@ -11879,6 +13346,9 @@
   "meanings": [
    "mirror"
   ],
+  "meanings_ja": [
+   "鏡"
+  ],
   "pos": [
    "n"
   ],
@@ -11899,9 +13369,13 @@
   "unit": 14,
   "order": 1420.16,
   "meanings": [
-   "to meet the standard required",
-   "qualified",
-   "eligible (voter etc)"
+   "qualified; up to standard",
+   "to pass (a test)"
+  ],
+  "meanings_ja": [
+   "合格する",
+   "基準を満たす",
+   "規格に合う"
   ],
   "pos": [
    "v",
@@ -11924,7 +13398,11 @@
   "unit": 26,
   "order": 2620.17,
   "meanings": [
-   "a relative (i.e. family relation)"
+   "relative (family)"
+  ],
+  "meanings_ja": [
+   "親戚",
+   "親類"
   ],
   "pos": [
    "n"
@@ -11946,7 +13424,11 @@
   "unit": 26,
   "order": 2620.18,
   "meanings": [
-   "physical strength"
+   "(physical) strength; effort"
+  ],
+  "meanings_ja": [
+   "力",
+   "体力"
   ],
   "pos": [
    "n"
@@ -11968,10 +13450,11 @@
   "unit": 25,
   "order": 2520.19,
   "meanings": [
-   "weak point",
-   "fault",
-   "shortcoming",
-   "disadvantage"
+   "shortcoming; weakness; drawback"
+  ],
+  "meanings_ja": [
+   "欠点",
+   "短所"
   ],
   "pos": [
    "n"
@@ -11993,7 +13476,10 @@
   "unit": 26,
   "order": 2620.2,
   "meanings": [
-   "to smoke (tobacco)"
+   "to smoke (a cigarette)"
+  ],
+  "meanings_ja": [
+   "タバコを吸う"
   ],
   "pos": [
    "v"
@@ -12015,8 +13501,10 @@
   "unit": 27,
   "order": 2720.21,
   "meanings": [
-   "(of an aircraft or rocket) to take off; to lift off",
-   "(fig.) (of an enterprise etc) to start to develop rapidly"
+   "to take off (plane)"
+  ],
+  "meanings_ja": [
+   "離陸する"
   ],
   "pos": [
    "v",
@@ -12039,8 +13527,10 @@
   "unit": 27,
   "order": 2720.22,
   "meanings": [
-   "tennis",
-   "tennis ball"
+   "tennis"
+  ],
+  "meanings_ja": [
+   "テニス"
   ],
   "pos": [
    "n"
@@ -12064,6 +13554,9 @@
   "meanings": [
    "tiger"
   ],
+  "meanings_ja": [
+   "トラ"
+  ],
   "pos": [
    "n"
   ],
@@ -12084,7 +13577,10 @@
   "unit": 26,
   "order": 2620.24,
   "meanings": [
-   "to take (a ship, plane etc); to ride (in a train or other vehicle)"
+   "to ride; to take (a vehicle)"
+  ],
+  "meanings_ja": [
+   "（乗り物に）乗る"
   ],
   "pos": [
    "v"
@@ -12108,6 +13604,10 @@
   "meanings": [
    "honest"
   ],
+  "meanings_ja": [
+   "誠実な",
+   "正直な"
+  ],
   "pos": [
    "a",
    "ad",
@@ -12130,8 +13630,11 @@
   "unit": 26,
   "order": 2620.26,
   "meanings": [
-   "to gather; to assemble",
-   "(math.) set"
+   "to gather; to assemble"
+  ],
+  "meanings_ja": [
+   "集合する",
+   "集まる"
   ],
   "pos": [
    "v",
@@ -12154,8 +13657,10 @@
   "unit": 26,
   "order": 2620.27,
   "meanings": [
-   "grandson",
-   "son's son"
+   "grandson"
+  ],
+  "meanings_ja": [
+   "孫（息子の息子）"
   ],
   "pos": [
    "n",
@@ -12178,10 +13683,11 @@
   "unit": 13,
   "order": 1320.28,
   "meanings": [
-   "merit",
-   "benefit",
-   "strong point",
-   "advantage"
+   "strong point; merit; advantage"
+  ],
+  "meanings_ja": [
+   "長所",
+   "利点"
   ],
   "pos": [
    "n"
@@ -12205,6 +13711,9 @@
   "meanings": [
    "monkey"
   ],
+  "meanings_ja": [
+   "サル"
+  ],
   "pos": [
    "n"
   ],
@@ -12225,7 +13734,11 @@
   "unit": 17,
   "order": 1720.3,
   "meanings": [
-   "there's not enough time (to do sth); it's too late"
+   "not enough time; too late (to do)"
+  ],
+  "meanings_ja": [
+   "間に合わない",
+   "もう遅い"
   ],
   "pos": [
    "v"
@@ -12248,10 +13761,12 @@
   "unit": 10,
   "order": 1020.31,
   "meanings": [
-   "universal",
-   "general",
-   "widespread",
-   "common"
+   "common; widespread; universal"
+  ],
+  "meanings_ja": [
+   "普遍的な",
+   "広く見られる",
+   "一般的な"
   ],
   "pos": [
    "a",
@@ -12274,8 +13789,10 @@
   "unit": 17,
   "order": 1720.32,
   "meanings": [
-   "entrance",
-   "to import"
+   "entrance"
+  ],
+  "meanings_ja": [
+   "入り口"
   ],
   "pos": [
    "n",
@@ -12300,6 +13817,9 @@
   "meanings": [
    "to work overtime"
   ],
+  "meanings_ja": [
+   "残業する"
+  ],
   "pos": [
    "v",
    "vn"
@@ -12321,9 +13841,11 @@
   "unit": 26,
   "order": 2620.34,
   "meanings": [
-   "lively; bustling; full of activity",
-   "to make things lively; to have a good time",
-   "a scene of bustling activity; excitement"
+   "lively; bustling"
+  ],
+  "meanings_ja": [
+   "にぎやかな",
+   "活気がある"
   ],
   "pos": [
    "a"
@@ -12345,7 +13867,10 @@
   "unit": 26,
   "order": 2620.35,
   "meanings": [
-   "to take a walk; to go for a walk"
+   "to take a walk; to stroll"
+  ],
+  "meanings_ja": [
+   "散歩する"
   ],
   "pos": [
    "v",
@@ -12368,8 +13893,11 @@
   "unit": 27,
   "order": 2720.36,
   "meanings": [
-   "sequence",
-   "order"
+   "order; sequence"
+  ],
+  "meanings_ja": [
+   "順序",
+   "順番"
   ],
   "pos": [
    "n"
@@ -12393,6 +13921,10 @@
   "meanings": [
    "lazy"
   ],
+  "meanings_ja": [
+   "怠け者の",
+   "面倒くさがる"
+  ],
   "pos": [
    "a"
   ],
@@ -12412,8 +13944,12 @@
   "unit": 27,
   "order": 2720.38,
   "meanings": [
-   "senior official (in imperial China)"
+   "doctor (physician)"
   ],
+  "meanings_ja": [
+   "医者"
+  ],
+  "note_ja": "dàifu と読み「医者」の意味。「大夫（たいふ）」の官職ではない。",
   "pos": [
    "n"
   ],
@@ -12434,9 +13970,11 @@
   "unit": 27,
   "order": 2720.39,
   "meanings": [
-   "on time",
-   "punctual",
-   "on schedule"
+   "on time; punctual"
+  ],
+  "meanings_ja": [
+   "時間どおりに",
+   "時間を守る"
   ],
   "pos": [
    "ad",
@@ -12460,8 +13998,11 @@
   "unit": 27,
   "order": 2720.4,
   "meanings": [
-   "box; case",
-   "hezi – a savory turnover-like pie in northern Chinese and Mongolian cuisines"
+   "box; case"
+  ],
+  "meanings_ja": [
+   "箱",
+   "ケース"
   ],
   "pos": [
    "n"
@@ -12483,10 +14024,15 @@
   "unit": 28,
   "order": 2820.41,
   "meanings": [
-   "proud of oneself",
-   "pleased with oneself",
+   "pleased with oneself; proud",
    "complacent"
   ],
+  "meanings_ja": [
+   "得意げな",
+   "満足している",
+   "いい気になる"
+  ],
+  "note_ja": "「得意（とくい）科目」のような「上手」の意味はなく、「誇らしげ・満足」。",
   "pos": [
    "a",
    "an"
@@ -12508,8 +14054,13 @@
   "unit": 27,
   "order": 2720.42,
   "meanings": [
-   "courtesy; politeness; manners",
-   "courteous; polite"
+   "polite; courteous",
+   "manners; courtesy"
+  ],
+  "meanings_ja": [
+   "礼儀正しい",
+   "礼儀",
+   "マナー"
   ],
   "pos": [
    "an",
@@ -12533,9 +14084,11 @@
   "unit": 9,
   "order": 920.43,
   "meanings": [
-   "to postpone",
-   "to put off",
-   "to defer"
+   "to postpone; to put off"
+  ],
+  "meanings_ja": [
+   "延期する",
+   "遅らせる"
   ],
   "pos": [
    "v"
@@ -12557,7 +14110,11 @@
   "unit": 27,
   "order": 2720.44,
   "meanings": [
-   "biscuit; cracker; cookie"
+   "biscuit; cookie; cracker"
+  ],
+  "meanings_ja": [
+   "ビスケット",
+   "クッキー"
   ],
   "pos": [
    "n"
@@ -12579,7 +14136,10 @@
   "unit": 28,
   "order": 2820.45,
   "meanings": [
-   "Chinese language"
+   "Chinese (language)"
+  ],
+  "meanings_ja": [
+   "中国語"
   ],
   "pos": [
    "nz"
@@ -12601,7 +14161,10 @@
   "unit": 20,
   "order": 2020.46,
   "meanings": [
-   "sex; gender"
+   "gender; sex"
+  ],
+  "meanings_ja": [
+   "性別"
   ],
   "pos": [
    "n"
@@ -12623,8 +14186,10 @@
   "unit": 27,
   "order": 2720.47,
   "meanings": [
-   "socks",
-   "stockings"
+   "socks; stockings"
+  ],
+  "meanings_ja": [
+   "靴下"
   ],
   "pos": [
    "n"
@@ -12646,8 +14211,10 @@
   "unit": 28,
   "order": 2820.48,
   "meanings": [
-   "(meteorology) climate",
-   "(fig.) climate; prevailing conditions (in human affairs)"
+   "climate"
+  ],
+  "meanings_ja": [
+   "気候"
   ],
   "pos": [
    "n"
@@ -12671,6 +14238,9 @@
   "meanings": [
    "towel"
   ],
+  "meanings_ja": [
+   "タオル"
+  ],
   "pos": [
    "n"
   ],
@@ -12691,8 +14261,10 @@
   "unit": 27,
   "order": 2720.5,
   "meanings": [
-   "to applaud",
-   "to clap"
+   "to applaud; to clap"
+  ],
+  "meanings_ja": [
+   "拍手する"
   ],
   "pos": [
    "v"
@@ -12716,6 +14288,10 @@
   "meanings": [
    "bottle"
   ],
+  "meanings_ja": [
+   "瓶",
+   "ボトル"
+  ],
   "pos": [
    "n"
   ],
@@ -12736,8 +14312,12 @@
   "unit": 27,
   "order": 2720.52,
   "meanings": [
-   "to fax",
-   "a fax"
+   "fax",
+   "to fax"
+  ],
+  "meanings_ja": [
+   "ファックス",
+   "ファックスを送る"
   ],
   "pos": [
    "n",
@@ -12760,9 +14340,11 @@
   "unit": 27,
   "order": 2720.53,
   "meanings": [
-   "shy",
-   "embarrassed",
-   "bashful"
+   "shy; bashful"
+  ],
+  "meanings_ja": [
+   "恥ずかしがる",
+   "内気な"
   ],
   "pos": [
    "a"
@@ -12786,6 +14368,9 @@
   "meanings": [
    "to shake hands"
   ],
+  "meanings_ja": [
+   "握手する"
+  ],
   "pos": [
    "v",
    "vn"
@@ -12807,7 +14392,11 @@
   "unit": 17,
   "order": 1720.55,
   "meanings": [
-   "to have enough time; can do it in time; can still make it"
+   "there's still time; can make it in time"
+  ],
+  "meanings_ja": [
+   "間に合う",
+   "まだ時間がある"
   ],
   "pos": [
    "v"
@@ -12832,6 +14421,10 @@
   "meanings": [
    "to cough"
   ],
+  "meanings_ja": [
+   "咳をする",
+   "咳"
+  ],
   "pos": [
    "v"
   ],
@@ -12852,10 +14445,12 @@
   "unit": 28,
   "order": 2820.57,
   "meanings": [
-   "graduate student",
-   "postgraduate student",
-   "research student"
+   "graduate student; postgraduate"
   ],
+  "meanings_ja": [
+   "大学院生"
+  ],
+  "note_ja": "「研究生」は日本の大学の非正規生ではなく「大学院生」。",
   "pos": [
    "n"
   ],
@@ -12877,7 +14472,10 @@
   "unit": 28,
   "order": 2820.58,
   "meanings": [
-   "to go on an official or business trip"
+   "to go on a business trip"
+  ],
+  "meanings_ja": [
+   "出張する"
   ],
   "pos": [
    "v",
@@ -12900,9 +14498,11 @@
   "unit": 10,
   "order": 1020.59,
   "meanings": [
-   "on time",
-   "before deadline",
-   "on schedule"
+   "on time; on schedule"
+  ],
+  "meanings_ja": [
+   "時間どおりに",
+   "期限どおりに"
   ],
   "pos": [
    "d"
@@ -12924,7 +14524,10 @@
   "unit": 28,
   "order": 2820,
   "meanings": [
-   "to shed tears"
+   "to shed tears; to weep"
+  ],
+  "meanings_ja": [
+   "涙を流す"
   ],
   "pos": [
    "v"
@@ -12946,11 +14549,13 @@
   "unit": 28,
   "order": 2820.01,
   "meanings": [
-   "all",
-   "everyone",
-   "each",
-   "widespread"
+   "salty"
   ],
+  "meanings_ja": [
+   "塩辛い",
+   "しょっぱい"
+  ],
+  "note_ja": "HSKでは「塩辛い」の意味（鹹の簡体字）。",
   "pos": [
    "a"
   ],
@@ -12970,7 +14575,10 @@
   "unit": 28,
   "order": 2820.02,
   "meanings": [
-   "gas station"
+   "gas station; petrol station"
+  ],
+  "meanings_ja": [
+   "ガソリンスタンド"
   ],
   "pos": [
    "n"
@@ -12993,10 +14601,10 @@
   "unit": 17,
   "order": 1720.03,
   "meanings": [
-   "to economize",
-   "to conserve (resources)",
-   "economy",
-   "frugal"
+   "to save; to economize; to conserve"
+  ],
+  "meanings_ja": [
+   "節約する"
   ],
   "pos": [
    "v",
@@ -13019,8 +14627,13 @@
   "unit": 28,
   "order": 2820.04,
   "meanings": [
-   "to invite applications for a job",
-   "to recruit"
+   "to recruit; to hire",
+   "recruitment"
+  ],
+  "meanings_ja": [
+   "募集する",
+   "採用する",
+   "求人"
   ],
   "pos": [
    "v",
@@ -13043,10 +14656,11 @@
   "unit": 28,
   "order": 2820.05,
   "meanings": [
-   "lively",
-   "vivacious",
-   "brisk",
-   "active"
+   "lively; vivacious"
+  ],
+  "meanings_ja": [
+   "活発な",
+   "元気な"
   ],
   "pos": [
    "a"
@@ -13068,10 +14682,11 @@
   "unit": 28,
   "order": 2820.06,
   "meanings": [
-   "(of weather, climate, soil etc) dry; arid",
-   "(of skin, mouth etc) dry",
-   "(fig.) dull; dry; boring",
-   "(of timber etc) to dry out; to season; to cure"
+   "dry; arid"
+  ],
+  "meanings_ja": [
+   "乾燥している",
+   "乾いた"
   ],
   "pos": [
    "a",
@@ -13095,8 +14710,11 @@
   "unit": 28,
   "order": 2820.07,
   "meanings": [
-   "visa",
-   "to issue a visa"
+   "visa"
+  ],
+  "meanings_ja": [
+   "ビザ",
+   "査証"
   ],
   "pos": [
    "n"
@@ -13118,8 +14736,12 @@
   "unit": 28,
   "order": 2820.08,
   "meanings": [
-   "warm",
-   "nice and warm"
+   "warm (pleasantly)",
+   "to warm up"
+  ],
+  "meanings_ja": [
+   "暖かい",
+   "暖まる"
   ],
   "pos": [
    "a",
@@ -13142,9 +14764,11 @@
   "unit": 16,
   "order": 1620.09,
   "meanings": [
-   "to affix a seal",
-   "to stamp",
-   "to print out (with a printer)"
+   "to print (out)"
+  ],
+  "meanings_ja": [
+   "印刷する",
+   "プリントアウトする"
   ],
   "pos": [
    "v",
@@ -13167,8 +14791,11 @@
   "unit": 28,
   "order": 2820.1,
   "meanings": [
-   "rural area",
-   "village"
+   "countryside; rural area"
+  ],
+  "meanings_ja": [
+   "農村",
+   "田舎"
   ],
   "pos": [
    "n"
@@ -13190,8 +14817,11 @@
   "unit": 28,
   "order": 2820.11,
   "meanings": [
-   "to arrange in order",
-   "(math.) permutation"
+   "to arrange in order; to line up"
+  ],
+  "meanings_ja": [
+   "配列する",
+   "並べる"
   ],
   "pos": [
    "v",
@@ -13214,9 +14844,10 @@
   "unit": 28,
   "order": 2820.12,
   "meanings": [
-   "narrow",
-   "narrow-minded",
-   "badly off"
+   "narrow"
+  ],
+  "meanings_ja": [
+   "狭い（幅が）"
   ],
   "pos": [
    "a"
@@ -13238,9 +14869,12 @@
   "order": 1720.13,
   "meanings": [
    "to accumulate",
-   "accumulation",
-   "cumulative",
-   "cumulatively"
+   "accumulation"
+  ],
+  "meanings_ja": [
+   "蓄積する",
+   "積み重ねる",
+   "蓄積"
   ],
   "pos": [
    "v",
@@ -13264,10 +14898,12 @@
   "unit": 28,
   "order": 2820.14,
   "meanings": [
-   "orderly",
-   "neat",
-   "even",
-   "tidy"
+   "neat; tidy; orderly"
+  ],
+  "meanings_ja": [
+   "整然とした",
+   "きちんとした",
+   "そろっている"
   ],
   "pos": [
    "a",
@@ -13290,7 +14926,12 @@
   "unit": 14,
   "order": 1420.15,
   "meanings": [
-   "form; table"
+   "form; table (chart)"
+  ],
+  "meanings_ja": [
+   "表",
+   "用紙（記入式）",
+   "フォーム"
   ],
   "pos": [
    "n"
@@ -13312,8 +14953,11 @@
   "unit": 29,
   "order": 2920.16,
   "meanings": [
-   "to praise",
-   "to commend"
+   "to praise; to commend"
+  ],
+  "meanings_ja": [
+   "褒める",
+   "表彰する"
   ],
   "pos": [
    "v",
@@ -13336,9 +14980,11 @@
   "unit": 29,
   "order": 2920.17,
   "meanings": [
-   "master's degree",
-   "person who has a master's degree",
-   "learned person"
+   "master's degree; master's student"
+  ],
+  "meanings_ja": [
+   "修士",
+   "修士号"
   ],
   "pos": [
    "n"
@@ -13362,6 +15008,9 @@
   "meanings": [
    "toothpaste"
   ],
+  "meanings_ja": [
+   "歯磨き粉"
+  ],
   "pos": [
    "n"
   ],
@@ -13383,6 +15032,9 @@
   "order": 3020.19,
   "meanings": [
    "the Great Wall"
+  ],
+  "meanings_ja": [
+   "万里の長城"
   ],
   "pos": [
    "ns"
@@ -13406,6 +15058,10 @@
   "meanings": [
    "to do business"
   ],
+  "meanings_ja": [
+   "商売をする",
+   "ビジネスをする"
+  ],
   "pos": [
    "l"
   ],
@@ -13427,10 +15083,14 @@
   "unit": 30,
   "order": 3020.21,
   "meanings": [
-   "to give a dinner party",
-   "to entertain guests",
-   "to invite to dinner"
+   "to treat (someone to a meal); to host guests"
   ],
+  "meanings_ja": [
+   "おごる",
+   "ごちそうする",
+   "招待する"
+  ],
+  "note_ja": "「おごる」の意味で日常的に使う。",
   "pos": [
    "v"
   ],
@@ -13451,7 +15111,11 @@
   "unit": 7,
   "order": 720.22,
   "meanings": [
-   "to request leave of absence"
+   "to ask for leave; to take time off"
+  ],
+  "meanings_ja": [
+   "休みを取る",
+   "休暇を申請する"
   ],
   "pos": [
    "v"
@@ -13473,9 +15137,10 @@
   "unit": 29,
   "order": 2920.23,
   "meanings": [
-   "table tennis",
-   "ping-pong",
-   "table tennis ball"
+   "table tennis; ping-pong"
+  ],
+  "meanings_ja": [
+   "卓球"
   ],
   "pos": [
    "n"
@@ -13498,9 +15163,11 @@
   "unit": 29,
   "order": 2920.24,
   "meanings": [
-   "tour guide",
-   "guidebook",
-   "to conduct a tour"
+   "tour guide"
+  ],
+  "meanings_ja": [
+   "ツアーガイド",
+   "観光ガイド"
   ],
   "pos": [
    "n"
@@ -13522,8 +15189,11 @@
   "unit": 29,
   "order": 2920.25,
   "meanings": [
-   "leaf",
-   "(slang) marijuana"
+   "leaf"
+  ],
+  "meanings_ja": [
+   "葉",
+   "葉っぱ"
   ],
   "pos": [
    "n",
@@ -13546,8 +15216,13 @@
   "unit": 29,
   "order": 2920.26,
   "meanings": [
-   "to give a discount"
+   "to give a discount; on sale"
   ],
+  "meanings_ja": [
+   "割引する",
+   "値引きする"
+  ],
+  "note_ja": "「打八折」は「2割引（8掛け）」。",
   "pos": [
    "v",
    "vn"
@@ -13569,7 +15244,10 @@
   "unit": 30,
   "order": 3020.27,
   "meanings": [
-   "washing machine; washer"
+   "washing machine"
+  ],
+  "meanings_ja": [
+   "洗濯機"
   ],
   "pos": [
    "n"
@@ -13592,8 +15270,11 @@
   "unit": 29,
   "order": 2920.28,
   "meanings": [
-   "traffic congestion; traffic jam",
-   "to be stuck in traffic; (of traffic) to become congested"
+   "traffic jam; to be stuck in traffic"
+  ],
+  "meanings_ja": [
+   "渋滞する",
+   "渋滞"
   ],
   "pos": [
    "v",
@@ -13618,6 +15299,9 @@
   "meanings": [
    "tomato"
   ],
+  "meanings_ja": [
+   "トマト"
+  ],
   "pos": [
    "n"
   ],
@@ -13639,8 +15323,11 @@
   "unit": 30,
   "order": 3020.3,
   "meanings": [
-   "stature; height; size (of a person or object)",
-   "(agriculture) bundle of cereal stalks tied together"
+   "height; build (of a person)"
+  ],
+  "meanings_ja": [
+   "背丈",
+   "身長"
   ],
   "pos": [
    "n"
@@ -13664,6 +15351,9 @@
   "meanings": [
    "embassy"
   ],
+  "meanings_ja": [
+   "大使館"
+  ],
   "pos": [
    "n"
   ],
@@ -13685,9 +15375,12 @@
   "unit": 29,
   "order": 2920.32,
   "meanings": [
-   "dumpling",
-   "pot-sticker"
+   "dumpling (jiaozi)"
   ],
+  "meanings_ja": [
+   "餃子（水餃子）"
+  ],
+  "note_ja": "中国で 饺子 は普通「水餃子」。焼き餃子は 锅贴・煎饺。",
   "pos": [
    "n"
   ],
@@ -13708,8 +15401,10 @@
   "unit": 29,
   "order": 2920.33,
   "meanings": [
-   "trash can; garbage can",
-   "Taiwan pr."
+   "trash can; garbage bin"
+  ],
+  "meanings_ja": [
+   "ゴミ箱"
   ],
   "pos": [
    "n"
@@ -13734,6 +15429,10 @@
   "meanings": [
    "plastic bag"
   ],
+  "meanings_ja": [
+   "ビニール袋",
+   "レジ袋"
+  ],
   "pos": [
    "n"
   ],
@@ -13755,10 +15454,11 @@
   "unit": 30,
   "order": 3020.35,
   "meanings": [
-   "to cultivate",
-   "to raise",
-   "to form (a habit)",
-   "to acquire"
+   "to form (a habit); to cultivate"
+  ],
+  "meanings_ja": [
+   "（習慣を）身につける",
+   "養う"
   ],
   "pos": [
    "v",
@@ -13781,7 +15481,11 @@
   "unit": 30,
   "order": 3020.36,
   "meanings": [
-   "to give or get an injection"
+   "to get an injection; to give a shot"
+  ],
+  "meanings_ja": [
+   "注射する",
+   "注射を打つ"
   ],
   "pos": [
    "v"
@@ -13803,8 +15507,11 @@
   "unit": 30,
   "order": 3020.37,
   "meanings": [
-   "to get a haircut; to have one's hair done",
-   "to cut (sb's) hair; to give (sb) a haircut"
+   "to get a haircut; to cut hair"
+  ],
+  "meanings_ja": [
+   "散髪する",
+   "髪を切る"
   ],
   "pos": [
    "v",
@@ -13827,8 +15534,10 @@
   "unit": 31,
   "order": 3120.38,
   "meanings": [
-   "grammar",
-   "(computing) syntax"
+   "grammar"
+  ],
+  "meanings_ja": [
+   "文法"
   ],
   "pos": [
    "n"
@@ -13850,10 +15559,11 @@
   "unit": 31,
   "order": 3120.39,
   "meanings": [
-   "to drink a toast",
-   "Cheers! (proposing a toast)",
-   "Here's to you!",
-   "Bottoms up!"
+   "cheers!; to drink a toast"
+  ],
+  "meanings_ja": [
+   "乾杯する",
+   "乾杯"
   ],
   "pos": [
    "v"
@@ -13875,8 +15585,11 @@
   "unit": 16,
   "order": 1620.4,
   "meanings": [
-   "to photocopy",
-   "to duplicate a document"
+   "to photocopy"
+  ],
+  "meanings_ja": [
+   "コピーする",
+   "複写する"
   ],
   "pos": [
    "v",
@@ -13901,6 +15614,9 @@
   "meanings": [
    "to study abroad"
   ],
+  "meanings_ja": [
+   "留学する"
+  ],
   "pos": [
    "v",
    "vn"
@@ -13922,7 +15638,11 @@
   "unit": 30,
   "order": 3020.42,
   "meanings": [
-   "moist"
+   "moist; humid"
+  ],
+  "meanings_ja": [
+   "湿っている",
+   "湿潤な"
   ],
   "pos": [
    "a",
@@ -13945,8 +15665,10 @@
   "unit": 30,
   "order": 3020.43,
   "meanings": [
-   "badminton",
-   "shuttlecock"
+   "badminton"
+  ],
+  "meanings_ja": [
+   "バドミントン"
   ],
   "pos": [
    "n"
@@ -13971,6 +15693,9 @@
   "meanings": [
    "fluent"
   ],
+  "meanings_ja": [
+   "流暢な"
+  ],
   "pos": [
    "a",
    "ad"
@@ -13994,6 +15719,10 @@
   "meanings": [
    "dictionary"
   ],
+  "meanings_ja": [
+   "辞書",
+   "辞典"
+  ],
   "pos": [
    "n"
   ],
@@ -14014,10 +15743,12 @@
   "unit": 30,
   "order": 3020.46,
   "meanings": [
-   "pleasantly cool (weather etc)",
-   "to cool oneself; to cool off",
-   "(Tw) (slang) (of clothing) scanty; revealing",
-   "(coll.) to stay out of it; to butt out"
+   "pleasantly cool",
+   "to cool off"
+  ],
+  "meanings_ja": [
+   "涼しい",
+   "涼む"
   ],
   "pos": [
    "a"
@@ -14039,7 +15770,11 @@
   "unit": 30,
   "order": 3020.47,
   "meanings": [
-   "sales clerk; sales associate; retail salesperson"
+   "shop assistant; salesclerk"
+  ],
+  "meanings_ja": [
+   "店員",
+   "販売員"
   ],
   "pos": [
    "n"
@@ -14062,7 +15797,11 @@
   "unit": 30,
   "order": 3020.48,
   "meanings": [
-   "Yangtze River, or Chang Jiang"
+   "Yangtze River"
+  ],
+  "meanings_ja": [
+   "長江",
+   "揚子江"
   ],
   "pos": [
    "ns"
@@ -14084,10 +15823,11 @@
   "unit": 26,
   "order": 2620.49,
   "meanings": [
-   "careless",
-   "sloppy",
-   "negligent",
-   "skimpy"
+   "careless; sloppy"
+  ],
+  "meanings_ja": [
+   "いい加減な",
+   "おおざっぱな"
   ],
   "pos": [
    "a",
@@ -14112,6 +15852,9 @@
   "meanings": [
    "winter vacation"
   ],
+  "meanings_ja": [
+   "冬休み"
+  ],
   "pos": [
    "t"
   ],
@@ -14132,7 +15875,10 @@
   "unit": 30,
   "order": 3020.51,
   "meanings": [
-   "Renminbi, the official currency of the PRC (currency codes: RMB or CNY)"
+   "Renminbi (RMB); Chinese yuan"
+  ],
+  "meanings_ja": [
+   "人民元"
   ],
   "pos": [
    "n"
@@ -14155,8 +15901,11 @@
   "unit": 30,
   "order": 3020.52,
   "meanings": [
-   "careless",
-   "thoughtless"
+   "careless; thoughtless"
+  ],
+  "meanings_ja": [
+   "そそっかしい",
+   "不注意な"
   ],
   "pos": [
    "a",
@@ -14179,7 +15928,10 @@
   "unit": 30,
   "order": 3020.53,
   "meanings": [
-   "to prepare a lesson"
+   "to preview (a lesson); to prepare before class"
+  ],
+  "meanings_ja": [
+   "予習する"
   ],
   "pos": [
    "v",
@@ -14204,6 +15956,9 @@
   "meanings": [
    "Beijing opera"
   ],
+  "meanings_ja": [
+   "京劇"
+  ],
   "pos": [
    "n"
   ],
@@ -14224,8 +15979,12 @@
   "unit": 1,
   "order": 120.55,
   "meanings": [
-   "(indicating a fraction)"
+   "(fraction marker: Y分之X = X/Y)"
   ],
+  "meanings_ja": [
+   "（分数）～分の～"
+  ],
+  "note_ja": "百分之十 = 10%。分母が先、分子が後。",
   "pos": [
    "m"
   ],
@@ -14246,8 +16005,11 @@
   "unit": 31,
   "order": 3120.56,
   "meanings": [
-   "to fill a job vacancy",
-   "to fill in a blank (e.g. on a form, questionnaire or exam paper)"
+   "to fill in the blanks"
+  ],
+  "meanings_ja": [
+   "空欄を埋める",
+   "穴埋め（問題）"
   ],
   "pos": [
    "v"
@@ -14269,7 +16031,11 @@
   "unit": 31,
   "order": 3120.57,
   "meanings": [
-   "to be on summer vacation"
+   "to be on summer vacation; summer break starts"
+  ],
+  "meanings_ja": [
+   "夏休みになる",
+   "夏休みに入る"
   ],
   "pos": [
    "l"

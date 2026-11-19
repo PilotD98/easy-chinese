@@ -3,7 +3,8 @@
   "id": "unit:hsk4:01",
   "no": 1,
   "level": "hsk4",
-  "title": "Unit 1",
+  "title": "Life, situations and tasks",
+  "title_ja": "生活・状況・任務",
   "chars": [
    "hanzi:等",
    "hanzi:与",
@@ -62,7 +63,8 @@
   "id": "unit:hsk4:02",
   "no": 2,
   "level": "hsk4",
-  "title": "Unit 2",
+  "title": "Plans, news and results",
+  "title_ja": "計画・ニュース・結果",
   "chars": [
    "hanzi:全",
    "hanzi:计",
@@ -117,7 +119,8 @@
   "id": "unit:hsk4:03",
   "no": 3,
   "level": "hsk4",
-  "title": "Unit 3",
+  "title": "Support, change and methods",
+  "title_ja": "支持・変化・方法",
   "chars": [
    "hanzi:支",
    "hanzi:持",
@@ -168,7 +171,8 @@
   "id": "unit:hsk4:04",
   "no": 4,
   "level": "hsk4",
-  "title": "Unit 4",
+  "title": "Contact, modern life and persistence",
+  "title_ja": "連絡・現代の生活・粘り強さ",
   "chars": [
    "hanzi:代",
    "hanzi:联",
@@ -219,7 +223,8 @@
   "id": "unit:hsk4:05",
   "no": 5,
   "level": "hsk4",
-  "title": "Unit 5",
+  "title": "Law, society and development",
+  "title_ja": "法律・社会・発展",
   "chars": [
    "hanzi:术",
    "hanzi:往",
@@ -271,7 +276,8 @@
   "id": "unit:hsk4:06",
   "no": 6,
   "level": "hsk4",
-  "title": "Unit 6",
+  "title": "Responsibility, dreams and happiness",
+  "title_ja": "責任・夢・幸福",
   "chars": [
    "hanzi:释",
    "hanzi:负",
@@ -316,7 +322,8 @@
   "id": "unit:hsk4:07",
   "no": 7,
   "level": "hsk4",
-  "title": "Unit 7",
+  "title": "Opinions, discussion and leave",
+  "title_ja": "意見・議論・休暇",
   "chars": [
    "hanzi:尽",
    "hanzi:深",
@@ -367,7 +374,8 @@
   "id": "unit:hsk4:08",
   "no": 8,
   "level": "hsk4",
-  "title": "Unit 8",
+  "title": "Police, rules and danger",
+  "title_ja": "警察・規則・危険",
   "chars": [
    "hanzi:警",
    "hanzi:察",
@@ -416,7 +424,8 @@
   "id": "unit:hsk4:09",
   "no": 9,
   "level": "hsk4",
-  "title": "Unit 9",
+  "title": "Love, science and the audience",
+  "title_ja": "愛・科学・観客",
   "chars": [
    "hanzi:引",
    "hanzi:抱",
@@ -469,7 +478,8 @@
   "id": "unit:hsk4:10",
   "no": 10,
   "level": "hsk4",
-  "title": "Unit 10",
+  "title": "Speed, economy and surprises",
+  "title_ja": "速度・経済・意外なこと",
   "chars": [
    "hanzi:范",
    "hanzi:围",
@@ -519,7 +529,8 @@
   "id": "unit:hsk4:11",
   "no": 11,
   "level": "hsk4",
-  "title": "Unit 11",
+  "title": "Refusal, fame and smooth going",
+  "title_ja": "拒否・名声・順調",
   "chars": [
    "hanzi:否",
    "hanzi:则",
@@ -562,7 +573,8 @@
   "id": "unit:hsk4:12",
   "no": 12,
   "level": "hsk4",
-  "title": "Unit 12",
+  "title": "Applications, competition and failure",
+  "title_ja": "申請・競争・失敗",
   "chars": [
    "hanzi:烦",
    "hanzi:申",
@@ -605,7 +617,8 @@
   "id": "unit:hsk4:13",
   "no": 13,
   "level": "hsk4",
-  "title": "Unit 13",
+  "title": "Magazines, attitude and invitations",
+  "title_ja": "雑誌・態度・招待",
   "chars": [
    "hanzi:吸",
    "hanzi:杂",
@@ -651,7 +664,8 @@
   "id": "unit:hsk4:14",
   "no": 14,
   "level": "hsk4",
-  "title": "Unit 14",
+  "title": "Graduation, prices and doubt",
+  "title_ja": "卒業・価格・疑い",
   "chars": [
    "hanzi:断",
    "hanzi:距",
@@ -702,7 +716,8 @@
   "id": "unit:hsk4:15",
   "no": 15,
   "level": "hsk4",
-  "title": "Unit 15",
+  "title": "Skin, language and chatting",
+  "title_ja": "皮膚・言語・おしゃべり",
   "chars": [
    "hanzi:躺",
    "hanzi:案",
@@ -747,7 +762,8 @@
   "id": "unit:hsk4:16",
   "no": 16,
   "level": "hsk4",
-  "title": "Unit 16",
+  "title": "Memories, materials and impressions",
+  "title_ja": "思い出・材料・印象",
   "chars": [
    "hanzi:龄",
    "hanzi:惜",
@@ -795,7 +811,8 @@
   "id": "unit:hsk4:17",
   "no": 17,
   "level": "hsk4",
-  "title": "Unit 17",
+  "title": "Earning, guessing and time",
+  "title_ja": "稼ぐ・推測・時間",
   "chars": [
    "hanzi:赚",
    "hanzi:猜",
@@ -848,7 +865,8 @@
   "id": "unit:hsk4:18",
   "no": 18,
   "level": "hsk4",
-  "title": "Unit 18",
+  "title": "Knowledge, hardship and confidence",
+  "title_ja": "知識・苦労・自信",
   "chars": [
    "hanzi:脱",
    "hanzi:苦",
@@ -896,7 +914,8 @@
   "id": "unit:hsk4:19",
   "no": 19,
   "level": "hsk4",
-  "title": "Unit 19",
+  "title": "Wages, regret and the future",
+  "title_ja": "給料・後悔・将来",
   "chars": [
    "hanzi:资",
    "hanzi:伤",
@@ -943,7 +962,8 @@
   "id": "unit:hsk4:20",
   "no": 20,
   "level": "hsk4",
-  "title": "Unit 20",
+  "title": "Quality, shopping and character",
+  "title_ja": "品質・買い物・性格",
   "chars": [
    "hanzi:质",
    "hanzi:量",
@@ -992,7 +1012,8 @@
   "id": "unit:hsk4:21",
   "no": 21,
   "level": "hsk4",
-  "title": "Unit 21",
+  "title": "Passwords, forests and apologies",
+  "title_ja": "パスワード・森・謝罪",
   "chars": [
    "hanzi:密",
    "hanzi:亚",
@@ -1036,7 +1057,8 @@
   "id": "unit:hsk4:22",
   "no": 22,
   "level": "hsk4",
-  "title": "Unit 22",
+  "title": "Keys, pollution and praise",
+  "title_ja": "鍵・汚染・称賛",
   "chars": [
    "hanzi:钥",
    "hanzi:匙",
@@ -1078,7 +1100,8 @@
   "id": "unit:hsk4:23",
   "no": 23,
   "level": "hsk4",
-  "title": "Unit 23",
+  "title": "Salt, nations and friendship",
+  "title_ja": "塩・民族・友情",
   "chars": [
    "hanzi:奖",
    "hanzi:金",
@@ -1120,7 +1143,8 @@
   "id": "unit:hsk4:24",
   "no": 24,
   "level": "hsk4",
-  "title": "Unit 24",
+  "title": "Jokes, translation and scenery",
+  "title_ja": "冗談・翻訳・風景",
   "chars": [
    "hanzi:卡",
    "hanzi:肥",
@@ -1164,7 +1188,8 @@
   "id": "unit:hsk4:25",
   "no": 25,
   "level": "hsk4",
-  "title": "Unit 25",
+  "title": "Lions, surprises and envy",
+  "title_ja": "ライオン・驚き・羨望",
   "chars": [
    "hanzi:狮",
    "hanzi:稍",
@@ -1208,7 +1233,8 @@
   "id": "unit:hsk4:26",
   "no": 26,
   "level": "hsk4",
-  "title": "Unit 26",
+  "title": "Humour, relatives and animals",
+  "title_ja": "ユーモア・親戚・動物",
   "chars": [
    "hanzi:幽",
    "hanzi:默",
@@ -1258,7 +1284,8 @@
   "id": "unit:hsk4:27",
   "no": 27,
   "level": "hsk4",
-  "title": "Unit 27",
+  "title": "Manners, towels and handshakes",
+  "title_ja": "マナー・タオル・握手",
   "chars": [
    "hanzi:序",
    "hanzi:懒",
@@ -1304,7 +1331,8 @@
   "id": "unit:hsk4:28",
   "no": 28,
   "level": "hsk4",
-  "title": "Unit 28",
+  "title": "Research, visas and the countryside",
+  "title_ja": "研究・ビザ・農村",
   "chars": [
    "hanzi:研",
    "hanzi:泪",
@@ -1349,7 +1377,8 @@
   "id": "unit:hsk4:29",
   "no": 29,
   "level": "hsk4",
-  "title": "Unit 29",
+  "title": "Praise, toothpaste and dumplings",
+  "title_ja": "称賛・歯磨き粉・餃子",
   "chars": [
    "hanzi:扬",
    "hanzi:硕",
@@ -1388,7 +1417,8 @@
   "id": "unit:hsk4:30",
   "no": 30,
   "level": "hsk4",
-  "title": "Unit 30",
+  "title": "Business, haircuts and the Great Wall",
+  "title_ja": "商売・散髪・万里の長城",
   "chars": [
    "hanzi:塑",
    "hanzi:袋",
@@ -1435,7 +1465,8 @@
   "id": "unit:hsk4:31",
   "no": 31,
   "level": "hsk4",
-  "title": "Unit 31",
+  "title": "Grammar, opera and summer holidays",
+  "title_ja": "文法・京劇・夏休み",
   "chars": [
    "hanzi:剧",
    "hanzi:填",

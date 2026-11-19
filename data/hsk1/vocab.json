@@ -9,10 +9,12 @@
   "unit": 1,
   "order": 120,
   "meanings": [
-   "of; ~'s (possessive particle)",
-   "(used after an attribute when it modifies a noun)",
-   "(used at the end of a declarative sentence for emphasis)",
-   "(used after a noun, verb or adjective to form a nominal expression, as in 皮革的 \"one made of leather\" or 跑堂儿的 \"a waiter (literally, one who runs back and forth in a restaurant)\" or 新的 \"new one\")"
+   "(possessive/attributive particle)",
+   "'s",
+   "of"
+  ],
+  "meanings_ja": [
+   "〜の（所有・修飾を表す助詞）"
   ],
   "pos": [
    "u",
@@ -34,9 +36,12 @@
   "unit": 9,
   "order": 920.01,
   "meanings": [
-   "(completed action marker)",
-   "(modal particle indicating change of state, situation now)",
-   "(modal particle intensifying preceding clause)"
+   "(completed action particle)",
+   "(change-of-state particle)"
+  ],
+  "meanings_ja": [
+   "〜した（完了）",
+   "〜になった（変化の語気助詞）"
   ],
   "pos": [
    "y",
@@ -59,7 +64,12 @@
   "unit": 1,
   "order": 120.02,
   "meanings": [
-   "I; me; my"
+   "I",
+   "me"
+  ],
+  "meanings_ja": [
+   "私",
+   "僕"
   ],
   "pos": [
    "r"
@@ -80,10 +90,12 @@
   "unit": 1,
   "order": 120.03,
   "meanings": [
-   "to be (followed by substantives only)",
-   "correct; right; true",
-   "(respectful acknowledgement of a command) very well",
-   "(adverb for emphatic assertion)"
+   "to be",
+   "yes"
+  ],
+  "meanings_ja": [
+   "〜である",
+   "はい"
   ],
   "pos": [
    "v"
@@ -104,7 +116,11 @@
   "unit": 1,
   "order": 120.04,
   "meanings": [
-   "you (Note: In Taiwan, 妳 is used to address females, but in mainland China, it is not commonly used. Instead, 你 is used to address both males and females.)"
+   "you (singular)"
+  ],
+  "meanings_ja": [
+   "あなた",
+   "君"
   ],
   "pos": [
    "r"
@@ -125,9 +141,14 @@
   "unit": 5,
   "order": 520.05,
   "meanings": [
-   "to exist; to be alive",
-   "(of sb or sth) to be (located) at",
-   "(used before a verb to indicate an action in progress)"
+   "to be at/in",
+   "at, in",
+   "(progressive marker)"
+  ],
+  "meanings_ja": [
+   "〜にいる・ある",
+   "〜で",
+   "〜している"
   ],
   "pos": [
    "p",
@@ -150,7 +171,12 @@
   "unit": 1,
   "order": 120.06,
   "meanings": [
-   "no; not so"
+   "not",
+   "no"
+  ],
+  "meanings_ja": [
+   "〜ない",
+   "いいえ"
   ],
   "pos": [
    "d"
@@ -171,7 +197,12 @@
   "unit": 4,
   "order": 420.07,
   "meanings": [
-   "to have; there is"
+   "to have",
+   "there is/are"
+  ],
+  "meanings_ja": [
+   "ある・いる",
+   "持っている"
   ],
   "pos": [
    "v"
@@ -192,7 +223,11 @@
   "unit": 1,
   "order": 120.08,
   "meanings": [
-   "(third-person singular) (since the early 20th century, usu. male) he; him; his"
+   "he",
+   "him"
+  ],
+  "meanings_ja": [
+   "彼"
   ],
   "pos": [
    "r"
@@ -213,7 +248,11 @@
   "unit": 2,
   "order": 220.09,
   "meanings": [
-   "(pronoun) this; these"
+   "this"
+  ],
+  "meanings_ja": [
+   "これ",
+   "この"
   ],
   "pos": [
    "r"
@@ -234,7 +273,10 @@
   "unit": 2,
   "order": 220.1,
   "meanings": [
-   "(classifier used before a noun that has no specific classifier)"
+   "(general measure word)"
+  ],
+  "meanings_ja": [
+   "〜個・〜人（最も一般的な量詞）"
   ],
   "pos": [
    "q",
@@ -256,11 +298,14 @@
   "unit": 4,
   "order": 420.11,
   "meanings": [
-   "(joining two nouns) and; together with; with",
-   "(math.) sum",
-   "to make peace",
-   "(sports) to draw; to tie"
+   "and",
+   "with"
   ],
+  "meanings_ja": [
+   "〜と",
+   "〜と一緒に"
+  ],
+  "note_ja": "「和」は接続詞「〜と」。日本語の「和（やわらぎ・日本）」の意味では使わない。",
   "pos": [
    "cc",
    "p",
@@ -285,7 +330,11 @@
   "unit": 1,
   "order": 120.12,
   "meanings": [
-   "person; people"
+   "person",
+   "people"
+  ],
+  "meanings_ja": [
+   "人"
   ],
   "pos": [
    "n"
@@ -306,7 +355,11 @@
   "unit": 1,
   "order": 120.13,
   "meanings": [
-   "we; us; ourselves"
+   "we",
+   "us"
+  ],
+  "meanings_ja": [
+   "私たち"
   ],
   "pos": [
    "r"
@@ -329,9 +382,13 @@
   "order": 120.14,
   "meanings": [
    "good",
-   "appropriate; proper",
-   "all right!",
-   "(before a verb) easy to"
+   "fine",
+   "OK"
+  ],
+  "meanings_ja": [
+   "良い",
+   "元気だ",
+   "はい・了解"
   ],
   "pos": [
    "a",
@@ -354,10 +411,11 @@
   "unit": 3,
   "order": 320.15,
   "meanings": [
-   "one",
-   "single",
-   "a (article)",
-   "as soon as"
+   "one"
+  ],
+  "meanings_ja": [
+   "一",
+   "1"
   ],
   "pos": [
    "m",
@@ -380,11 +438,14 @@
   "unit": 9,
   "order": 920.16,
   "meanings": [
-   "can; to have the skill; to know how to",
-   "to be likely to; to be sure to",
-   "to meet; to get together",
-   "meeting; gathering"
+   "can (know how to)",
+   "will (be likely to)"
   ],
+  "meanings_ja": [
+   "（習得して）できる",
+   "〜するだろう"
+  ],
+  "note_ja": "「会う」ではなく「（学んで）できる」「〜するだろう」の助動詞。会うは 见。",
   "pos": [
    "v",
    "n"
@@ -405,11 +466,15 @@
   "unit": 4,
   "order": 420.17,
   "meanings": [
-   "all; both; entirely",
-   "(used for emphasis) even",
-   "already",
-   "(not) at all"
+   "all",
+   "both"
   ],
+  "meanings_ja": [
+   "みな",
+   "すべて",
+   "どちらも"
+  ],
+  "note_ja": "「みやこ」ではなく副詞「みな・すべて」。首都の意味では 首都 のように使う。",
   "pos": [
    "d",
    "g"
@@ -430,10 +495,14 @@
   "unit": 6,
   "order": 620.18,
   "meanings": [
-   "first (of multiple parts)",
-   "to climb; to get onto; to go up",
-   "to attend (class or university)",
-   "(directional complement) up"
+   "on, above",
+   "to go up",
+   "to attend (class)"
+  ],
+  "meanings_ja": [
+   "上",
+   "上がる・乗る",
+   "（授業に）出る"
   ],
   "pos": [
    "f",
@@ -456,10 +525,10 @@
   "unit": 6,
   "order": 620.19,
   "meanings": [
-   "to come",
-   "(used as a substitute for a more specific verb)",
-   "hither (directional complement for motion toward the speaker, as in 回来)",
-   "ever since (as in 自古以来)"
+   "to come"
+  ],
+  "meanings_ja": [
+   "来る"
   ],
   "pos": [
    "v",
@@ -484,8 +553,10 @@
   "unit": 4,
   "order": 420.2,
   "meanings": [
-   "very; quite",
-   "(also, often used before an adjective without intensifying its meaning, i.e. as a meaningless syntactic element)"
+   "very"
+  ],
+  "meanings_ja": [
+   "とても"
   ],
   "pos": [
    "d"
@@ -506,11 +577,12 @@
   "unit": 6,
   "order": 620.21,
   "meanings": [
-   "to go",
-   "to go to (a place)",
-   "(of a time etc) last",
-   "just passed"
+   "to go"
   ],
+  "meanings_ja": [
+   "行く"
+  ],
+  "note_ja": "「去る」ではなく「行く」。去年 の「過ぎた」の意味もある。",
   "pos": [
    "v"
   ],
@@ -530,7 +602,11 @@
   "unit": 1,
   "order": 120.22,
   "meanings": [
-   "she"
+   "she",
+   "her"
+  ],
+  "meanings_ja": [
+   "彼女"
   ],
   "pos": [
    "r"
@@ -551,11 +627,16 @@
   "unit": 7,
   "order": 720.23,
   "meanings": [
-   "to think (about)",
-   "to think of; to devise",
-   "to think (that); to believe (that)",
-   "to desire; to want (to)"
+   "to want to",
+   "to think",
+   "to miss (someone)"
   ],
+  "meanings_ja": [
+   "〜したい",
+   "思う・考える",
+   "恋しく思う"
+  ],
+  "note_ja": "「想像」より日常的で、「〜したい」の助動詞として最もよく使う。",
   "pos": [
    "v"
   ],
@@ -576,9 +657,11 @@
   "order": 920.24,
   "meanings": [
    "can",
-   "to be able to",
-   "might possibly",
-   "ability"
+   "to be able to"
+  ],
+  "meanings_ja": [
+   "できる",
+   "〜してよい"
   ],
   "pos": [
    "v",
@@ -600,9 +683,13 @@
   "unit": 2,
   "order": 220.25,
   "meanings": [
-   "(specifier) that; the; those",
-   "(pronoun) that (referring to persons, things or situations)",
-   "then (in that case)"
+   "that",
+   "then, in that case"
+  ],
+  "meanings_ja": [
+   "あれ・それ",
+   "あの・その",
+   "それでは"
   ],
   "pos": [
    "r",
@@ -624,11 +711,15 @@
   "unit": 6,
   "order": 620.26,
   "meanings": [
-   "to see; to look at",
-   "to read",
+   "to look at",
    "to watch",
-   "to visit; to call on"
+   "to read"
   ],
+  "meanings_ja": [
+   "見る",
+   "（本などを）読む"
+  ],
+  "note_ja": "「看護・看板」の「看」ではなく、普通の「見る」。本を読むのにも使う。",
   "pos": [
    "v",
    "u"
@@ -649,10 +740,12 @@
   "unit": 9,
   "order": 920.27,
   "meanings": [
-   "to make; to produce",
-   "to write; to compose",
-   "to do; to engage in; to hold (a party etc)",
-   "(of a person) to be (an intermediary, a good student etc); to become (husband and wife, friends etc)"
+   "to do",
+   "to make"
+  ],
+  "meanings_ja": [
+   "する",
+   "作る"
   ],
   "pos": [
    "v"
@@ -673,8 +766,11 @@
   "unit": 2,
   "order": 220.28,
   "meanings": [
-   "what?",
-   "something; anything"
+   "what"
+  ],
+  "meanings_ja": [
+   "何",
+   "どんな"
   ],
   "pos": [
    "r"
@@ -696,10 +792,14 @@
   "unit": 6,
   "order": 620.29,
   "meanings": [
-   "to touch briefly; to tap",
-   "to mark with a dot; to check off (on a list)",
-   "to order (food etc); to select",
-   "to mention; to bring up (a topic or person)"
+   "o'clock",
+   "a little",
+   "to order (food)"
+  ],
+  "meanings_ja": [
+   "〜時",
+   "少し",
+   "（料理を）注文する"
   ],
   "pos": [
    "qt",
@@ -723,8 +823,15 @@
   "unit": 4,
   "order": 420.3,
   "meanings": [
-   "(negative prefix for verbs) have not; not"
+   "not (have)",
+   "have not (done)"
   ],
+  "meanings_ja": [
+   "（持って）いない",
+   "〜しなかった",
+   "〜していない"
+  ],
+  "note_ja": "「没する・没収」ではなく否定の「ない」。没有 の形でよく使う。",
   "pos": [
    "d",
    "v"
@@ -745,10 +852,13 @@
   "unit": 4,
   "order": 420.31,
   "meanings": [
-   "big; large; great",
-   "older (than another person)",
-   "eldest (as in 大姐)",
-   "greatly; freely; fully"
+   "big",
+   "large",
+   "old (in age)"
+  ],
+  "meanings_ja": [
+   "大きい",
+   "年上の"
   ],
   "pos": [
    "a",
@@ -772,10 +882,14 @@
   "unit": 6,
   "order": 620.32,
   "meanings": [
-   "down",
-   "downwards",
-   "below",
-   "lower"
+   "below, under",
+   "to go down",
+   "next"
+  ],
+  "meanings_ja": [
+   "下",
+   "降りる",
+   "次の"
   ],
   "pos": [
    "v",
@@ -799,11 +913,14 @@
   "unit": 10,
   "order": 1020.33,
   "meanings": [
-   "li, ancient measure of length, approx. 500 m",
-   "neighborhood",
-   "ancient administrative unit of 25 families",
-   "(Tw) borough, administrative unit between the township 镇 and neighborhood 邻 levels"
+   "inside",
+   "in"
   ],
+  "meanings_ja": [
+   "中",
+   "〜の中"
+  ],
+  "note_ja": "「里（さと）」ではなく「中・内側」（裏 の簡体字）。家里 = 家の中。",
   "pos": [
    "f",
    "q"
@@ -824,7 +941,11 @@
   "unit": 5,
   "order": 520.34,
   "meanings": [
-   "now; at present; currently"
+   "now"
+  ],
+  "meanings_ja": [
+   "今",
+   "現在"
   ],
   "pos": [
    "t"
@@ -846,8 +967,10 @@
   "unit": 5,
   "order": 520.35,
   "meanings": [
-   "grain",
-   "harvest (old)"
+   "year"
+  ],
+  "meanings_ja": [
+   "年"
   ],
   "pos": [
    "qt",
@@ -870,10 +993,13 @@
   "unit": 3,
   "order": 320.36,
   "meanings": [
-   "many; much; more; a lot of",
-   "too many; in excess",
-   "(after a numeral) ... odd",
+   "many",
+   "much",
    "how (to what extent)"
+  ],
+  "meanings_ja": [
+   "多い",
+   "どれほど"
   ],
   "pos": [
    "a",
@@ -899,7 +1025,10 @@
   "unit": 1,
   "order": 120.37,
   "meanings": [
-   "(question particle for \"yes-no\" questions)"
+   "(yes/no question particle)"
+  ],
+  "meanings_ja": [
+   "〜か（疑問の語気助詞）"
   ],
   "pos": [
    "y"
@@ -920,10 +1049,11 @@
   "unit": 11,
   "order": 1120.38,
   "meanings": [
-   "highest",
-   "greatest",
-   "too (much)",
-   "very"
+   "too (excessively)"
+  ],
+  "meanings_ja": [
+   "〜すぎる",
+   "とても"
   ],
   "pos": [
    "d",
@@ -945,9 +1075,12 @@
   "unit": 1,
   "order": 120.39,
   "meanings": [
-   "(sentence-final particle) used in questions to link back to prior discourse or context (\"what about...?\", \"and...?\")",
-   "(sentence-final particle) indicating that a state or situation still holds",
-   "(discourse particle) used to mark a slight pause or emphasis in speech"
+   "(particle: what about ...?)",
+   "(particle: ongoing state)"
+  ],
+  "meanings_ja": [
+   "〜は？（問い返しの語気助詞）",
+   "〜しているよ"
   ],
   "pos": [
    "y"
@@ -969,9 +1102,12 @@
   "order": 220.4,
   "meanings": [
    "small",
-   "tiny",
-   "few",
+   "little",
    "young"
+  ],
+  "meanings_ja": [
+   "小さい",
+   "若い"
   ],
   "pos": [
    "a",
@@ -994,10 +1130,13 @@
   "order": 520.41,
   "meanings": [
    "time",
-   "length of time",
-   "moment",
-   "period"
+   "moment (when)"
   ],
+  "meanings_ja": [
+   "時",
+   "とき"
+  ],
+  "note_ja": "「時候の挨拶」の意味はなく、「〜の時」「時間・頃」を表す。",
   "pos": [
    "n"
   ],
@@ -1019,10 +1158,14 @@
   "order": 920.42,
   "meanings": [
    "to work",
-   "(of a machine) to operate",
    "job",
    "work"
   ],
+  "meanings_ja": [
+   "働く",
+   "仕事"
+  ],
+  "note_ja": "日本語の「工作（手工芸・裏工作）」ではなく、「仕事・働く」。",
   "pos": [
    "vn",
    "v",
@@ -1047,8 +1190,12 @@
   "meanings": [
    "home",
    "family",
-   "(polite) my (sister, uncle etc)",
-   "classifier for families or businesses"
+   "(measure word for shops)"
+  ],
+  "meanings_ja": [
+   "家",
+   "家族",
+   "〜軒（店を数える量詞）"
   ],
   "pos": [
    "n",
@@ -1070,9 +1217,12 @@
   "unit": 9,
   "order": 920.44,
   "meanings": [
-   "how?",
-   "what?",
-   "why?"
+   "how",
+   "why"
+  ],
+  "meanings_ja": [
+   "どうやって",
+   "どうして"
   ],
   "pos": [
    "r"
@@ -1094,9 +1244,11 @@
   "unit": 7,
   "order": 720.45,
   "meanings": [
-   "to love; to be fond of; to like",
-   "affection",
-   "to be inclined (to do sth); to tend to (happen)"
+   "to love"
+  ],
+  "meanings_ja": [
+   "愛する",
+   "大好きだ"
   ],
   "pos": [
    "v",
@@ -1119,9 +1271,11 @@
   "unit": 7,
   "order": 720.46,
   "meanings": [
-   "to like; to be fond of",
-   "to be happy; to be pleased",
-   "to tend to"
+   "to like"
+  ],
+  "meanings_ja": [
+   "好きだ",
+   "好む"
   ],
   "pos": [
    "v",
@@ -1144,10 +1298,10 @@
   "unit": 7,
   "order": 720.47,
   "meanings": [
-   "to eat; to consume",
-   "to eat at (a cafeteria etc)",
-   "to eradicate; to destroy",
-   "to absorb"
+   "to eat"
+  ],
+  "meanings_ja": [
+   "食べる"
   ],
   "pos": [
    "v"
@@ -1170,6 +1324,9 @@
   "meanings": [
    "who"
   ],
+  "meanings_ja": [
+   "誰"
+  ],
   "pos": [
    "r"
   ],
@@ -1189,9 +1346,12 @@
   "unit": 5,
   "order": 520.49,
   "meanings": [
-   "today",
-   "the present time; now"
+   "today"
   ],
+  "meanings_ja": [
+   "今日"
+  ],
+  "note_ja": "「天」は「日」の意味。明天（明日）、昨天（昨日）も同じ。",
   "pos": [
    "t"
   ],
@@ -1212,9 +1372,12 @@
   "unit": 5,
   "order": 520.5,
   "meanings": [
-   "moon",
    "month",
-   "monthly"
+   "moon"
+  ],
+  "meanings_ja": [
+   "月（〜月）",
+   "月（天体）"
   ],
   "pos": [
    "n",
@@ -1236,8 +1399,13 @@
   "unit": 3,
   "order": 320.51,
   "meanings": [
-   "how many; how much",
-   "several; a few"
+   "how many (small number)",
+   "a few"
+  ],
+  "meanings_ja": [
+   "いくつ（10以下）",
+   "何〜",
+   "いくつかの"
   ],
   "pos": [
    "m",
@@ -1259,10 +1427,12 @@
   "unit": 6,
   "order": 620.52,
   "meanings": [
-   "to listen to; to hear",
-   "to heed; to obey",
-   "a can (loanword from English \"tin\")",
-   "classifier for canned beverages"
+   "to listen",
+   "to hear"
+  ],
+  "meanings_ja": [
+   "聞く",
+   "聴く"
   ],
   "pos": [
    "v"
@@ -1283,10 +1453,14 @@
   "unit": 10,
   "order": 1020.53,
   "meanings": [
-   "to open (transitive or intransitive)",
-   "(of ships, vehicles, troops etc) to start",
-   "to turn on; to put in operation; to operate; to run",
-   "to boil"
+   "to open",
+   "to turn on",
+   "to drive"
+  ],
+  "meanings_ja": [
+   "開ける",
+   "（スイッチを）つける",
+   "運転する"
   ],
   "pos": [
    "v",
@@ -1308,11 +1482,16 @@
   "unit": 2,
   "order": 220.54,
   "meanings": [
-   "to shout",
+   "to be called (named)",
    "to call",
-   "to order",
-   "to ask"
+   "to shout"
   ],
+  "meanings_ja": [
+   "〜という名前だ",
+   "呼ぶ",
+   "叫ぶ"
+  ],
+  "note_ja": "「叫ぶ」だけでなく、我叫〜 で「私は〜といいます」と名前を言うときに使う。",
   "pos": [
    "v",
    "p",
@@ -1334,10 +1513,14 @@
   "unit": 8,
   "order": 820.55,
   "meanings": [
-   "to ask",
+   "please",
    "to invite",
-   "please (do sth)",
-   "to treat (to a meal etc)"
+   "to treat (to a meal)"
+  ],
+  "meanings_ja": [
+   "どうぞ〜してください",
+   "招待する",
+   "おごる"
   ],
   "pos": [
    "v"
@@ -1358,9 +1541,10 @@
   "unit": 8,
   "order": 820.56,
   "meanings": [
-   "coin",
-   "money",
-   "unit of weight, one tenth of a tael 两"
+   "money"
+  ],
+  "meanings_ja": [
+   "お金"
   ],
   "pos": [
    "n",
@@ -1382,10 +1566,12 @@
   "unit": 8,
   "order": 820.57,
   "meanings": [
-   "originally; initially",
-   "capital; principal",
-   "classifier for books, periodicals, files etc"
+   "(measure word for books)"
   ],
+  "meanings_ja": [
+   "〜冊（本を数える量詞）"
+  ],
+  "note_ja": "単独で「本（書籍）」の意味にはならない。書籍は 书、本 は「〜冊」と数える量詞。",
   "pos": [
    "r",
    "q",
@@ -1408,11 +1594,14 @@
   "unit": 6,
   "order": 620.58,
   "meanings": [
-   "to go back; to return; to turn back; to turn around",
-   "to reply; to answer",
-   "classifier for literary divisions (acts of a play, sections or chapters of a classic book)",
-   "classifier for occurrences or times"
+   "to return",
+   "to go back"
   ],
+  "meanings_ja": [
+   "帰る",
+   "戻る"
+  ],
+  "note_ja": "「回る」ではなく「帰る・戻る」。回家 = 家に帰る。",
   "pos": [
    "v",
    "qv"
@@ -1434,9 +1623,13 @@
   "order": 820.59,
   "meanings": [
    "thing",
-   "stuff",
-   "person"
+   "stuff"
   ],
+  "meanings_ja": [
+   "物",
+   "品物"
+  ],
+  "note_ja": "方角の「東西」ではなく「物・品物」。買い物 = 买东西。",
   "pos": [
    "n",
    "f",
@@ -1459,7 +1652,10 @@
   "unit": 3,
   "order": 320,
   "meanings": [
-   "three",
+   "three"
+  ],
+  "meanings_ja": [
+   "三",
    "3"
   ],
   "pos": [
@@ -1482,8 +1678,10 @@
   "unit": 8,
   "order": 820.01,
   "meanings": [
-   "to buy",
-   "to purchase"
+   "to buy"
+  ],
+  "meanings_ja": [
+   "買う"
   ],
   "pos": [
    "v"
@@ -1504,9 +1702,10 @@
   "unit": 3,
   "order": 320.02,
   "meanings": [
-   "classifier for years (of age)",
-   "year",
-   "year (of crop harvests)"
+   "years old"
+  ],
+  "meanings_ja": [
+   "〜歳"
   ],
   "pos": [
    "qt"
@@ -1529,6 +1728,10 @@
   "meanings": [
    "friend"
   ],
+  "meanings_ja": [
+   "友達",
+   "友人"
+  ],
   "pos": [
    "n"
   ],
@@ -1549,9 +1752,12 @@
   "unit": 12,
   "order": 1220.04,
   "meanings": [
-   "to live; to reside; to stay",
-   "to stop; to cease",
-   "(result complement indicating firmness or a stable achieved state)"
+   "to live (reside)",
+   "to stay"
+  ],
+  "meanings_ja": [
+   "住む",
+   "泊まる"
   ],
   "pos": [
    "v"
@@ -1572,10 +1778,10 @@
   "unit": 7,
   "order": 720.05,
   "meanings": [
-   "water",
-   "(after a name) ... River",
-   "to swim (used mostly in 会水 and 水性)",
-   "(coll.) lacking in substance; shoddy"
+   "water"
+  ],
+  "meanings_ja": [
+   "水"
   ],
   "pos": [
    "n"
@@ -1598,6 +1804,10 @@
   "meanings": [
    "to write"
   ],
+  "meanings_ja": [
+   "書く"
+  ],
+  "note_ja": "「写す」ではなく「書く」。写字 = 字を書く。",
   "pos": [
    "v"
   ],
@@ -1618,8 +1828,11 @@
   "order": 520.07,
   "meanings": [
    "day",
-   "day of the month",
-   "(vulgar) to fuck; to have sex with"
+   "date (of the month)"
+  ],
+  "meanings_ja": [
+   "日（〜日）",
+   "日"
   ],
   "pos": [
    "t",
@@ -1645,6 +1858,10 @@
   "meanings": [
    "to drink"
   ],
+  "meanings_ja": [
+   "飲む"
+  ],
+  "note_ja": "「一喝」の「喝（しかる）」ではなく「飲む」。",
   "pos": [
    "g",
    "vn"
@@ -1667,6 +1884,9 @@
   "meanings": [
    "school"
   ],
+  "meanings_ja": [
+   "学校"
+  ],
   "pos": [
    "n"
   ],
@@ -1688,9 +1908,11 @@
   "order": 1220.1,
   "meanings": [
    "to sit",
-   "to take a seat",
-   "to take (a bus, airplane etc)",
-   "to bear fruit"
+   "to take (a bus, plane)"
+  ],
+  "meanings_ja": [
+   "座る",
+   "（乗り物に）乗る"
   ],
   "pos": [
    "v"
@@ -1711,11 +1933,14 @@
   "unit": 10,
   "order": 1020.11,
   "meanings": [
-   "to know",
-   "to recognize",
-   "to be familiar with",
-   "to get acquainted with sb"
+   "to know (a person)",
+   "to recognize"
   ],
+  "meanings_ja": [
+   "知っている（面識がある）",
+   "（字などを）知っている"
+  ],
+  "note_ja": "「認識する」より軽く、人と「知り合いである・知り合う」や「字を知っている」の意味。",
   "pos": [
    "v",
    "n",
@@ -1740,6 +1965,10 @@
   "meanings": [
    "minute"
   ],
+  "meanings_ja": [
+   "〜分間",
+   "分"
+  ],
   "pos": [
    "qt"
   ],
@@ -1762,6 +1991,9 @@
   "meanings": [
    "tomorrow"
   ],
+  "meanings_ja": [
+   "明日"
+  ],
   "pos": [
    "t"
   ],
@@ -1782,7 +2014,10 @@
   "unit": 3,
   "order": 320.14,
   "meanings": [
-   "four",
+   "four"
+  ],
+  "meanings_ja": [
+   "四",
    "4"
   ],
   "pos": [
@@ -1805,9 +2040,12 @@
   "unit": 8,
   "order": 820.15,
   "meanings": [
-   "lump; chunk; piece",
-   "classifier for pieces of cloth, cake, soap etc",
-   "(coll.) classifier for money and currency units"
+   "yuan (spoken unit of money)",
+   "piece, lump"
+  ],
+  "meanings_ja": [
+   "元（お金の口語の単位）",
+   "塊・かけら"
   ],
   "pos": [
    "q",
@@ -1829,9 +2067,11 @@
   "unit": 8,
   "order": 820.16,
   "meanings": [
-   "to thank",
-   "thanks",
-   "thank you"
+   "thank you",
+   "thanks"
+  ],
+  "meanings_ja": [
+   "ありがとう"
   ],
   "pos": [
    "v"
@@ -1852,8 +2092,13 @@
   "unit": 3,
   "order": 320.17,
   "meanings": [
-   "how much?; how many?",
-   "(phone number, student ID etc) what number?"
+   "how many",
+   "how much"
+  ],
+  "meanings_ja": [
+   "いくつ",
+   "いくら",
+   "どれくらい"
   ],
   "pos": [
    "r"
@@ -1875,9 +2120,12 @@
   "unit": 4,
   "order": 420.18,
   "meanings": [
-   "mama",
-   "mommy",
+   "mom",
    "mother"
+  ],
+  "meanings_ja": [
+   "お母さん",
+   "ママ"
   ],
   "pos": [
    "n"
@@ -1899,9 +2147,10 @@
   "order": 320.19,
   "meanings": [
    "few",
-   "less",
-   "to lack",
-   "to be missing"
+   "little (amount)"
+  ],
+  "meanings_ja": [
+   "少ない"
   ],
   "pos": [
    "a",
@@ -1926,7 +2175,11 @@
   "unit": 9,
   "order": 920.2,
   "meanings": [
-   "movie; film"
+   "movie",
+   "film"
+  ],
+  "meanings_ja": [
+   "映画"
   ],
   "pos": [
    "n"
@@ -1939,16 +2192,22 @@
   "verified": true
  },
  {
-  "id": "vocab:hsk1:na5-哪",
+  "id": "vocab:hsk1:na3-哪",
   "zh": "哪",
   "trad": "哪",
-  "pinyin": "na",
-  "num": "na5",
+  "pinyin": "nǎ",
+  "num": "na3",
   "level": "hsk1",
   "unit": 5,
   "order": 520.21,
   "meanings": [
-   "(emphatic sentence-final particle, used instead of 啊 after a word ending in \"n\")"
+   "which",
+   "where (in 哪儿)"
+  ],
+  "meanings_ja": [
+   "どれ",
+   "どの",
+   "どこ（哪儿）"
   ],
   "pos": [
    "r",
@@ -1972,6 +2231,9 @@
   "meanings": [
    "yesterday"
   ],
+  "meanings_ja": [
+   "昨日"
+  ],
   "pos": [
    "t"
   ],
@@ -1992,11 +2254,13 @@
   "unit": 8,
   "order": 820.23,
   "meanings": [
-   "book",
-   "letter",
-   "document",
-   "to write"
+   "book"
   ],
+  "meanings_ja": [
+   "本",
+   "書籍"
+  ],
+  "note_ja": "「書く」ではなく「本（書籍）」。書くは 写。",
   "pos": [
    "n",
    "g"
@@ -2017,7 +2281,10 @@
   "unit": 3,
   "order": 320.24,
   "meanings": [
-   "five",
+   "five"
+  ],
+  "meanings_ja": [
+   "五",
    "5"
   ],
   "pos": [
@@ -2040,10 +2307,15 @@
   "unit": 10,
   "order": 1020.25,
   "meanings": [
-   "teacher",
-   "gentleman; sir; mister (Mr.)",
+   "Mr.",
+   "sir",
    "husband"
   ],
+  "meanings_ja": [
+   "〜さん（男性への敬称）",
+   "ご主人"
+  ],
+  "note_ja": "日本語の「先生」ではなく「〜さん」（男性への敬称）。教師は 老师。",
   "pos": [
    "n"
   ],
@@ -2066,6 +2338,10 @@
   "meanings": [
    "hospital"
   ],
+  "meanings_ja": [
+   "病院"
+  ],
+  "note_ja": "小さな診療所の「医院」ではなく、大きな総合病院も含めて「病院」全般を指す。",
   "pos": [
    "n"
   ],
@@ -2086,7 +2362,12 @@
   "unit": 8,
   "order": 820.27,
   "meanings": [
-   "classifier indicating a small amount or small number greater than 1: some, a few, several"
+   "some",
+   "a few"
+  ],
+  "meanings_ja": [
+   "いくつかの",
+   "少しの"
   ],
   "pos": [
    "q"
@@ -2109,6 +2390,9 @@
   "meanings": [
    "dog"
   ],
+  "meanings_ja": [
+   "犬"
+  ],
   "pos": [
    "n"
   ],
@@ -2129,8 +2413,14 @@
   "order": 120.29,
   "meanings": [
    "student",
-   "schoolchild"
+   "pupil"
   ],
+  "meanings_ja": [
+   "学生",
+   "生徒",
+   "児童"
+  ],
+  "note_ja": "小学生から大学生まで全部「学生」。生徒・児童の区別はない。",
   "pos": [
    "n"
   ],
@@ -2151,9 +2441,11 @@
   "unit": 3,
   "order": 320.3,
   "meanings": [
-   "two",
-   "2",
-   "(Beijing dialect) stupid"
+   "two"
+  ],
+  "meanings_ja": [
+   "二",
+   "2"
   ],
   "pos": [
    "m",
@@ -2177,6 +2469,9 @@
   "meanings": [
    "son"
   ],
+  "meanings_ja": [
+   "息子"
+  ],
   "pos": [
    "n"
   ],
@@ -2199,6 +2494,9 @@
   "meanings": [
    "China"
   ],
+  "meanings_ja": [
+   "中国"
+  ],
   "pos": [
    "ns"
   ],
@@ -2219,7 +2517,11 @@
   "unit": 9,
   "order": 920.33,
   "meanings": [
-   "television; TV"
+   "television",
+   "TV"
+  ],
+  "meanings_ja": [
+   "テレビ"
   ],
   "pos": [
    "n"
@@ -2241,8 +2543,10 @@
   "unit": 6,
   "order": 620.34,
   "meanings": [
-   "afternoon",
-   "p.m."
+   "afternoon"
+  ],
+  "meanings_ja": [
+   "午後"
   ],
   "pos": [
    "t"
@@ -2264,7 +2568,12 @@
   "unit": 9,
   "order": 920.35,
   "meanings": [
-   "to learn; to study"
+   "to study",
+   "to learn"
+  ],
+  "meanings_ja": [
+   "勉強する",
+   "学ぶ"
   ],
   "pos": [
    "v",
@@ -2289,6 +2598,10 @@
   "meanings": [
    "teacher"
   ],
+  "meanings_ja": [
+   "先生（教師）"
+  ],
+  "note_ja": "「老」は尊敬の接頭辞で、年齢とは関係ない。日本語の「先生」にあたる。",
   "pos": [
    "n"
   ],
@@ -2309,7 +2622,10 @@
   "unit": 3,
   "order": 320.37,
   "meanings": [
-   "six",
+   "six"
+  ],
+  "meanings_ja": [
+   "六",
    "6"
   ],
   "pos": [
@@ -2332,7 +2648,11 @@
   "unit": 12,
   "order": 1220.38,
   "meanings": [
-   "doctor; medical practitioner"
+   "doctor"
+  ],
+  "meanings_ja": [
+   "医者",
+   "医師"
   ],
   "pos": [
    "n"
@@ -2354,8 +2674,12 @@
   "unit": 2,
   "order": 220.39,
   "meanings": [
-   "name (of a person or thing)"
+   "name"
   ],
+  "meanings_ja": [
+   "名前"
+  ],
+  "note_ja": "日本語の「名字（苗字）」ではなく「名前」。フルネームも下の名前も指す。姓は 姓。",
   "pos": [
    "n"
   ],
@@ -2376,7 +2700,10 @@
   "unit": 3,
   "order": 320.4,
   "meanings": [
-   "ten",
+   "ten"
+  ],
+  "meanings_ja": [
+   "十",
    "10"
   ],
   "pos": [
@@ -2399,7 +2726,13 @@
   "unit": 10,
   "order": 1020.41,
   "meanings": [
-   "to see; to catch sight of"
+   "to see",
+   "to catch sight of"
+  ],
+  "meanings_ja": [
+   "見える",
+   "見かける",
+   "目にする"
   ],
   "pos": [
    "v"
@@ -2423,6 +2756,10 @@
   "meanings": [
    "daughter"
   ],
+  "meanings_ja": [
+   "娘"
+  ],
+  "note_ja": "「女の子・女児」ではなく「娘」（自分や他人の子ども）。",
   "pos": [
    "n"
   ],
@@ -2444,9 +2781,11 @@
   "order": 620.43,
   "meanings": [
    "to speak",
-   "to say",
-   "to talk",
-   "to gossip"
+   "to talk"
+  ],
+  "meanings_ja": [
+   "話す",
+   "しゃべる"
   ],
   "pos": [
    "v",
@@ -2469,7 +2808,12 @@
   "unit": 4,
   "order": 420.44,
   "meanings": [
-   "(coll.) father; dad"
+   "dad",
+   "father"
+  ],
+  "meanings_ja": [
+   "お父さん",
+   "パパ"
   ],
   "pos": [
    "n"
@@ -2490,10 +2834,12 @@
   "unit": 2,
   "order": 220.45,
   "meanings": [
-   "letter",
-   "symbol",
    "character",
-   "word"
+   "written word"
+  ],
+  "meanings_ja": [
+   "字",
+   "文字"
   ],
   "pos": [
    "n"
@@ -2514,7 +2860,12 @@
   "unit": 11,
   "order": 1120.46,
   "meanings": [
-   "pretty; beautiful"
+   "pretty",
+   "beautiful"
+  ],
+  "meanings_ja": [
+   "きれいだ",
+   "美しい"
   ],
   "pos": [
    "a"
@@ -2537,9 +2888,11 @@
   "order": 1120.47,
   "meanings": [
    "happy",
-   "glad",
-   "willing (to do sth)",
-   "in a cheerful mood"
+   "glad"
+  ],
+  "meanings_ja": [
+   "うれしい",
+   "楽しい"
   ],
   "pos": [
    "a",
@@ -2562,10 +2915,12 @@
   "unit": 11,
   "order": 1120.48,
   "meanings": [
-   "to warm up",
-   "to heat up",
-   "hot (of weather)",
-   "heat"
+   "hot (weather)",
+   "hot (to the touch)"
+  ],
+  "meanings_ja": [
+   "暑い",
+   "熱い"
   ],
   "pos": [
    "a",
@@ -2591,9 +2946,14 @@
   "unit": 10,
   "order": 1020.49,
   "meanings": [
-   "to go to bed",
-   "to sleep"
+   "to sleep",
+   "to go to bed"
   ],
+  "meanings_ja": [
+   "寝る",
+   "眠る"
+  ],
+  "note_ja": "「覚（目覚める）」ではなく「眠る」。睡觉 の 觉 は jiào と読み、「眠り」の意味。",
   "pos": [
    "v"
   ],
@@ -2616,6 +2976,11 @@
   "meanings": [
    "computer"
   ],
+  "meanings_ja": [
+   "パソコン",
+   "コンピューター"
+  ],
+  "note_ja": "「電脳（サイバー）」ではなく、日常の「パソコン」。",
   "pos": [
    "n"
   ],
@@ -2636,10 +3001,12 @@
   "unit": 9,
   "order": 920.51,
   "meanings": [
-   "to read out; to read aloud",
-   "to read",
-   "to attend (school); to study (a subject in school)",
-   "to pronounce"
+   "to read (aloud)",
+   "to study (at school)"
+  ],
+  "meanings_ja": [
+   "読む（音読する）",
+   "（学校で）学ぶ"
   ],
   "pos": [
    "v"
@@ -2661,6 +3028,10 @@
   "order": 1120.52,
   "meanings": [
    "cold"
+  ],
+  "meanings_ja": [
+   "寒い",
+   "冷たい"
   ],
   "pos": [
    "a",
@@ -2685,6 +3056,9 @@
   "meanings": [
    "airplane"
   ],
+  "meanings_ja": [
+   "飛行機"
+  ],
   "pos": [
    "n"
   ],
@@ -2705,8 +3079,10 @@
   "unit": 4,
   "order": 420.54,
   "meanings": [
-   "cat",
-   "(loanword) (coll.) modem"
+   "cat"
+  ],
+  "meanings_ja": [
+   "猫"
   ],
   "pos": [
    "n",
@@ -2728,8 +3104,12 @@
   "unit": 9,
   "order": 920.55,
   "meanings": [
-   "to make a telephone call"
+   "to make a phone call"
   ],
+  "meanings_ja": [
+   "電話をかける"
+  ],
+  "note_ja": "「打つ」ではなく、「電話をかける」の決まった言い方。",
   "pos": [
    "v"
   ],
@@ -2751,10 +3131,14 @@
   "unit": 10,
   "order": 1020.56,
   "meanings": [
-   "the back; the rear; the last bit",
-   "behind; near the end; at the back",
-   "later; afterwards"
+   "behind",
+   "the back"
   ],
+  "meanings_ja": [
+   "後ろ",
+   "後方"
+  ],
+  "note_ja": "「后」は「後」の簡体字（皇后の「后」ではない）。前面（前）の対。",
   "pos": [
    "f"
   ],
@@ -2775,8 +3159,12 @@
   "unit": 10,
   "order": 1020.57,
   "meanings": [
-   "hey",
-   "to feed (an animal, baby, invalid etc)"
+   "hello (on the phone)",
+   "hey"
+  ],
+  "meanings_ja": [
+   "もしもし",
+   "おい"
   ],
   "pos": [
    "v",
@@ -2800,6 +3188,10 @@
   "meanings": [
    "eight"
   ],
+  "meanings_ja": [
+   "八",
+   "8"
+  ],
   "pos": [
    "m",
    "t"
@@ -2820,10 +3212,12 @@
   "unit": 11,
   "order": 1120.59,
   "meanings": [
-   "how?",
-   "how about?",
-   "how was it?",
-   "how are things?"
+   "how about ...?",
+   "how is it?"
+  ],
+  "meanings_ja": [
+   "どうですか",
+   "どんな様子"
   ],
   "pos": [
    "r"
@@ -2846,7 +3240,10 @@
   "unit": 3,
   "order": 320,
   "meanings": [
-   "seven",
+   "seven"
+  ],
+  "meanings_ja": [
+   "七",
    "7"
   ],
   "pos": [
@@ -2869,11 +3266,15 @@
   "unit": 7,
   "order": 720.01,
   "meanings": [
-   "vegetable; greens",
    "dish (of food)",
-   "(of one's skills etc) weak; poor",
-   "(coll.) (one's) type"
+   "vegetable"
   ],
+  "meanings_ja": [
+   "料理",
+   "おかず",
+   "野菜"
+  ],
+  "note_ja": "「野菜」だけでなく「料理・おかず」も指す。中国菜 = 中華料理。",
   "pos": [
    "n"
   ],
@@ -2895,6 +3296,10 @@
   "meanings": [
    "clothes"
   ],
+  "meanings_ja": [
+   "服",
+   "衣服"
+  ],
   "pos": [
    "n"
   ],
@@ -2915,10 +3320,14 @@
   "unit": 10,
   "order": 1020.03,
   "meanings": [
-   "young lady",
-   "miss",
-   "(slang) prostitute"
+   "Miss",
+   "young lady"
   ],
+  "meanings_ja": [
+   "〜さん（若い女性への敬称）",
+   "お嬢さん"
+  ],
+  "note_ja": "姓 + 小姐 で「〜さん」。ただし単独で呼びかけると水商売の女性を指すこともあるので注意。",
   "pos": [
    "n"
   ],
@@ -2939,8 +3348,12 @@
   "unit": 11,
   "order": 1120.04,
   "meanings": [
-   "I'm sorry; excuse me; I beg your pardon",
-   "to let (sb) down; to disappoint"
+   "sorry",
+   "excuse me"
+  ],
+  "meanings_ja": [
+   "すみません",
+   "ごめんなさい"
   ],
   "pos": [
    "v"
@@ -2965,6 +3378,9 @@
   "meanings": [
    "weather"
   ],
+  "meanings_ja": [
+   "天気"
+  ],
   "pos": [
    "n"
   ],
@@ -2985,10 +3401,12 @@
   "unit": 10,
   "order": 1020.06,
   "meanings": [
-   "ahead",
    "in front",
-   "preceding",
-   "above"
+   "ahead"
+  ],
+  "meanings_ja": [
+   "前",
+   "前方"
   ],
   "pos": [
    "f"
@@ -3010,10 +3428,15 @@
   "unit": 4,
   "order": 420.07,
   "meanings": [
-   "to study at the same school",
-   "fellow student",
-   "classmate"
+   "classmate",
+   "fellow student"
   ],
+  "meanings_ja": [
+   "クラスメート",
+   "同級生",
+   "学友"
+  ],
+  "note_ja": "日本語の「同学」より広く、同じ学校の仲間や学生への呼びかけにも使う。",
   "pos": [
    "n"
   ],
@@ -3034,8 +3457,10 @@
   "unit": 7,
   "order": 720.08,
   "meanings": [
-   "tea",
-   "tea plant"
+   "tea"
+  ],
+  "meanings_ja": [
+   "お茶"
   ],
   "pos": [
    "n",
@@ -3058,9 +3483,13 @@
   "order": 520.09,
   "meanings": [
    "week",
-   "day of the week",
-   "Sunday"
+   "day of the week"
   ],
+  "meanings_ja": [
+   "週",
+   "曜日"
+  ],
+  "note_ja": "「星の周期」ではなく「週・曜日」。星期一 = 月曜日。",
   "pos": [
    "n"
   ],
@@ -3081,7 +3510,10 @@
   "unit": 3,
   "order": 320.1,
   "meanings": [
-   "nine",
+   "nine"
+  ],
+  "meanings_ja": [
+   "九",
    "9"
   ],
   "pos": [
@@ -3105,7 +3537,10 @@
   "unit": 6,
   "order": 620.11,
   "meanings": [
-   "morning"
+   "morning (before noon)"
+  ],
+  "meanings_ja": [
+   "午前"
   ],
   "pos": [
    "t"
@@ -3129,6 +3564,10 @@
   "meanings": [
    "goodbye"
   ],
+  "meanings_ja": [
+   "さようなら",
+   "また会いましょう"
+  ],
   "pos": [
    "v"
   ],
@@ -3151,6 +3590,9 @@
   "meanings": [
    "apple"
   ],
+  "meanings_ja": [
+   "りんご"
+  ],
   "pos": [
    "n"
   ],
@@ -3171,8 +3613,11 @@
   "unit": 6,
   "order": 620.14,
   "meanings": [
-   "noon",
-   "midday"
+   "noon"
+  ],
+  "meanings_ja": [
+   "正午",
+   "お昼"
   ],
   "pos": [
    "t"
@@ -3194,8 +3639,10 @@
   "unit": 12,
   "order": 1220.15,
   "meanings": [
-   "taxi",
-   "(Tw) rental car"
+   "taxi"
+  ],
+  "meanings_ja": [
+   "タクシー"
   ],
   "pos": [
    "n"
@@ -3220,6 +3667,9 @@
   "meanings": [
    "fruit"
   ],
+  "meanings_ja": [
+   "果物"
+  ],
   "pos": [
    "n"
   ],
@@ -3240,7 +3690,12 @@
   "unit": 8,
   "order": 820.17,
   "meanings": [
-   "store; shop"
+   "shop",
+   "store"
+  ],
+  "meanings_ja": [
+   "店",
+   "商店"
   ],
   "pos": [
    "n"
@@ -3262,8 +3717,14 @@
   "unit": 11,
   "order": 1120.18,
   "meanings": [
-   "it doesn't matter"
+   "it doesn't matter",
+   "never mind"
   ],
+  "meanings_ja": [
+   "大丈夫です",
+   "気にしないで"
+  ],
+  "note_ja": "「関係ない」ではなく、謝られたときの「大丈夫・気にしないで」。",
   "pos": [
    "v"
   ],
@@ -3285,10 +3746,11 @@
   "unit": 3,
   "order": 320.19,
   "meanings": [
-   "zero",
-   "nought",
-   "zero sign",
-   "fractional"
+   "zero"
+  ],
+  "meanings_ja": [
+   "零",
+   "0"
   ],
   "pos": [
    "m",
@@ -3314,6 +3776,10 @@
    "table",
    "desk"
   ],
+  "meanings_ja": [
+   "机",
+   "テーブル"
+  ],
   "pos": [
    "n"
   ],
@@ -3336,6 +3802,9 @@
   "meanings": [
    "chair"
   ],
+  "meanings_ja": [
+   "椅子"
+  ],
   "pos": [
    "n"
   ],
@@ -3356,7 +3825,10 @@
   "unit": 12,
   "order": 1220.22,
   "meanings": [
-   "Beijing municipality, capital of the People's Republic of China (short name 京)"
+   "Beijing"
+  ],
+  "meanings_ja": [
+   "北京"
   ],
   "pos": [
    "ns"
@@ -3379,6 +3851,9 @@
   "order": 1120.23,
   "meanings": [
    "to rain"
+  ],
+  "meanings_ja": [
+   "雨が降る"
   ],
   "pos": [
    "v"
@@ -3403,6 +3878,10 @@
    "cup",
    "glass"
   ],
+  "meanings_ja": [
+   "コップ",
+   "カップ"
+  ],
   "pos": [
    "n"
   ],
@@ -3425,6 +3904,10 @@
   "meanings": [
    "train station"
   ],
+  "meanings_ja": [
+   "（鉄道の）駅"
+  ],
+  "note_ja": "火车 は蒸気機関車ではなく「列車」全般。火车站 = 駅。",
   "pos": [
    "n"
   ],
@@ -3446,7 +3929,10 @@
   "unit": 7,
   "order": 720.26,
   "meanings": [
-   "(cooked) rice"
+   "cooked rice"
+  ],
+  "meanings_ja": [
+   "ご飯（白米）"
   ],
   "pos": [
    "n"
@@ -3468,8 +3954,12 @@
   "unit": 8,
   "order": 820.27,
   "meanings": [
-   "Chinese language"
+   "Chinese (language)"
   ],
+  "meanings_ja": [
+   "中国語"
+  ],
+  "note_ja": "日本語の「漢語（漢字語彙）」ではなく「中国語」そのもの。",
   "pos": [
    "nz"
   ],
@@ -3492,6 +3982,10 @@
   "meanings": [
    "restaurant"
   ],
+  "meanings_ja": [
+   "レストラン",
+   "食堂"
+  ],
   "pos": [
    "n"
   ],
@@ -3513,9 +4007,10 @@
   "order": 1120.29,
   "meanings": [
    "you're welcome",
-   "don't mention it",
-   "impolite",
-   "rude"
+   "don't mention it"
+  ],
+  "meanings_ja": [
+   "どういたしまして"
   ],
   "pos": [
    "l"

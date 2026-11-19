@@ -34,6 +34,7 @@
   "快": { "en": ["fast; quick", "happy"], "ja": ["速い", "楽しい"] },
   "比": { "en": ["than", "to compare"], "ja": ["～より", "比べる"] },
   "所": { "en": ["place", "(particle forming noun phrases)"], "ja": ["所", "～するところ"] },
+  "向": { "en": ["toward; to", "to face", "direction"], "ja": ["～へ", "向かう", "方向"] },
   "希": { "en": ["to hope", "rare"], "ja": ["望む", "まれ"] },
   "望": { "en": ["to hope; to expect", "to gaze at"], "ja": ["望む", "眺める"] },
   "非": { "en": ["not; non-", "wrong"], "ja": ["～ではない", "非"] },

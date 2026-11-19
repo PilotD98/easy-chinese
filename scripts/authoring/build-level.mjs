@@ -31,9 +31,11 @@ const hskWords = readJ(path.join(CACHE, 'hsk-words.json'))[N];
 const cedict = readJ(path.join(CACHE, 'cedict.json'));
 const mmah = readJ(path.join(CACHE, 'mmah.json'));
 const strokes = readJ(path.join(ROOT, 'data/strokes', `${LEVEL}.json`));
-const jaVocab = optional(path.join(__dir, 'ja', `${LEVEL}-vocab.json`));
-const jaChars = optional(path.join(__dir, 'ja', `${LEVEL}-chars.json`));
-const mnemonics = optional(path.join(__dir, 'mnemonics', `${LEVEL}.json`));
+// Gloss files may be split into parts (hsk5-vocab-part1.json …); all parts are merged.
+const merged = (dir, prefix) => { const out = {}; const d = path.join(__dir, dir); if (!fs.existsSync(d)) return out; for (const f of fs.readdirSync(d).filter((n) => n.startsWith(prefix) && n.endsWith('.json')).sort()) Object.assign(out, readJ(path.join(d, f))); return out; };
+const jaVocab = merged('ja', `${LEVEL}-vocab`);
+const jaChars = merged('ja', `${LEVEL}-chars`);
+const mnemonics = merged('mnemonics', LEVEL);
 const overrides = optional(path.join(__dir, 'overrides', `${LEVEL}.json`));
 const unitsSrc = await src('units-src.mjs');
 const grammarSrc = await src('grammar-src.mjs');

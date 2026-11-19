@@ -17,7 +17,7 @@
   "levels": [
     { "id": "orientation", "title": "How Chinese works", "files": { "orientation": "orientation.json" } },
     { "id": "speaking", "title": "Speaking practice", "files": { "speaking": "speaking.json" } },
-    { "id": "situations", "title": "Real-world speaking", "files": {} },
+    { "id": "situations", "title": "Real-world speaking", "files": { "speaking": "situations.json" } },
     { "id": "guides", "title": "Real-world Chinese", "files": { "guides": "guides.json" } },
     { "id": "pinyin", "title": "Pinyin and tones", "files": { "pinyin": "pinyin.json" } },
     { "id": "hsk1", "title": "HSK 1", "targets": { "hanzi": 178, "vocab": 150, "grammar": 40 }, "files": { "chars": "hsk1/chars.json", "vocab": "hsk1/vocab.json", "grammar": "hsk1/grammar.json", "readings": "hsk1/readings.json", "listening": "hsk1/listening.json", "units": "hsk1/units.json" } },

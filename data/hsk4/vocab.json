@@ -226,11 +226,11 @@
   "verified": true
  },
  {
-  "id": "vocab:hsk4:qi5lai5-起来",
+  "id": "vocab:hsk4:qi3lai2-起来",
   "zh": "起来",
   "trad": "起來",
-  "pinyin": "qi lai",
-  "num": "qi5 lai5",
+  "pinyin": "qǐ lái",
+  "num": "qi3 lai2",
   "level": "hsk4",
   "unit": 1,
   "order": 120.08,
@@ -2212,11 +2212,11 @@
   "verified": true
  },
  {
-  "id": "vocab:hsk4:gang1gang5-刚刚",
+  "id": "vocab:hsk4:gang1gang1-刚刚",
   "zh": "刚刚",
   "trad": "剛剛",
-  "pinyin": "gāng gang",
-  "num": "gang1 gang5",
+  "pinyin": "gāng gāng",
+  "num": "gang1 gang1",
   "level": "hsk4",
   "unit": 5,
   "order": 520.21,
@@ -11805,11 +11805,11 @@
   "verified": true
  },
  {
-  "id": "vocab:hsk4:shou4bu4liao3-受不了",
+  "id": "vocab:hsk4:shou4bu5liao3-受不了",
   "zh": "受不了",
   "trad": "受不了",
-  "pinyin": "shòu bù liǎo",
-  "num": "shou4 bu4 liao3",
+  "pinyin": "shòu bu liǎo",
+  "num": "shou4 bu5 liao3",
   "level": "hsk4",
   "unit": 2,
   "order": 220.18,
@@ -13935,11 +13935,11 @@
   "verified": true
  },
  {
-  "id": "vocab:hsk4:da4fu1-大夫",
+  "id": "vocab:hsk4:dai4fu5-大夫",
   "zh": "大夫",
   "trad": "大夫",
-  "pinyin": "dà fū",
-  "num": "da4 fu1",
+  "pinyin": "dài fu",
+  "num": "dai4 fu5",
   "level": "hsk4",
   "unit": 27,
   "order": 2720.38,
@@ -15047,11 +15047,11 @@
   "verified": true
  },
  {
-  "id": "vocab:hsk4:zuo4sheng1yi4-做生意",
+  "id": "vocab:hsk4:zuo4sheng1yi5-做生意",
   "zh": "做生意",
   "trad": "做生意",
-  "pinyin": "zuò shēng yì",
-  "num": "zuo4 sheng1 yi4",
+  "pinyin": "zuò shēng yi",
+  "num": "zuo4 sheng1 yi5",
   "level": "hsk4",
   "unit": 30,
   "order": 3020.2,

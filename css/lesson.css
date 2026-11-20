@@ -6,8 +6,8 @@
 /* Stroke diagrams */
 .stroke-svg { max-width: 100%; height: auto; background: var(--surface-2); border-radius: var(--radius-sm); }
 .stroke-guide { stroke: var(--border); stroke-width: 1; stroke-dasharray: 3 3; fill: none; }
-.stroke-ghost path { fill: none; stroke: var(--text-3); stroke-opacity: .25; stroke-width: 4; stroke-linecap: round; stroke-linejoin: round; }
-.stroke-live path { fill: none; stroke: var(--text); stroke-width: 5; stroke-linecap: round; stroke-linejoin: round; }
+
+
 .stroke-numbers text { font-size: 9px; fill: var(--accent); font-family: var(--font-ui); font-weight: 600; }
 .stroke-row { display: flex; gap: var(--s-2); flex-wrap: wrap; }
 
@@ -114,9 +114,9 @@ button.kw-l2.is-revealed .kw-tip, button.kw-l2:hover .kw-tip { opacity: 1; }
 
 /* Hanzi stroke diagrams (filled outlines, animated medians) */
 .stroke-ghost path { fill: var(--text-3); fill-opacity: .18; stroke: none; }
-.stroke-line { fill: none; stroke: var(--text); stroke-width: 200; stroke-linecap: round; stroke-linejoin: round; }
+.stroke-live .stroke-line { fill: none; stroke: var(--text); stroke-width: 200; stroke-linecap: round; stroke-linejoin: round; }
 .stroke-svg.is-static .stroke-ghost path { fill-opacity: 0; }
-.stroke-svg.is-static .stroke-line { stroke-width: 260; }
+.stroke-svg.is-static .stroke-live .stroke-line { stroke-width: 260; }
 .stroke-numbers text { font-size: 64px; fill: var(--accent); font-family: var(--font-ui); font-weight: 600; }
 .stroke-guide { stroke: var(--border); stroke-width: 6; stroke-dasharray: 24 24; fill: none; }
 

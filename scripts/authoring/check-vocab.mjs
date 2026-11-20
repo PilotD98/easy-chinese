@@ -19,8 +19,13 @@ const words = hsk[N];
 
 // Readings the HSK list intends, where CC-CEDICT's first entry is a surname, a rare reading or a variant.
 const OVERRIDES = JSON.parse(fs.existsSync(path.join(__dir, 'pinyin-overrides.json')) ? fs.readFileSync(path.join(__dir, 'pinyin-overrides.json'), 'utf8') : '{}');
+// Corrections from the accuracy review pass (review/<level>-pinyin.json: { zh: { num, why }, _glosses: { zh: gloss } }).
+const REVIEW = fs.existsSync(path.join(__dir, 'review', `${LEVEL}-pinyin.json`)) ? JSON.parse(fs.readFileSync(path.join(__dir, 'review', `${LEVEL}-pinyin.json`), 'utf8')) : {};
+for (const [zh, v] of Object.entries(REVIEW)) if (zh !== '_glosses' && v?.num) OVERRIDES[zh] = v.num;
+const REVIEW_GLOSSES = REVIEW._glosses || {};
 
-const norm = (num) => syllables(num).map((s) => s.base + (s.tone || 5)).join(' ');
+const erhua = (num) => String(num || '').replace(/ r5/g, 'r').replace(/ r/g, 'r');
+const norm = (num) => syllables(erhua(num)).map((s) => s.base + (s.tone || 5)).join(' ');
 const isProper = (e) => /^[A-Z]/.test(e.num) || e.glosses.every((g) => /^(surname|variant of|old variant|see |abbr\.|\(archaic\)|CL:)/i.test(g));
 const cleanGloss = (g) => g.replace(/\s*\(CL:[^)]*\)/g, '').replace(/^CL:.*$/, '').replace(/\s*\[[^\]]*\]/g, '').replace(/[\p{Script=Han}]+\|([\p{Script=Han}]+)/gu, '$1').replace(/\s*\((Taiwan|colloquial|coll\.|also|literary|old) pr\.?[^)]*\)/g, '').replace(/^also pr\.?.*$/, '').replace(/\s+/g, ' ').trim();
 
@@ -43,8 +48,10 @@ for (const w of words) {
   const listNum = norm(form.num);
   if (listNum !== num) mismatched.push(`${w.zh}: list ${form.num} vs cedict ${best.num}`);
   if (isProper(best)) proper++;
-  const glosses = best.glosses.map(cleanGloss).filter((g) => g && !/^(see |variant of|old variant)/.test(g));
-  out[w.zh] = { found: true, pinyin: toMarked(num), num, trad: best.trad, glosses: glosses.length ? glosses : form.meanings.map(cleanGloss), listGlosses: form.meanings, pos: w.pos, freq: w.freq };
+  let glosses = best.glosses.map(cleanGloss).filter((g) => g && !/^(see |variant of|old variant)/.test(g));
+  if (REVIEW_GLOSSES[w.zh]) glosses = [REVIEW_GLOSSES[w.zh], ...glosses.filter((g) => g !== REVIEW_GLOSSES[w.zh])];
+  const finalNum = want && OVERRIDES[w.zh] ? norm(OVERRIDES[w.zh]) : num;
+  out[w.zh] = { found: true, pinyin: toMarked(finalNum), num: finalNum, trad: best.trad, glosses: glosses.length ? glosses : form.meanings.map(cleanGloss), listGlosses: form.meanings, pos: w.pos, freq: w.freq };
   found++;
 }
 fs.mkdirSync(CACHE, { recursive: true });

@@ -806,11 +806,11 @@
   "verified": true
  },
  {
-  "id": "vocab:hsk3:di4fang1-地方",
+  "id": "vocab:hsk3:di4fang5-地方",
   "zh": "地方",
   "trad": "地方",
-  "pinyin": "dì fāng",
-  "num": "di4 fang1",
+  "pinyin": "dì fang",
+  "num": "di4 fang5",
   "level": "hsk3",
   "unit": 2,
   "order": 220.29,
@@ -5475,11 +5475,11 @@
   "verified": true
  },
  {
-  "id": "vocab:hsk3:yi1hui4r55-一会儿",
+  "id": "vocab:hsk3:yi1huir4-一会儿",
   "zh": "一会儿",
   "trad": "一會兒",
-  "pinyin": "yī huì r 5",
-  "num": "yi1 hui4 r5 5",
+  "pinyin": "yī huìr",
+  "num": "yi1 huir4",
   "level": "hsk3",
   "unit": 13,
   "order": 1320.2,
@@ -5659,11 +5659,11 @@
   "verified": true
  },
  {
-  "id": "vocab:hsk3:jue2-角",
+  "id": "vocab:hsk3:jiao3-角",
   "zh": "角",
   "trad": "角",
-  "pinyin": "jué",
-  "num": "jue2",
+  "pinyin": "jiǎo",
+  "num": "jiao3",
   "level": "hsk3",
   "unit": 13,
   "order": 1320.27,
@@ -5690,11 +5690,11 @@
   "verified": true
  },
  {
-  "id": "vocab:hsk3:pan2-胖",
+  "id": "vocab:hsk3:pang4-胖",
   "zh": "胖",
   "trad": "胖",
-  "pinyin": "pán",
-  "num": "pan2",
+  "pinyin": "pàng",
+  "num": "pang4",
   "level": "hsk3",
   "unit": 13,
   "order": 1320.28,

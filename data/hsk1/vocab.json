@@ -1262,11 +1262,11 @@
   "verified": true
  },
  {
-  "id": "vocab:hsk1:xi3huan5-喜欢",
+  "id": "vocab:hsk1:xi3huan1-喜欢",
   "zh": "喜欢",
   "trad": "喜歡",
-  "pinyin": "xǐ huan",
-  "num": "xi3 huan5",
+  "pinyin": "xǐ huān",
+  "num": "xi3 huan1",
   "level": "hsk1",
   "unit": 7,
   "order": 720.46,

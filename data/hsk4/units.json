@@ -31,7 +31,7 @@
    "vocab:hsk4:dang1-当",
    "vocab:hsk4:zhi1-之",
    "vocab:hsk4:yi3-以",
-   "vocab:hsk4:qi5lai5-起来",
+   "vocab:hsk4:qi3lai2-起来",
    "vocab:hsk4:si3-死",
    "vocab:hsk4:que4-却",
    "vocab:hsk4:sheng1huo2-生活",
@@ -112,7 +112,7 @@
    "vocab:hsk4:shou4dao4-受到",
    "vocab:hsk4:zhi4shao3-至少",
    "vocab:hsk4:nan2shou4-难受",
-   "vocab:hsk4:shou4bu4liao3-受不了"
+   "vocab:hsk4:shou4bu5liao3-受不了"
   ],
   "grammar": [
    "gram:hsk4:bei-passive",
@@ -259,7 +259,7 @@
    "hanzi:谈"
   ],
   "vocab": [
-   "vocab:hsk4:gang1gang5-刚刚",
+   "vocab:hsk4:gang1gang1-刚刚",
    "vocab:hsk4:zheng4chang2-正常",
    "vocab:hsk4:hao3xiang4-好像",
    "vocab:hsk4:gan3xie4-感谢",
@@ -1410,7 +1410,7 @@
    "vocab:hsk4:jia1ban1-加班",
    "vocab:hsk4:shun4xu4-顺序",
    "vocab:hsk4:lan3-懒",
-   "vocab:hsk4:da4fu1-大夫",
+   "vocab:hsk4:dai4fu5-大夫",
    "vocab:hsk4:zhun3shi2-准时",
    "vocab:hsk4:he2zi5-盒子",
    "vocab:hsk4:li3mao4-礼貌",
@@ -1549,7 +1549,7 @@
   ],
   "vocab": [
    "vocab:hsk4:chang2cheng2-长城",
-   "vocab:hsk4:zuo4sheng1yi4-做生意",
+   "vocab:hsk4:zuo4sheng1yi5-做生意",
    "vocab:hsk4:qing3ke4-请客",
    "vocab:hsk4:xi3yi1ji1-洗衣机",
    "vocab:hsk4:ge4zi5-个子",

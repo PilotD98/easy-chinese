@@ -366,7 +366,7 @@
   "hint": "earth",
   "examples": [
    "vocab:hsk3:de5-地",
-   "vocab:hsk3:di4fang1-地方"
+   "vocab:hsk3:di4fang5-地方"
   ]
  },
  {
@@ -987,10 +987,12 @@
   "unit": 2,
   "order": 214,
   "pinyin": [
-   "fāng"
+   "fāng",
+   "fang"
   ],
   "num": [
-   "fang1"
+   "fang1",
+   "fang5"
   ],
   "meanings": [
    "direction; side",
@@ -1010,7 +1012,7 @@
   "mnemonic": "A lid 亠 on a square box points in each direction: 方 means 'square, direction, method'.",
   "mnemonic_ja": "ふた 亠 のついた四角い箱が各方向を指す。方＝四角、方向、方法。",
   "examples": [
-   "vocab:hsk3:di4fang1-地方",
+   "vocab:hsk3:di4fang5-地方",
    "vocab:hsk3:fang1bian4-方便",
    "vocab:hsk3:bei3fang1-北方"
   ]
@@ -6150,10 +6152,10 @@
   "unit": 13,
   "order": 1303,
   "pinyin": [
-   "jué"
+   "jiǎo"
   ],
   "num": [
-   "jue2"
+   "jiao3"
   ],
   "meanings": [
    "corner; angle",
@@ -6175,7 +6177,7 @@
   "mnemonic_ja": "筋の入った動物のつの、とがった角。角＝つの、角。",
   "hint": "A rhinoceros or other animal horn",
   "examples": [
-   "vocab:hsk3:jue2-角"
+   "vocab:hsk3:jiao3-角"
   ]
  },
  {
@@ -6186,10 +6188,10 @@
   "unit": 13,
   "order": 1304,
   "pinyin": [
-   "pán"
+   "pàng"
   ],
   "num": [
-   "pan2"
+   "pang4"
   ],
   "meanings": [
    "fat; plump"
@@ -6207,7 +6209,7 @@
   "mnemonic_ja": "牛の半分 半 ほどの肉 ⺼ がついている。胖＝太っている。",
   "hint": "flesh",
   "examples": [
-   "vocab:hsk3:pan2-胖"
+   "vocab:hsk3:pang4-胖"
   ]
  },
  {

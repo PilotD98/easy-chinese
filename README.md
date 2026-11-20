@@ -25,7 +25,8 @@ analytics; all progress stays on the device.
   12-question check (listening, tone discrimination, typed pinyin, meanings)
   and the stage closes with a 40-question exam that unlocks HSK 1.
 - **HSK 1–6**: the HSK 2.0 word lists (150 / 300 / 600 / 1,200 / 2,500 / 5,000
-  words cumulative, 2,632 characters). Every level is taught in units: a
+  words cumulative, 2,632 characters) in 173 units with 293 grammar points,
+  44 readings and 34 listening drills. Every level is taught in units: a
   handful of characters (stroke order animated from hanzi-writer / Make Me a
   Hanzi data, radical and components, mnemonic, trace-it pad), the words that
   use them, grammar points with examples and exercises (fill, choose, order,

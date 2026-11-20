@@ -1,0 +1,13 @@
+{
+  "哦": { "num": "o4", "why": "interjection 'oh, I see' is ò (ó = surprise); bare neutral 'o' is not the standard reading" },
+  "铺": { "num": "pu1", "why": "verb 'to spread out' is pū; pù is the noun 'shop'" },
+  "哄": { "num": "hong3", "why": "HSK sense is 'to coax; to humor (a child)' = hǒng; hōng is only 'roar with laughter'" },
+  "淋": { "num": "lin2", "why": "'to pour over / get drenched' (淋雨, 淋浴) is lín; lìn is only 淋病/过滤" },
+  "款式": { "num": "kuan3 shi4", "why": "式 keeps full 4th tone (现汉: kuǎnshì)" },
+  "甭": { "num": "beng2", "why": "甭 is béng (2nd tone), not bèng" },
+  "熨": { "num": "yun4", "why": "'to iron clothes' (熨衣服, 熨斗) is yùn; yù only in 熨帖" },
+  "出息": { "num": "chu1 xi5", "why": "息 is neutral tone in 出息 (现汉: chū·xi)" },
+  "_glosses": {
+    "哄": "to coax; to humor (a child)"
+  }
+}

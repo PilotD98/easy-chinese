@@ -728,7 +728,7 @@
   "mnemonic_ja": "口 から矢 矢 のように言葉が的を射る。知＝「知る」。",
   "hint": "mouth",
   "examples": [
-   "vocab:hsk2:zhi1dao4-知道"
+   "vocab:hsk2:zhi1dao5-知道"
   ]
  },
  {
@@ -739,10 +739,10 @@
   "unit": 2,
   "order": 210,
   "pinyin": [
-   "dào"
+   "dao"
   ],
   "num": [
-   "dao4"
+   "dao5"
   ],
   "meanings": [
    "road; way",
@@ -762,7 +762,7 @@
   "mnemonic_ja": "首 が先頭に立って歩く 辶 道。道＝「道」。",
   "hint": "walk",
   "examples": [
-   "vocab:hsk2:zhi1dao4-知道"
+   "vocab:hsk2:zhi1dao5-知道"
   ]
  },
  {

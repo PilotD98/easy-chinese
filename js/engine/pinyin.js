@@ -23,11 +23,12 @@ const AFTER_RETRO = new Set(['i', 'a', 'e', 'ai', 'ei', 'ao', 'ou', 'an', 'en', 
 
 /** Numbered syllable ("ni3", "nv3", "lu:4", "ma", "ma5") -> tone-marked ("nǐ", "nǚ", "lǜ", "ma"). */
 export function numberedToMarked(syl) {
-  const m = /^([A-Za-zü:]+?)([0-5])?$/.exec(syl.trim());
+  const m = /^([A-Za-zü:]+?)([0-5])?(r)?$/.exec(syl.trim());
   if (!m) return syl;
   const base = m[1].replace(/u:/g, 'ü').replace(/v/g, 'ü').replace(/V/g, 'Ü');
   const tone = Number(m[2] || 0);
-  if (!tone || tone === 5) return base;
+  const er = m[3] || '';
+  if (!tone || tone === 5) return base + er;
   const lower = base.toLowerCase();
   let idx = -1;
   if (lower.includes('a')) idx = lower.indexOf('a');
@@ -37,7 +38,7 @@ export function numberedToMarked(syl) {
   if (idx < 0) return base;
   const ch = base[idx];
   const marked = MARKS[ch]?.[tone - 1];
-  return marked ? base.slice(0, idx) + marked + base.slice(idx + 1) : base;
+  return (marked ? base.slice(0, idx) + marked + base.slice(idx + 1) : base) + er;
 }
 
 /** Tone-marked syllable -> { base (plain letters, ü kept), tone (0–4) }. */
@@ -54,7 +55,7 @@ export function markedToNumbered(syl) {
 
 /** Whole string, numbered -> marked: "ni3 hao3" -> "nǐ hǎo". Keeps spaces and punctuation. */
 export function toMarked(s) {
-  return String(s || '').replace(/[A-Za-zü:]+[0-5]?/g, (w) => numberedToMarked(w));
+  return String(s || '').replace(/[A-Za-zü:]+[0-5]?r?/g, (w) => numberedToMarked(w));
 }
 
 /** Whole string, marked -> numbered: "nǐ hǎo" -> "ni3 hao3"; neutral tone gets 5. */

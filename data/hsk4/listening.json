@@ -1,1 +1,524 @@
-[]
+[
+ {
+  "id": "listen:hsk4:001",
+  "level": "hsk4",
+  "unit": 2,
+  "order": 295,
+  "type": "dictation",
+  "title": "Dictation: plans and news",
+  "title_ja": "書き取り：計画とニュース",
+  "items": [
+   {
+    "text": "我们的计划已经全部完成了。",
+    "pinyin": "wǒ men de jì huà yǐ jīng quán bù wán chéng le.",
+    "en": "Our plan has been completely carried out.",
+    "ja": "私たちの計画はすべて完了しました。"
+   },
+   {
+    "text": "你听到这个消息了吗？",
+    "pinyin": "nǐ tīng dào zhè ge xiāo xi le ma?",
+    "en": "Have you heard this news?",
+    "ja": "この知らせを聞きましたか。"
+   },
+   {
+    "text": "由于下雨，活动不能继续进行。",
+    "pinyin": "yóu yú xià yǔ, huó dòng bù néng jì xù jìn xíng.",
+    "en": "Because of the rain, the event cannot go on.",
+    "ja": "雨のため、イベントは続けられません。"
+   },
+   {
+    "text": "他甚至连饭都没吃就走了。",
+    "pinyin": "tā shèn zhì lián fàn dōu méi chī jiù zǒu le.",
+    "en": "He left without even eating.",
+    "ja": "彼はご飯さえ食べずに行ってしまいました。"
+   },
+   {
+    "text": "这里很安全，你不用担心。",
+    "pinyin": "zhè lǐ hěn ān quán, nǐ bù yòng dān xīn.",
+    "en": "It is safe here; no need to worry.",
+    "ja": "ここは安全ですから、心配いりません。"
+   }
+  ]
+ },
+ {
+  "id": "listen:hsk4:002",
+  "level": "hsk4",
+  "unit": 6,
+  "order": 695,
+  "type": "comprehension",
+  "title": "Listening: a busy father",
+  "title_ja": "聞き取り：忙しい父",
+  "items": [
+   {
+    "text": "我父亲是一名记者，工作压力很大，经常晚上十点才回家。即使这么忙，他也从来不忘记我的生日。今年我生日那天，他安排好工作，早早地回家，给我做了一个蛋糕。我觉得自己很幸福。",
+    "pinyin": "wǒ fù qīn shì yī míng jì zhě, gōng zuò yā lì hěn dà, jīng cháng wǎn shang shí diǎn cái huí jiā. jí shǐ zhè me máng, tā yě cóng lái bù wàng jì wǒ de shēng rì. jīn nián wǒ shēng rì nà tiān, tā ān pái hǎo gōng zuò, zǎo zǎo de huí jiā, gěi wǒ zuò le yī ge dàn gāo. wǒ jué de zì jǐ hěn xìng fú.",
+    "en": "My father is a journalist. His work is stressful and he often does not get home until ten at night. Even so busy, he never forgets my birthday. On my birthday this year he arranged his work, came home early and made me a cake. I feel very lucky.",
+    "ja": "父は記者で、仕事のプレッシャーが大きく、よく夜10時にやっと帰宅します。そんなに忙しくても、私の誕生日を忘れたことはありません。今年の誕生日には仕事を調整して早めに帰り、ケーキを作ってくれました。私はとても幸せだと思います。",
+    "questions": [
+     {
+      "q": "父亲是做什么工作的？",
+      "choices": [
+       "老师",
+       "记者",
+       "医生"
+      ],
+      "answer": 1,
+      "why": "我父亲是一名记者.",
+      "why_ja": "「我父亲是一名记者」とあります。"
+     },
+     {
+      "q": "父亲经常几点回家？",
+      "choices": [
+       "晚上八点",
+       "晚上十点",
+       "下午五点"
+      ],
+      "answer": 1,
+      "why": "经常晚上十点才回家.",
+      "why_ja": "「经常晚上十点才回家」とあります。"
+     }
+    ]
+   },
+   {
+    "text": "小李，明天的会议安排好了吗？首先请你把房间准备好，其次要通知所有人，最后别忘了准备好要用的东西。有问题就给我打电话。",
+    "pinyin": "xiǎo lǐ, míng tiān de huì yì ān pái hǎo le ma? shǒu xiān qǐng nǐ bǎ fáng jiān zhǔn bèi hǎo, qí cì yào tōng zhī suǒ yǒu rén, zuì hòu bié wàng le zhǔn bèi hǎo yào yòng de dōng xi. yǒu wèn tí jiù gěi wǒ dǎ diàn huà.",
+    "en": "Xiao Li, is tomorrow's meeting arranged? First please get the room ready, second notify everyone, and finally do not forget to prepare the things we will need. Call me if there is a problem.",
+    "ja": "李さん、明日の会議の手配はできましたか。まず部屋を準備して、次に全員に知らせて、最後に使うものの準備を忘れないでください。問題があれば電話してください。",
+    "questions": [
+     {
+      "q": "小李首先要做什么？",
+      "choices": [
+       "通知所有人",
+       "准备房间",
+       "准备东西"
+      ],
+      "answer": 1,
+      "why": "首先请你把房间准备好.",
+      "why_ja": "「首先请你把房间准备好」とあります。"
+     },
+     {
+      "q": "最后要做什么？",
+      "choices": [
+       "打电话",
+       "通知所有人",
+       "准备要用的东西"
+      ],
+      "answer": 2,
+      "why": "最后别忘了准备好要用的东西.",
+      "why_ja": "「最后别忘了准备好要用的东西」とあります。"
+     }
+    ]
+   },
+   {
+    "text": "我的梦想是成为一名医生。虽然学习很累，但是我从来没想过放弃。我相信，只要坚持下去，梦想一定会实现。",
+    "pinyin": "wǒ de mèng xiǎng shì chéng wéi yī míng yī shēng. suī rán xué xí hěn lèi, dàn shì wǒ cóng lái méi xiǎng guo fàng qì. wǒ xiāng xìn, zhǐ yào jiān chí xià qu, mèng xiǎng yī dìng huì shí xiàn.",
+    "en": "My dream is to become a doctor. Although studying is tiring, I have never thought of giving up. I believe that as long as I keep going, the dream will surely come true.",
+    "ja": "私の夢は医者になることです。勉強は大変ですが、あきらめようと思ったことは一度もありません。続けさえすれば、夢はきっとかなうと信じています。",
+    "questions": [
+     {
+      "q": "他的梦想是什么？",
+      "choices": [
+       "当医生",
+       "当老师",
+       "当记者"
+      ],
+      "answer": 0,
+      "why": "我的梦想是成为一名医生.",
+      "why_ja": "「我的梦想是成为一名医生」とあります。"
+     },
+     {
+      "q": "他想过放弃吗？",
+      "choices": [
+       "想过很多次",
+       "从来没想过",
+       "想过一次"
+      ],
+      "answer": 1,
+      "why": "我从来没想过放弃.",
+      "why_ja": "「我从来没想过放弃」とあります。"
+     }
+    ]
+   },
+   {
+    "text": "妈妈，我今天比赛赢了！老师说我负责的部分做得最好。我太高兴了，今天晚上我们去饭馆吃饭吧，我请客！",
+    "pinyin": "mā ma, wǒ jīn tiān bǐ sài yíng le! lǎo shī shuō wǒ fù zé de bù fen zuò de zuì hǎo. wǒ tài gāo xìng le, jīn tiān wǎn shang wǒ men qù fàn guǎn chī fàn ba, wǒ qǐng kè!",
+    "en": "Mum, I won the competition today! The teacher said the part I was in charge of was done best. I am so happy; let's eat at a restaurant tonight, my treat!",
+    "ja": "お母さん、今日の試合に勝ったよ！ 先生が、僕の担当した部分がいちばんよくできていたって。すごくうれしい。今夜はレストランで食事しよう。僕がおごるよ！",
+    "questions": [
+     {
+      "q": "今天谁赢了比赛？",
+      "choices": [
+       "妈妈",
+       "孩子",
+       "老师"
+      ],
+      "answer": 1,
+      "why": "The child says 我今天比赛赢了.",
+      "why_ja": "子どもが「我今天比赛赢了」と言っています。"
+     },
+     {
+      "q": "孩子想晚上做什么？",
+      "choices": [
+       "去饭馆吃饭",
+       "回家睡觉",
+       "继续比赛"
+      ],
+      "answer": 0,
+      "why": "今天晚上我们去饭馆吃饭吧.",
+      "why_ja": "「今天晚上我们去饭馆吃饭吧」とあります。"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "listen:hsk4:003",
+  "level": "hsk4",
+  "unit": 14,
+  "order": 1495,
+  "type": "comprehension",
+  "title": "Listening: after graduation",
+  "title_ja": "聞き取り：卒業のあと",
+  "items": [
+   {
+    "text": "女：你毕业以后打算做什么？男：我想先工作两年，然后再去国外留学。女：为什么不直接去留学？男：因为我想先有一些经验，另外也想自己先准备一些钱。",
+    "pinyin": "nǚ: nǐ bì yè yǐ hòu dǎ suàn zuò shén me? nán: wǒ xiǎng xiān gōng zuò liǎng nián, rán hòu zài qù guó wài liú xué. nǚ: wèi shén me bù zhí jiē qù liú xué? nán: yīn wèi wǒ xiǎng xiān yǒu yī xiē jīng yàn, lìng wài yě xiǎng zì jǐ xiān zhǔn bèi yī xiē qián.",
+    "en": "W: What do you plan to do after graduation? M: I want to work for two years first and then study abroad. W: Why not go abroad directly? M: Because I want to have some experience first, and also put aside some money myself.",
+    "ja": "女：卒業後は何をするつもり？ 男：まず2年働いて、それから海外に留学したい。女：どうして直接留学しないの？ 男：まず経験を持ちたいし、それにお金を自分で先に用意したいから。",
+    "questions": [
+     {
+      "q": "男的毕业以后打算先做什么？",
+      "choices": [
+       "去留学",
+       "工作两年",
+       "回老家"
+      ],
+      "answer": 1,
+      "why": "我想先工作两年.",
+      "why_ja": "「我想先工作两年」とあります。"
+     },
+     {
+      "q": "男的为什么不直接去留学？",
+      "choices": [
+       "想先有一些经验",
+       "不喜欢国外",
+       "没有时间"
+      ],
+      "answer": 0,
+      "why": "因为我想先有一些经验.",
+      "why_ja": "「因为我想先有一些经验」とあります。"
+     }
+    ]
+   },
+   {
+    "text": "男：这件衣服的价格怎么这么贵？女：因为它做得特别好，而且是著名的公司做的。男：既然这样，我就买一件吧。女：好的，您等一下，我给您拿一件新的。",
+    "pinyin": "nán: zhè jiàn yī fu de jià gé zěn me zhè me guì? nǚ: yīn wèi tā zuò de tè bié hǎo, ér qiě shì zhù míng de gōng sī zuò de. nán: jì rán zhè yàng, wǒ jiù mǎi yī jiàn ba. nǚ: hǎo de, nín děng yī xià, wǒ gěi nín ná yī jiàn xīn de.",
+    "en": "M: Why is this piece of clothing so expensive? W: Because it is especially well made, and it is made by a famous company. M: In that case I will buy one. W: Certainly, please wait a moment, I will get you a new one.",
+    "ja": "男：この服はどうしてこんなに高いのですか。女：作りが特によく、それに有名な会社の製品ですから。男：それなら1着買います。女：はい、少々お待ちください。新しいものをお持ちします。",
+    "questions": [
+     {
+      "q": "这件衣服为什么贵？",
+      "choices": [
+       "做得好",
+       "很新",
+       "很大"
+      ],
+      "answer": 0,
+      "why": "因为它做得特别好.",
+      "why_ja": "「因为它做得特别好」とあります。"
+     },
+     {
+      "q": "男的最后决定怎么样？",
+      "choices": [
+       "不买了",
+       "买一件",
+       "再看看"
+      ],
+      "answer": 1,
+      "why": "我就买一件吧.",
+      "why_ja": "「我就买一件吧」とあります。"
+     }
+    ]
+   },
+   {
+    "text": "明天的考试很重要，大家一定要认真准备。考试八点开始，请早十分钟到教室。千万别迟到，否则不能进去。",
+    "pinyin": "míng tiān de kǎo shì hěn zhòng yào, dà jiā yī dìng yào rèn zhēn zhǔn bèi. kǎo shì bā diǎn kāi shǐ, qǐng zǎo shí fēn zhōng dào jiào shì. qiān wàn bié chí dào, fǒu zé bù néng jìn qù.",
+    "en": "Tomorrow's exam is important, so everyone must prepare seriously. The exam starts at eight; please be in the classroom ten minutes early. Whatever you do, do not be late, otherwise you cannot go in.",
+    "ja": "明日の試験は大切なので、みなさん必ず真剣に準備してください。試験は8時に始まります。10分早く教室に来てください。くれぐれも遅刻しないように。さもないと入れません。",
+    "questions": [
+     {
+      "q": "考试几点开始？",
+      "choices": [
+       "七点",
+       "八点",
+       "十点"
+      ],
+      "answer": 1,
+      "why": "考试八点开始.",
+      "why_ja": "「考试八点开始」とあります。"
+     },
+     {
+      "q": "迟到了会怎么样？",
+      "choices": [
+       "不能进去",
+       "可以进去",
+       "考试推迟"
+      ],
+      "answer": 0,
+      "why": "否则不能进去.",
+      "why_ja": "「否则不能进去」とあります。"
+     }
+    ]
+   },
+   {
+    "text": "女：你怎么了？看起来很紧张。男：我明天要和经理谈话，我怀疑他对我的工作不满意。女：别担心，你一直很努力，他肯定看得出来。",
+    "pinyin": "nǚ: nǐ zěn me le? kàn qǐ lai hěn jǐn zhāng. nán: wǒ míng tiān yào hé jīng lǐ tán huà, wǒ huái yí tā duì wǒ de gōng zuò bù mǎn yì. nǚ: bié dān xīn, nǐ yī zhí hěn nǔ lì, tā kěn dìng kàn de chū lai.",
+    "en": "W: What is wrong? You look nervous. M: I have to talk with the manager tomorrow; I suspect he is not satisfied with my work. W: Don't worry, you have always worked hard, he can surely see that.",
+    "ja": "女：どうしたの？ 緊張しているみたいだけど。男：明日マネージャーと話すんだ。僕の仕事に満足していないんじゃないかと思って。女：心配しないで。あなたはずっと頑張ってきたんだから、きっと分かってくれるわ。",
+    "questions": [
+     {
+      "q": "男的明天要做什么？",
+      "choices": [
+       "和经理谈话",
+       "考试",
+       "旅游"
+      ],
+      "answer": 0,
+      "why": "我明天要和经理谈话.",
+      "why_ja": "「我明天要和经理谈话」とあります。"
+     },
+     {
+      "q": "女的觉得怎么样？",
+      "choices": [
+       "男的不努力",
+       "经理会看出来男的很努力",
+       "男的应该换工作"
+      ],
+      "answer": 1,
+      "why": "你一直很努力，他肯定看得出来.",
+      "why_ja": "「你一直很努力，他肯定看得出来」とあります。"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "listen:hsk4:004",
+  "level": "hsk4",
+  "unit": 18,
+  "order": 1895,
+  "type": "dictation",
+  "title": "Dictation: feelings and opinions",
+  "title_ja": "書き取り：気持ちと意見",
+  "items": [
+   {
+    "text": "这里人太多了，我实在受不了。",
+    "pinyin": "zhè lǐ rén tài duō le, wǒ shí zài shòu bu liǎo.",
+    "en": "There are too many people here; I really cannot stand it.",
+    "ja": "ここは人が多すぎて、本当に耐えられません。"
+   },
+   {
+    "text": "现在出发还来得及。",
+    "pinyin": "xiàn zài chū fā hái lái de jí.",
+    "en": "If we leave now there is still time.",
+    "ja": "今出発すればまだ間に合います。"
+   },
+   {
+    "text": "我对这件事的看法和你不一样。",
+    "pinyin": "wǒ duì zhè jiàn shì de kàn fǎ hé nǐ bù yī yàng.",
+    "en": "My view of this matter is different from yours.",
+    "ja": "このことについての私の見方はあなたと違います。"
+   },
+   {
+    "text": "恐怕他今天不会来了。",
+    "pinyin": "kǒng pà tā jīn tiān bù huì lái le.",
+    "en": "I am afraid he will not come today.",
+    "ja": "彼は今日はおそらく来ないでしょう。"
+   },
+   {
+    "text": "与其在这里等，不如出去找他。",
+    "pinyin": "yǔ qí zài zhè lǐ děng, bù rú chū qù zhǎo tā.",
+    "en": "Rather than waiting here, better go and look for him.",
+    "ja": "ここで待つより、出かけて彼を探したほうがいいです。"
+   },
+   {
+    "text": "尽管很辛苦，他仍然坚持每天锻炼。",
+    "pinyin": "jǐn guǎn hěn xīn kǔ, tā réng rán jiān chí měi tiān duàn liàn.",
+    "en": "Although it is hard, he still keeps exercising every day.",
+    "ja": "つらくても、彼は今も毎日運動を続けています。"
+   }
+  ]
+ },
+ {
+  "id": "listen:hsk4:005",
+  "level": "hsk4",
+  "unit": 22,
+  "order": 2295,
+  "type": "comprehension",
+  "title": "Listening: the lost key",
+  "title_ja": "聞き取り：なくした鍵",
+  "items": [
+   {
+    "text": "女：你怎么站在门口？男：我的钥匙不见了，到处都找不到。女：你再仔细想想，最后一次用钥匙是什么时候？男：早上出门的时候……啊，我想起来了，钥匙还在办公室的桌子上！",
+    "pinyin": "nǚ: nǐ zěn me zhàn zài mén kǒu? nán: wǒ de yào shi bù jiàn le, dào chù dōu zhǎo bù dào. nǚ: nǐ zài zǐ xì xiǎng xiang, zuì hòu yī cì yòng yào shi shì shén me shí hou? nán: zǎo shang chū mén de shí hou...... a, wǒ xiǎng qǐ lai le, yào shi hái zài bàn gōng shì de zhuō zi shàng!",
+    "en": "W: Why are you standing at the door? M: My key is gone; I cannot find it anywhere. W: Think carefully, when did you last use it? M: When I left this morning... ah, I remember, the key is still on my desk at the office!",
+    "ja": "女：どうして玄関に立っているの？ 男：鍵がなくなって、どこにも見つからないんだ。女：よく考えて、最後に鍵を使ったのはいつ？ 男：朝出かけるとき……あ、思い出した。鍵はまだ会社の机の上だ！",
+    "questions": [
+     {
+      "q": "男的为什么站在门口？",
+      "choices": [
+       "在等人",
+       "钥匙不见了",
+       "门坏了"
+      ],
+      "answer": 1,
+      "why": "我的钥匙不见了.",
+      "why_ja": "「我的钥匙不见了」とあります。"
+     },
+     {
+      "q": "钥匙在哪儿？",
+      "choices": [
+       "在家里",
+       "在车上",
+       "在办公室的桌子上"
+      ],
+      "answer": 2,
+      "why": "钥匙还在办公室的桌子上.",
+      "why_ja": "「钥匙还在办公室的桌子上」とあります。"
+     }
+    ]
+   },
+   {
+    "text": "各位顾客请注意：为了保护环境，减少污染，从下个月开始，本商店不再免费提供纸杯。请大家自己带杯子，谢谢合作。",
+    "pinyin": "gè wèi gù kè qǐng zhù yì: wèi le bǎo hù huán jìng, jiǎn shǎo wū rǎn, cóng xià ge yuè kāi shǐ, běn shāng diàn bù zài miǎn fèi tí gōng zhǐ bēi. qǐng dà jiā zì jǐ dài bēi zi, xiè xie hé zuò.",
+    "en": "Attention customers: to protect the environment and reduce pollution, from next month this shop will no longer provide free paper cups. Please bring your own cup. Thank you for your cooperation.",
+    "ja": "お客様にお知らせします。環境を守り汚染を減らすため、来月から当店では無料の紙コップの提供をやめます。ご自身でコップをお持ちください。ご協力ありがとうございます。",
+    "questions": [
+     {
+      "q": "从下个月开始，商店不再免费提供什么？",
+      "choices": [
+       "纸杯",
+       "饮料",
+       "包"
+      ],
+      "answer": 0,
+      "why": "不再免费提供纸杯.",
+      "why_ja": "「不再免费提供纸杯」とあります。"
+     },
+     {
+      "q": "商店为什么这么做？",
+      "choices": [
+       "为了赚钱",
+       "为了保护环境",
+       "因为没有杯子了"
+      ],
+      "answer": 1,
+      "why": "为了保护环境，减少污染.",
+      "why_ja": "「为了保护环境，减少污染」とあります。"
+     }
+    ]
+   },
+   {
+    "text": "男：你看，这条河的水这么黑，以前可不是这样的。女：是啊，污染越来越严重了。男：要是大家都注意保护环境就好了。",
+    "pinyin": "nán: nǐ kàn, zhè tiáo hé de shuǐ zhè me hēi, yǐ qián kě bù shì zhè yàng de. nǚ: shì a, wū rǎn yuè lái yuè yán zhòng le. nán: yào shì dà jiā dōu zhù yì bǎo hù huán jìng jiù hǎo le.",
+    "en": "M: Look, the water in this river is so black; it was not like this before. W: Yes, the pollution is getting worse and worse. M: If only everyone paid attention to protecting the environment.",
+    "ja": "男：見て、この川の水がこんなに黒い。前はこうじゃなかったのに。女：そうね、汚染がますますひどくなっている。男：みんなが環境を守ることに気をつければいいのに。",
+    "questions": [
+     {
+      "q": "这条河以前怎么样？",
+      "choices": [
+       "和现在一样",
+       "不是这样的",
+       "更黑"
+      ],
+      "answer": 1,
+      "why": "以前可不是这样的.",
+      "why_ja": "「以前可不是这样的」とあります。"
+     },
+     {
+      "q": "他们在谈什么？",
+      "choices": [
+       "河水的污染",
+       "买东西",
+       "天气"
+      ],
+      "answer": 0,
+      "why": "They talk about the black river water and 污染.",
+      "why_ja": "黒い川の水と「污染」について話しています。"
+     }
+    ]
+   },
+   {
+    "text": "女：祝贺你！听说你通过了考试。男：谢谢，其实我差点儿没通过。女：那你一定很紧张吧？男：是啊，看到结果的时候，我高兴得跳了起来。",
+    "pinyin": "nǚ: zhù hè nǐ! tīng shuō nǐ tōng guò le kǎo shì. nán: xiè xie, qí shí wǒ chà diǎnr méi tōng guò. nǚ: nà nǐ yī dìng hěn jǐn zhāng ba? nán: shì a, kàn dào jié guǒ de shí hou, wǒ gāo xìng de tiào le qǐ lai.",
+    "en": "W: Congratulations! I heard you passed the exam. M: Thanks; actually I very nearly failed. W: You must have been nervous, then? M: Yes, when I saw the result I jumped for joy.",
+    "ja": "女：おめでとう！ 試験に合格したそうね。男：ありがとう。実はもう少しで落ちるところだった。女：じゃあ、きっと緊張したでしょう。男：うん、結果を見たときはうれしくて飛び上がったよ。",
+    "questions": [
+     {
+      "q": "男的通过考试了吗？",
+      "choices": [
+       "通过了",
+       "没通过",
+       "还不知道"
+      ],
+      "answer": 0,
+      "why": "差点儿没通过 means he nearly failed but passed.",
+      "why_ja": "「差点儿没通过」は危うく落ちそうだったが合格した、という意味です。"
+     },
+     {
+      "q": "看到结果，男的怎么样？",
+      "choices": [
+       "很紧张",
+       "高兴得跳了起来",
+       "哭了"
+      ],
+      "answer": 1,
+      "why": "我高兴得跳了起来.",
+      "why_ja": "「我高兴得跳了起来」とあります。"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "listen:hsk4:006",
+  "level": "hsk4",
+  "unit": 26,
+  "order": 2695,
+  "type": "shadow",
+  "title": "Shadowing: a relative's visit",
+  "title_ja": "シャドーイング：親戚の訪問",
+  "items": [
+   {
+    "text": "上个周末，亲戚们都来我家做客，家里热闹极了。",
+    "pinyin": "shàng ge zhōu mò, qīn qi men dōu lái wǒ jiā zuò kè, jiā lǐ rè nao jí le.",
+    "en": "Last weekend all the relatives came to visit, and the house was wonderfully lively.",
+    "ja": "先週末、親戚がみんなうちに遊びに来て、家はとてもにぎやかでした。"
+   },
+   {
+    "text": "叔叔很幽默，他一讲笑话，大家就笑个不停。",
+    "pinyin": "shū shu hěn yōu mò, tā yī jiǎng xiào hua, dà jiā jiù xiào ge bù tíng.",
+    "en": "My uncle is very humorous; as soon as he tells a joke, everyone laughs non-stop.",
+    "ja": "叔父はユーモアがあって、冗談を言うとみんな笑いが止まりません。"
+   },
+   {
+    "text": "我的小孙子才三岁，却已经会唱好几首歌了。",
+    "pinyin": "wǒ de xiǎo sūn zi cái sān suì, què yǐ jīng huì chàng hǎo jǐ shǒu gē le.",
+    "en": "My little grandson is only three, yet he can already sing several songs.",
+    "ja": "孫はまだ3歳なのに、もう何曲も歌えます。"
+   },
+   {
+    "text": "吃完饭，我们一起去附近的公园散步。",
+    "pinyin": "chī wán fàn, wǒ men yī qǐ qù fù jìn de gōng yuán sàn bù.",
+    "en": "After dinner we went for a walk in the nearby park together.",
+    "ja": "食事の後、みんなで近くの公園へ散歩に行きました。"
+   },
+   {
+    "text": "爷爷说，家人能常常集合在一起，是最幸福的事。",
+    "pinyin": "yé ye shuō, jiā rén néng cháng cháng jí hé zài yī qǐ, shì zuì xìng fú de shì.",
+    "en": "Grandpa says that being able to gather the family often is the happiest thing.",
+    "ja": "祖父は、家族がしょっちゅう集まれるのがいちばん幸せなことだと言います。"
+   }
+  ]
+ }
+]

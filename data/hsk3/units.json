@@ -40,7 +40,11 @@
    "vocab:hsk3:hai2shi5-还是",
    "vocab:hsk3:zuo4yong4-作用"
   ],
-  "grammar": [],
+  "grammar": [
+   "gram:hsk3:ba",
+   "gram:hsk3:bei",
+   "gram:hsk3:de-di-de"
+  ],
   "readings": [],
   "listening": []
  },
@@ -87,9 +91,15 @@
    "vocab:hsk3:fang1bian4-方便",
    "vocab:hsk3:bei3fang1-北方"
   ],
-  "grammar": [],
+  "grammar": [
+   "gram:hsk3:yinggai",
+   "gram:hsk3:yizhi",
+   "gram:hsk3:bi-geng-hai"
+  ],
   "readings": [],
-  "listening": []
+  "listening": [
+   "listen:hsk3:001"
+  ]
  },
  {
   "id": "unit:hsk3:03",
@@ -139,8 +149,14 @@
    "vocab:hsk3:fang4xin1-放心",
    "vocab:hsk3:mian4tiao2-面条"
   ],
-  "grammar": [],
-  "readings": [],
+  "grammar": [
+   "gram:hsk3:guo-experience",
+   "gram:hsk3:xian-ranhou",
+   "gram:hsk3:yinwei-suoyi"
+  ],
+  "readings": [
+   "read:hsk3:001"
+  ],
   "listening": []
  },
  {
@@ -187,7 +203,11 @@
    "vocab:hsk3:jie2shu4-结束",
    "vocab:hsk3:xiang1tong2-相同"
   ],
-  "grammar": [],
+  "grammar": [
+   "gram:hsk3:suiran-danshi",
+   "gram:hsk3:haishi-huozhe",
+   "gram:hsk3:shi-rang-jiao"
+  ],
   "readings": [],
   "listening": []
  },
@@ -234,7 +254,11 @@
    "vocab:hsk3:ban4gong1shi4-办公室",
    "vocab:hsk3:nan2guo4-难过"
   ],
-  "grammar": [],
+  "grammar": [
+   "gram:hsk3:yuelaiyue",
+   "gram:hsk3:yue-yue",
+   "gram:hsk3:yiqian-yihou"
+  ],
   "readings": [],
   "listening": []
  },
@@ -276,9 +300,15 @@
    "vocab:hsk3:jian3cha2-检查",
    "vocab:hsk3:rong2yi4-容易"
   ],
-  "grammar": [],
+  "grammar": [
+   "gram:hsk3:chule",
+   "gram:hsk3:zhongyu",
+   "gram:hsk3:zongshi-jingchang"
+  ],
   "readings": [],
-  "listening": []
+  "listening": [
+   "listen:hsk3:002"
+  ]
  },
  {
   "id": "unit:hsk3:07",
@@ -322,8 +352,15 @@
    "vocab:hsk3:cai4dan1-菜单",
    "vocab:hsk3:zhao4xiang4ji1-照相机"
   ],
-  "grammar": [],
-  "readings": [],
+  "grammar": [
+   "gram:hsk3:liangci",
+   "gram:hsk3:resultative",
+   "gram:hsk3:potential"
+  ],
+  "readings": [
+   "read:hsk3:002",
+   "read:hsk3:003"
+  ],
   "listening": []
  },
  {
@@ -366,7 +403,11 @@
    "vocab:hsk3:jian4kang1-健康",
    "vocab:hsk3:jie2ri4-节日"
   ],
-  "grammar": [],
+  "grammar": [
+   "gram:hsk3:directional",
+   "gram:hsk3:you-you",
+   "gram:hsk3:zhe-state"
+  ],
   "readings": [],
   "listening": []
  },
@@ -413,8 +454,14 @@
    "vocab:hsk3:gang1cai2-刚才",
    "vocab:hsk3:huan2jing4-环境"
   ],
-  "grammar": [],
-  "readings": [],
+  "grammar": [
+   "gram:hsk3:jihu-chabuduo",
+   "gram:hsk3:gang-gangcai",
+   "gram:hsk3:cai-vs-jiu"
+  ],
+  "readings": [
+   "read:hsk3:004"
+  ],
   "listening": []
  },
  {
@@ -458,9 +505,15 @@
    "vocab:hsk3:ju3xing2-举行",
    "vocab:hsk3:dong4wu4-动物"
   ],
-  "grammar": [],
+  "grammar": [
+   "gram:hsk3:yibian-yibian",
+   "gram:hsk3:tebie-feichang-jile",
+   "gram:hsk3:le-two"
+  ],
   "readings": [],
-  "listening": []
+  "listening": [
+   "listen:hsk3:003"
+  ]
  },
  {
   "id": "unit:hsk3:11",
@@ -501,8 +554,14 @@
    "vocab:hsk3:qi2guai4-奇怪",
    "vocab:hsk3:li3wu4-礼物"
   ],
-  "grammar": [],
-  "readings": [],
+  "grammar": [
+   "gram:hsk3:zhengzai-ne",
+   "gram:hsk3:duration-frequency",
+   "gram:hsk3:yi-jiu"
+  ],
+  "readings": [
+   "read:hsk3:005"
+  ],
   "listening": []
  },
  {
@@ -550,9 +609,15 @@
    "vocab:hsk3:he2-河",
    "vocab:hsk3:hua1yuan2-花园"
   ],
-  "grammar": [],
+  "grammar": [
+   "gram:hsk3:zhiyou-cai",
+   "gram:hsk3:zhiyao-jiu",
+   "gram:hsk3:weile"
+  ],
   "readings": [],
-  "listening": []
+  "listening": [
+   "listen:hsk3:004"
+  ]
  },
  {
   "id": "unit:hsk3:13",
@@ -596,8 +661,13 @@
    "vocab:hsk3:shou4-瘦",
    "vocab:hsk3:lü4-绿"
   ],
-  "grammar": [],
-  "readings": [],
+  "grammar": [
+   "gram:hsk3:de-shihou",
+   "gram:hsk3:duo-adj-questions"
+  ],
+  "readings": [
+   "read:hsk3:006"
+  ],
   "listening": []
  },
  {
@@ -639,7 +709,10 @@
    "vocab:hsk3:lin2ju1-邻居",
    "vocab:hsk3:er3duo5-耳朵"
   ],
-  "grammar": [],
+  "grammar": [
+   "gram:hsk3:bie-buyao",
+   "gram:hsk3:youdianr-yidianr"
+  ],
   "readings": [],
   "listening": []
  },
@@ -685,8 +758,14 @@
    "vocab:hsk3:tu2shu1guan3-图书馆",
    "vocab:hsk3:dian4ti1-电梯"
   ],
-  "grammar": [],
-  "readings": [],
+  "grammar": [
+   "gram:hsk3:dui-ganxingqu",
+   "gram:hsk3:guanyu",
+   "gram:hsk3:xiang-li"
+  ],
+  "readings": [
+   "read:hsk3:007"
+  ],
   "listening": []
  },
  {
@@ -726,9 +805,14 @@
    "vocab:hsk3:bao3-饱",
    "vocab:hsk3:kong1tiao2-空调"
   ],
-  "grammar": [],
+  "grammar": [
+   "gram:hsk3:qishi",
+   "gram:hsk3:ranhou-jiezhe"
+  ],
   "readings": [],
-  "listening": []
+  "listening": [
+   "listen:hsk3:005"
+  ]
  },
  {
   "id": "unit:hsk3:17",
@@ -769,7 +853,10 @@
    "vocab:hsk3:fu4xi2-复习",
    "vocab:hsk3:xiong2mao1-熊猫"
   ],
-  "grammar": [],
+  "grammar": [
+   "gram:hsk3:shi-de",
+   "gram:hsk3:bushi-ershi"
+  ],
   "readings": [],
   "listening": []
  },
@@ -812,8 +899,13 @@
    "vocab:hsk3:pu3tong1hua4-普通话",
    "vocab:hsk3:pa2shan1-爬山"
   ],
-  "grammar": [],
-  "readings": [],
+  "grammar": [
+   "gram:hsk3:yidianr-ye-bu",
+   "gram:hsk3:wh-dou"
+  ],
+  "readings": [
+   "read:hsk3:008"
+  ],
   "listening": []
  },
  {
@@ -831,8 +923,13 @@
    "vocab:hsk3:hei1ban3-黑板",
    "vocab:hsk3:xing2li5xiang1-行李箱"
   ],
-  "grammar": [],
+  "grammar": [
+   "gram:hsk3:ji-vs-duoshao",
+   "gram:hsk3:yigong-yiqi"
+  ],
   "readings": [],
-  "listening": []
+  "listening": [
+   "listen:hsk3:006"
+  ]
  }
 ]

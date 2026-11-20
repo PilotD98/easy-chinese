@@ -3,7 +3,8 @@
   "id": "unit:hsk6:01",
   "no": 1,
   "level": "hsk6",
-  "title": "Unit 1",
+  "title": "Media, networks and events",
+  "title_ja": "メディア・ネットワーク・事件",
   "chars": [
    "hanzi:哦",
    "hanzi:啦",
@@ -78,7 +79,9 @@
    "vocab:hsk6:mei2jie4-媒介",
    "vocab:hsk6:gong1ke4-攻克"
   ],
-  "grammar": [],
+  "grammar": [
+   "gram:hsk6:eryi"
+  ],
   "readings": [],
   "listening": []
  },
@@ -86,7 +89,8 @@
   "id": "unit:hsk6:02",
   "no": 2,
   "level": "hsk6",
-  "title": "Unit 2",
+  "title": "Cells, symptoms and alliances",
+  "title_ja": "細胞・症状・同盟",
   "chars": [
    "hanzi:袭",
    "hanzi:诺",
@@ -165,7 +169,9 @@
    "vocab:hsk6:ri4xin1yue4yi4-日新月异",
    "vocab:hsk6:duan1wu3jie2-端午节"
   ],
-  "grammar": [],
+  "grammar": [
+   "gram:hsk6:bingfei"
+  ],
   "readings": [],
   "listening": []
  },
@@ -173,7 +179,8 @@
   "id": "unit:hsk6:03",
   "no": 3,
   "level": "hsk6",
-  "title": "Unit 3",
+  "title": "Dawn, release and reward",
+  "title_ja": "夜明け・解放・報酬",
   "chars": [
    "hanzi:枚",
    "hanzi:凌",
@@ -247,7 +254,9 @@
    "vocab:hsk6:suo3xing4-索性",
    "vocab:hsk6:you1sheng4lie4tai4-优胜劣汰"
   ],
-  "grammar": [],
+  "grammar": [
+   "gram:hsk6:yuyi-jiayi"
+  ],
   "readings": [],
   "listening": []
  },
@@ -255,7 +264,8 @@
   "id": "unit:hsk6:04",
   "no": 4,
   "level": "hsk6",
-  "title": "Unit 4",
+  "title": "Crisis and investigation",
+  "title_ja": "危機と捜査",
   "chars": [
    "hanzi:婴",
    "hanzi:涉",
@@ -328,7 +338,9 @@
    "vocab:hsk6:jiao1she4-交涉",
    "vocab:hsk6:yun4yu4-孕育"
   ],
-  "grammar": [],
+  "grammar": [
+   "gram:hsk6:yu-formal"
+  ],
   "readings": [],
   "listening": []
  },
@@ -336,7 +348,8 @@
   "id": "unit:hsk6:05",
   "no": 5,
   "level": "hsk6",
-  "title": "Unit 5",
+  "title": "Law, prison and struggle",
+  "title_ja": "法・監獄・闘い",
   "chars": [
    "hanzi:怨",
    "hanzi:劫",
@@ -404,7 +417,9 @@
    "vocab:hsk6:du1cu4-督促",
    "vocab:hsk6:zha1shi5-扎实"
   ],
-  "grammar": [],
+  "grammar": [
+   "gram:hsk6:jibian"
+  ],
   "readings": [],
   "listening": []
  },
@@ -412,7 +427,8 @@
   "id": "unit:hsk6:06",
   "no": 6,
   "level": "hsk6",
-  "title": "Unit 6",
+  "title": "Trials, faith and temptation",
+  "title_ja": "裁判・信仰・誘惑",
   "chars": [
    "hanzi:审",
    "hanzi:潜",
@@ -497,7 +513,8 @@
   "id": "unit:hsk6:07",
   "no": 7,
   "level": "hsk6",
-  "title": "Unit 7",
+  "title": "Exploration and collapse",
+  "title_ja": "探索と崩壊",
   "chars": [
    "hanzi:探",
    "hanzi:援",
@@ -573,15 +590,20 @@
    "vocab:hsk6:jie4jian4-借鉴",
    "vocab:hsk6:xun2xu4jian4jin4-循序渐进"
   ],
-  "grammar": [],
-  "readings": [],
+  "grammar": [
+   "gram:hsk6:jianyu"
+  ],
+  "readings": [
+   "read:hsk6:001"
+  ],
   "listening": []
  },
  {
   "id": "unit:hsk6:08",
   "no": 8,
   "level": "hsk6",
-  "title": "Unit 8",
+  "title": "Finance, desire and punishment",
+  "title_ja": "金融・欲望・罰",
   "chars": [
    "hanzi:跨",
    "hanzi:欲",
@@ -648,7 +670,9 @@
    "vocab:hsk6:mi2man4-弥漫",
    "vocab:hsk6:tian2jing4-田径"
   ],
-  "grammar": [],
+  "grammar": [
+   "gram:hsk6:yi-formal"
+  ],
   "readings": [],
   "listening": []
  },
@@ -656,7 +680,8 @@
   "id": "unit:hsk6:09",
   "no": 9,
   "level": "hsk6",
-  "title": "Unit 9",
+  "title": "Jobs, immunity and reliance",
+  "title_ja": "職場・免疫・依存",
   "chars": [
    "hanzi:潮",
    "hanzi:钻",
@@ -739,7 +764,8 @@
   "id": "unit:hsk6:10",
   "no": 10,
   "level": "hsk6",
-  "title": "Unit 10",
+  "title": "Birth, betrayal and cruelty",
+  "title_ja": "誕生・裏切り・残酷",
   "chars": [
    "hanzi:夺",
    "hanzi:裂",
@@ -809,15 +835,20 @@
    "vocab:hsk6:mou2qiu2-谋求",
    "vocab:hsk6:xiong1e4-凶恶"
   ],
-  "grammar": [],
+  "grammar": [
+   "gram:hsk6:yuqishuo"
+  ],
   "readings": [],
-  "listening": []
+  "listening": [
+   "listen:hsk6:001"
+  ]
  },
  {
   "id": "unit:hsk6:11",
   "no": 11,
   "level": "hsk6",
-  "title": "Unit 11",
+  "title": "Constitution and defense",
+  "title_ja": "憲法と防御",
   "chars": [
    "hanzi:曝",
    "hanzi:浑",
@@ -884,7 +915,9 @@
    "vocab:hsk6:xuan2lü4-旋律",
    "vocab:hsk6:pan2xuan2-盘旋"
   ],
-  "grammar": [],
+  "grammar": [
+   "gram:hsk6:yibian"
+  ],
   "readings": [],
   "listening": []
  },
@@ -892,7 +925,8 @@
   "id": "unit:hsk6:12",
   "no": 12,
   "level": "hsk6",
-  "title": "Unit 12",
+  "title": "Worship, heritage and ports",
+  "title_ja": "崇拝・遺産・港",
   "chars": [
    "hanzi:粹",
    "hanzi:幢",
@@ -954,7 +988,9 @@
    "vocab:hsk6:zi1zhang3-滋长",
    "vocab:hsk6:luo4yi4bu4jue2-络绎不绝"
   ],
-  "grammar": [],
+  "grammar": [
+   "gram:hsk6:zhi"
+  ],
   "readings": [],
   "listening": []
  },
@@ -962,7 +998,8 @@
   "id": "unit:hsk6:13",
   "no": 13,
   "level": "hsk6",
-  "title": "Unit 13",
+  "title": "Channels, bribes and devotion",
+  "title_ja": "経路・賄賂・献身",
   "chars": [
    "hanzi:渠",
    "hanzi:宰",
@@ -1030,7 +1067,9 @@
    "vocab:hsk6:shan1mai4-山脉",
    "vocab:hsk6:wu2ke3feng4gao4-无可奉告"
   ],
-  "grammar": [],
+  "grammar": [
+   "gram:hsk6:qi"
+  ],
   "readings": [],
   "listening": []
  },
@@ -1038,7 +1077,8 @@
   "id": "unit:hsk6:14",
   "no": 14,
   "level": "hsk6",
-  "title": "Unit 14",
+  "title": "Theft, spies and secrets",
+  "title_ja": "盗み・スパイ・秘密",
   "chars": [
    "hanzi:愚",
    "hanzi:蠢",
@@ -1103,15 +1143,20 @@
    "vocab:hsk6:chen2lie4-陈列",
    "vocab:hsk6:hao2mai4-豪迈"
   ],
-  "grammar": [],
-  "readings": [],
+  "grammar": [
+   "gram:hsk6:buzhi"
+  ],
+  "readings": [
+   "read:hsk6:002"
+  ],
   "listening": []
  },
  {
   "id": "unit:hsk6:15",
   "no": 15,
   "level": "hsk6",
-  "title": "Unit 15",
+  "title": "Oaths, poverty and cover-ups",
+  "title_ja": "誓い・貧困・隠蔽",
   "chars": [
    "hanzi:垫",
    "hanzi:嫌",
@@ -1185,7 +1230,9 @@
    "vocab:hsk6:pin2fa2-贫乏",
    "vocab:hsk6:mian3li4-勉励"
   ],
-  "grammar": [],
+  "grammar": [
+   "gram:hsk6:zongran"
+  ],
   "readings": [],
   "listening": []
  },
@@ -1193,7 +1240,8 @@
   "id": "unit:hsk6:16",
   "no": 16,
   "level": "hsk6",
-  "title": "Unit 16",
+  "title": "Glory and fatigue",
+  "title_ja": "栄光と疲労",
   "chars": [
    "hanzi:呕",
    "hanzi:揍",
@@ -1267,7 +1315,9 @@
    "vocab:hsk6:huang2hun1-黄昏",
    "vocab:hsk6:fen3mo4-粉末"
   ],
-  "grammar": [],
+  "grammar": [
+   "gram:hsk6:buxi"
+  ],
   "readings": [],
   "listening": []
  },
@@ -1275,7 +1325,8 @@
   "id": "unit:hsk6:17",
   "no": 17,
   "level": "hsk6",
-  "title": "Unit 17",
+  "title": "Flames, fraud and role models",
+  "title_ja": "炎・詐欺・手本",
   "chars": [
    "hanzi:辱",
    "hanzi:杰",
@@ -1347,7 +1398,9 @@
    "vocab:hsk6:hao4fei4-耗费",
    "vocab:hsk6:qi3hong4-起哄"
   ],
-  "grammar": [],
+  "grammar": [
+   "gram:hsk6:yaome"
+  ],
   "readings": [],
   "listening": []
  },
@@ -1355,7 +1408,8 @@
   "id": "unit:hsk6:18",
   "no": 18,
   "level": "hsk6",
-  "title": "Unit 18",
+  "title": "Rescue, compromise and noise",
+  "title_ja": "救済・妥協・騒音",
   "chars": [
    "hanzi:挽",
    "hanzi:歧",
@@ -1413,7 +1467,7 @@
    "vocab:hsk6:long2zhong4-隆重",
    "vocab:hsk6:cheng2-盛",
    "vocab:hsk6:beng4-蹦",
-   "vocab:hsk6:ai1y5o1-哎哟",
+   "vocab:hsk6:ai1yo1-哎哟",
    "vocab:hsk6:zao4yin1-噪音",
    "vocab:hsk6:tuo3xie2-妥协",
    "vocab:hsk6:deng4-瞪",
@@ -1433,13 +1487,16 @@
   ],
   "grammar": [],
   "readings": [],
-  "listening": []
+  "listening": [
+   "listen:hsk6:002"
+  ]
  },
  {
   "id": "unit:hsk6:19",
   "no": 19,
   "level": "hsk6",
-  "title": "Unit 19",
+  "title": "Forums, castles and peaks",
+  "title_ja": "論壇・城・頂点",
   "chars": [
    "hanzi:谴",
    "hanzi:坛",
@@ -1503,7 +1560,9 @@
    "vocab:hsk6:ju1shu4-拘束",
    "vocab:hsk6:ji2guan4-籍贯"
   ],
-  "grammar": [],
+  "grammar": [
+   "gram:hsk6:yimian"
+  ],
   "readings": [],
   "listening": []
  },
@@ -1511,7 +1570,8 @@
   "id": "unit:hsk6:20",
   "no": 20,
   "level": "hsk6",
-  "title": "Unit 20",
+  "title": "Flags, debts and bonds",
+  "title_ja": "旗・負債・束縛",
   "chars": [
    "hanzi:奴",
    "hanzi:隶",
@@ -1571,7 +1631,9 @@
    "vocab:hsk6:man4yan2-蔓延",
    "vocab:hsk6:jie1fa1-揭发"
   ],
-  "grammar": [],
+  "grammar": [
+   "gram:hsk6:mofei"
+  ],
   "readings": [],
   "listening": []
  },
@@ -1579,7 +1641,8 @@
   "id": "unit:hsk6:21",
   "no": 21,
   "level": "hsk6",
-  "title": "Unit 21",
+  "title": "Witness, leaks and floods",
+  "title_ja": "目撃・漏洩・洪水",
   "chars": [
    "hanzi:恰",
    "hanzi:睹",
@@ -1638,7 +1701,7 @@
    "vocab:hsk6:xuan3ba2-选拔",
    "vocab:hsk6:xi3yue4-喜悦",
    "vocab:hsk6:zuo4bi4-作弊",
-   "vocab:hsk6:gang1-扛",
+   "vocab:hsk6:kang2-扛",
    "vocab:hsk6:hong2shui3-洪水",
    "vocab:hsk6:ken3-啃",
    "vocab:hsk6:dui4huan4-兑换",
@@ -1654,15 +1717,20 @@
    "vocab:hsk6:bi4bing4-弊病",
    "vocab:hsk6:ba2miao2zhu4zhang3-拔苗助长"
   ],
-  "grammar": [],
-  "readings": [],
+  "grammar": [
+   "gram:hsk6:bulun"
+  ],
+  "readings": [
+   "read:hsk6:003"
+  ],
   "listening": []
  },
  {
   "id": "unit:hsk6:22",
   "no": 22,
   "level": "hsk6",
-  "title": "Unit 22",
+  "title": "Tents, protest and bias",
+  "title_ja": "テント・抗議・偏見",
   "chars": [
    "hanzi:帐",
    "hanzi:篷",
@@ -1728,7 +1796,9 @@
    "vocab:hsk6:diao1ke4-雕刻",
    "vocab:hsk6:pian1cha1-偏差"
   ],
-  "grammar": [],
+  "grammar": [
+   "gram:hsk6:bufang"
+  ],
   "readings": [],
   "listening": []
  },
@@ -1736,7 +1806,8 @@
   "id": "unit:hsk6:23",
   "no": 23,
   "level": "hsk6",
-  "title": "Unit 23",
+  "title": "Lies, worry and battle",
+  "title_ja": "嘘・憂い・戦い",
   "chars": [
    "hanzi:澄",
    "hanzi:劈",
@@ -1782,7 +1853,7 @@
    "vocab:hsk6:jin4hua4-进化",
    "vocab:hsk6:chang2huan2-偿还",
    "vocab:hsk6:feng1guang1-风光",
-   "vocab:hsk6:deng4qing1-澄清",
+   "vocab:hsk6:cheng2qing1-澄清",
    "vocab:hsk6:pi1-劈",
    "vocab:hsk6:bei1can3-悲惨",
    "vocab:hsk6:sa1huang3-撒谎",
@@ -1807,7 +1878,8 @@
   "id": "unit:hsk6:24",
   "no": 24,
   "level": "hsk6",
-  "title": "Unit 24",
+  "title": "Rumors, feedback and dawn",
+  "title_ja": "噂・反応・夜明け",
   "chars": [
    "hanzi:兼",
    "hanzi:谣",
@@ -1857,12 +1929,14 @@
    "vocab:hsk6:chao1piao4-钞票",
    "vocab:hsk6:pai2huai2-徘徊",
    "vocab:hsk6:li2ming2-黎明",
-   "vocab:hsk6:zhuo2mo2-琢磨",
+   "vocab:hsk6:zuo2mo5-琢磨",
    "vocab:hsk6:ou1da3-殴打",
    "vocab:hsk6:fan3kui4-反馈",
    "vocab:hsk6:tong3chou2jian1gu4-统筹兼顾"
   ],
-  "grammar": [],
+  "grammar": [
+   "gram:hsk6:bujin"
+  ],
   "readings": [],
   "listening": []
  },
@@ -1870,7 +1944,8 @@
   "id": "unit:hsk6:25",
   "no": 25,
   "level": "hsk6",
-  "title": "Unit 25",
+  "title": "Setbacks, savings and wealth",
+  "title_ja": "挫折・貯蓄・富",
   "chars": [
    "hanzi:喻",
    "hanzi:挫",
@@ -1936,7 +2011,9 @@
    "vocab:hsk6:huang1liang2-荒凉",
    "vocab:hsk6:bu4yan2er2yu4-不言而喻"
   ],
-  "grammar": [],
+  "grammar": [
+   "gram:hsk6:nanmian"
+  ],
   "readings": [],
   "listening": []
  },
@@ -1944,7 +2021,8 @@
   "id": "unit:hsk6:26",
   "no": 26,
   "level": "hsk6",
-  "title": "Unit 26",
+  "title": "Greed, luxury and public opinion",
+  "title_ja": "貪欲・贅沢・世論",
   "chars": [
    "hanzi:绅",
    "hanzi:堪",
@@ -2002,7 +2080,9 @@
    "vocab:hsk6:tan1wu1-贪污",
    "vocab:hsk6:zhi2min2di4-殖民地"
   ],
-  "grammar": [],
+  "grammar": [
+   "gram:hsk6:bushi"
+  ],
   "readings": [],
   "listening": []
  },
@@ -2010,7 +2090,8 @@
   "id": "unit:hsk6:27",
   "no": 27,
   "level": "hsk6",
-  "title": "Unit 27",
+  "title": "Trade, brilliance and return",
+  "title_ja": "売買・輝き・返還",
   "chars": [
    "hanzi:竖",
    "hanzi:喇",
@@ -2061,7 +2142,7 @@
    "vocab:hsk6:la3ba5-喇叭",
    "vocab:hsk6:fan4mai4-贩卖",
    "vocab:hsk6:yao4yan3-耀眼",
-   "vocab:hsk6:lou1-搂",
+   "vocab:hsk6:lou3-搂",
    "vocab:hsk6:bao1fu5-包袱",
    "vocab:hsk6:zhu1wei4-诸位",
    "vocab:hsk6:yin3bi4-隐蔽",
@@ -2076,7 +2157,9 @@
    "vocab:hsk6:zhao4yao4-照耀",
    "vocab:hsk6:gui1gen1dao4di3-归根到底"
   ],
-  "grammar": [],
+  "grammar": [
+   "gram:hsk6:yilai-erlai"
+  ],
   "readings": [],
   "listening": []
  },
@@ -2084,7 +2167,8 @@
   "id": "unit:hsk6:28",
   "no": 28,
   "level": "hsk6",
-  "title": "Unit 28",
+  "title": "Bridges, decline and generosity",
+  "title_ja": "橋・衰退・寛大",
   "chars": [
    "hanzi:衰",
    "hanzi:轰",
@@ -2150,15 +2234,20 @@
    "vocab:hsk6:zhuang4lie4-壮烈",
    "vocab:hsk6:li3zhi2qi4zhuang4-理直气壮"
   ],
-  "grammar": [],
-  "readings": [],
+  "grammar": [
+   "gram:hsk6:miande"
+  ],
+  "readings": [
+   "read:hsk6:004"
+  ],
   "listening": []
  },
  {
   "id": "unit:hsk6:29",
   "no": 29,
   "level": "hsk6",
-  "title": "Unit 29",
+  "title": "Waterfalls, wrinkles and tenacity",
+  "title_ja": "滝・しわ・粘り強さ",
   "chars": [
    "hanzi:巩",
    "hanzi:皱",
@@ -2224,7 +2313,9 @@
    "vocab:hsk6:kai1kuo4-开阔",
    "vocab:hsk6:deng1long2-灯笼"
   ],
-  "grammar": [],
+  "grammar": [
+   "gram:hsk6:duici"
+  ],
   "readings": [],
   "listening": []
  },
@@ -2232,7 +2323,8 @@
   "id": "unit:hsk6:30",
   "no": 30,
   "level": "hsk6",
-  "title": "Unit 30",
+  "title": "Towns, tombs and sincerity",
+  "title_ja": "町・墓・真心",
   "chars": [
    "hanzi:俘",
    "hanzi:虏",
@@ -2304,13 +2396,16 @@
   ],
   "grammar": [],
   "readings": [],
-  "listening": []
+  "listening": [
+   "listen:hsk6:003"
+  ]
  },
  {
   "id": "unit:hsk6:31",
   "no": 31,
   "level": "hsk6",
-  "title": "Unit 31",
+  "title": "Cooking, ceramics and canyons",
+  "title_ja": "料理・陶磁器・峡谷",
   "chars": [
    "hanzi:肢",
    "hanzi:烹",
@@ -2364,7 +2459,9 @@
    "vocab:hsk6:xia2gu3-峡谷",
    "vocab:hsk6:zi4bei1-自卑"
   ],
-  "grammar": [],
+  "grammar": [
+   "gram:hsk6:fei-buke"
+  ],
   "readings": [],
   "listening": []
  },
@@ -2372,7 +2469,8 @@
   "id": "unit:hsk6:32",
   "no": 32,
   "level": "hsk6",
-  "title": "Unit 32",
+  "title": "Ruins, erosion and monopoly",
+  "title_ja": "廃墟・腐食・独占",
   "chars": [
    "hanzi:浴",
    "hanzi:腔",
@@ -2442,7 +2540,9 @@
    "vocab:hsk6:guo4yin3-过瘾",
    "vocab:hsk6:mai2mo4-埋没"
   ],
-  "grammar": [],
+  "grammar": [
+   "gram:hsk6:yizhi"
+  ],
   "readings": [],
   "listening": []
  },
@@ -2450,7 +2550,8 @@
   "id": "unit:hsk6:33",
   "no": 33,
   "level": "hsk6",
-  "title": "Unit 33",
+  "title": "Bestsellers, palaces and defense",
+  "title_ja": "ベストセラー・宮殿・守り",
   "chars": [
    "hanzi:畅",
    "hanzi:拣",
@@ -2511,7 +2612,9 @@
    "vocab:hsk6:xuan2gua4-悬挂",
    "vocab:hsk6:shu1chang4-舒畅"
   ],
-  "grammar": [],
+  "grammar": [
+   "gram:hsk6:ze"
+  ],
   "readings": [],
   "listening": []
  },
@@ -2519,7 +2622,8 @@
   "id": "unit:hsk6:34",
   "no": 34,
   "level": "hsk6",
-  "title": "Unit 34",
+  "title": "Fatigue, insects and struggle",
+  "title_ja": "疲れ・昆虫・格闘",
   "chars": [
    "hanzi:倦",
    "hanzi:搓",
@@ -2581,7 +2685,9 @@
    "vocab:hsk6:yu2mei4-愚昧",
    "vocab:hsk6:hua4she2tian1zu2-画蛇添足"
   ],
-  "grammar": [],
+  "grammar": [
+   "gram:hsk6:jinxing"
+  ],
   "readings": [],
   "listening": []
  },
@@ -2589,7 +2695,8 @@
   "id": "unit:hsk6:35",
   "no": 35,
   "level": "hsk6",
-  "title": "Unit 35",
+  "title": "Awakening, outlines and harmony",
+  "title_ja": "覚醒・輪郭・調和",
   "chars": [
    "hanzi:苏",
    "hanzi:郑",
@@ -2658,15 +2765,20 @@
    "vocab:hsk6:qia4tan2-洽谈",
    "vocab:hsk6:gui1na4-归纳"
   ],
-  "grammar": [],
-  "readings": [],
+  "grammar": [
+   "gram:hsk6:youzhuyu"
+  ],
+  "readings": [
+   "read:hsk6:005"
+  ],
   "listening": []
  },
  {
   "id": "unit:hsk6:36",
   "no": 36,
   "level": "hsk6",
-  "title": "Unit 36",
+  "title": "Caves, crystals and promotion",
+  "title_ja": "洞穴・結晶・昇進",
   "chars": [
    "hanzi:穴",
    "hanzi:庄",
@@ -2725,7 +2837,9 @@
    "vocab:hsk6:zhuang1zhong4-庄重",
    "vocab:hsk6:lang3du2-朗读"
   ],
-  "grammar": [],
+  "grammar": [
+   "gram:hsk6:sizige"
+  ],
   "readings": [],
   "listening": []
  },
@@ -2733,7 +2847,8 @@
   "id": "unit:hsk6:37",
   "no": 37,
   "level": "hsk6",
-  "title": "Unit 37",
+  "title": "Dissolving, waste and frameworks",
+  "title_ja": "溶解・浪費・枠組み",
   "chars": [
    "hanzi:溶",
    "hanzi:栏",
@@ -2798,7 +2913,9 @@
    "vocab:hsk6:kun3bang3-捆绑",
    "vocab:hsk6:sheng1shu1-生疏"
   ],
-  "grammar": [],
+  "grammar": [
+   "gram:hsk6:er"
+  ],
   "readings": [],
   "listening": []
  },
@@ -2806,7 +2923,8 @@
   "id": "unit:hsk6:38",
   "no": 38,
   "level": "hsk6",
-  "title": "Unit 38",
+  "title": "Islands, carbon and laziness",
+  "title_ja": "島・炭素・怠惰",
   "chars": [
    "hanzi:锋",
    "hanzi:碳",
@@ -2865,15 +2983,20 @@
    "vocab:hsk6:mang2ran2-茫然",
    "vocab:hsk6:hong2guan1-宏观"
   ],
-  "grammar": [],
+  "grammar": [
+   "gram:hsk6:wufei"
+  ],
   "readings": [],
-  "listening": []
+  "listening": [
+   "listen:hsk6:004"
+  ]
  },
  {
   "id": "unit:hsk6:39",
   "no": 39,
   "level": "hsk6",
-  "title": "Unit 39",
+  "title": "Drought, bows and passing",
+  "title_ja": "干ばつ・お辞儀・逝去",
   "chars": [
    "hanzi:晃",
    "hanzi:旱",
@@ -2929,7 +3052,9 @@
    "vocab:hsk6:jiang3-桨",
    "vocab:hsk6:na4men4r55-纳闷儿"
   ],
-  "grammar": [],
+  "grammar": [
+   "gram:hsk6:weimian"
+  ],
   "readings": [],
   "listening": []
  },
@@ -2937,7 +3062,8 @@
   "id": "unit:hsk6:40",
   "no": 40,
   "level": "hsk6",
-  "title": "Unit 40",
+  "title": "Slander, barriers and clarity",
+  "title_ja": "中傷・障壁・澄明",
   "chars": [
    "hanzi:谤",
    "hanzi:譬",
@@ -3003,7 +3129,9 @@
    "vocab:hsk6:fa1yan2-发炎",
    "vocab:hsk6:ku1jie2-枯竭"
   ],
-  "grammar": [],
+  "grammar": [
+   "gram:hsk6:fuza-dingyu"
+  ],
   "readings": [],
   "listening": []
  },
@@ -3011,7 +3139,8 @@
   "id": "unit:hsk6:41",
   "no": 41,
   "level": "hsk6",
-  "title": "Unit 41",
+  "title": "Soaking, novelty and turmoil",
+  "title_ja": "浸す・新奇・動揺",
   "chars": [
    "hanzi:浸",
    "hanzi:遏",
@@ -3074,7 +3203,9 @@
    "vocab:hsk6:dong4dang4-动荡",
    "vocab:hsk6:xing1-腥"
   ],
-  "grammar": [],
+  "grammar": [
+   "gram:hsk6:fan"
+  ],
   "readings": [],
   "listening": []
  },
@@ -3082,7 +3213,8 @@
   "id": "unit:hsk6:42",
   "no": 42,
   "level": "hsk6",
-  "title": "Unit 42",
+  "title": "Harmony, willpower and irrigation",
+  "title_ja": "和睦・意志・灌漑",
   "chars": [
    "hanzi:睦",
    "hanzi:毅",
@@ -3141,15 +3273,20 @@
    "vocab:hsk6:ting2zhi4-停滞",
    "vocab:hsk6:yi4ran2-毅然"
   ],
-  "grammar": [],
-  "readings": [],
+  "grammar": [
+   "gram:hsk6:tangruo"
+  ],
+  "readings": [
+   "read:hsk6:006"
+  ],
   "listening": []
  },
  {
   "id": "unit:hsk6:43",
   "no": 43,
   "level": "hsk6",
-  "title": "Unit 43",
+  "title": "Decay, climbing and surging",
+  "title_ja": "腐朽・登攀・湧出",
   "chars": [
    "hanzi:敷",
    "hanzi:衍",
@@ -3207,7 +3344,9 @@
    "vocab:hsk6:lin4se4-吝啬",
    "vocab:hsk6:ji2zao4-急躁"
   ],
-  "grammar": [],
+  "grammar": [
+   "gram:hsk6:shenzhiyu"
+  ],
   "readings": [],
   "listening": []
  },
@@ -3215,7 +3354,8 @@
   "id": "unit:hsk6:44",
   "no": 44,
   "level": "hsk6",
-  "title": "Unit 44",
+  "title": "Hunting, migration and luck",
+  "title_ja": "狩り・移住・吉祥",
   "chars": [
    "hanzi:狈",
    "hanzi:蹋",
@@ -3284,7 +3424,8 @@
   "id": "unit:hsk6:45",
   "no": 45,
   "level": "hsk6",
-  "title": "Unit 45",
+  "title": "Levers, resilience and harbors",
+  "title_ja": "てこ・粘り・港",
   "chars": [
    "hanzi:杠",
    "hanzi:杆",
@@ -3340,15 +3481,20 @@
    "vocab:hsk6:bian3yi4-贬义",
    "vocab:hsk6:ku3jin4gan1lai2-苦尽甘来"
   ],
-  "grammar": [],
+  "grammar": [
+   "gram:hsk6:guran"
+  ],
   "readings": [],
-  "listening": []
+  "listening": [
+   "listen:hsk6:005"
+  ]
  },
  {
   "id": "unit:hsk6:46",
   "no": 46,
   "level": "hsk6",
-  "title": "Unit 46",
+  "title": "Day and night, lakes and mysteries",
+  "title_ja": "昼夜・湖・神秘",
   "chars": [
    "hanzi:狠",
    "hanzi:昼",
@@ -3406,7 +3552,9 @@
    "vocab:hsk6:ting2bo2-停泊",
    "vocab:hsk6:wu1mie4-污蔑"
   ],
-  "grammar": [],
+  "grammar": [
+   "gram:hsk6:zaiyu"
+  ],
   "readings": [],
   "listening": []
  },
@@ -3414,7 +3562,8 @@
   "id": "unit:hsk6:47",
   "no": 47,
   "level": "hsk6",
-  "title": "Unit 47",
+  "title": "Taboos, inlays and foundations",
+  "title_ja": "禁忌・象嵌・基礎",
   "chars": [
    "hanzi:忌",
    "hanzi:惮",
@@ -3477,7 +3626,9 @@
    "vocab:hsk6:que2-瘸",
    "vocab:hsk6:mo3sha1-抹杀"
   ],
-  "grammar": [],
+  "grammar": [
+   "gram:hsk6:youyu-formal"
+  ],
   "readings": [],
   "listening": []
  },
@@ -3485,7 +3636,8 @@
   "id": "unit:hsk6:48",
   "no": 48,
   "level": "hsk6",
-  "title": "Unit 48",
+  "title": "Recitation, farming and sprouts",
+  "title_ja": "朗誦・耕作・芽生え",
   "chars": [
    "hanzi:腮",
    "hanzi:诵",
@@ -3551,7 +3703,8 @@
   "id": "unit:hsk6:49",
   "no": 49,
   "level": "hsk6",
-  "title": "Unit 49",
+  "title": "Hail, modesty and prosperity",
+  "title_ja": "ひょう・謙虚・繁栄",
   "chars": [
    "hanzi:雹",
    "hanzi:疙",
@@ -3614,15 +3767,20 @@
    "vocab:hsk6:cha4-岔",
    "vocab:hsk6:zhuang1xie4-装卸"
   ],
-  "grammar": [],
-  "readings": [],
+  "grammar": [
+   "gram:hsk6:suo"
+  ],
+  "readings": [
+   "read:hsk6:007"
+  ],
   "listening": []
  },
  {
   "id": "unit:hsk6:50",
   "no": 50,
   "level": "hsk6",
-  "title": "Unit 50",
+  "title": "Rust, mottos and fleets",
+  "title_ja": "さび・座右の銘・艦隊",
   "chars": [
    "hanzi:锈",
    "hanzi:苟",
@@ -3681,7 +3839,9 @@
    "vocab:hsk6:han2xuan1-寒暄",
    "vocab:hsk6:ding1zhu3-叮嘱"
   ],
-  "grammar": [],
+  "grammar": [
+   "gram:hsk6:shuolaishuoqu"
+  ],
   "readings": [],
   "listening": []
  },
@@ -3689,7 +3849,8 @@
   "id": "unit:hsk6:51",
   "no": 51,
   "level": "hsk6",
-  "title": "Unit 51",
+  "title": "Feasts, forgiveness and courage",
+  "title_ja": "ごちそう・許し・気迫",
   "chars": [
    "hanzi:馋",
    "hanzi:遮",
@@ -3750,7 +3911,8 @@
   "id": "unit:hsk6:52",
   "no": 52,
   "level": "hsk6",
-  "title": "Unit 52",
+  "title": "Vast lands and deep roots",
+  "title_ja": "広大な大地と深い根",
   "chars": [
    "hanzi:怠",
    "hanzi:哺",
@@ -3811,13 +3973,16 @@
   ],
   "grammar": [],
   "readings": [],
-  "listening": []
+  "listening": [
+   "listen:hsk6:006"
+  ]
  },
  {
   "id": "unit:hsk6:53",
   "no": 53,
   "level": "hsk6",
-  "title": "Unit 53",
+  "title": "Hills, integrity and fertile soil",
+  "title_ja": "丘陵・清廉・肥沃",
   "chars": [
    "hanzi:筋",
    "hanzi:椭",
@@ -3873,7 +4038,9 @@
    "vocab:hsk6:mao4sheng4-茂盛",
    "vocab:hsk6:wu4mei3jia4lian2-物美价廉"
   ],
-  "grammar": [],
+  "grammar": [
+   "gram:hsk6:buliao"
+  ],
   "readings": [],
   "listening": []
  },
@@ -3881,7 +4048,8 @@
   "id": "unit:hsk6:54",
   "no": 54,
   "level": "hsk6",
-  "title": "Unit 54",
+  "title": "Mourning, hesitation and wit",
+  "title_ja": "哀悼・ためらい・機転",
   "chars": [
    "hanzi:贤",
    "hanzi:悼",
@@ -3939,7 +4107,8 @@
   "id": "unit:hsk6:55",
   "no": 55,
   "level": "hsk6",
-  "title": "Unit 55",
+  "title": "Dams, pastures and vigor",
+  "title_ja": "堤防・牧畜・活気",
   "chars": [
    "hanzi:婆",
    "hanzi:旷",
@@ -4004,7 +4173,8 @@
   "id": "unit:hsk6:56",
   "no": 56,
   "level": "hsk6",
-  "title": "Unit 56",
+  "title": "Robes, thrift and prosperity",
+  "title_ja": "旗袍・倹約・繁栄",
   "chars": [
    "hanzi:袍",
    "hanzi:稠",
@@ -4067,7 +4237,8 @@
   "id": "unit:hsk6:57",
   "no": 57,
   "level": "hsk6",
-  "title": "Unit 57",
+  "title": "Rivers, cliffs and knights",
+  "title_ja": "川・崖・武侠",
   "chars": [
    "hanzi:川",
    "hanzi:斑",
@@ -4125,7 +4296,9 @@
    "vocab:hsk6:zhuan1wa3-砖瓦",
    "vocab:hsk6:jin3xiu4qian2cheng2-锦绣前程"
   ],
-  "grammar": [],
+  "grammar": [
+   "gram:hsk6:qi3"
+  ],
   "readings": [],
   "listening": []
  },
@@ -4133,7 +4306,8 @@
   "id": "unit:hsk6:58",
   "no": 58,
   "level": "hsk6",
-  "title": "Unit 58",
+  "title": "Beasts, buttons and farewells",
+  "title_ja": "鳥獣・ボタン・締めくくり",
   "chars": [
    "hanzi:禽",
    "hanzi:兽",
@@ -4171,8 +4345,12 @@
    "vocab:hsk6:tan1r55-摊儿",
    "vocab:hsk6:zhao1tou2biao1-招投标"
   ],
-  "grammar": [],
-  "readings": [],
+  "grammar": [
+   "gram:hsk6:jieci-qianzhi"
+  ],
+  "readings": [
+   "read:hsk6:008"
+  ],
   "listening": []
  }
 ]

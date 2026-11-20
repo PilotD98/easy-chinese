@@ -55,7 +55,10 @@
    "vocab:hsk4:xin4ren4-信任",
    "vocab:hsk4:fen1zhi1-分之"
   ],
-  "grammar": [],
+  "grammar": [
+   "gram:hsk4:ba-complement",
+   "gram:hsk4:youyu"
+  ],
   "readings": [],
   "listening": []
  },
@@ -111,9 +114,14 @@
    "vocab:hsk4:nan2shou4-难受",
    "vocab:hsk4:shou4bu4liao3-受不了"
   ],
-  "grammar": [],
+  "grammar": [
+   "gram:hsk4:bei-passive",
+   "gram:hsk4:shenzhi"
+  ],
   "readings": [],
-  "listening": []
+  "listening": [
+   "listen:hsk4:001"
+  ]
  },
  {
   "id": "unit:hsk4:03",
@@ -163,7 +171,10 @@
    "vocab:hsk4:xu3duo1-许多",
    "vocab:hsk4:zu3cheng2-组成"
   ],
-  "grammar": [],
+  "grammar": [
+   "gram:hsk4:zhiyao-zhiyou",
+   "gram:hsk4:yongyuan"
+  ],
   "readings": [],
   "listening": []
  },
@@ -215,8 +226,13 @@
    "vocab:hsk4:zuo4wei4-座位",
    "vocab:hsk4:liu2xue2-留学"
   ],
-  "grammar": [],
-  "readings": [],
+  "grammar": [
+   "gram:hsk4:daodi",
+   "gram:hsk4:yinci"
+  ],
+  "readings": [
+   "read:hsk4:001"
+  ],
   "listening": []
  },
  {
@@ -268,7 +284,10 @@
    "vocab:hsk4:zhun3que4-准确",
    "vocab:hsk4:wang3wang3-往往"
   ],
-  "grammar": [],
+  "grammar": [
+   "gram:hsk4:buguan-dou",
+   "gram:hsk4:lingwai-ciwai"
+  ],
   "readings": [],
   "listening": []
  },
@@ -314,9 +333,14 @@
    "vocab:hsk4:ji2shi3-即使",
    "vocab:hsk4:shou3du1-首都"
   ],
-  "grammar": [],
+  "grammar": [
+   "gram:hsk4:jishi-ye",
+   "gram:hsk4:shouxian-qici"
+  ],
   "readings": [],
-  "listening": []
+  "listening": [
+   "listen:hsk4:002"
+  ]
  },
  {
   "id": "unit:hsk4:07",
@@ -366,7 +390,10 @@
    "vocab:hsk4:guang3gao4-广告",
    "vocab:hsk4:qing3jia4-请假"
   ],
-  "grammar": [],
+  "grammar": [
+   "gram:hsk4:jinguan-danshi",
+   "gram:hsk4:wulun-dou"
+  ],
   "readings": [],
   "listening": []
  },
@@ -416,8 +443,13 @@
    "vocab:hsk4:shi4ying4-适应",
    "vocab:hsk4:zhuan1men2-专门"
   ],
-  "grammar": [],
-  "readings": [],
+  "grammar": [
+   "gram:hsk4:lian-dou",
+   "gram:hsk4:yi-jiu-review"
+  ],
+  "readings": [
+   "read:hsk4:002"
+  ],
   "listening": []
  },
  {
@@ -470,7 +502,10 @@
    "vocab:hsk4:can1guan1-参观",
    "vocab:hsk4:tui1chi2-推迟"
   ],
-  "grammar": [],
+  "grammar": [
+   "gram:hsk4:nandao",
+   "gram:hsk4:yushi"
+  ],
   "readings": [],
   "listening": []
  },
@@ -521,7 +556,10 @@
    "vocab:hsk4:pu3bian4-普遍",
    "vocab:hsk4:an4shi2-按时"
   ],
-  "grammar": [],
+  "grammar": [
+   "gram:hsk4:jingran-juran",
+   "gram:hsk4:fanzheng"
+  ],
   "readings": [],
   "listening": []
  },
@@ -565,7 +603,10 @@
    "vocab:hsk4:zeng1zhang3-增长",
    "vocab:hsk4:shun4bian4-顺便"
   ],
-  "grammar": [],
+  "grammar": [
+   "gram:hsk4:bujin-erqie",
+   "gram:hsk4:fouze"
+  ],
   "readings": [],
   "listening": []
  },
@@ -609,8 +650,13 @@
    "vocab:hsk4:dun4-顿",
    "vocab:hsk4:shi1wang4-失望"
   ],
-  "grammar": [],
-  "readings": [],
+  "grammar": [
+   "gram:hsk4:dagai-yexu",
+   "gram:hsk4:anzhao"
+  ],
+  "readings": [
+   "read:hsk4:003"
+  ],
   "listening": []
  },
  {
@@ -656,7 +702,10 @@
    "vocab:hsk4:wei4dao5-味道",
    "vocab:hsk4:you1dian3-优点"
   ],
-  "grammar": [],
+  "grammar": [
+   "gram:hsk4:jiran-jiu",
+   "gram:hsk4:budebu"
+  ],
   "readings": [],
   "listening": []
  },
@@ -708,9 +757,14 @@
    "vocab:hsk4:biao3ge2-表格",
    "vocab:hsk4:liu2li4-流利"
   ],
-  "grammar": [],
+  "grammar": [
+   "gram:hsk4:jiujing",
+   "gram:hsk4:ji-you"
+  ],
   "readings": [],
-  "listening": []
+  "listening": [
+   "listen:hsk4:003"
+  ]
  },
  {
   "id": "unit:hsk4:15",
@@ -754,7 +808,10 @@
    "vocab:hsk4:wen2zhang1-文章",
    "vocab:hsk4:liao2tian1-聊天"
   ],
-  "grammar": [],
+  "grammar": [
+   "gram:hsk4:yaoshi-jiu",
+   "gram:hsk4:napa"
+  ],
   "readings": [],
   "listening": []
  },
@@ -803,8 +860,13 @@
    "vocab:hsk4:da3yin4-打印",
    "vocab:hsk4:fu4yin4-复印"
   ],
-  "grammar": [],
-  "readings": [],
+  "grammar": [
+   "gram:hsk4:suizhe",
+   "gram:hsk4:tongguo"
+  ],
+  "readings": [
+   "read:hsk4:004"
+  ],
   "listening": []
  },
  {
@@ -857,7 +919,10 @@
    "vocab:hsk4:jie2yue1-节约",
    "vocab:hsk4:ji1lei3-积累"
   ],
-  "grammar": [],
+  "grammar": [
+   "gram:hsk4:kongpa",
+   "gram:hsk4:laibuji"
+  ],
   "readings": [],
   "listening": []
  },
@@ -906,9 +971,14 @@
    "vocab:hsk4:tan2-弹",
    "vocab:hsk4:hu4shi5-护士"
   ],
-  "grammar": [],
+  "grammar": [
+   "gram:hsk4:shoubuliao",
+   "gram:hsk4:buru"
+  ],
   "readings": [],
-  "listening": []
+  "listening": [
+   "listen:hsk4:004"
+  ]
  },
  {
   "id": "unit:hsk4:19",
@@ -954,7 +1024,10 @@
    "vocab:hsk4:la4-辣",
    "vocab:hsk4:fu4-富"
   ],
-  "grammar": [],
+  "grammar": [
+   "gram:hsk4:yuqi-buru",
+   "gram:hsk4:yifangmian"
+  ],
   "readings": [],
   "listening": []
  },
@@ -1004,8 +1077,13 @@
    "vocab:hsk4:shang1liang5-商量",
    "vocab:hsk4:xing4bie2-性别"
   ],
-  "grammar": [],
-  "readings": [],
+  "grammar": [
+   "gram:hsk4:zai-ye",
+   "gram:hsk4:yue-yue-review"
+  ],
+  "readings": [
+   "read:hsk4:005"
+  ],
   "listening": []
  },
  {
@@ -1049,7 +1127,10 @@
    "vocab:hsk4:zhu2jian4-逐渐",
    "vocab:hsk4:bao4qian4-抱歉"
   ],
-  "grammar": [],
+  "grammar": [
+   "gram:hsk4:jieguo",
+   "gram:hsk4:conglai"
+  ],
   "readings": [],
   "listening": []
  },
@@ -1092,9 +1173,14 @@
    "vocab:hsk4:tai2-抬",
    "vocab:hsk4:kuo4da4-扩大"
   ],
-  "grammar": [],
+  "grammar": [
+   "gram:hsk4:jihu",
+   "gram:hsk4:jianzhi"
+  ],
   "readings": [],
-  "listening": []
+  "listening": [
+   "listen:hsk4:005"
+  ]
  },
  {
   "id": "unit:hsk4:23",
@@ -1135,7 +1221,10 @@
    "vocab:hsk4:fan3ying4-反映",
    "vocab:hsk4:zhi2wu4-植物"
   ],
-  "grammar": [],
+  "grammar": [
+   "gram:hsk4:duiyu-guanyu",
+   "gram:hsk4:yi-wei"
+  ],
   "readings": [],
   "listening": []
  },
@@ -1180,8 +1269,12 @@
    "vocab:hsk4:dai4ti4-代替",
    "vocab:hsk4:ke1-棵"
   ],
-  "grammar": [],
-  "readings": [],
+  "grammar": [
+   "gram:hsk4:yixiazi"
+  ],
+  "readings": [
+   "read:hsk4:006"
+  ],
   "listening": []
  },
  {
@@ -1225,7 +1318,10 @@
    "vocab:hsk4:da3rao3-打扰",
    "vocab:hsk4:que1dian3-缺点"
   ],
-  "grammar": [],
+  "grammar": [
+   "gram:hsk4:shaowei",
+   "gram:hsk4:chadianr"
+  ],
   "readings": [],
   "listening": []
  },
@@ -1276,9 +1372,14 @@
    "vocab:hsk4:san4bu4-散步",
    "vocab:hsk4:ma3hu5-马虎"
   ],
-  "grammar": [],
+  "grammar": [
+   "gram:hsk4:qilai",
+   "gram:hsk4:xiaqu"
+  ],
   "readings": [],
-  "listening": []
+  "listening": [
+   "listen:hsk4:006"
+  ]
  },
  {
   "id": "unit:hsk4:27",
@@ -1323,7 +1424,10 @@
    "vocab:hsk4:wo4shou3-握手",
    "vocab:hsk4:ke2sou5-咳嗽"
   ],
-  "grammar": [],
+  "grammar": [
+   "gram:hsk4:chulai",
+   "gram:hsk4:guolai-guoqu"
+  ],
   "readings": [],
   "listening": []
  },
@@ -1369,8 +1473,13 @@
    "vocab:hsk4:zhai3-窄",
    "vocab:hsk4:zheng3qi2-整齐"
   ],
-  "grammar": [],
-  "readings": [],
+  "grammar": [
+   "gram:hsk4:le-vs-guo",
+   "gram:hsk4:zhe-review"
+  ],
+  "readings": [
+   "read:hsk4:007"
+  ],
   "listening": []
  },
  {
@@ -1409,7 +1518,9 @@
    "vocab:hsk4:jiao3zi5-饺子",
    "vocab:hsk4:la1ji1tong3-垃圾桶"
   ],
-  "grammar": [],
+  "grammar": [
+   "gram:hsk4:dongci-chongdie"
+  ],
   "readings": [],
   "listening": []
  },
@@ -1457,7 +1568,9 @@
    "vocab:hsk4:cu1xin1-粗心",
    "vocab:hsk4:yu4xi2-预习"
   ],
-  "grammar": [],
+  "grammar": [
+   "gram:hsk4:xingrongci-chongdie"
+  ],
   "readings": [],
   "listening": []
  },
@@ -1480,8 +1593,12 @@
    "vocab:hsk4:tian2kong4-填空",
    "vocab:hsk4:fang4shu3jia4-放暑假"
   ],
-  "grammar": [],
-  "readings": [],
+  "grammar": [
+   "gram:hsk4:liangci-review"
+  ],
+  "readings": [
+   "read:hsk4:008"
+  ],
   "listening": []
  }
 ]

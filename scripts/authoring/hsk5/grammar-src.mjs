@@ -821,4 +821,231 @@ export const GRAMMAR = [
       { type: 'choose', prompt: 'Which sentence means "I don\'t really like it"?', prompt_ja: '「あまり好きではありません」はどれですか', answer: '我不怎么喜欢。', choices: ['我不怎么喜欢。', '我怎么不喜欢。', '我不喜欢怎么。'], why: '不怎么 sits before the verb it softens.', why_ja: '「不怎么」はやわらげる動詞の前に置きます。' },
       { type: 'produce', prompt: 'Say: "I don\'t much like drinking tea."', prompt_ja: '「私はお茶を飲むのがあまり好きではありません」と言う', answer: '我不大喜欢喝茶', answerPinyin: 'wǒ bù dà xǐ huan hē chá', why: '不大 + 喜欢 + verb phrase.', why_ja: '「不大＋喜欢＋動詞句」です。' },
     ] },
+
+  // ───────────────────────── Unit 25 ─────────────────────────
+  { id: 'zong-suan-zhong-yu', unit: 25, title: '总算 vs 终于: finally, at last', title_ja: '总算と终于：ようやく、ついに',
+    pattern: 'S + 总算/终于 + V + 了', summary: '终于 reports an outcome after a long time; 总算 adds relief', summary_ja: '终于は長い時間の末の結果、总算は安堵を添える',
+    explanation: 'Both adverbs mean "finally" and go before the verb, usually with 了 at the end. 终于 simply reports that something long awaited or worked for has happened, good or bad, and it is neutral in register: 他终于成功了. 总算 adds the speaker\'s relief that a difficult wait or effort is over and the result is at least acceptable: 车总算来了 "the bus is here at last". 总算 is colloquial and often sounds like a sigh; it is rarely used for bad outcomes. In most sentences you can replace 总算 with 终于, but not always the other way round.',
+    explanation_ja: 'どちらも「ようやく」を表す副詞で、動詞の前に置き、ふつう文末に「了」を伴います。「终于」は長く待った、努力したことが起きたと単に報告し、良い結果にも悪い結果にも使え、文体は中立です（他终于成功了）。「总算」は困難な待ち時間や努力が終わり、結果がまずまずだという話し手の安堵を添えます（车总算来了「やっとバスが来た」）。「总算」は口語的でため息のように聞こえることが多く、悪い結果にはほとんど使いません。多くの文で「总算」は「终于」に置き換えられますが、逆は必ずしも成り立ちません。',
+    ex: [
+      ['等了三个小时，车总算来了。', 'děng le sān ge xiǎo shí, chē zǒng suàn lái le.', 'After waiting three hours, the bus finally came.', '三時間待って、バスがやっと来ました。'],
+      ['经过多年的努力，他终于成功了。', 'jīng guò duō nián de nǔ lì, tā zhōng yú chéng gōng le.', 'After years of effort, he finally succeeded.', '長年の努力の末、彼はついに成功しました。'],
+      ['作业总算写完了。', 'zuò yè zǒng suàn xiě wán le.', 'The homework is finally done.', '宿題がやっと書き終わりました。'],
+      ['你总算来了，我们等你半天了。', 'nǐ zǒng suàn lái le, wǒ men děng nǐ bàn tiān le.', 'You are here at last; we have been waiting ages.', 'やっと来ましたね。私たちはずっと待っていました。'],
+    ],
+    mistakes: ['Using 总算 for a bad result: 他总算失败了 sounds wrong; use 终于.', 'Forgetting the final 了, which both adverbs normally need.'],
+    mistakes_ja: ['悪い結果に「总算」を使わないこと。「他总算失败了」は不自然で、「终于」を使います。', '文末の「了」を忘れないこと。どちらの副詞もふつう必要です。'],
+    exercises: [
+      { type: 'fill', prompt: '雨＿停了，我们可以出去了。', answer: '总算', choices: ['总算', '算了', '总是'], why: 'The rain stopping after a wait is a relief, so 总算 fits.', why_ja: '待った末に雨が止んだ安堵なので、「总算」が合います。' },
+      { type: 'choose', prompt: 'Which sentence neutrally reports an outcome after long effort?', prompt_ja: '長い努力の末の結果を中立的に述べている文はどれですか', answer: '他终于考上了大学。', choices: ['他终于考上了大学。', '他总是考上了大学。', '他算了考上了大学。'], why: '终于 reports the long-awaited outcome; the others are not "finally".', why_ja: '「终于」が待ち望んだ結果を報告します。ほかは「ようやく」の意味ではありません。' },
+      { type: 'produce', prompt: 'Say (with relief): "The bus finally came."', prompt_ja: '「バスがやっと来ました」と安堵して言う', answer: '车总算来了', answerPinyin: 'chē zǒng suàn lái le', why: '总算 before the verb, 了 at the end.', why_ja: '「总算」を動詞の前に、「了」を文末に置きます。' },
+    ] },
+
+  // ───────────────────────── Unit 26 ─────────────────────────
+  { id: 'nan-guai', unit: 26, title: '难怪 / 怪不得: no wonder', title_ja: '难怪／怪不得：どうりで',
+    pattern: '难怪/怪不得 + fact, (原来) + reason', summary: 'A puzzling fact suddenly makes sense', summary_ja: '不思議だったことの理由が分かる',
+    explanation: '难怪 and 怪不得 both mean "no wonder": the speaker has just learned the reason for something that puzzled them. They go at the start of the clause that states the puzzling fact, and the reason often follows with 原来 or has been given just before: 难怪他没来，原来他病了. The two are interchangeable; 怪不得 is a touch more colloquial. Do not confuse them with 难道, which asks a rhetorical question, or with 奇怪 "strange".',
+    explanation_ja: '「难怪」「怪不得」はどちらも「どうりで」を表し、不思議に思っていたことの理由を話し手が知ったばかりであることを示します。不思議だった事実を述べる節の頭に置き、理由は「原来」とともに後に続くか、直前に述べられています（难怪他没来，原来他病了）。二つは入れ替え可能で、「怪不得」のほうがやや口語的です。反語の疑問を作る「难道」や、「奇怪（変だ）」と混同しないでください。',
+    ex: [
+      ['难怪他没来，原来他病了。', 'nán guài tā méi lái, yuán lái tā bìng le.', 'No wonder he did not come; it turns out he was ill.', 'どうりで彼は来なかったのですね。病気だったのです。'],
+      ['怪不得这么冷，窗户开着呢。', 'guài bù de zhè me lěng, chuāng hu kāi zhe ne.', 'No wonder it is so cold; the window is open.', 'どうりで寒いわけです。窓が開いています。'],
+      ['他每天练习，难怪说得这么好。', 'tā měi tiān liàn xí, nán guài shuō de zhè me hǎo.', 'He practises every day; no wonder he speaks so well.', '彼は毎日練習しています。どうりでこんなに上手に話せるのですね。'],
+      ['怪不得你找不到，东西在隔壁房间。', 'guài bù de nǐ zhǎo bù dào, dōng xi zài gé bì fáng jiān.', 'No wonder you cannot find it; it is in the next room.', 'どうりで見つからないわけです。物は隣の部屋にあります。'],
+    ],
+    mistakes: ['Confusing 难怪 with 难道 (could it be that…?).', 'Using 难怪 before the reason instead of before the puzzling fact.'],
+    mistakes_ja: ['「难怪」を「难道（まさか…なのか）」と混同しないこと。', '「难怪」を理由の前ではなく、不思議だった事実の前に置くこと。'],
+    exercises: [
+      { type: 'fill', prompt: '＿他这么高兴，原来他赢了。', answer: '难怪', choices: ['难怪', '奇怪', '难道'], why: 'The reason (he won) explains his joy: 难怪…原来.', why_ja: '理由（勝った）が喜びを説明するので、「难怪…原来」です。' },
+      { type: 'choose', prompt: 'Which sentence means "No wonder she cried"?', prompt_ja: '「どうりで彼女は泣いたわけです」はどれですか', answer: '怪不得她哭了。', choices: ['怪不得她哭了。', '奇怪得她哭了。', '怪得不她哭了。'], why: '怪不得 is a fixed phrase; its characters cannot be reordered.', why_ja: '「怪不得」は固定表現で、字の順序は変えられません。' },
+      { type: 'produce', prompt: 'Say: "No wonder he did not come."', prompt_ja: '「どうりで彼は来なかったのですね」と言う', answer: '难怪他没来', answerPinyin: 'nán guài tā méi lái', why: '难怪 opens the clause stating the puzzling fact.', why_ja: '「难怪」を不思議だった事実を述べる節の頭に置きます。' },
+    ] },
+
+  // ───────────────────────── Unit 27 ─────────────────────────
+  { id: 'shi-er', unit: 27, title: '时而…时而: now … now …', title_ja: '时而…时而：…したり…したり',
+    pattern: 'S + 时而 + A, 时而 + B', summary: 'Two states or actions alternate irregularly', summary_ja: '二つの状態や動作が不規則に交替する',
+    explanation: '时而…时而 describes two things that take turns without a fixed pattern: 天气时而晴，时而雨 "the weather is now sunny, now rainy". A and B are usually short and parallel, often opposites. The pattern is somewhat literary and appears in descriptions and narrative writing; in conversation people more often say 一会儿…一会儿. The subject is stated once, before the first 时而.',
+    explanation_ja: '「时而…时而」は、決まった型なく交互に起きる二つのことを描写します（天气时而晴，时而雨「天気は晴れたり雨が降ったりだ」）。AとBはふつう短く並列で、反対の内容が多いです。やや文語的で、描写文や物語に現れ、会話では「一会儿…一会儿」のほうがよく使われます。主語は最初の「时而」の前に一度だけ述べます。',
+    ex: [
+      ['天气时而晴，时而雨。', 'tiān qì shí ér qíng, shí ér yǔ.', 'The weather is now sunny, now rainy.', '天気は晴れたり雨が降ったりです。'],
+      ['他时而高兴，时而难过。', 'tā shí ér gāo xìng, shí ér nán guò.', 'He is happy one moment and sad the next.', '彼は喜んだり悲しんだりしています。'],
+      ['河水时而快，时而慢。', 'hé shuǐ shí ér kuài, shí ér màn.', 'The river runs now fast, now slow.', '川の流れは速くなったり遅くなったりします。'],
+      ['她时而看书，时而看手机。', 'tā shí ér kàn shū, shí ér kàn shǒu jī.', 'She reads for a while, then looks at her phone, and so on.', '彼女は本を読んだりスマホを見たりしています。'],
+    ],
+    mistakes: ['Using 时而 only once; it needs a pair.', 'Repeating the subject before the second 时而.'],
+    mistakes_ja: ['「时而」を一度だけ使わないこと。対で使います。', '二つ目の「时而」の前で主語を繰り返さないこと。'],
+    exercises: [
+      { type: 'fill', prompt: '天气＿冷，时而热。', answer: '时而', choices: ['时而', '有时', '时候'], why: 'The second 时而 requires a first 时而 to pair with.', why_ja: '二つ目の「时而」には対になる最初の「时而」が必要です。' },
+      { type: 'order', prompt: 'Make: "He laughs one moment and cries the next."', prompt_ja: '「彼は笑ったり泣いたりしています」を作る', answer: '他时而笑时而哭', choices: ['他', '时而', '笑', '时而', '哭'], why: 'Subject once, then 时而 A 时而 B.', why_ja: '主語を一度置き、「时而A时而B」と続けます。' },
+      { type: 'produce', prompt: 'Say: "She reads for a while, then looks at her phone."', prompt_ja: '「彼女は本を読んだりスマホを見たりしています」と言う', answer: '她时而看书时而看手机', answerPinyin: 'tā shí ér kàn shū shí ér kàn shǒu jī', why: 'Two parallel verb phrases after each 时而.', why_ja: 'それぞれの「时而」の後に並列の動詞句を置きます。' },
+    ] },
+
+  // ───────────────────────── Unit 28 ─────────────────────────
+  { id: 'zong-zhi', unit: 28, title: '总之: in short, in a word', title_ja: '总之：要するに',
+    pattern: 'details, 总之 + conclusion', summary: 'Sums up a list of points in one statement', summary_ja: '並べた内容を一文でまとめる',
+    explanation: '总之 opens a sentence that sums up what has just been said or listed: 他又聪明又努力，总之是个好学生. It can also close a discussion with the speaker\'s bottom line (总之，你别担心). It is neutral in register and useful at the end of a paragraph in essays and speeches; 总而言之 is a longer, more formal variant. 总之 is normally followed by a comma or by the subject.',
+    explanation_ja: '「总之」は、直前に述べた・並べた内容をまとめる文を導きます（他又聪明又努力，总之是个好学生）。話を締めくくって話し手の結論を言うときにも使えます（总之，你别担心）。文体は中立で、作文やスピーチの段落の終わりに便利です。「总而言之」はより長く改まった形です。「总之」の後にはふつうコンマか主語が続きます。',
+    ex: [
+      ['总之，这次活动很成功。', 'zǒng zhī, zhè cì huó dòng hěn chéng gōng.', 'In short, this event was a success.', '要するに、今回のイベントは成功でした。'],
+      ['他又聪明又努力，总之是个好学生。', 'tā yòu cōng míng yòu nǔ lì, zǒng zhī shì ge hǎo xué shēng.', 'He is both clever and hard-working; in a word, a good student.', '彼は賢くて努力家で、要するに良い学生です。'],
+      ['总之，你别担心。', 'zǒng zhī, nǐ bié dān xīn.', 'Anyway, don\'t worry.', 'とにかく、心配しないでください。'],
+      ['天气恶劣，路又远，总之我们不去了。', 'tiān qì è liè, lù yòu yuǎn, zǒng zhī wǒ men bù qù le.', 'The weather is terrible and the road is long; in short, we are not going.', '天気は悪いし道は遠いし、要するに私たちは行きません。'],
+    ],
+    mistakes: ['Confusing 总之 with 总算 (finally) or 总是 (always).', 'Using 总之 when nothing has been listed before it.'],
+    mistakes_ja: ['「总之」を「总算（ようやく）」「总是（いつも）」と混同しないこと。', '前に何も並べていないのに「总之」を使わないこと。'],
+    exercises: [
+      { type: 'fill', prompt: '＿，我不同意这个计划。', answer: '总之', choices: ['总之', '总算', '总是'], why: 'The sentence states the bottom line: 总之.', why_ja: '結論を述べる文なので、「总之」です。' },
+      { type: 'order', prompt: 'Make: "In short, we cannot give up."', prompt_ja: '「要するに、私たちはあきらめてはいけません」を作る', answer: '总之我们不能放弃', choices: ['总之', '我们', '不能', '放弃'], why: '总之 first, then the summarizing clause.', why_ja: '「总之」を先に置き、まとめの節が続きます。' },
+      { type: 'produce', prompt: 'Say: "Anyway, don\'t worry."', prompt_ja: '「とにかく、心配しないでください」と言う', answer: '总之你别担心', answerPinyin: 'zǒng zhī nǐ bié dān xīn', why: '总之 + the speaker\'s bottom line.', why_ja: '「总之＋話し手の結論」です。' },
+    ] },
+
+  // ───────────────────────── Unit 29 ─────────────────────────
+  { id: 'he-bi', unit: 29, title: '何必: why bother, there is no need', title_ja: '何必：…する必要はない',
+    pattern: 'S + 何必 + V + (呢)?', summary: 'A rhetorical question meaning "there is no need to"', summary_ja: '「…する必要はない」という反語',
+    explanation: '何必 asks "why must you…?" and means that the action is unnecessary: 你何必这么生气呢？ "why get so angry?". It goes before the verb and the sentence often ends in 呢. It is a soft way of advising someone not to do something and is common in everyday speech; 不必 says the same thing plainly. 何必 can also stand alone as a comment (何必呢 "what\'s the point?").',
+    explanation_ja: '「何必」は「どうして…する必要があるのか」と問い、その行動が不要だという意味です（你何必这么生气呢？「そんなに怒ることはないでしょう」）。動詞の前に置き、文末は「呢」で終わることが多いです。やんわりと「しなくていい」と助言する言い方で、日常会話によく使われ、「不必」は同じことを率直に言う形です。「何必」は単独でも使えます（何必呢「何のために」）。',
+    ex: [
+      ['你何必这么生气呢？', 'nǐ hé bì zhè me shēng qì ne?', 'Why get so angry?', 'そんなに怒る必要はないでしょう。'],
+      ['这么近，何必坐车？', 'zhè me jìn, hé bì zuò chē?', 'It is so close; why bother taking the bus?', 'こんなに近いのに、車に乗る必要はありません。'],
+      ['既然他不想去，何必让他去？', 'jì rán tā bù xiǎng qù, hé bì ràng tā qù?', 'Since he does not want to go, why make him?', '彼が行きたくないのなら、行かせる必要はないでしょう。'],
+      ['何必花这么多钱买名牌？', 'hé bì huā zhè me duō qián mǎi míng pái?', 'Why spend so much money on brand names?', 'こんなにお金をかけてブランド品を買う必要はないでしょう。'],
+    ],
+    mistakes: ['Answering a 何必 question literally; it is rhetorical.', 'Confusing 何必 with 必须 (must).'],
+    mistakes_ja: ['「何必」の問いに文字どおり答えないこと。反語です。', '「何必」を「必须（…しなければならない）」と混同しないこと。'],
+    exercises: [
+      { type: 'fill', prompt: '这么点儿小事，你＿生气呢？', answer: '何必', choices: ['何必', '必须', '何况'], why: 'The speaker says anger is unnecessary: 何必…呢.', why_ja: '怒る必要はないと言っているので、「何必…呢」です。' },
+      { type: 'choose', prompt: 'Which sentence means "It is so close; why bother taking a taxi?"', prompt_ja: '「こんなに近いのに、タクシーに乗る必要はないでしょう」はどれですか', answer: '这么近，何必打车？', choices: ['这么近，何必打车？', '这么近，必须打车。', '这么近，何况打车？'], why: '何必 marks the action as unnecessary.', why_ja: '「何必」がその行動を不要だと示します。' },
+      { type: 'produce', prompt: 'Say: "Why be in such a hurry?"', prompt_ja: '「そんなに急ぐ必要はないでしょう」と言う', answer: '何必这么着急', answerPinyin: 'hé bì zhè me zháo jí', why: '何必 + the unnecessary action.', why_ja: '「何必＋不要な行動」です。' },
+    ] },
+
+  // ───────────────────────── Unit 30 ─────────────────────────
+  { id: 'he-kuang', unit: 30, title: '何况 / 况且: let alone; besides', title_ja: '何况／况且：まして、そのうえ',
+    pattern: 'A …, (更)何况 + B 呢?　|　A, 况且 + B', summary: 'Adds a stronger case (何况) or a further reason (况且)', summary_ja: '何况はより強い例を、况且は追加の理由を加える',
+    explanation: '何况 introduces a case that is even more obvious than the one just given: 大人都不懂，何况孩子呢？ "even adults do not understand, let alone children". It often follows 连…都 or 都 and is strengthened to 更何况. 况且 simply adds one more reason to an argument ("besides, moreover"): 太贵了，况且我也不喜欢. Both are slightly formal and common in persuasion and essays; 何况 sentences usually end in 呢.',
+    explanation_ja: '「何况」は、直前に挙げた例よりさらに明白な例を導きます（大人都不懂，何况孩子呢？「大人でも分からないのに、まして子どもは」）。「连…都」や「都」の後によく現れ、「更何况」と強めることもあります。「况且」は議論に理由をもう一つ加えるだけです（「そのうえ」：太贵了，况且我也不喜欢）。どちらもやや改まった語で、説得や論説によく使われます。「何况」の文はふつう「呢」で終わります。',
+    ex: [
+      ['这个问题大人都不懂，何况孩子呢？', 'zhè ge wèn tí dà rén dōu bù dǒng, hé kuàng hái zi ne?', 'Even adults do not understand this question, let alone children.', 'この問題は大人でも分からないのに、まして子どもはなおさらです。'],
+      ['天太晚了，何况还下着雨，别去了。', 'tiān tài wǎn le, hé kuàng hái xià zhe yǔ, bié qù le.', 'It is too late, and besides it is raining; don\'t go.', 'もう遅いし、まして雨も降っているのだから、行くのはやめなさい。'],
+      ['这件衣服太贵了，况且我也不太喜欢。', 'zhè jiàn yī fu tài guì le, kuàng qiě wǒ yě bù tài xǐ huan.', 'This dress is too expensive, and besides, I do not really like it.', 'この服は高すぎるし、そのうえあまり好きでもありません。'],
+      ['他连中文都不会说，更何况写文章了。', 'tā lián zhōng wén dōu bù huì shuō, gèng hé kuàng xiě wén zhāng le.', 'He cannot even speak Chinese, let alone write essays.', '彼は中国語を話すことさえできないのに、まして文章を書くなんて無理です。'],
+    ],
+    mistakes: ['Using 况且 for "let alone"; that is 何况.', 'Confusing 何况 with 何必 (why bother).'],
+    mistakes_ja: ['「まして」に「况且」を使わないこと。それは「何况」です。', '「何况」を「何必（…する必要はない）」と混同しないこと。'],
+    exercises: [
+      { type: 'fill', prompt: '他都不会，＿我呢？', answer: '何况', choices: ['何况', '何必', '况且'], why: 'A stronger case ("let alone me") takes 何况…呢.', why_ja: 'より強い例（「まして私は」）には「何况…呢」です。' },
+      { type: 'order', prompt: 'Make: "It is too late, and besides it is still raining."', prompt_ja: '「もう遅いし、そのうえまだ雨が降っています」を作る', answer: '太晚了况且还下着雨', choices: ['太晚了', '况且', '还下着雨'], why: '况且 adds a second reason after the first.', why_ja: '「况且」が最初の理由の後に二つ目の理由を加えます。' },
+      { type: 'produce', prompt: 'Say: "Even adults do not understand, let alone children."', prompt_ja: '「大人でも分からないのに、まして子どもは」と言う', answer: '大人都不懂何况孩子呢', answerPinyin: 'dà rén dōu bù dǒng hé kuàng hái zi ne', why: '都 in the first clause, 何况…呢 in the second.', why_ja: '最初の節に「都」、二つ目に「何况…呢」です。' },
+    ] },
+
+  // ───────────────────────── Unit 33 ─────────────────────────
+  { id: 'ning-ke', unit: 33, title: '宁可…也不/也要: would rather … than', title_ja: '宁可…也不／也要：むしろ…しても',
+    pattern: '宁可 + A, 也不 + B　|　宁可 + A, 也要 + B', summary: 'Chooses the lesser evil to avoid or achieve something', summary_ja: '何かを避ける・成し遂げるために不利なほうを選ぶ',
+    explanation: '宁可 (nìng kě) presents a choice that is not attractive in itself but is preferred to the alternative. 宁可A，也不B means "would rather A than B": 我宁可走路，也不坐这么挤的车. 宁可A，也要B means "would even A in order to B": 他宁可不吃饭，也要把工作做完. 宁愿 is a synonym. The pattern is neutral in register and shows strong determination. A is the sacrifice; B is what is avoided (也不) or achieved (也要).',
+    explanation_ja: '「宁可（nìng kě）」は、それ自体は望ましくないが、もう一方よりは良いという選択を示します。「宁可A，也不B」は「BするくらいならむしろA」（我宁可走路，也不坐这么挤的车）、「宁可A，也要B」は「Aしてでも必ずB」（他宁可不吃饭，也要把工作做完）です。「宁愿」は同義語です。文体は中立で、強い決意を表します。Aは犠牲、Bは避けること（也不）または成し遂げること（也要）です。',
+    ex: [
+      ['我宁可走路，也不坐这么挤的车。', 'wǒ nìng kě zǒu lù, yě bù zuò zhè me jǐ de chē.', 'I would rather walk than take such a crowded bus.', 'こんなに混んだバスに乗るくらいなら、むしろ歩きます。'],
+      ['他宁可不吃饭，也要把工作做完。', 'tā nìng kě bù chī fàn, yě yào bǎ gōng zuò zuò wán.', 'He would rather skip meals than leave the work unfinished.', '彼は食事を抜いてでも、仕事を終わらせるつもりです。'],
+      ['宁可慢一点儿，也不要出错。', 'nìng kě màn yī diǎnr, yě bù yào chū cuò.', 'Better to be a bit slow than to make mistakes.', '少し遅くなっても、間違えないほうがいいです。'],
+      ['她宁可自己辛苦，也不麻烦别人。', 'tā nìng kě zì jǐ xīn kǔ, yě bù má fan bié rén.', 'She would rather suffer herself than trouble others.', '彼女は人に迷惑をかけるくらいなら、むしろ自分が苦労します。'],
+    ],
+    mistakes: ['Reading 宁 as níng; in 宁可 it is nìng.', 'Dropping 也: 宁可走路，不坐车 is weaker and sounds incomplete.'],
+    mistakes_ja: ['「宁」を níng と読まないこと。「宁可」では nìng です。', '「也」を落とさないこと。「宁可走路，不坐车」は弱く、不完全に聞こえます。'],
+    exercises: [
+      { type: 'fill', prompt: '我＿饿着，也不吃这个。', answer: '宁可', choices: ['宁可', '可是', '难道'], why: 'Choosing hunger over the food is 宁可…也不.', why_ja: '食べるより空腹を選ぶので、「宁可…也不」です。' },
+      { type: 'order', prompt: 'Make: "He would rather not sleep than leave it unread."', prompt_ja: '「彼は寝なくても、読み終えるつもりです」を作る', answer: '他宁可不睡觉也要看完', choices: ['他', '宁可', '不睡觉', '也要', '看完'], why: '宁可 + sacrifice, 也要 + goal.', why_ja: '「宁可＋犠牲」の後に「也要＋目標」です。' },
+      { type: 'produce', prompt: 'Say: "I would rather walk than take the bus."', prompt_ja: '「バスに乗るくらいなら歩きます」と言う', answer: '我宁可走路也不坐车', answerPinyin: 'wǒ nìng kě zǒu lù yě bù zuò chē', why: '宁可 + preferred option, 也不 + rejected option.', why_ja: '「宁可＋選ぶほう」の後に「也不＋退けるほう」です。' },
+    ] },
+
+  { id: 'fan-shi', unit: 33, title: '凡是…都: all, every … without exception', title_ja: '凡是…都：およそ…はすべて',
+    pattern: '凡是 + N/V的 + (人/事), 都 + V', summary: 'A rule that applies to every member of a group', summary_ja: '集団の全員・全部に当てはまる規則',
+    explanation: '凡是 marks a whole category and 都 in the main clause says the statement holds for every member: 凡是来的人都有礼物 "everyone who comes gets a gift". The phrase after 凡是 is usually a noun modified by 的 (凡是他说的话). The pattern is somewhat formal and typical of rules, announcements and generalizations; 所有…都 is the everyday equivalent. 凡是 cannot refer to a single, specific person.',
+    explanation_ja: '「凡是」は一つの範囲全体を示し、主節の「都」がその全員・全部に当てはまることを述べます（凡是来的人都有礼物「来た人は誰でも贈り物がもらえる」）。「凡是」の後はふつう「的」で修飾された名詞です（凡是他说的话）。やや改まった表現で、規則・お知らせ・一般論に典型的です。日常語は「所有…都」です。「凡是」は特定の一人を指すことはできません。',
+    ex: [
+      ['凡是来的人都有礼物。', 'fán shì lái de rén dōu yǒu lǐ wù.', 'Everyone who comes gets a gift.', '来た人は誰でも贈り物がもらえます。'],
+      ['凡是他说的话，我都相信。', 'fán shì tā shuō de huà, wǒ dōu xiāng xìn.', 'I believe everything he says.', '彼の言うことなら、私は何でも信じます。'],
+      ['凡是参加比赛的学生，都要早点儿到。', 'fán shì cān jiā bǐ sài de xué shēng, dōu yào zǎo diǎnr dào.', 'All students taking part in the competition must arrive early.', '試合に参加する学生は全員、早めに来なければなりません。'],
+      ['凡是去过那里的人，都说那里很美。', 'fán shì qù guò nà lǐ de rén, dōu shuō nà lǐ hěn měi.', 'Everyone who has been there says it is beautiful.', 'そこへ行ったことのある人は皆、とても美しいと言います。'],
+    ],
+    mistakes: ['Forgetting 都 in the main clause.', 'Using 凡是 with a specific individual: 凡是小王都… is wrong.'],
+    mistakes_ja: ['主節の「都」を忘れないこと。', '特定の個人に「凡是」を使わないこと。「凡是小王都…」は誤りです。'],
+    exercises: [
+      { type: 'fill', prompt: '＿努力的人，都会成功。', answer: '凡是', choices: ['凡是', '只是', '但是'], why: 'A rule for the whole category of hard workers: 凡是…都.', why_ja: '努力する人全員への規則なので、「凡是…都」です。' },
+      { type: 'order', prompt: 'Make: "I believe everything he says."', prompt_ja: '「彼の言うことは何でも信じます」を作る', answer: '凡是他说的我都信', choices: ['凡是', '他说的', '我', '都', '信'], why: '凡是 + category, then subject + 都 + verb.', why_ja: '「凡是＋範囲」の後に「主語＋都＋動詞」です。' },
+      { type: 'produce', prompt: 'Say: "Everyone who comes gets a gift."', prompt_ja: '「来た人は誰でも贈り物がもらえます」と言う', answer: '凡是来的人都有礼物', answerPinyin: 'fán shì lái de rén dōu yǒu lǐ wù', why: '凡是 + 来的人 + 都 + predicate.', why_ja: '「凡是＋来的人＋都＋述語」です。' },
+    ] },
+
+  // ───────────────────────── Unit 35 ─────────────────────────
+  { id: 'xing-kui', unit: 35, title: '幸亏 / 多亏: luckily, thanks to', title_ja: '幸亏／多亏：幸いにも、…のおかげで',
+    pattern: '幸亏 + lucky fact, (不然/要不) + bad outcome　|　多亏 + helper, S + 才 + V', summary: 'Something good prevented a bad outcome', summary_ja: '良いことのおかげで悪い結果を免れた',
+    explanation: '幸亏 means "luckily, fortunately" and introduces the circumstance that saved the day: 幸亏你提醒我，不然我就忘了. The second clause often starts with 不然 or 要不 and gives the bad outcome that was avoided. 多亏 "thanks to" is similar but points to the person or thing that helped, and the main clause often has 才: 多亏了你的帮助，我才通过了考试. Both are colloquial and warm in tone and are a natural way to express gratitude.',
+    explanation_ja: '「幸亏」は「幸いにも」を表し、窮地を救った事情を導きます（幸亏你提醒我，不然我就忘了）。後の節は「不然」「要不」で始まり、免れた悪い結果を述べることが多いです。「多亏（…のおかげで）」も似ていますが、助けてくれた人や物を指し、主節に「才」がよく入ります（多亏了你的帮助，我才通过了考试）。どちらも口語的で温かい響きがあり、感謝を伝える自然な言い方です。',
+    ex: [
+      ['幸亏你提醒我，不然我就忘了。', 'xìng kuī nǐ tí xǐng wǒ, bù rán wǒ jiù wàng le.', 'Luckily you reminded me, or I would have forgotten.', 'あなたが注意してくれて助かりました。そうでなければ忘れていました。'],
+      ['多亏了你的帮助，我才通过了考试。', 'duō kuī le nǐ de bāng zhù, wǒ cái tōng guò le kǎo shì.', 'Thanks to your help, I passed the exam.', 'あなたの助けのおかげで、私は試験に合格できました。'],
+      ['幸亏带了伞，不然就麻烦了。', 'xìng kuī dài le sǎn, bù rán jiù má fan le.', 'Luckily I brought an umbrella, or it would have been a problem.', '傘を持ってきてよかったです。そうでなければ困っていました。'],
+      ['幸亏来得早，不然就没座位了。', 'xìng kuī lái de zǎo, bù rán jiù méi zuò wèi le.', 'Luckily we came early, or there would have been no seats.', '早く来てよかったです。そうでなければ席がありませんでした。'],
+    ],
+    mistakes: ['Confusing 幸亏 with 幸福 (happiness) or 吃亏 (to suffer a loss).', 'Using 幸亏 for ordinary good news with no danger avoided.'],
+    mistakes_ja: ['「幸亏」を「幸福（幸せ）」「吃亏（損をする）」と混同しないこと。', '避けた危険がない普通の良い知らせに「幸亏」を使わないこと。'],
+    exercises: [
+      { type: 'fill', prompt: '＿你来了，不然我一个人做不完。', answer: '幸亏', choices: ['幸亏', '幸福', '吃亏'], why: '幸亏…不然 names the lucky fact and the avoided outcome.', why_ja: '「幸亏…不然」で幸運な事実と免れた結果を述べます。' },
+      { type: 'order', prompt: 'Make: "Thanks to your help, I managed to finish."', prompt_ja: '「あなたの助けのおかげで、やっと終えられました」を作る', answer: '多亏你帮忙我才做完', choices: ['多亏', '你帮忙', '我', '才', '做完'], why: '多亏 + helper, then subject + 才 + result.', why_ja: '「多亏＋助け」の後に「主語＋才＋結果」です。' },
+      { type: 'produce', prompt: 'Say: "Luckily you reminded me."', prompt_ja: '「あなたが注意してくれて助かりました」と言う', answer: '幸亏你提醒我', answerPinyin: 'xìng kuī nǐ tí xǐng wǒ', why: '幸亏 + the lucky action.', why_ja: '「幸亏＋幸運な行動」です。' },
+    ] },
+
+  // ───────────────────────── Unit 38 ─────────────────────────
+  { id: 'yu-qi-bu-ru', unit: 38, title: '与其…不如: rather than A, better B', title_ja: '与其…不如：AするよりBするほうがよい',
+    pattern: '与其 + A, 不如 + B', summary: 'Compares two options and recommends the second', summary_ja: '二つの選択肢を比べ、後のほうを勧める',
+    explanation: '与其A，不如B rejects option A in favour of option B: 与其在家看电视，不如出去走走 "rather than watch TV at home, you might as well go out". A and B are parallel verb phrases, and B is the recommended one. 还不如 or 倒不如 strengthen the preference. The pattern is slightly formal but common in advice and essays; in speech 别A了，B吧 is the plain alternative. Compare 宁可A也不B, where A is chosen.',
+    explanation_ja: '「与其A，不如B」はAを退けてBを選びます（与其在家看电视，不如出去走走「家でテレビを見るより、外に出て歩くほうがいい」）。AとBは並列の動詞句で、Bが勧める選択肢です。「还不如」「倒不如」で好みを強められます。やや改まった表現ですが助言や論説でよく使われ、会話では「别A了，B吧」が素朴な言い方です。Aを選ぶ「宁可A也不B」と比べてください。',
+    ex: [
+      ['与其在家看电视，不如出去走走。', 'yǔ qí zài jiā kàn diàn shì, bù rú chū qù zǒu zǒu.', 'Rather than watching TV at home, you might as well go out for a walk.', '家でテレビを見るより、外に出て歩くほうがいいです。'],
+      ['与其等别人帮忙，不如自己动手。', 'yǔ qí děng bié rén bāng máng, bù rú zì jǐ dòng shǒu.', 'Rather than wait for others to help, better do it yourself.', '人の助けを待つより、自分でやるほうがいいです。'],
+      ['与其发愁，不如想办法。', 'yǔ qí fā chóu, bù rú xiǎng bàn fǎ.', 'Rather than worry, better think of a solution.', '悩むより、方法を考えるほうがいいです。'],
+      ['与其买贵的，不如买合适的。', 'yǔ qí mǎi guì de, bù rú mǎi hé shì de.', 'Rather than buy the expensive one, better buy the suitable one.', '高いものを買うより、合ったものを買うほうがいいです。'],
+    ],
+    mistakes: ['Putting the preferred option after 与其; the recommendation comes after 不如.', 'Using 不如 alone for "rather than"; alone it means "not as good as".'],
+    mistakes_ja: ['勧める選択肢を「与其」の後に置かないこと。勧めるものは「不如」の後です。', '「不如」だけで「…するより」を表さないこと。単独では「…に及ばない」です。'],
+    exercises: [
+      { type: 'fill', prompt: '＿坐在这里发愁，不如去问问老师。', answer: '与其', choices: ['与其', '其实', '不如'], why: '与其 opens the rejected option; 不如 opens the better one.', why_ja: '「与其」が退ける選択肢、「不如」が良い選択肢を導きます。' },
+      { type: 'order', prompt: 'Make: "Rather than wait for him, better go yourself."', prompt_ja: '「彼を待つより、自分で行くほうがいいです」を作る', answer: '与其等他不如自己去', choices: ['与其', '等他', '不如', '自己去'], why: '与其 + A, 不如 + B.', why_ja: '「与其＋A，不如＋B」です。' },
+      { type: 'produce', prompt: 'Say: "Rather than watch TV, better read a book."', prompt_ja: '「テレビを見るより、本を読むほうがいいです」と言う', answer: '与其看电视不如看书', answerPinyin: 'yǔ qí kàn diàn shì bù rú kàn shū', why: 'Two parallel verb phrases, the second recommended.', why_ja: '並列の二つの動詞句で、後のほうを勧めます。' },
+    ] },
+
+  // ───────────────────────── Unit 39 ─────────────────────────
+  { id: 'bu-jian-de', unit: 39, title: '不见得: not necessarily (colloquial)', title_ja: '不见得：…とは限らない（口語）',
+    pattern: 'S + 不见得 + V/Adj　|　不见得。', summary: 'The spoken twin of 未必', summary_ja: '未必の口語版',
+    explanation: '不见得 means "not necessarily, I doubt it" and goes before the verb or adjective: 他不见得会来. It is the colloquial partner of 未必 (unit 2); unlike 未必 it can stand alone as an answer: 不见得 "I doubt it". It expresses the speaker\'s doubt about something the listener seems to assume. Use it in conversation; in formal writing prefer 未必 or 不一定.',
+    explanation_ja: '「不见得」は「…とは限らない、そうでもないだろう」を表し、動詞や形容詞の前に置きます（他不见得会来）。第2課の「未必」の口語版で、「未必」と違って単独で返事にも使えます（不见得「どうかな」）。相手が思い込んでいることへの話し手の疑いを表します。会話で使い、硬い文章では「未必」「不一定」が好まれます。',
+    ex: [
+      ['他不见得会来。', 'tā bù jiàn de huì lái.', 'He will not necessarily come.', '彼が来るとは限りません。'],
+      ['贵的不见得就好。', 'guì de bù jiàn de jiù hǎo.', 'Expensive does not necessarily mean good.', '高いものが良いとは限りません。'],
+      ['这个办法不见得有用。', 'zhè ge bàn fǎ bù jiàn de yǒu yòng.', 'This method may well not work.', 'この方法が役に立つとは限りません。'],
+      ['他说的不见得是真的。', 'tā shuō de bù jiàn de shì zhēn de.', 'What he says is not necessarily true.', '彼の言うことが本当とは限りません。'],
+    ],
+    mistakes: ['Reordering the characters: 见不得 means "cannot bear to see".', 'Using 不见得 in formal writing.'],
+    mistakes_ja: ['字の順序を変えないこと。「见不得」は「見るに堪えない」です。', '硬い文章で「不见得」を使わないこと。'],
+    exercises: [
+      { type: 'fill', prompt: '他现在＿在家。', answer: '不见得', choices: ['不见得', '看不见', '见不得'], why: 'Doubt about his being home is expressed with 不见得.', why_ja: '家にいるかどうかの疑いは「不见得」で表します。' },
+      { type: 'choose', prompt: 'Which sentence means "He will not necessarily agree"?', prompt_ja: '「彼が賛成するとは限りません」はどれですか', answer: '他不见得同意。', choices: ['他不见得同意。', '他见不得同意。', '他不见同意得。'], why: '不见得 is a fixed phrase placed before the verb.', why_ja: '「不见得」は固定表現で、動詞の前に置きます。' },
+      { type: 'produce', prompt: 'Say: "Expensive is not necessarily good."', prompt_ja: '「高いものが良いとは限りません」と言う', answer: '贵的不见得好', answerPinyin: 'guì de bù jiàn de hǎo', why: '贵的 as subject, 不见得 before the adjective.', why_ja: '「贵的」を主語にし、「不见得」を形容詞の前に置きます。' },
+    ] },
+
+  // ───────────────────────── Unit 40 ─────────────────────────
+  { id: 'nan-mian', unit: 40, title: '难免 / 不免: inevitably, can hardly avoid', title_ja: '难免／不免：避けられない、どうしても',
+    pattern: 'S + 难免/不免 + (会/有点儿) + V/Adj　|　… 是难免的', summary: 'Something undesirable is only natural in the circumstances', summary_ja: '状況からして好ましくないことも仕方がない',
+    explanation: '难免 and 不免 both say that an undesirable reaction or result is hard to avoid and therefore understandable: 第一次上台，难免有点儿紧张 "on stage for the first time, you can hardly help being nervous". 难免 is more common and can also be a predicate (是难免的 "is unavoidable"); 不免 is a little more literary and only goes before the verb. Both are used in all registers and often soften a criticism or excuse a mistake.',
+    explanation_ja: '「难免」「不免」はどちらも、好ましくない反応や結果が避けがたく、したがって理解できると述べます（第一次上台，难免有点儿紧张「初めて舞台に立つと、緊張するのは仕方がない」）。「难免」のほうが一般的で、述語にもなれます（是难免的「避けられない」）。「不免」はやや文語的で、動詞の前にしか置けません。どちらもどの文体でも使え、批判をやわらげたり失敗をかばったりするのによく使います。',
+    ex: [
+      ['第一次上台，难免有点儿紧张。', 'dì yī cì shàng tái, nán miǎn yǒu diǎnr jǐn zhāng.', 'On stage for the first time, you can hardly help being a bit nervous.', '初めて舞台に立つと、少し緊張するのは仕方がありません。'],
+      ['刚到国外，不免会想家。', 'gāng dào guó wài, bù miǎn huì xiǎng jiā.', 'Having just arrived abroad, one inevitably misses home.', '外国に着いたばかりだと、どうしても家が恋しくなります。'],
+      ['人都会犯错误，这是难免的。', 'rén dōu huì fàn cuò wù, zhè shì nán miǎn de.', 'Everyone makes mistakes; that is unavoidable.', '人は誰でも間違えます。それは避けられないことです。'],
+      ['这么热的天，大家不免有些不耐烦。', 'zhè me rè de tiān, dà jiā bù miǎn yǒu xiē bù nài fán.', 'In such heat, people inevitably get a little impatient.', 'こんなに暑いと、みんなどうしても少しいらいらします。'],
+    ],
+    mistakes: ['Confusing 难免 with 难怪 (no wonder) or 难道 (could it be).', 'Using 不免 as a predicate: 这是不免的 is wrong; say 难免的.'],
+    mistakes_ja: ['「难免」を「难怪（どうりで）」「难道（まさか）」と混同しないこと。', '「不免」を述語にしないこと。「这是不免的」は誤りで、「难免的」と言います。'],
+    exercises: [
+      { type: 'fill', prompt: '第一次见面，＿有些紧张。', answer: '难免', choices: ['难免', '难怪', '难道'], why: 'Nervousness at a first meeting is natural and hard to avoid: 难免.', why_ja: '初対面の緊張は自然で避けがたいので、「难免」です。' },
+      { type: 'choose', prompt: 'Which sentence means "Making mistakes is unavoidable"?', prompt_ja: '「間違えるのは避けられないことです」はどれですか', answer: '犯错误是难免的。', choices: ['犯错误是难免的。', '犯错误是难怪的。', '犯错误是难道的。'], why: 'Only 难免 can be used as a predicate meaning "unavoidable".', why_ja: '「避けられない」という述語になれるのは「难免」だけです。' },
+      { type: 'produce', prompt: 'Say: "Having just arrived abroad, one inevitably misses home."', prompt_ja: '「外国に着いたばかりだと、どうしても家が恋しくなります」と言う', answer: '刚到国外难免想家', answerPinyin: 'gāng dào guó wài nán miǎn xiǎng jiā', why: '难免 before the unavoidable reaction.', why_ja: '「难免」を避けられない反応の前に置きます。' },
+    ] },
 ];

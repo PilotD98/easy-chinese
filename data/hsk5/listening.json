@@ -1,1 +1,386 @@
-[]
+[
+ {
+  "id": "listen:hsk5:001",
+  "level": "hsk5",
+  "unit": 4,
+  "order": 495,
+  "type": "dictation",
+  "title": "Dictation: government and goals",
+  "title_ja": "書き取り：政府と目標",
+  "items": [
+   {
+    "text": "政府决定控制房子的价格。",
+    "pinyin": "zhèng fǔ jué dìng kòng zhì fáng zi de jià gé.",
+    "en": "The government decided to control housing prices.",
+    "ja": "政府は住宅価格を抑えることを決めました。"
+   },
+   {
+    "text": "他曾经在一家大公司工作过。",
+    "pinyin": "tā céng jīng zài yī jiā dà gōng sī gōng zuò guò.",
+    "en": "He once worked at a big company.",
+    "ja": "彼はかつて大きな会社で働いたことがあります。"
+   },
+   {
+    "text": "一旦决定了，就要坚持到底。",
+    "pinyin": "yī dàn jué dìng le, jiù yào jiān chí dào dǐ.",
+    "en": "Once you have decided, stick with it to the end.",
+    "ja": "いったん決めたら、最後までやり通さなければなりません。"
+   },
+   {
+    "text": "这个问题的根本原因是什么？",
+    "pinyin": "zhè ge wèn tí de gēn běn yuán yīn shì shén me?",
+    "en": "What is the fundamental cause of this problem?",
+    "ja": "この問題の根本的な原因は何ですか。"
+   },
+   {
+    "text": "目前，我们还没有确定目标。",
+    "pinyin": "mù qián, wǒ men hái méi yǒu què dìng mù biāo.",
+    "en": "At present we have not yet set a goal.",
+    "ja": "現在、私たちはまだ目標を決めていません。"
+   }
+  ]
+ },
+ {
+  "id": "listen:hsk5:002",
+  "level": "hsk5",
+  "unit": 20,
+  "order": 2095,
+  "type": "comprehension",
+  "title": "Comprehension: plans and advice",
+  "title_ja": "聞き取り：計画と助言",
+  "items": [
+   {
+    "text": "女：周末你有什么安排？男：我不是在家看书，就是去公园跑步。反正不会出远门。",
+    "pinyin": "nǚ: zhōu mò nǐ yǒu shén me ān pái? nán: wǒ bù shì zài jiā kàn shū, jiù shì qù gōng yuán pǎo bù. fǎn zhèng bù huì chū yuǎn mén.",
+    "en": "W: What are your plans for the weekend? M: I will either read at home or run in the park. In any case I will not go far.",
+    "ja": "女：週末は何か予定がありますか。男：家で本を読むか、公園で走るかです。どうせ遠出はしません。",
+    "questions": [
+     {
+      "q": "男的周末可能做什么？",
+      "choices": [
+       "出远门旅行",
+       "在家看书或者去公园跑步",
+       "去朋友家"
+      ],
+      "answer": 1,
+      "why": "不是在家看书，就是去公园跑步.",
+      "why_ja": "「不是在家看书，就是去公园跑步」と言っています。"
+     }
+    ]
+   },
+   {
+    "text": "男：这次考试我居然通过了，简直不敢相信。女：你每天都学习到很晚，通过是应该的。",
+    "pinyin": "nán: zhè cì kǎo shì wǒ jū rán tōng guò le, jiǎn zhí bù gǎn xiāng xìn. nǚ: nǐ měi tiān dōu xué xí dào hěn wǎn, tōng guò shì yīng gāi de.",
+    "en": "M: I actually passed this exam; I can hardly believe it. W: You studied late every day; passing is only natural.",
+    "ja": "男：今回の試験、なんと合格しました。信じられません。女：毎日遅くまで勉強していたのだから、合格して当然です。",
+    "questions": [
+     {
+      "q": "女的是什么意思？",
+      "choices": [
+       "男的通过考试很奇怪",
+       "男的通过考试是应该的",
+       "男的不应该学习到很晚"
+      ],
+      "answer": 1,
+      "why": "She says 通过是应该的 because he studied hard.",
+      "why_ja": "一生懸命勉強したので「通过是应该的」と言っています。"
+     }
+    ]
+   },
+   {
+    "text": "女：这个岛虽然很小，风景却特别美，我推荐你去看看。男：好，趁假期还没结束，我明天就去。",
+    "pinyin": "nǚ: zhè ge dǎo suī rán hěn xiǎo, fēng jǐng què tè bié měi, wǒ tuī jiàn nǐ qù kàn kan. nán: hǎo, chèn jià qī hái méi jié shù, wǒ míng tiān jiù qù.",
+    "en": "W: Although this island is small, the scenery is especially beautiful; I recommend you visit. M: OK, while the holiday is not over yet, I will go tomorrow.",
+    "ja": "女：この島は小さいけれど、景色が特に美しいです。行ってみることを勧めます。男：いいですね。休みが終わらないうちに、明日行きます。",
+    "questions": [
+     {
+      "q": "男的打算什么时候去岛上？",
+      "choices": [
+       "明天",
+       "假期结束以后",
+       "下个月"
+      ],
+      "answer": 0,
+      "why": "He says 我明天就去.",
+      "why_ja": "「我明天就去」と言っています。"
+     }
+    ]
+   },
+   {
+    "text": "男：你怎么又迟到了？女：对不起，路上堵车太厉害了。男：任何理由都不能每天用，明天早点儿出门吧。",
+    "pinyin": "nán: nǐ zěn me yòu chí dào le? nǚ: duì bu qǐ, lù shàng dǔ chē tài lì hai le. nán: rèn hé lǐ yóu dōu bù néng měi tiān yòng, míng tiān zǎo diǎnr chū mén ba.",
+    "en": "M: Why are you late again? W: Sorry, the traffic was terrible. M: No excuse can be used every day; leave earlier tomorrow.",
+    "ja": "男：どうしてまた遅刻したのですか。女：すみません、道路の渋滞がひどくて。男：どんな理由も毎日は使えません。明日は早めに出てください。",
+    "questions": [
+     {
+      "q": "男的希望女的怎么做？",
+      "choices": [
+       "换一条路",
+       "明天早点儿出门",
+       "不用再来了"
+      ],
+      "answer": 1,
+      "why": "He says 明天早点儿出门吧.",
+      "why_ja": "「明天早点儿出门吧」と言っています。"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "listen:hsk5:003",
+  "level": "hsk5",
+  "unit": 14,
+  "order": 1495,
+  "type": "shadow",
+  "title": "Shadowing: opinions and reasons",
+  "title_ja": "シャドーイング：意見と理由",
+  "items": [
+   {
+    "text": "在我看来，这个计划的问题不是钱，而是时间。",
+    "pinyin": "zài wǒ kàn lái, zhè ge jì huà de wèn tí bù shì qián, ér shì shí jiān.",
+    "en": "In my view, the problem with this plan is not money but time.",
+    "ja": "私の見方では、この計画の問題はお金ではなく時間です。"
+   },
+   {
+    "text": "他之所以没来，是因为家里有事。",
+    "pinyin": "tā zhī suǒ yǐ méi lái, shì yīn wèi jiā lǐ yǒu shì.",
+    "en": "The reason he did not come is that something came up at home.",
+    "ja": "彼が来なかったのは、家に用事があったからです。"
+   },
+   {
+    "text": "万一下雨的话，活动就改到下周。",
+    "pinyin": "wàn yī xià yǔ de huà, huó dòng jiù gǎi dào xià zhōu.",
+    "en": "If by any chance it rains, the event will be moved to next week.",
+    "ja": "万が一雨なら、イベントは来週に変更します。"
+   },
+   {
+    "text": "毕竟他是新来的，我们应该多帮助他。",
+    "pinyin": "bì jìng tā shì xīn lái de, wǒ men yīng gāi duō bāng zhù tā.",
+    "en": "After all, he is new; we should help him more.",
+    "ja": "なんといっても彼は新人ですから、もっと助けてあげるべきです。"
+   },
+   {
+    "text": "随着城市的发展，这里的交通越来越方便了。",
+    "pinyin": "suí zhe chéng shì de fā zhǎn, zhè lǐ de jiāo tōng yuè lái yuè fāng biàn le.",
+    "en": "As the city develops, transport here is becoming more and more convenient.",
+    "ja": "都市の発展につれて、ここの交通はますます便利になっています。"
+   }
+  ]
+ },
+ {
+  "id": "listen:hsk5:004",
+  "level": "hsk5",
+  "unit": 19,
+  "order": 1995,
+  "type": "comprehension",
+  "title": "Comprehension: at work and at home",
+  "title_ja": "聞き取り：職場と家庭",
+  "items": [
+   {
+    "text": "男：这件事除非经理同意，否则我们不能做。女：那我现在就去问他。",
+    "pinyin": "nán: zhè jiàn shì chú fēi jīng lǐ tóng yì, fǒu zé wǒ men bù néng zuò. nǚ: nà wǒ xiàn zài jiù qù wèn tā.",
+    "en": "M: Unless the manager agrees, we cannot do this. W: Then I will go and ask him right now.",
+    "ja": "男：この件は部長が同意しない限り、できません。女：では今すぐ聞いてきます。",
+    "questions": [
+     {
+      "q": "女的要去做什么？",
+      "choices": [
+       "去问经理",
+       "去做这件事",
+       "回家"
+      ],
+      "answer": 0,
+      "why": "She says 我现在就去问他.",
+      "why_ja": "「我现在就去问他」と言っています。"
+     }
+    ]
+   },
+   {
+    "text": "女：我劝他少吃点儿，他反而吃得更多了。男：他毕竟是客人，你就别管了。",
+    "pinyin": "nǚ: wǒ quàn tā shǎo chī diǎnr, tā fǎn ér chī de gèng duō le. nán: tā bì jìng shì kè rén, nǐ jiù bié guǎn le.",
+    "en": "W: I urged him to eat less, but he ate even more instead. M: After all, he is a guest; just leave him be.",
+    "ja": "女：少なめに食べるよう勧めたのに、彼はかえってもっと食べました。男：なんといってもお客さんなのだから、放っておきなさい。",
+    "questions": [
+     {
+      "q": "男的是什么意思？",
+      "choices": [
+       "客人应该少吃",
+       "不要管客人吃多少",
+       "女的应该多做菜"
+      ],
+      "answer": 1,
+      "why": "He says 你就别管了 because the man is a guest.",
+      "why_ja": "客だから「你就别管了」と言っています。"
+     }
+    ]
+   },
+   {
+    "text": "男：我只是开个玩笑而已，你别生气。女：我没生气，只是有点儿累。",
+    "pinyin": "nán: wǒ zhǐ shì kāi ge wán xiào ér yǐ, nǐ bié shēng qì. nǚ: wǒ méi shēng qì, zhǐ shì yǒu diǎnr lèi.",
+    "en": "M: I was only joking; don't be angry. W: I am not angry, just a bit tired.",
+    "ja": "男：冗談を言っただけです。怒らないでください。女：怒っていません。ただ少し疲れているだけです。",
+    "questions": [
+     {
+      "q": "女的怎么了？",
+      "choices": [
+       "她很生气",
+       "她有点儿累",
+       "她在开玩笑"
+      ],
+      "answer": 1,
+      "why": "She says 只是有点儿累.",
+      "why_ja": "「只是有点儿累」と言っています。"
+     }
+    ]
+   },
+   {
+    "text": "女：一般来说，我们公司六点下班，但是最近项目多，大家都工作到八点。男：那你要注意身体。",
+    "pinyin": "nǚ: yī bān lái shuō, wǒ men gōng sī liù diǎn xià bān, dàn shì zuì jìn xiàng mù duō, dà jiā dōu gōng zuò dào bā diǎn. nán: nà nǐ yào zhù yì shēn tǐ.",
+    "en": "W: Generally our company finishes at six, but lately there are many projects and everyone works until eight. M: Then you must take care of your health.",
+    "ja": "女：ふつう私たちの会社は六時に終わりますが、最近はプロジェクトが多く、みんな八時まで働いています。男：それなら体に気をつけてください。",
+    "questions": [
+     {
+      "q": "女的最近几点下班？",
+      "choices": [
+       "六点",
+       "八点",
+       "十点"
+      ],
+      "answer": 1,
+      "why": "最近…大家都工作到八点.",
+      "why_ja": "「大家都工作到八点」と言っています。"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "listen:hsk5:005",
+  "level": "hsk5",
+  "unit": 32,
+  "order": 3295,
+  "type": "dictation",
+  "title": "Dictation: habits and choices",
+  "title_ja": "書き取り：習慣と選択",
+  "items": [
+   {
+    "text": "哪怕再忙，他也坚持每天运动。",
+    "pinyin": "nǎ pà zài máng, tā yě jiān chí měi tiān yùn dòng.",
+    "en": "However busy he is, he keeps exercising every day.",
+    "ja": "どんなに忙しくても、彼は毎日運動を続けています。"
+   },
+   {
+    "text": "我想来想去，还是决定留在家乡。",
+    "pinyin": "wǒ xiǎng lái xiǎng qù, hái shì jué dìng liú zài jiā xiāng.",
+    "en": "After thinking it over, I decided to stay in my hometown after all.",
+    "ja": "あれこれ考えた末、やはり故郷に残ることにしました。"
+   },
+   {
+    "text": "他动不动就发脾气，大家都不敢跟他说话。",
+    "pinyin": "tā dòng bù dòng jiù fā pí qi, dà jiā dōu bù gǎn gēn tā shuō huà.",
+    "en": "He loses his temper at the slightest thing, so nobody dares talk to him.",
+    "ja": "彼は何かにつけてすぐ怒るので、誰も彼と話そうとしません。"
+   },
+   {
+    "text": "我不怎么喜欢热闹的地方。",
+    "pinyin": "wǒ bù zěn me xǐ huan rè nao de dì fang.",
+    "en": "I do not really like noisy places.",
+    "ja": "私はにぎやかな場所があまり好きではありません。"
+   },
+   {
+    "text": "趁天气好，我们去郊外走走吧。",
+    "pinyin": "chèn tiān qì hǎo, wǒ men qù jiāo wài zǒu zou ba.",
+    "en": "While the weather is good, let's go for a walk in the countryside.",
+    "ja": "天気が良いうちに、郊外へ散歩に行きましょう。"
+   }
+  ]
+ },
+ {
+  "id": "listen:hsk5:006",
+  "level": "hsk5",
+  "unit": 29,
+  "order": 2995,
+  "type": "comprehension",
+  "title": "Comprehension: everyday reasoning",
+  "title_ja": "聞き取り：日常の判断",
+  "items": [
+   {
+    "text": "男：这么近，何必打车呢？走过去十分钟就到了。女：你说得对，那我们走吧。",
+    "pinyin": "nán: zhè me jìn, hé bì dǎ chē ne? zǒu guò qù shí fēn zhōng jiù dào le. nǚ: nǐ shuō de duì, nà wǒ men zǒu ba.",
+    "en": "M: It is so close; why bother taking a taxi? Walking takes only ten minutes. W: You are right; let us walk.",
+    "ja": "男：こんなに近いのに、タクシーに乗る必要はないでしょう。歩けば十分で着きます。女：そうですね、では歩きましょう。",
+    "questions": [
+     {
+      "q": "他们决定怎么去？",
+      "choices": [
+       "打车",
+       "走路",
+       "坐公共汽车"
+      ],
+      "answer": 1,
+      "why": "The woman agrees: 那我们走吧.",
+      "why_ja": "女性が「那我们走吧」と同意しています。"
+     }
+    ]
+   },
+   {
+    "text": "女：等了一个小时，车总算来了。男：难怪这么慢，原来前面出了事故。",
+    "pinyin": "nǚ: děng le yī ge xiǎo shí, chē zǒng suàn lái le. nán: nán guài zhè me màn, yuán lái qián miàn chū le shì gù.",
+    "en": "W: After an hour of waiting, the bus has finally come. M: No wonder it was so slow; there was an accident up ahead.",
+    "ja": "女：一時間待って、バスがやっと来ました。男：どうりで遅いわけです。前で事故があったのです。",
+    "questions": [
+     {
+      "q": "车为什么来得这么慢？",
+      "choices": [
+       "司机迟到了",
+       "前面出了事故",
+       "天气不好"
+      ],
+      "answer": 1,
+      "why": "原来前面出了事故.",
+      "why_ja": "「原来前面出了事故」と言っています。"
+     }
+    ]
+   },
+   {
+    "text": "男：这个牌子的手机不见得比那个好，就是贵一些。女：总之，我还是想买便宜的那个。",
+    "pinyin": "nán: zhè ge pái zi de shǒu jī bù jiàn de bǐ nà ge hǎo, jiù shì guì yī xiē. nǚ: zǒng zhī, wǒ hái shì xiǎng mǎi pián yi de nà ge.",
+    "en": "M: This brand of phone is not necessarily better than that one; it is just more expensive. W: In short, I still want to buy the cheaper one.",
+    "ja": "男：このブランドの携帯があちらより良いとは限りません。ただ少し高いだけです。女：要するに、私はやはり安いほうを買いたいです。",
+    "questions": [
+     {
+      "q": "女的想买哪个手机？",
+      "choices": [
+       "贵的那个",
+       "便宜的那个",
+       "两个都买"
+      ],
+      "answer": 1,
+      "why": "She says 我还是想买便宜的那个.",
+      "why_ja": "「我还是想买便宜的那个」と言っています。"
+     }
+    ]
+   },
+   {
+    "text": "女：他天天时而迟到，时而请假，老板很不满意。男：大人都知道要遵守规则，何况他已经工作五年了。",
+    "pinyin": "nǚ: tā tiān tiān shí ér chí dào, shí ér qǐng jià, lǎo bǎn hěn bù mǎn yì. nán: dà rén dōu zhī dào yào zūn shǒu guī zé, hé kuàng tā yǐ jīng gōng zuò wǔ nián le.",
+    "en": "W: Every day he is either late or absent, and the boss is very unhappy. M: Every adult knows to follow the rules, let alone someone who has worked for five years.",
+    "ja": "女：彼は毎日遅刻したり休んだりで、社長はとても不満です。男：大人なら誰でも規則を守ることを知っています。まして彼は五年も働いているのですから。",
+    "questions": [
+     {
+      "q": "老板为什么不满意？",
+      "choices": [
+       "他工作了五年",
+       "他常常迟到和请假",
+       "他不认识大人"
+      ],
+      "answer": 1,
+      "why": "他时而迟到，时而请假.",
+      "why_ja": "「时而迟到，时而请假」だからです。"
+     }
+    ]
+   }
+  ]
+ }
+]

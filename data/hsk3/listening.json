@@ -1,1 +1,411 @@
-[]
+[
+ {
+  "id": "listen:hsk3:001",
+  "level": "hsk3",
+  "unit": 2,
+  "order": 295,
+  "type": "dictation",
+  "title": "Dictation: should and must",
+  "title_ja": "書き取り：すべきこと",
+  "items": [
+   {
+    "text": "你应该早点儿睡觉。",
+    "pinyin": "nǐ yīng gāi zǎo diǎnr shuì jiào.",
+    "en": "You should go to bed earlier.",
+    "ja": "もっと早く寝るべきです。"
+   },
+   {
+    "text": "我把书给老师了。",
+    "pinyin": "wǒ bǎ shū gěi lǎo shī le.",
+    "en": "I gave the book to the teacher.",
+    "ja": "本を先生に渡しました。"
+   },
+   {
+    "text": "他一直在北京工作。",
+    "pinyin": "tā yī zhí zài běi jīng gōng zuò.",
+    "en": "He has been working in Beijing all along.",
+    "ja": "彼はずっと北京で働いています。"
+   },
+   {
+    "text": "这件事非常重要。",
+    "pinyin": "zhè jiàn shì fēi cháng zhòng yào.",
+    "en": "This matter is very important.",
+    "ja": "この件はとても重要です。"
+   },
+   {
+    "text": "如果明天下雨，我就不去了。",
+    "pinyin": "rú guǒ míng tiān xià yǔ, wǒ jiù bù qù le.",
+    "en": "If it rains tomorrow, I will not go.",
+    "ja": "明日雨が降ったら、行きません。"
+   }
+  ]
+ },
+ {
+  "id": "listen:hsk3:002",
+  "level": "hsk3",
+  "unit": 6,
+  "order": 695,
+  "type": "comprehension",
+  "title": "Listening: at last and always",
+  "title_ja": "聞き取り：やっと・いつも",
+  "items": [
+   {
+    "text": "我找了一个小时，终于找到我的手机了。",
+    "pinyin": "wǒ zhǎo le yī ge xiǎo shí, zhōng yú zhǎo dào wǒ de shǒu jī le.",
+    "en": "I searched for an hour and finally found my phone.",
+    "ja": "1時間探して、やっと携帯を見つけました。",
+    "questions": [
+     {
+      "q": "他找了多长时间？",
+      "choices": [
+       "十分钟",
+       "一个小时",
+       "一天"
+      ],
+      "answer": 1,
+      "why": "我找了一个小时.",
+      "why_ja": "「我找了一个小时」と言っています。"
+     }
+    ]
+   },
+   {
+    "text": "除了小张以外，大家都参加了比赛。",
+    "pinyin": "chú le xiǎo zhāng yǐ wài, dà jiā dōu cān jiā le bǐ sài.",
+    "en": "Except for Xiao Zhang, everyone took part in the match.",
+    "ja": "小張以外は、みんな試合に参加しました。",
+    "questions": [
+     {
+      "q": "谁没参加比赛？",
+      "choices": [
+       "小张",
+       "大家",
+       "老师"
+      ],
+      "answer": 0,
+      "why": "除了小张以外 — Xiao Zhang is the exception.",
+      "why_ja": "「除了小张以外」なので小張だけが参加していません。"
+     }
+    ]
+   },
+   {
+    "text": "他总是不带钱，所以我经常帮他买票。",
+    "pinyin": "tā zǒng shì bù dài qián, suǒ yǐ wǒ jīng cháng bāng tā mǎi piào.",
+    "en": "He never brings money, so I often buy his ticket for him.",
+    "ja": "彼はいつもお金を持ってこないので、私がよく代わりに切符を買います。",
+    "questions": [
+     {
+      "q": "他总是怎么样？",
+      "choices": [
+       "不带钱",
+       "不买票",
+       "不吃饭"
+      ],
+      "answer": 0,
+      "why": "他总是不带钱.",
+      "why_ja": "「他总是不带钱」と言っています。"
+     }
+    ]
+   },
+   {
+    "text": "医生检查以后说，我的身体没有问题，只是太累了。",
+    "pinyin": "yī shēng jiǎn chá yǐ hòu shuō, wǒ de shēn tǐ méi yǒu wèn tí, zhǐ shì tài lèi le.",
+    "en": "After the check-up, the doctor said my health is fine; I am just too tired.",
+    "ja": "検査の後、医者は体に問題はなく、ただ疲れすぎているだけだと言いました。",
+    "questions": [
+     {
+      "q": "医生说他怎么样？",
+      "choices": [
+       "病得很重",
+       "没有问题，只是太累了",
+       "应该吃药"
+      ],
+      "answer": 1,
+      "why": "我的身体没有问题，只是太累了.",
+      "why_ja": "「我的身体没有问题，只是太累了」と言っています。"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "listen:hsk3:003",
+  "level": "hsk3",
+  "unit": 10,
+  "order": 1095,
+  "type": "comprehension",
+  "title": "Listening: weekend plans",
+  "title_ja": "聞き取り：週末の予定",
+  "items": [
+   {
+    "text": "这个周末我打算跟朋友一起去看动物。",
+    "pinyin": "zhè ge zhōu mò wǒ dǎ suàn gēn péng you yī qǐ qù kàn dòng wù.",
+    "en": "This weekend I plan to go and see animals with a friend.",
+    "ja": "今週末は友達と動物を見に行くつもりです。",
+    "questions": [
+     {
+      "q": "他周末打算做什么？",
+      "choices": [
+       "看动物",
+       "看电影",
+       "在家休息"
+      ],
+      "answer": 0,
+      "why": "去看动物.",
+      "why_ja": "「去看动物」と言っています。"
+     }
+    ]
+   },
+   {
+    "text": "我一边听音乐，一边写汉字，妈妈很生气。",
+    "pinyin": "wǒ yī biān tīng yīn yuè, yī biān xiě hàn zì, mā ma hěn shēng qì.",
+    "en": "I wrote characters while listening to music, and Mum got angry.",
+    "ja": "音楽を聞きながら漢字を書いていたら、母が怒りました。",
+    "questions": [
+     {
+      "q": "妈妈为什么生气？",
+      "choices": [
+       "因为他没写汉字",
+       "因为他一边听音乐一边写汉字",
+       "因为他睡觉了"
+      ],
+      "answer": 1,
+      "why": "一边听音乐，一边写汉字，妈妈很生气.",
+      "why_ja": "音楽を聞きながら漢字を書いたので母が怒りました。"
+     }
+    ]
+   },
+   {
+    "text": "天气越来越冷了，你应该多穿一件衣服。",
+    "pinyin": "tiān qì yuè lái yuè lěng le, nǐ yīng gāi duō chuān yī jiàn yī fu.",
+    "en": "The weather is getting colder; you should put on another layer.",
+    "ja": "だんだん寒くなってきたので、もう一枚着たほうがいいですよ。",
+    "questions": [
+     {
+      "q": "天气怎么样？",
+      "choices": [
+       "越来越热",
+       "越来越冷",
+       "一直很好"
+      ],
+      "answer": 1,
+      "why": "天气越来越冷了.",
+      "why_ja": "「天气越来越冷了」と言っています。"
+     }
+    ]
+   },
+   {
+    "text": "这个节目有意思极了，我每个星期都看。",
+    "pinyin": "zhè ge jié mù yǒu yì si jí le, wǒ měi ge xīng qī dōu kàn.",
+    "en": "This programme is extremely interesting; I watch it every week.",
+    "ja": "この番組はものすごく面白くて、毎週見ています。",
+    "questions": [
+     {
+      "q": "他多长时间看一次这个节目？",
+      "choices": [
+       "每天",
+       "每个星期",
+       "每个月"
+      ],
+      "answer": 1,
+      "why": "我每个星期都看.",
+      "why_ja": "「我每个星期都看」と言っています。"
+     }
+    ]
+   },
+   {
+    "text": "我忘记带鞋了，只好穿着以前的去跑步。",
+    "pinyin": "wǒ wàng jì dài xié le, zhǐ hǎo chuān zhe yǐ qián de qù pǎo bù.",
+    "en": "I forgot to bring my shoes, so I had to run in the old ones.",
+    "ja": "靴を持ってくるのを忘れたので、古いのを履いて走るしかありませんでした。",
+    "questions": [
+     {
+      "q": "他忘记带什么了？",
+      "choices": [
+       "鞋",
+       "衣服",
+       "水"
+      ],
+      "answer": 0,
+      "why": "我忘记带鞋了.",
+      "why_ja": "「我忘记带鞋了」と言っています。"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "listen:hsk3:004",
+  "level": "hsk3",
+  "unit": 12,
+  "order": 1295,
+  "type": "dictation",
+  "title": "Dictation: conditions and purposes",
+  "title_ja": "書き取り：条件と目的",
+  "items": [
+   {
+    "text": "只要努力，就一定能提高。",
+    "pinyin": "zhǐ yào nǔ lì, jiù yī dìng néng tí gāo.",
+    "en": "As long as you work hard, you will surely improve.",
+    "ja": "努力すれば必ず上達します。"
+   },
+   {
+    "text": "只有他才知道这件事。",
+    "pinyin": "zhǐ yǒu tā cái zhī dào zhè jiàn shì.",
+    "en": "Only he knows about this.",
+    "ja": "彼だけがこのことを知っています。"
+   },
+   {
+    "text": "为了身体健康，我每天骑车上班。",
+    "pinyin": "wèi le shēn tǐ jiàn kāng, wǒ měi tiān qí chē shàng bān.",
+    "en": "For my health, I cycle to work every day.",
+    "ja": "健康のために、毎日自転車で通勤しています。"
+   },
+   {
+    "text": "太阳出来了，公园里的花都开了。",
+    "pinyin": "tài yáng chū lái le, gōng yuán lǐ de huā dōu kāi le.",
+    "en": "The sun has come out, and the flowers in the park have all bloomed.",
+    "ja": "太陽が出て、公園の花がみんな咲きました。"
+   },
+   {
+    "text": "经理对我们的成绩很满意。",
+    "pinyin": "jīng lǐ duì wǒ men de chéng jì hěn mǎn yì.",
+    "en": "The manager is very satisfied with our results.",
+    "ja": "部長は私たちの成果にとても満足しています。"
+   }
+  ]
+ },
+ {
+  "id": "listen:hsk3:005",
+  "level": "hsk3",
+  "unit": 16,
+  "order": 1695,
+  "type": "comprehension",
+  "title": "Listening: seasons and home",
+  "title_ja": "聞き取り：季節と家",
+  "items": [
+   {
+    "text": "春天到了，天气不冷了，我们去公园看花吧。",
+    "pinyin": "chūn tiān dào le, tiān qì bù lěng le, wǒ men qù gōng yuán kàn huā ba.",
+    "en": "Spring is here and it is no longer cold; let us go to the park to see the flowers.",
+    "ja": "春が来て寒くなくなったので、公園に花を見に行きましょう。",
+    "questions": [
+     {
+      "q": "现在是什么季节？",
+      "choices": [
+       "春天",
+       "夏天",
+       "雨天"
+      ],
+      "answer": 0,
+      "why": "春天到了.",
+      "why_ja": "「春天到了」と言っています。"
+     }
+    ]
+   },
+   {
+    "text": "冰箱里什么都没有了，我们去超市买点儿东西吧。",
+    "pinyin": "bīng xiāng lǐ shén me dōu méi yǒu le, wǒ men qù chāo shì mǎi diǎnr dōng xi ba.",
+    "en": "There is nothing left in the fridge; let us go to the supermarket to buy something.",
+    "ja": "冷蔵庫に何もなくなったので、スーパーに買い物に行きましょう。",
+    "questions": [
+     {
+      "q": "他们要去哪儿？",
+      "choices": [
+       "超市",
+       "公园",
+       "饭馆"
+      ],
+      "answer": 0,
+      "why": "我们去超市买点儿东西吧.",
+      "why_ja": "「我们去超市买点儿东西吧」と言っています。"
+     }
+    ]
+   },
+   {
+    "text": "阿姨其实不矮，她只是比我妈妈矮一点儿。",
+    "pinyin": "ā yí qí shí bù ǎi, tā zhǐ shì bǐ wǒ mā ma ǎi yī diǎnr.",
+    "en": "My aunt is actually not short; she is just a little shorter than my mother.",
+    "ja": "叔母は実は背が低くなく、母より少し低いだけです。",
+    "questions": [
+     {
+      "q": "谁更高？",
+      "choices": [
+       "阿姨",
+       "妈妈",
+       "一样高"
+      ],
+      "answer": 1,
+      "why": "她比我妈妈矮一点儿 — Mum is taller.",
+      "why_ja": "「她比我妈妈矮一点儿」なので母のほうが高いです。"
+     }
+    ]
+   },
+   {
+    "text": "别着急，离考试还有一个星期呢。",
+    "pinyin": "bié zháo jí, lí kǎo shì hái yǒu yī ge xīng qī ne.",
+    "en": "Do not worry; there is still a week until the exam.",
+    "ja": "焦らないで。試験まであと1週間ありますよ。",
+    "questions": [
+     {
+      "q": "离考试还有多长时间？",
+      "choices": [
+       "一天",
+       "一个星期",
+       "一个月"
+      ],
+      "answer": 1,
+      "why": "离考试还有一个星期.",
+      "why_ja": "「离考试还有一个星期」と言っています。"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "listen:hsk3:006",
+  "level": "hsk3",
+  "unit": 19,
+  "order": 1995,
+  "type": "shadow",
+  "title": "Shadowing: everyday HSK 3 lines",
+  "title_ja": "シャドーイング：HSK 3 の日常表現",
+  "items": [
+   {
+    "text": "请把黑板上的字写在本子上。",
+    "pinyin": "qǐng bǎ hēi bǎn shàng de zì xiě zài běn zi shàng.",
+    "en": "Please copy the characters on the blackboard into your notebook.",
+    "ja": "黒板の字をノートに書いてください。"
+   },
+   {
+    "text": "我的行李箱被拿错了。",
+    "pinyin": "wǒ de xíng li xiāng bèi ná cuò le.",
+    "en": "My suitcase was taken by mistake.",
+    "ja": "私のスーツケースが間違えて持って行かれました。"
+   },
+   {
+    "text": "洗手间在电梯旁边，一直向前走就看见了。",
+    "pinyin": "xǐ shǒu jiān zài diàn tī páng biān, yī zhí xiàng qián zǒu jiù kàn jiàn le.",
+    "en": "The toilet is next to the lift; go straight ahead and you will see it.",
+    "ja": "トイレはエレベーターの横です。まっすぐ行けば見えます。"
+   },
+   {
+    "text": "虽然我学了一年汉语，但是说得还不太好。",
+    "pinyin": "suī rán wǒ xué le yī nián hàn yǔ, dàn shì shuō de hái bù tài hǎo.",
+    "en": "Although I have studied Chinese for a year, I still do not speak very well.",
+    "ja": "中国語を1年勉強しましたが、まだあまり上手に話せません。"
+   },
+   {
+    "text": "一共多少钱？我可以用手机吗？",
+    "pinyin": "yī gòng duō shao qián? wǒ kě yǐ yòng shǒu jī ma?",
+    "en": "How much altogether? Can I use my phone (to pay)?",
+    "ja": "全部でいくらですか。携帯で払ってもいいですか。"
+   },
+   {
+    "text": "只要天气好，我们周末就一起去爬山。",
+    "pinyin": "zhǐ yào tiān qì hǎo, wǒ men zhōu mò jiù yī qǐ qù pá shān.",
+    "en": "As long as the weather is good, we will go hiking together at the weekend.",
+    "ja": "天気が良ければ、週末に一緒に山登りに行きましょう。"
+   }
+  ]
+ }
+]

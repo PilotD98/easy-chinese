@@ -1,1 +1,4633 @@
-[]
+[
+ {
+  "id": "gram:hsk4:ba-complement",
+  "level": "hsk4",
+  "unit": 1,
+  "order": 150,
+  "title": "把 with result complements",
+  "title_ja": "把＋結果補語：…を…する",
+  "pattern": "S + 把 + O + V + 在/到/给/完/好…",
+  "summary": "Move the object before the verb and say what happens to it",
+  "summary_ja": "目的語を動詞の前に出し、どうなったかを補語で言う",
+  "explanation": "With 把, the object moves in front of the verb, and the verb must carry something after it that tells the result: a place (在桌子上), a destination (到学校), a receiver (给我), or a result like 完, 好, 错. A bare verb is not enough: 我把作业做 is wrong, 我把作业做完了 is right. Use 把 when you handle a specific, known object and want to say what you did to it. Negation and modal verbs (没, 别, 要, 能) go before 把.",
+  "explanation_ja": "「把」構文では目的語を動詞の前に出し、動詞の後ろに必ず「どうなったか」を示す要素を付けます。場所（在桌子上）、到達点（到学校）、受け取る人（给我）、または「完・好・错」などの結果補語です。動詞だけで終わることはできません。「我把作业做」は誤りで、「我把作业做完了」が正しい形です。「把」は特定の決まった物を扱い、それをどう処理したかを述べるときに使います。否定や助動詞（没・别・要・能）は「把」の前に置きます。",
+  "examples": [
+   {
+    "zh": "请把门关上。",
+    "pinyin": "qǐng bǎ mén guān shàng.",
+    "en": "Please close the door.",
+    "ja": "ドアを閉めてください。"
+   },
+   {
+    "zh": "我把作业做完了。",
+    "pinyin": "wǒ bǎ zuò yè zuò wán le.",
+    "en": "I have finished the homework.",
+    "ja": "私は宿題をやり終えました。"
+   },
+   {
+    "zh": "妈妈把菜放在桌子上了。",
+    "pinyin": "mā ma bǎ cài fàng zài zhuō zi shàng le.",
+    "en": "Mum put the dishes on the table.",
+    "ja": "母は料理をテーブルの上に置きました。"
+   },
+   {
+    "zh": "他把书还给图书馆了。",
+    "pinyin": "tā bǎ shū huán gěi tú shū guǎn le.",
+    "en": "He returned the book to the library.",
+    "ja": "彼は本を図書館に返しました。"
+   }
+  ],
+  "mistakes": [
+   "Ending with a bare verb: 我把钱花 needs 完 or 了 after 花.",
+   "Putting 没 or 别 after 把: say 我没把书带来, not 我把书没带来."
+  ],
+  "mistakes_ja": [
+   "動詞だけで文を終えないでください。「我把钱花」は「花完了」のように補語が必要です。",
+   "「没」「别」は「把」の前です。「我没把书带来」が正しく、「我把书没带来」は誤りです。"
+  ],
+  "exercises": [
+   {
+    "type": "fill",
+    "prompt": "请把这个字写＿本子上。",
+    "answer": "在",
+    "choices": [
+     "在",
+     "了",
+     "的"
+    ],
+    "why": "把 + object + 写 needs a place complement: 写在 + place.",
+    "why_ja": "「把」構文の動詞「写」には場所の補語「在＋場所」が必要です。"
+   },
+   {
+    "type": "order",
+    "prompt": "Make: \"He put the money in the bag.\"",
+    "prompt_ja": "「彼はお金をかばんに入れました」を作る",
+    "answer": "他把钱放在包里了",
+    "choices": [
+     "他",
+     "把钱",
+     "放在",
+     "包里",
+     "了"
+    ],
+    "why": "Subject, 把 + object, verb + 在 + place, then 了.",
+    "why_ja": "主語→把＋目的語→動詞＋在＋場所→了の順です。"
+   },
+   {
+    "type": "choose",
+    "prompt": "Which sentence is correct?",
+    "prompt_ja": "正しい文はどれですか",
+    "answer": "我没把手机带来。",
+    "choices": [
+     "我没把手机带来。",
+     "我把手机没带来。",
+     "我把手机带。"
+    ],
+    "why": "没 goes before 把, and the verb needs a complement (来).",
+    "why_ja": "「没」は「把」の前、動詞には補語（来）が必要です。"
+   },
+   {
+    "type": "produce",
+    "prompt": "Say: \"Please give the book to me.\"",
+    "prompt_ja": "「本を私に渡してください」と言う",
+    "answer": "请把书给我",
+    "answerPinyin": "qǐng bǎ shū gěi wǒ",
+    "why": "给 + receiver completes the 把 sentence.",
+    "why_ja": "「给＋受け取る人」で把構文が完成します。"
+   }
+  ]
+ },
+ {
+  "id": "gram:hsk4:youyu",
+  "level": "hsk4",
+  "unit": 1,
+  "order": 151,
+  "title": "由于: owing to",
+  "title_ja": "由于：…のため・…によって",
+  "pattern": "由于 + reason，(所以/因此) + result",
+  "summary": "A slightly formal \"because of\"",
+  "summary_ja": "やや改まった「…のために」",
+  "explanation": "由于 introduces a reason, much like 因为, but it sounds more formal and is common in writing, news and announcements. It usually opens the sentence: 由于下雨，活动不能进行. The result clause may start with 所以 or simply follow. Unlike 因为, 由于 is rarely used in the second half of a sentence (我没来，因为病了 is fine; 由于 would not be).",
+  "explanation_ja": "「由于」は「因为」と同じく理由を導きますが、より改まった響きがあり、書き言葉やニュース、お知らせでよく使われます。ふつう文頭に置きます（由于下雨，活动不能进行）。結果の節は「所以」で始めても、そのまま続けてもかまいません。「因为」と違い、文の後半で理由を付け足す用法（我没来，因为病了）には使いません。",
+  "examples": [
+   {
+    "zh": "由于天气不好，飞机没有起飞。",
+    "pinyin": "yóu yú tiān qì bù hǎo, fēi jī méi yǒu qǐ fēi.",
+    "en": "Because of the bad weather, the plane did not take off.",
+    "ja": "天気が悪かったため、飛行機は離陸しませんでした。"
+   },
+   {
+    "zh": "由于工作太忙，他很少回家。",
+    "pinyin": "yóu yú gōng zuò tài máng, tā hěn shǎo huí jiā.",
+    "en": "Because work is so busy, he seldom goes home.",
+    "ja": "仕事が忙しすぎるため、彼はめったに家に帰りません。"
+   },
+   {
+    "zh": "由于大家的帮助，我们完成了任务。",
+    "pinyin": "yóu yú dà jiā de bāng zhù, wǒ men wán chéng le rèn wu.",
+    "en": "Thanks to everyone's help, we completed the task.",
+    "ja": "みなさんの助けのおかげで、私たちは任務を終えました。"
+   }
+  ],
+  "mistakes": [
+   "Using 由于 after the result: 我没去，由于下雨 sounds wrong; use 因为 there.",
+   "Pairing 由于 with 但是: the second clause states a result, not a contrast."
+  ],
+  "mistakes_ja": [
+   "結果の後に「由于」で理由を続けるのは不自然です。その位置では「因为」を使います。",
+   "「由于」の後に「但是」は続きません。後半は結果を述べます。"
+  ],
+  "exercises": [
+   {
+    "type": "fill",
+    "prompt": "＿下雨，比赛不能继续。",
+    "answer": "由于",
+    "choices": [
+     "由于",
+     "但是",
+     "所以"
+    ],
+    "why": "The first clause gives the reason for stopping the match.",
+    "why_ja": "前半が試合を続けられない理由なので「由于」です。"
+   },
+   {
+    "type": "order",
+    "prompt": "Make: \"Because of the snow, the road is very hard to walk.\"",
+    "prompt_ja": "「雪のため、道がとても歩きにくい」を作る",
+    "answer": "由于下雪路很难走",
+    "choices": [
+     "由于",
+     "下雪",
+     "路",
+     "很难走"
+    ],
+    "why": "由于 + reason, then the result clause.",
+    "why_ja": "「由于＋理由」の後に結果が続きます。"
+   },
+   {
+    "type": "produce",
+    "prompt": "Say: \"Because I was ill, I did not go to school.\"",
+    "prompt_ja": "「病気のため、学校に行きませんでした」と言う",
+    "answer": "由于生病我没去学校",
+    "answerPinyin": "yóu yú shēng bìng wǒ méi qù xué xiào",
+    "why": "由于 opens the sentence with the reason.",
+    "why_ja": "「由于」で理由を先に述べます。"
+   }
+  ]
+ },
+ {
+  "id": "gram:hsk4:bei-passive",
+  "level": "hsk4",
+  "unit": 2,
+  "order": 252,
+  "title": "被 / 让 / 叫: passive",
+  "title_ja": "被／让／叫：受け身",
+  "pattern": "S + 被/让/叫 + (agent) + V + complement",
+  "summary": "Something was done to the subject",
+  "summary_ja": "主語が…された",
+  "explanation": "The passive puts the thing affected first, then 被, 让 or 叫, then the doer, then the verb with a result (了, 走, 坏, 完…). 被 can drop the doer (我的车被骑走了); 让 and 叫 are more colloquial and normally need the doer. The passive often reports something unwelcome (lost, broken, scolded), though neutral uses are common in modern Chinese. Negation 没 goes before 被.",
+  "explanation_ja": "受け身は、影響を受けるものを先に置き、「被／让／叫」、動作主、そして結果を伴う動詞（了・走・坏・完など）の順に並べます。「被」は動作主を省略できます（我的车被骑走了）が、「让」「叫」は話し言葉的で、ふつう動作主が必要です。受け身は「なくした・壊された・叱られた」など望ましくない出来事に使うことが多いですが、現代中国語では中立的な使い方も一般的です。否定の「没」は「被」の前に置きます。",
+  "examples": [
+   {
+    "zh": "我的自行车被人骑走了。",
+    "pinyin": "wǒ de zì xíng chē bèi rén qí zǒu le.",
+    "en": "My bike was ridden away by someone.",
+    "ja": "私の自転車は誰かに乗って行かれました。"
+   },
+   {
+    "zh": "他被老师叫到办公室去了。",
+    "pinyin": "tā bèi lǎo shī jiào dào bàn gōng shì qù le.",
+    "en": "He was called to the office by the teacher.",
+    "ja": "彼は先生に事務室へ呼ばれました。"
+   },
+   {
+    "zh": "蛋糕让孩子们吃完了。",
+    "pinyin": "dàn gāo ràng hái zi men chī wán le.",
+    "en": "The cake was eaten up by the children.",
+    "ja": "ケーキは子どもたちに食べ尽くされました。"
+   },
+   {
+    "zh": "我的书叫他拿走了。",
+    "pinyin": "wǒ de shū jiào tā ná zǒu le.",
+    "en": "My book was taken by him.",
+    "ja": "私の本は彼に持って行かれました。"
+   }
+  ],
+  "mistakes": [
+   "Using 让 or 叫 without a doer: 杯子让打坏了 needs 被 instead.",
+   "Ending with a bare verb: 他被老师叫 is incomplete; add a result like 走了 or 到办公室."
+  ],
+  "mistakes_ja": [
+   "「让」「叫」は動作主を省略できません。「杯子让打坏了」は「被」にします。",
+   "動詞だけで終えず、「走了」「到办公室」などの結果を付けます。"
+  ],
+  "exercises": [
+   {
+    "type": "fill",
+    "prompt": "我的钱包＿人拿走了。",
+    "answer": "被",
+    "choices": [
+     "被",
+     "把",
+     "给"
+    ],
+    "why": "The wallet is the thing affected, so the passive 被 is used.",
+    "why_ja": "財布が影響を受ける側なので受け身の「被」です。"
+   },
+   {
+    "type": "order",
+    "prompt": "Make: \"The door was closed by him.\" (use 被)",
+    "prompt_ja": "「ドアは彼に閉められた」を「被」で作る",
+    "answer": "门被他关上了",
+    "choices": [
+     "门",
+     "被他",
+     "关上",
+     "了"
+    ],
+    "why": "Affected thing, 被 + doer, verb + result.",
+    "why_ja": "影響を受けるもの→被＋動作主→動詞＋結果の順です。"
+   },
+   {
+    "type": "choose",
+    "prompt": "Which sentence is correct?",
+    "prompt_ja": "正しい文はどれですか",
+    "answer": "手机没被弟弟拿走。",
+    "choices": [
+     "手机没被弟弟拿走。",
+     "手机被弟弟没拿走。",
+     "手机让拿走了。"
+    ],
+    "why": "没 goes before 被; 让 needs a doer.",
+    "why_ja": "「没」は「被」の前、「让」には動作主が必要です。"
+   }
+  ]
+ },
+ {
+  "id": "gram:hsk4:shenzhi",
+  "level": "hsk4",
+  "unit": 2,
+  "order": 253,
+  "title": "甚至: even",
+  "title_ja": "甚至：…さえ・…すら",
+  "pattern": "…，甚至 + extreme case (+ 也/都)",
+  "summary": "Adds the most extreme example",
+  "summary_ja": "いちばん極端な例を付け加える",
+  "explanation": "甚至 introduces the most surprising or extreme item in a list, \"even\": 他很忙，甚至周末也要工作. It can go before a noun, a verb phrase or a whole clause, and 也 or 都 often follows the extreme item. The preceding clause gives the general situation; 甚至 then pushes it further.",
+  "explanation_ja": "「甚至」は一連の例の中でもっとも意外・極端なものを「…さえ」と付け加えます（他很忙，甚至周末也要工作）。名詞、動詞句、節のいずれの前にも置け、極端な例の後には「也」や「都」がよく続きます。前の節で一般的な状況を述べ、「甚至」でさらに一歩押し進めるイメージです。",
+  "examples": [
+   {
+    "zh": "他很忙，甚至周末也要工作。",
+    "pinyin": "tā hěn máng, shèn zhì zhōu mò yě yào gōng zuò.",
+    "en": "He is busy; he even has to work at weekends.",
+    "ja": "彼は忙しく、週末さえ働かなければなりません。"
+   },
+   {
+    "zh": "这个问题很难，甚至老师也不会做。",
+    "pinyin": "zhè ge wèn tí hěn nán, shèn zhì lǎo shī yě bù huì zuò.",
+    "en": "This question is hard; even the teacher cannot do it.",
+    "ja": "この問題は難しくて、先生さえ解けません。"
+   },
+   {
+    "zh": "她很喜欢中国，甚至计划在北京住一年。",
+    "pinyin": "tā hěn xǐ huan zhōng guó, shèn zhì jì huà zài běi jīng zhù yī nián.",
+    "en": "She likes China so much that she even plans to live in Beijing for a year.",
+    "ja": "彼女は中国が大好きで、北京に1年住む計画さえ立てています。"
+   }
+  ],
+  "mistakes": [
+   "Using 甚至 for an ordinary item; it must be the extreme one.",
+   "Forgetting 也/都 after the extreme noun: 甚至老师不知道 sounds abrupt."
+  ],
+  "mistakes_ja": [
+   "「甚至」の後はふつうの例ではなく、極端な例を置きます。",
+   "極端な名詞の後の「也／都」を落とすと不自然になります。"
+  ],
+  "exercises": [
+   {
+    "type": "fill",
+    "prompt": "他什么都吃，＿不喜欢的菜也吃。",
+    "answer": "甚至",
+    "choices": [
+     "甚至",
+     "所以",
+     "可是"
+    ],
+    "why": "Eating even disliked food is the extreme example.",
+    "why_ja": "嫌いな料理まで食べるのが極端な例なので「甚至」です。"
+   },
+   {
+    "type": "order",
+    "prompt": "Make: \"He even forgot his own name.\"",
+    "prompt_ja": "「彼は自分の名前さえ忘れた」を作る",
+    "answer": "他甚至忘了自己的名字",
+    "choices": [
+     "他",
+     "甚至",
+     "忘了",
+     "自己的名字"
+    ],
+    "why": "甚至 goes before the verb phrase.",
+    "why_ja": "「甚至」は動詞句の前に置きます。"
+   },
+   {
+    "type": "produce",
+    "prompt": "Say: \"Even the children know this.\" (use 甚至 and 都)",
+    "prompt_ja": "「子どもでさえこれを知っています」と「甚至…都」で言う",
+    "answer": "甚至孩子都知道这个",
+    "answerPinyin": "shèn zhì hái zi dōu zhī dào zhè ge",
+    "why": "甚至 + extreme subject + 都 + verb.",
+    "why_ja": "「甚至＋極端な主語＋都＋動詞」の形です。"
+   }
+  ]
+ },
+ {
+  "id": "gram:hsk4:zhiyao-zhiyou",
+  "level": "hsk4",
+  "unit": 3,
+  "order": 354,
+  "title": "只要…就 vs 只有…才",
+  "title_ja": "只要…就／只有…才：…さえすれば／…してこそ",
+  "pattern": "只要 A，就 B　|　只有 A，才 B",
+  "summary": "A sufficient condition vs the only condition",
+  "summary_ja": "十分条件と唯一の条件",
+  "explanation": "只要…就 says A is enough for B: 只要努力，就能学好 (effort is all it takes). 只有…才 says A is the only way to get B: 只有努力，才能学好 (without effort, no success). 就 and 才 go after the subject of the second clause. Choose 只要 for an easy, encouraging condition and 只有 for a strict, necessary one.",
+  "explanation_ja": "「只要…就」はAがあればBには十分だという意味です（只要努力，就能学好：努力すればそれで足りる）。「只有…才」はAがBの唯一の条件だという意味です（只有努力，才能学好：努力なしでは成功しない）。「就」「才」は後半の節の主語の後に置きます。ゆるく励ますような条件には「只要」、厳しく必須の条件には「只有」を選びます。",
+  "examples": [
+   {
+    "zh": "只要努力，就一定能学好汉语。",
+    "pinyin": "zhǐ yào nǔ lì, jiù yī dìng néng xué hǎo hàn yǔ.",
+    "en": "As long as you work hard, you can surely learn Chinese well.",
+    "ja": "努力さえすれば、きっと中国語が上手になります。"
+   },
+   {
+    "zh": "只要你来，我就高兴。",
+    "pinyin": "zhǐ yào nǐ lái, wǒ jiù gāo xìng.",
+    "en": "As long as you come, I am happy.",
+    "ja": "あなたが来てくれさえすれば、私はうれしいです。"
+   },
+   {
+    "zh": "只有每天锻炼，身体才会好。",
+    "pinyin": "zhǐ yǒu měi tiān duàn liàn, shēn tǐ cái huì hǎo.",
+    "en": "Only by exercising every day will your health improve.",
+    "ja": "毎日運動してこそ、体がよくなります。"
+   },
+   {
+    "zh": "只有他才知道这件事。",
+    "pinyin": "zhǐ yǒu tā cái zhī dào zhè jiàn shì.",
+    "en": "Only he knows about this.",
+    "ja": "彼だけがこのことを知っています。"
+   }
+  ],
+  "mistakes": [
+   "Mixing the pairs: 只要…才 and 只有…就 are both wrong.",
+   "Putting 就/才 before the subject: say 只要你来，我就高兴, not 就我高兴."
+  ],
+  "mistakes_ja": [
+   "「只要…才」「只有…就」の組み合わせは誤りです。",
+   "「就／才」は後半の主語の後です。「就我高兴」とは言いません。"
+  ],
+  "exercises": [
+   {
+    "type": "fill",
+    "prompt": "只要有时间，我＿去看你。",
+    "answer": "就",
+    "choices": [
+     "就",
+     "才",
+     "都"
+    ],
+    "why": "只要 pairs with 就.",
+    "why_ja": "「只要」は「就」と呼応します。"
+   },
+   {
+    "type": "fill",
+    "prompt": "只有多听多说，＿能说好汉语。",
+    "answer": "才",
+    "choices": [
+     "才",
+     "就",
+     "也"
+    ],
+    "why": "只有 pairs with 才.",
+    "why_ja": "「只有」は「才」と呼応します。"
+   },
+   {
+    "type": "choose",
+    "prompt": "Which sentence means \"Only with a ticket can you enter\"?",
+    "prompt_ja": "「チケットがあってこそ入れます」はどれですか",
+    "answer": "只有有票，才能进去。",
+    "choices": [
+     "只有有票，才能进去。",
+     "只要有票，就能进去。",
+     "只有有票，就能进去。"
+    ],
+    "why": "A strict, necessary condition uses 只有…才.",
+    "why_ja": "必須条件は「只有…才」で表します。"
+   },
+   {
+    "type": "produce",
+    "prompt": "Say: \"As long as you call, I will come.\" (use 只要…就)",
+    "prompt_ja": "「電話してくれさえすれば、行きます」と「只要…就」で言う",
+    "answer": "只要你打电话我就来",
+    "answerPinyin": "zhǐ yào nǐ dǎ diàn huà wǒ jiù lái",
+    "why": "只要 + condition, subject + 就 + result.",
+    "why_ja": "「只要＋条件、主語＋就＋結果」です。"
+   }
+  ]
+ },
+ {
+  "id": "gram:hsk4:yongyuan",
+  "level": "hsk4",
+  "unit": 3,
+  "order": 355,
+  "title": "永远: forever",
+  "title_ja": "永远：永遠に・いつまでも",
+  "pattern": "永远 + (不/是/会) + V",
+  "summary": "An adverb meaning \"always, forever\"",
+  "summary_ja": "「ずっと・永遠に」を表す副詞",
+  "explanation": "永远 is an adverb placed before the verb or before 不/没: 我永远不会忘记. It stresses that something will never change. It commonly appears with 不 (never), with 是 (is forever) and with 记得/忘记/爱/支持. Do not put it at the end of the sentence as in English \"forever\".",
+  "explanation_ja": "「永远」は動詞や「不／没」の前に置く副詞です（我永远不会忘记）。状態が決して変わらないことを強調します。「不」（決して…ない）、「是」（永遠に…である）、「记得・忘记・爱・支持」などとよく一緒に使います。英語の forever のように文末には置きません。",
+  "examples": [
+   {
+    "zh": "我永远不会忘记你的帮助。",
+    "pinyin": "wǒ yǒng yuǎn bù huì wàng jì nǐ de bāng zhù.",
+    "en": "I will never forget your help.",
+    "ja": "あなたの助けを私は決して忘れません。"
+   },
+   {
+    "zh": "他永远是我的好朋友。",
+    "pinyin": "tā yǒng yuǎn shì wǒ de hǎo péng you.",
+    "en": "He will always be my good friend.",
+    "ja": "彼はいつまでも私の親友です。"
+   },
+   {
+    "zh": "我永远支持你。",
+    "pinyin": "wǒ yǒng yuǎn zhī chí nǐ.",
+    "en": "I will always support you.",
+    "ja": "私はいつまでもあなたを支持します。"
+   }
+  ],
+  "mistakes": [
+   "Placing 永远 at the end: 我爱你永远 is not Chinese word order.",
+   "Using 永远 for a habit; \"always\" as a habit is 总是 or 一直."
+  ],
+  "mistakes_ja": [
+   "「我爱你永远」のように文末に置くのは誤りです。",
+   "習慣的な「いつも」は「总是」「一直」を使います。"
+  ],
+  "exercises": [
+   {
+    "type": "fill",
+    "prompt": "这件事我＿记得。",
+    "answer": "永远",
+    "choices": [
+     "永远",
+     "已经",
+     "刚才"
+    ],
+    "why": "Remembering forever is expressed by 永远 before the verb.",
+    "why_ja": "「永遠に覚えている」は動詞の前の「永远」で表します。"
+   },
+   {
+    "type": "order",
+    "prompt": "Make: \"I will never leave Beijing.\"",
+    "prompt_ja": "「私は永遠に北京を離れません」を作る",
+    "answer": "我永远不离开北京",
+    "choices": [
+     "我",
+     "永远",
+     "不",
+     "离开北京"
+    ],
+    "why": "永远 goes before 不 + verb.",
+    "why_ja": "「永远」は「不＋動詞」の前です。"
+   },
+   {
+    "type": "produce",
+    "prompt": "Say: \"She is forever my teacher.\"",
+    "prompt_ja": "「彼女はいつまでも私の先生です」と言う",
+    "answer": "她永远是我的老师",
+    "answerPinyin": "tā yǒng yuǎn shì wǒ de lǎo shī",
+    "why": "永远 before 是.",
+    "why_ja": "「永远」を「是」の前に置きます。"
+   }
+  ]
+ },
+ {
+  "id": "gram:hsk4:daodi",
+  "level": "hsk4",
+  "unit": 4,
+  "order": 456,
+  "title": "到底: what on earth…?",
+  "title_ja": "到底：いったい",
+  "pattern": "S + 到底 + question",
+  "summary": "Presses for a clear answer",
+  "summary_ja": "はっきりした答えを求めて問い詰める",
+  "explanation": "到底 in a question means \"after all, what on earth\" and shows the speaker wants a definite answer: 你到底去不去？ It goes before the questioned part and is used with A-not-A questions and question words (谁, 什么, 怎么), never with 吗. Inside a statement, 到底 can also mean \"in the end, finally\": 他到底来了.",
+  "explanation_ja": "疑問文の「到底」は「いったい」という意味で、はっきりした答えを求める気持ちを表します（你到底去不去？）。尋ねたい部分の前に置き、反復疑問文や疑問詞（谁・什么・怎么）と一緒に使います。「吗」とは併用しません。平叙文では「とうとう・結局」の意味にもなります（他到底来了）。",
+  "examples": [
+   {
+    "zh": "你到底去不去？",
+    "pinyin": "nǐ dào dǐ qù bù qù?",
+    "en": "Are you going or not, after all?",
+    "ja": "あなたはいったい行くのですか、行かないのですか。"
+   },
+   {
+    "zh": "他到底是谁？",
+    "pinyin": "tā dào dǐ shì shéi?",
+    "en": "Who on earth is he?",
+    "ja": "彼はいったい誰なのですか。"
+   },
+   {
+    "zh": "这到底是怎么回事？",
+    "pinyin": "zhè dào dǐ shì zěn me huí shì?",
+    "en": "What on earth is going on here?",
+    "ja": "これはいったいどういうことですか。"
+   }
+  ],
+  "mistakes": [
+   "Combining 到底 with 吗: 你到底去吗 is wrong; use 去不去.",
+   "Placing 到底 at the start when the subject is a pronoun: 到底你去不去 is less natural than 你到底去不去."
+  ],
+  "mistakes_ja": [
+   "「到底」と「吗」は併用しません。「去不去」の形にします。",
+   "主語が代名詞のときは「你到底…」のように主語の後に置くのが自然です。"
+  ],
+  "exercises": [
+   {
+    "type": "choose",
+    "prompt": "Which question is correct?",
+    "prompt_ja": "正しい疑問文はどれですか",
+    "answer": "你到底想吃什么？",
+    "choices": [
+     "你到底想吃什么？",
+     "你到底想吃吗？",
+     "你想吃什么到底？"
+    ],
+    "why": "到底 goes before the question word; it cannot pair with 吗.",
+    "why_ja": "「到底」は疑問詞の前に置き、「吗」とは使えません。"
+   },
+   {
+    "type": "order",
+    "prompt": "Make: \"What on earth happened?\"",
+    "prompt_ja": "「いったい何が起きたのですか」を作る",
+    "answer": "到底发生了什么",
+    "choices": [
+     "到底",
+     "发生了",
+     "什么"
+    ],
+    "why": "到底 + verb + question word.",
+    "why_ja": "「到底＋動詞＋疑問詞」です。"
+   },
+   {
+    "type": "produce",
+    "prompt": "Ask: \"Is he coming or not, after all?\"",
+    "prompt_ja": "「彼はいったい来るのですか、来ないのですか」と尋ねる",
+    "answer": "他到底来不来",
+    "answerPinyin": "tā dào dǐ lái bù lái",
+    "why": "Subject + 到底 + A-not-A.",
+    "why_ja": "「主語＋到底＋反復疑問」です。"
+   }
+  ]
+ },
+ {
+  "id": "gram:hsk4:yinci",
+  "level": "hsk4",
+  "unit": 4,
+  "order": 457,
+  "title": "因此: therefore",
+  "title_ja": "因此：したがって",
+  "pattern": "reason，因此 + result",
+  "summary": "A formal \"so, as a result\"",
+  "summary_ja": "改まった「だから・その結果」",
+  "explanation": "因此 opens the result clause, like 所以 but more formal: 他每天锻炼，因此身体很好. It can begin a new sentence as well. 因此 is not paired with 因为 in the same sentence; use 因为…所以 or state the reason, then 因此. It can follow the subject or precede it: 因此他…/他因此….",
+  "explanation_ja": "「因此」は結果の節を導き、「所以」より改まった言い方です（他每天锻炼，因此身体很好）。新しい文の頭に置くこともできます。同じ文で「因为」と組み合わせることはなく、「因为…所以」を使うか、理由を述べてから「因此」と続けます。主語の前にも後にも置けます（因此他…／他因此…）。",
+  "examples": [
+   {
+    "zh": "他每天锻炼，因此身体很好。",
+    "pinyin": "tā měi tiān duàn liàn, yīn cǐ shēn tǐ hěn hǎo.",
+    "en": "He exercises every day; therefore he is very healthy.",
+    "ja": "彼は毎日運動しているので、とても健康です。"
+   },
+   {
+    "zh": "昨天下大雨，因此比赛没有进行。",
+    "pinyin": "zuó tiān xià dà yǔ, yīn cǐ bǐ sài méi yǒu jìn xíng.",
+    "en": "It rained heavily yesterday, so the match was not held.",
+    "ja": "昨日は大雨だったため、試合は行われませんでした。"
+   },
+   {
+    "zh": "她汉语说得很好，因此找到了一个好工作。",
+    "pinyin": "tā hàn yǔ shuō de hěn hǎo, yīn cǐ zhǎo dào le yī ge hǎo gōng zuò.",
+    "en": "She speaks Chinese very well and therefore found a good job.",
+    "ja": "彼女は中国語がとても上手なので、よい仕事を見つけました。"
+   }
+  ],
+  "mistakes": [
+   "Writing 因为…因此 together; 因此 already contains the idea of cause.",
+   "Using 因此 in casual speech where 所以 is more natural."
+  ],
+  "mistakes_ja": [
+   "「因为…因此」の組み合わせは避けます。「因此」自体に原因の意味が含まれています。",
+   "くだけた会話では「所以」のほうが自然です。"
+  ],
+  "exercises": [
+   {
+    "type": "fill",
+    "prompt": "他没有复习，＿考试没通过。",
+    "answer": "因此",
+    "choices": [
+     "因此",
+     "因为",
+     "虽然"
+    ],
+    "why": "The second clause is the result of not revising.",
+    "why_ja": "後半は復習しなかった結果なので「因此」です。"
+   },
+   {
+    "type": "order",
+    "prompt": "Make: \"The road is too far, therefore we went by car.\"",
+    "prompt_ja": "「道が遠すぎるので、私たちは車で行きました」を作る",
+    "answer": "路太远因此我们开车去了",
+    "choices": [
+     "路太远",
+     "因此",
+     "我们",
+     "开车去了"
+    ],
+    "why": "Reason, 因此, then the result.",
+    "why_ja": "理由→因此→結果の順です。"
+   },
+   {
+    "type": "produce",
+    "prompt": "Say: \"He is ill, therefore he did not come.\" (use 因此)",
+    "prompt_ja": "「彼は病気なので、来ませんでした」と「因此」で言う",
+    "answer": "他病了因此没来",
+    "answerPinyin": "tā bìng le yīn cǐ méi lái",
+    "why": "因此 introduces the result.",
+    "why_ja": "「因此」で結果を導きます。"
+   }
+  ]
+ },
+ {
+  "id": "gram:hsk4:buguan-dou",
+  "level": "hsk4",
+  "unit": 5,
+  "order": 558,
+  "title": "不管…都: no matter…",
+  "title_ja": "不管…都：…であろうと",
+  "pattern": "不管 + question form，S + 都/也 + V",
+  "summary": "The result holds in every case",
+  "summary_ja": "どんな場合でも結果は変わらない",
+  "explanation": "不管 is followed by a question-like phrase: a question word (谁, 什么, 怎么样, 多), an A-not-A form (去不去) or a choice (A 还是 B). The second clause then uses 都 or 也 to say the outcome is the same in every case: 不管天气怎么样，他都去跑步. 不管 is colloquial; 无论 (later) is its formal twin.",
+  "explanation_ja": "「不管」の後には疑問の形を置きます。疑問詞（谁・什么・怎么样・多）、反復疑問（去不去）、選択（A还是B）などです。後半では「都」や「也」を使い、どの場合でも結果が同じだと述べます（不管天气怎么样，他都去跑步）。「不管」は話し言葉的で、後で学ぶ「无论」が改まった言い方です。",
+  "examples": [
+   {
+    "zh": "不管天气怎么样，他都去跑步。",
+    "pinyin": "bù guǎn tiān qì zěn me yàng, tā dōu qù pǎo bù.",
+    "en": "No matter what the weather is like, he goes running.",
+    "ja": "天気がどうであれ、彼は走りに行きます。"
+   },
+   {
+    "zh": "不管你说什么，我都相信你。",
+    "pinyin": "bù guǎn nǐ shuō shén me, wǒ dōu xiāng xìn nǐ.",
+    "en": "Whatever you say, I believe you.",
+    "ja": "あなたが何を言おうと、私はあなたを信じます。"
+   },
+   {
+    "zh": "不管多难，我都要坚持。",
+    "pinyin": "bù guǎn duō nán, wǒ dōu yào jiān chí.",
+    "en": "However hard it is, I will keep going.",
+    "ja": "どんなに難しくても、私は続けます。"
+   }
+  ],
+  "mistakes": [
+   "A plain statement after 不管: 不管下雨 should be 不管下不下雨 or 不管天气怎么样.",
+   "Leaving out 都/也 in the second clause."
+  ],
+  "mistakes_ja": [
+   "「不管」の後に平叙文は置けません。「不管下不下雨」「不管天气怎么样」のように疑問の形にします。",
+   "後半の「都／也」を落とさないでください。"
+  ],
+  "exercises": [
+   {
+    "type": "fill",
+    "prompt": "不管他来不来，我们＿要开始。",
+    "answer": "都",
+    "choices": [
+     "都",
+     "才",
+     "就"
+    ],
+    "why": "不管 pairs with 都 in the result clause.",
+    "why_ja": "「不管」は後半の「都」と呼応します。"
+   },
+   {
+    "type": "choose",
+    "prompt": "Which sentence is correct?",
+    "prompt_ja": "正しい文はどれですか",
+    "answer": "不管谁来，我都欢迎。",
+    "choices": [
+     "不管谁来，我都欢迎。",
+     "不管他来，我都欢迎。",
+     "不管谁来，我才欢迎。"
+    ],
+    "why": "不管 needs a question form (谁) and 都 afterwards.",
+    "why_ja": "「不管」の後は疑問の形（谁）、後半は「都」です。"
+   },
+   {
+    "type": "produce",
+    "prompt": "Say: \"No matter how busy I am, I exercise every day.\"",
+    "prompt_ja": "「どんなに忙しくても、私は毎日運動します」と言う",
+    "answer": "不管多忙我都每天锻炼",
+    "answerPinyin": "bù guǎn duō máng wǒ dōu měi tiān duàn liàn",
+    "why": "不管多 + adjective, then 都.",
+    "why_ja": "「不管多＋形容詞」の後に「都」です。"
+   }
+  ]
+ },
+ {
+  "id": "gram:hsk4:lingwai-ciwai",
+  "level": "hsk4",
+  "unit": 5,
+  "order": 559,
+  "title": "另外 / 此外: in addition",
+  "title_ja": "另外／此外：そのほかに",
+  "pattern": "…。另外/此外，…　|　另外 + number + MW + N",
+  "summary": "Adding a further point or item",
+  "summary_ja": "さらに別の点や物を付け加える",
+  "explanation": "另外 and 此外 both add something further. As a connector they start a new clause or sentence, usually with a comma: 我要一杯咖啡，另外再要一个蛋糕. 此外 is more formal and only works as a connector. 另外 can also act like \"another\": 另外两个人, 另外一件事. 还 or 也 often appears in the clause that follows.",
+  "explanation_ja": "「另外」と「此外」はどちらも何かを付け加えます。接続詞として使うときは、読点を挟んで新しい節や文を始めます（我要一杯咖啡，另外再要一个蛋糕）。「此外」はより改まった表現で、接続詞としてしか使いません。「另外」は「ほかの」の意味で名詞を修飾することもできます（另外两个人・另外一件事）。後に続く節には「还」や「也」がよく現れます。",
+  "examples": [
+   {
+    "zh": "我要一杯咖啡，另外再要一个蛋糕。",
+    "pinyin": "wǒ yào yī bēi kā fēi, lìng wài zài yào yī ge dàn gāo.",
+    "en": "I would like a coffee, and in addition a cake.",
+    "ja": "コーヒーを1杯、それからケーキも1つお願いします。"
+   },
+   {
+    "zh": "他会说汉语，此外还会说日语。",
+    "pinyin": "tā huì shuō hàn yǔ, cǐ wài hái huì shuō rì yǔ.",
+    "en": "He speaks Chinese and, besides that, Japanese.",
+    "ja": "彼は中国語が話せ、そのほかに日本語も話せます。"
+   },
+   {
+    "zh": "另外两个同学还没到。",
+    "pinyin": "lìng wài liǎng ge tóng xué hái méi dào.",
+    "en": "The other two classmates have not arrived yet.",
+    "ja": "ほかの2人のクラスメートはまだ着いていません。"
+   }
+  ],
+  "mistakes": [
+   "Using 此外 before a noun: 此外两个人 is wrong; say 另外两个人.",
+   "Dropping the comma and gluing 另外 to the first clause."
+  ],
+  "mistakes_ja": [
+   "「此外」は名詞の前には置けません。「另外两个人」とします。",
+   "「另外」の前には読点を打って節を切ります。"
+  ],
+  "exercises": [
+   {
+    "type": "fill",
+    "prompt": "这个房间太小，＿也太贵了。",
+    "answer": "另外",
+    "choices": [
+     "另外",
+     "只要",
+     "因此"
+    ],
+    "why": "A second drawback is being added.",
+    "why_ja": "2つ目の欠点を付け加えているので「另外」です。"
+   },
+   {
+    "type": "choose",
+    "prompt": "Which sentence is correct?",
+    "prompt_ja": "正しい文はどれですか",
+    "answer": "另外一个问题是钱。",
+    "choices": [
+     "另外一个问题是钱。",
+     "此外一个问题是钱。",
+     "一个另外问题是钱。"
+    ],
+    "why": "Only 另外 can modify a noun phrase.",
+    "why_ja": "名詞句を修飾できるのは「另外」だけです。"
+   },
+   {
+    "type": "produce",
+    "prompt": "Say: \"He studies Chinese; besides, he also studies history.\" (use 此外)",
+    "prompt_ja": "「彼は中国語を学んでいて、そのほかに歴史も学んでいます」と「此外」で言う",
+    "answer": "他学汉语此外还学历史",
+    "answerPinyin": "tā xué hàn yǔ cǐ wài hái xué lì shǐ",
+    "why": "此外 + 还 adds the further item.",
+    "why_ja": "「此外＋还」で追加の事柄を述べます。"
+   }
+  ]
+ },
+ {
+  "id": "gram:hsk4:jishi-ye",
+  "level": "hsk4",
+  "unit": 6,
+  "order": 650,
+  "title": "即使…也: even if",
+  "title_ja": "即使…也：たとえ…でも",
+  "pattern": "即使 A，(S) 也 B",
+  "summary": "A hypothetical concession",
+  "summary_ja": "仮定の譲歩",
+  "explanation": "即使 presents a situation that may or may not happen (\"even if\"), and 也 in the second clause says the result stays the same: 即使下雨，我也要去. Compare 虽然…但是, which deals with a real, existing fact. 即使 can also describe a past hypothetical. 也 is required and goes after the subject.",
+  "explanation_ja": "「即使」は起こるかどうかわからない状況を「たとえ…でも」と提示し、後半の「也」が結果は変わらないことを示します（即使下雨，我也要去）。すでに起きている事実を述べる「虽然…但是」と比べてみましょう。過去の仮定にも使えます。「也」は必須で、主語の後に置きます。",
+  "examples": [
+   {
+    "zh": "即使下雨，我也要去。",
+    "pinyin": "jí shǐ xià yǔ, wǒ yě yào qù.",
+    "en": "Even if it rains, I will go.",
+    "ja": "たとえ雨が降っても、私は行きます。"
+   },
+   {
+    "zh": "即使很累，他也继续工作。",
+    "pinyin": "jí shǐ hěn lèi, tā yě jì xù gōng zuò.",
+    "en": "Even when very tired, he keeps working.",
+    "ja": "たとえ疲れていても、彼は働き続けます。"
+   },
+   {
+    "zh": "即使你不说，我也知道。",
+    "pinyin": "jí shǐ nǐ bù shuō, wǒ yě zhī dào.",
+    "en": "Even if you do not say it, I know.",
+    "ja": "あなたが言わなくても、私にはわかります。"
+   }
+  ],
+  "mistakes": [
+   "Using 但是 instead of 也 after 即使.",
+   "Using 即使 for a real fact; that is 虽然…但是."
+  ],
+  "mistakes_ja": [
+   "「即使」の後半に「但是」は使いません。「也」です。",
+   "実際の事実には「虽然…但是」を使います。"
+  ],
+  "exercises": [
+   {
+    "type": "fill",
+    "prompt": "即使没有钱，他＿很幸福。",
+    "answer": "也",
+    "choices": [
+     "也",
+     "但是",
+     "才"
+    ],
+    "why": "即使 pairs with 也.",
+    "why_ja": "「即使」は「也」と呼応します。"
+   },
+   {
+    "type": "order",
+    "prompt": "Make: \"Even if it is very expensive, I will buy it.\"",
+    "prompt_ja": "「たとえ高くても、私は買います」を作る",
+    "answer": "即使很贵我也要买",
+    "choices": [
+     "即使",
+     "很贵",
+     "我也",
+     "要买"
+    ],
+    "why": "即使 + condition, subject + 也 + verb.",
+    "why_ja": "「即使＋条件、主語＋也＋動詞」です。"
+   },
+   {
+    "type": "produce",
+    "prompt": "Say: \"Even if he comes, I will not go.\"",
+    "prompt_ja": "「たとえ彼が来ても、私は行きません」と言う",
+    "answer": "即使他来我也不去",
+    "answerPinyin": "jí shǐ tā lái wǒ yě bù qù",
+    "why": "也 goes after the subject of the result clause.",
+    "why_ja": "「也」は結果の節の主語の後です。"
+   }
+  ]
+ },
+ {
+  "id": "gram:hsk4:shouxian-qici",
+  "level": "hsk4",
+  "unit": 6,
+  "order": 651,
+  "title": "首先…其次: first… second…",
+  "title_ja": "首先…其次：まず…次に…",
+  "pattern": "首先 + A，其次 + B (，最后 + C)",
+  "summary": "Listing points in order",
+  "summary_ja": "要点を順番に並べる",
+  "explanation": "首先 (\"first of all\") and 其次 (\"secondly\") list reasons, steps or points in order, and 最后 can close the list. Each one usually opens its clause and is followed by a comma. They are used both in speech and in writing when you explain how to do something or why you think something.",
+  "explanation_ja": "「首先」（まず）と「其次」（次に）は、理由や手順、要点を順番に並べるときに使い、「最后」で締めくくることができます。それぞれ節の頭に置き、読点を続けるのがふつうです。やり方の説明や意見の理由づけに、話し言葉でも書き言葉でも使われます。",
+  "examples": [
+   {
+    "zh": "学汉语，首先要多听，其次要多说。",
+    "pinyin": "xué hàn yǔ, shǒu xiān yào duō tīng, qí cì yào duō shuō.",
+    "en": "To learn Chinese, first listen a lot, and second speak a lot.",
+    "ja": "中国語を学ぶには、まずたくさん聞き、次にたくさん話すことです。"
+   },
+   {
+    "zh": "首先，我们要安排时间；其次，要找到好方法。",
+    "pinyin": "shǒu xiān, wǒ men yào ān pái shí jiān; qí cì, yào zhǎo dào hǎo fāng fǎ.",
+    "en": "First, we need to arrange our time; second, we need to find a good method.",
+    "ja": "まず時間を割り振り、次によい方法を見つける必要があります。"
+   },
+   {
+    "zh": "首先要洗手，其次要洗菜，最后才做饭。",
+    "pinyin": "shǒu xiān yào xǐ shǒu, qí cì yào xǐ cài, zuì hòu cái zuò fàn.",
+    "en": "First wash your hands, then wash the vegetables, and only then cook.",
+    "ja": "まず手を洗い、次に野菜を洗い、最後に料理をします。"
+   }
+  ],
+  "mistakes": [
+   "Using 第二 after 首先; the natural partner is 其次.",
+   "Using 其次 without a preceding 首先."
+  ],
+  "mistakes_ja": [
+   "「首先」の相手は「其次」です。「第二」は不自然です。",
+   "「首先」なしに「其次」だけを使わないでください。"
+  ],
+  "exercises": [
+   {
+    "type": "fill",
+    "prompt": "首先要准备好票，＿要早点儿到车站。",
+    "answer": "其次",
+    "choices": [
+     "其次",
+     "另外",
+     "首先"
+    ],
+    "why": "The second step after 首先 is 其次.",
+    "why_ja": "「首先」の次の段階は「其次」です。"
+   },
+   {
+    "type": "order",
+    "prompt": "Make: \"First rest, then eat.\"",
+    "prompt_ja": "「まず休んで、次に食事する」を作る",
+    "answer": "首先休息其次吃饭",
+    "choices": [
+     "首先",
+     "休息",
+     "其次",
+     "吃饭"
+    ],
+    "why": "首先 + step one, 其次 + step two.",
+    "why_ja": "「首先＋手順1、其次＋手順2」です。"
+   },
+   {
+    "type": "produce",
+    "prompt": "Say: \"First, I am busy; second, I have no money.\"",
+    "prompt_ja": "「まず私は忙しく、次にお金がありません」と言う",
+    "answer": "首先我很忙其次我没有钱",
+    "answerPinyin": "shǒu xiān wǒ hěn máng qí cì wǒ méi yǒu qián",
+    "why": "Two reasons listed in order.",
+    "why_ja": "2つの理由を順に並べます。"
+   }
+  ]
+ },
+ {
+  "id": "gram:hsk4:jinguan-danshi",
+  "level": "hsk4",
+  "unit": 7,
+  "order": 752,
+  "title": "尽管…但是: although",
+  "title_ja": "尽管…但是：…ではあるが",
+  "pattern": "尽管 A，但是/可是/还是 B",
+  "summary": "A real fact that does not change the outcome",
+  "summary_ja": "事実を認めつつ結果は変わらない",
+  "explanation": "尽管 works like 虽然 but a little stronger and more formal: it admits a real fact, and the second clause (with 但是, 可是, 还是 or 仍然) shows that the fact did not change the outcome. 尽管 can go before or after the subject. Note that 尽管 alone, before a verb, means \"feel free to\": 有问题尽管问.",
+  "explanation_ja": "「尽管」は「虽然」に似ていますが、やや強く改まった言い方です。実際の事実を認めたうえで、後半（但是・可是・还是・仍然）でその事実が結果を変えなかったことを述べます。「尽管」は主語の前にも後にも置けます。なお、動詞の前に単独で使う「尽管」は「遠慮なく…してよい」の意味です（有问题尽管问）。",
+  "examples": [
+   {
+    "zh": "尽管很冷，但是他还是去游泳了。",
+    "pinyin": "jǐn guǎn hěn lěng, dàn shì tā hái shì qù yóu yǒng le.",
+    "en": "Although it was very cold, he still went swimming.",
+    "ja": "とても寒かったのに、彼はやはり泳ぎに行きました。"
+   },
+   {
+    "zh": "尽管他很努力，但是没有通过考试。",
+    "pinyin": "jǐn guǎn tā hěn nǔ lì, dàn shì méi yǒu tōng guò kǎo shì.",
+    "en": "Although he worked hard, he did not pass the exam.",
+    "ja": "彼はとても努力したのに、試験に通りませんでした。"
+   },
+   {
+    "zh": "尽管工作很忙，她仍然每天锻炼。",
+    "pinyin": "jǐn guǎn gōng zuò hěn máng, tā réng rán měi tiān duàn liàn.",
+    "en": "Although work is busy, she still exercises every day.",
+    "ja": "仕事は忙しいのに、彼女は今でも毎日運動しています。"
+   }
+  ],
+  "mistakes": [
+   "Using 也 instead of 但是/还是 after 尽管; 也 belongs to 即使.",
+   "Confusing 尽管…但是 (real fact) with 即使…也 (hypothesis)."
+  ],
+  "mistakes_ja": [
+   "「尽管」の後半は「但是／还是」です。「也」は「即使」の相手です。",
+   "事実の「尽管…但是」と仮定の「即使…也」を混同しないでください。"
+  ],
+  "exercises": [
+   {
+    "type": "fill",
+    "prompt": "＿下着雨，但是人们还是来了。",
+    "answer": "尽管",
+    "choices": [
+     "尽管",
+     "即使",
+     "只要"
+    ],
+    "why": "The rain is a real fact, so 尽管 fits with 但是.",
+    "why_ja": "雨は実際の事実なので、「但是」と呼応する「尽管」です。"
+   },
+   {
+    "type": "choose",
+    "prompt": "Which sentence is correct?",
+    "prompt_ja": "正しい文はどれですか",
+    "answer": "尽管很累，他还是来了。",
+    "choices": [
+     "尽管很累，他还是来了。",
+     "尽管很累，他也来了。",
+     "尽管很累，所以他来了。"
+    ],
+    "why": "尽管 pairs with 还是/但是, not 也 or 所以.",
+    "why_ja": "「尽管」は「还是／但是」と呼応します。「也」「所以」ではありません。"
+   },
+   {
+    "type": "produce",
+    "prompt": "Say: \"Although it is expensive, I still bought it.\" (use 尽管…还是)",
+    "prompt_ja": "「高いけれど、やはり買いました」と「尽管…还是」で言う",
+    "answer": "尽管很贵我还是买了",
+    "answerPinyin": "jǐn guǎn hěn guì wǒ hái shì mǎi le",
+    "why": "尽管 + fact, subject + 还是 + verb.",
+    "why_ja": "「尽管＋事実、主語＋还是＋動詞」です。"
+   }
+  ]
+ },
+ {
+  "id": "gram:hsk4:wulun-dou",
+  "level": "hsk4",
+  "unit": 7,
+  "order": 753,
+  "title": "无论…都: regardless of",
+  "title_ja": "无论…都：…にかかわらず",
+  "pattern": "无论 + question form，(S) 都/也 + V",
+  "summary": "The formal twin of 不管",
+  "summary_ja": "「不管」の改まった言い方",
+  "explanation": "无论 works exactly like 不管: it is followed by a question form (谁, 什么, 多, 怎么, A不A, A还是B) and the result clause has 都 or 也. The difference is register: 无论 is written and formal, 不管 is spoken. 无论如何 (\"in any case, at all costs\") is a fixed phrase worth remembering.",
+  "explanation_ja": "「无论」は「不管」とまったく同じ使い方で、後ろに疑問の形（谁・什么・多・怎么・A不A・A还是B）を置き、結果の節に「都」や「也」を使います。違いは文体で、「无论」は書き言葉・改まった表現、「不管」は話し言葉です。「无论如何」（何としても・いずれにせよ）は決まり文句として覚えておきましょう。",
+  "examples": [
+   {
+    "zh": "无论多忙，他都陪孩子玩。",
+    "pinyin": "wú lùn duō máng, tā dōu péi hái zi wán.",
+    "en": "However busy he is, he plays with his children.",
+    "ja": "どんなに忙しくても、彼は子どもと遊びます。"
+   },
+   {
+    "zh": "无论谁问，他都不说。",
+    "pinyin": "wú lùn shéi wèn, tā dōu bù shuō.",
+    "en": "Whoever asks, he will not tell.",
+    "ja": "誰が聞いても、彼は言いません。"
+   },
+   {
+    "zh": "无论去哪儿，我都带着这本书。",
+    "pinyin": "wú lùn qù nǎr, wǒ dōu dài zhe zhè běn shū.",
+    "en": "Wherever I go, I carry this book.",
+    "ja": "どこに行くときも、私はこの本を持っています。"
+   }
+  ],
+  "mistakes": [
+   "A statement after 无论: 无论他来 must be 无论他来不来.",
+   "Forgetting 都 in the second clause."
+  ],
+  "mistakes_ja": [
+   "「无论」の後は疑問の形です。「无论他来不来」のようにします。",
+   "後半の「都」を忘れないでください。"
+  ],
+  "exercises": [
+   {
+    "type": "fill",
+    "prompt": "无论天气＿，比赛都会进行。",
+    "answer": "怎么样",
+    "choices": [
+     "怎么样",
+     "很好",
+     "不好"
+    ],
+    "why": "无论 needs a question form such as 怎么样.",
+    "why_ja": "「无论」の後には「怎么样」のような疑問の形が必要です。"
+   },
+   {
+    "type": "order",
+    "prompt": "Make: \"No matter what he says, I will not go.\"",
+    "prompt_ja": "「彼が何を言っても、私は行きません」を作る",
+    "answer": "无论他说什么我都不去",
+    "choices": [
+     "无论",
+     "他说什么",
+     "我都",
+     "不去"
+    ],
+    "why": "无论 + question form, subject + 都 + verb.",
+    "why_ja": "「无论＋疑問の形、主語＋都＋動詞」です。"
+   },
+   {
+    "type": "produce",
+    "prompt": "Say: \"Whoever comes, I welcome them.\" (use 无论)",
+    "prompt_ja": "「誰が来ても歓迎します」と「无论」で言う",
+    "answer": "无论谁来我都欢迎",
+    "answerPinyin": "wú lùn shéi lái wǒ dōu huān yíng",
+    "why": "无论谁 + verb, 都 in the result.",
+    "why_ja": "「无论谁＋動詞」、結果に「都」です。"
+   }
+  ]
+ },
+ {
+  "id": "gram:hsk4:lian-dou",
+  "level": "hsk4",
+  "unit": 8,
+  "order": 854,
+  "title": "连…都/也: even",
+  "title_ja": "连…都／也：…さえ",
+  "pattern": "连 + X + 都/也 + V",
+  "summary": "Highlights an extreme case",
+  "summary_ja": "極端な例を強調する",
+  "explanation": "连 picks out the least likely item (a person, thing, amount or action) and 都 or 也 follows it: 他连饭都没吃就走了 (he did not even eat). The item after 连 can be the subject (连小孩子都认识) or the object moved to the front (我连一块钱都没有). With a verb, the pattern is 连 + V + 都 + 不/没 + V: 连看都不看.",
+  "explanation_ja": "「连」はもっとも可能性の低いもの（人・物・数量・動作）を取り出し、その後に「都」や「也」を続けます（他连饭都没吃就走了：ご飯さえ食べずに）。「连」の後の要素は主語（连小孩子都认识）でも、前に出した目的語（我连一块钱都没有）でもかまいません。動詞を強調するときは「连＋動詞＋都＋不／没＋動詞」の形です（连看都不看）。",
+  "examples": [
+   {
+    "zh": "他连饭都没吃就走了。",
+    "pinyin": "tā lián fàn dōu méi chī jiù zǒu le.",
+    "en": "He left without even eating.",
+    "ja": "彼はご飯さえ食べずに行ってしまいました。"
+   },
+   {
+    "zh": "这个字连小孩子都认识。",
+    "pinyin": "zhè ge zì lián xiǎo hái zi dōu rèn shi.",
+    "en": "Even small children know this character.",
+    "ja": "この字は小さな子どもでも知っています。"
+   },
+   {
+    "zh": "我连一块钱都没有。",
+    "pinyin": "wǒ lián yī kuài qián dōu méi yǒu.",
+    "en": "I do not have even one yuan.",
+    "ja": "私は1元すら持っていません。"
+   },
+   {
+    "zh": "他连看都不看就说不要。",
+    "pinyin": "tā lián kàn dōu bù kàn jiù shuō bù yào.",
+    "en": "He said no without even looking.",
+    "ja": "彼は見もしないで要らないと言いました。"
+   }
+  ],
+  "mistakes": [
+   "Dropping 都/也 after the 连 phrase.",
+   "Leaving the object after the verb: 我都没有连一块钱 is wrong."
+  ],
+  "mistakes_ja": [
+   "「连」の後の「都／也」を落とさないでください。",
+   "目的語は動詞の後に残しません。「我连一块钱都没有」の語順です。"
+  ],
+  "exercises": [
+   {
+    "type": "fill",
+    "prompt": "他＿自己的名字都写错了。",
+    "answer": "连",
+    "choices": [
+     "连",
+     "把",
+     "对"
+    ],
+    "why": "Getting even one's own name wrong is the extreme case: 连…都.",
+    "why_ja": "自分の名前さえ書き間違えるという極端な例なので「连…都」です。"
+   },
+   {
+    "type": "order",
+    "prompt": "Make: \"She did not even drink water.\"",
+    "prompt_ja": "「彼女は水さえ飲まなかった」を作る",
+    "answer": "她连水都没喝",
+    "choices": [
+     "她",
+     "连水",
+     "都",
+     "没喝"
+    ],
+    "why": "Subject, 连 + object, 都, negative verb.",
+    "why_ja": "主語→连＋目的語→都→否定の動詞です。"
+   },
+   {
+    "type": "produce",
+    "prompt": "Say: \"Even the teacher does not know.\" (use 连)",
+    "prompt_ja": "「先生さえ知りません」と「连」で言う",
+    "answer": "连老师都不知道",
+    "answerPinyin": "lián lǎo shī dōu bù zhī dào",
+    "why": "连 + subject + 都 + 不 + verb.",
+    "why_ja": "「连＋主語＋都＋不＋動詞」です。"
+   }
+  ]
+ },
+ {
+  "id": "gram:hsk4:yi-jiu-review",
+  "level": "hsk4",
+  "unit": 8,
+  "order": 855,
+  "title": "一…就: as soon as (review)",
+  "title_ja": "一…就：…するとすぐ（復習）",
+  "pattern": "(S) 一 + V1，(S) 就 + V2",
+  "summary": "One action immediately follows another",
+  "summary_ja": "ある動作の直後に次が起こる",
+  "explanation": "一 before the first verb and 就 before the second show that the second thing happens right after the first, either once or habitually: 我一到家就给你打电话. The two clauses may have different subjects (她一说话，大家就笑). The pattern also expresses \"whenever\": 他一看书就困.",
+  "explanation_ja": "最初の動詞の前の「一」と2つ目の動詞の前の「就」で、「…するとすぐ…する」を表します。1回きりの出来事にも習慣にも使えます（我一到家就给你打电话）。2つの節の主語が違ってもかまいません（她一说话，大家就笑）。「…すると決まって」の意味にもなります（他一看书就困）。",
+  "examples": [
+   {
+    "zh": "我一到家就给你打电话。",
+    "pinyin": "wǒ yī dào jiā jiù gěi nǐ dǎ diàn huà.",
+    "en": "I will call you as soon as I get home.",
+    "ja": "家に着いたらすぐ電話します。"
+   },
+   {
+    "zh": "他一看书就困。",
+    "pinyin": "tā yī kàn shū jiù kùn.",
+    "en": "He gets sleepy as soon as he reads.",
+    "ja": "彼は本を読むとすぐ眠くなります。"
+   },
+   {
+    "zh": "她一说话，大家就笑。",
+    "pinyin": "tā yī shuō huà, dà jiā jiù xiào.",
+    "en": "As soon as she speaks, everyone laughs.",
+    "ja": "彼女が話し出すと、みんなすぐ笑います。"
+   }
+  ],
+  "mistakes": [
+   "Putting 一 before the subject: 一我到家 is wrong.",
+   "Using 一…就 for a long gap in time; it means \"immediately\"."
+  ],
+  "mistakes_ja": [
+   "「一」を主語の前には置きません。「我一到家」の語順です。",
+   "「一…就」は「すぐに」という意味で、時間が空く場合には使えません。"
+  ],
+  "exercises": [
+   {
+    "type": "fill",
+    "prompt": "他一下课＿去打篮球。",
+    "answer": "就",
+    "choices": [
+     "就",
+     "才",
+     "都"
+    ],
+    "why": "一 pairs with 就.",
+    "why_ja": "「一」は「就」と呼応します。"
+   },
+   {
+    "type": "order",
+    "prompt": "Make: \"As soon as it rains, the road becomes hard to walk.\"",
+    "prompt_ja": "「雨が降るとすぐ道が歩きにくくなる」を作る",
+    "answer": "一下雨路就难走",
+    "choices": [
+     "一下雨",
+     "路",
+     "就",
+     "难走"
+    ],
+    "why": "一 + event, subject + 就 + result.",
+    "why_ja": "「一＋出来事、主語＋就＋結果」です。"
+   },
+   {
+    "type": "produce",
+    "prompt": "Say: \"As soon as I wake up, I drink water.\"",
+    "prompt_ja": "「起きるとすぐ水を飲みます」と言う",
+    "answer": "我一起床就喝水",
+    "answerPinyin": "wǒ yī qǐ chuáng jiù hē shuǐ",
+    "why": "一起床 then 就喝水.",
+    "why_ja": "「一起床」の後に「就喝水」です。"
+   }
+  ]
+ },
+ {
+  "id": "gram:hsk4:nandao",
+  "level": "hsk4",
+  "unit": 9,
+  "order": 956,
+  "title": "难道: don't tell me…?",
+  "title_ja": "难道：まさか…ではあるまい",
+  "pattern": "难道 + S + V + 吗？　|　S + 难道 + V + 吗？",
+  "summary": "A rhetorical question expressing disbelief",
+  "summary_ja": "信じられない気持ちを表す反語",
+  "explanation": "难道 turns a question into a rhetorical one: the speaker does not expect new information but expresses surprise or disbelief. 难道你不知道吗？ means \"surely you know!\". It is usually followed by 吗 and may stand before or after the subject. Because it is rhetorical, the implied answer is the opposite of what is asked.",
+  "explanation_ja": "「难道」は疑問文を反語にします。話し手は新しい情報を求めているのではなく、驚きや信じられない気持ちを表しています。「难道你不知道吗？」は「知らないはずがないでしょう」という意味です。ふつう「吗」を伴い、主語の前にも後にも置けます。反語なので、含意される答えは尋ねている内容の逆になります。",
+  "examples": [
+   {
+    "zh": "难道你不知道吗？",
+    "pinyin": "nán dào nǐ bù zhī dào ma?",
+    "en": "Don't tell me you don't know?",
+    "ja": "まさか知らないのですか。"
+   },
+   {
+    "zh": "难道他不是你的朋友？",
+    "pinyin": "nán dào tā bù shì nǐ de péng you?",
+    "en": "Is he not your friend, then?",
+    "ja": "まさか彼はあなたの友達ではないのですか。"
+   },
+   {
+    "zh": "这么简单的问题，难道你不会？",
+    "pinyin": "zhè me jiǎn dān de wèn tí, nán dào nǐ bù huì?",
+    "en": "Such a simple question, surely you can do it?",
+    "ja": "こんな簡単な問題が、まさかできないのですか。"
+   }
+  ],
+  "mistakes": [
+   "Using 难道 for a real question that wants information; use 到底 or a plain question instead.",
+   "Answering the surface question literally; the meaning is the opposite."
+  ],
+  "mistakes_ja": [
+   "本当に情報を知りたい質問には「难道」は使いません。「到底」や普通の疑問文を使います。",
+   "表面的な質問にそのまま答えないでください。意味は逆です。"
+  ],
+  "exercises": [
+   {
+    "type": "fill",
+    "prompt": "＿你忘了今天是她的生日吗？",
+    "answer": "难道",
+    "choices": [
+     "难道",
+     "到底",
+     "也许"
+    ],
+    "why": "The speaker is surprised, so the rhetorical 难道 fits.",
+    "why_ja": "驚きを表す反語なので「难道」です。"
+   },
+   {
+    "type": "choose",
+    "prompt": "What does 难道你没看见吗？ imply?",
+    "prompt_ja": "「难道你没看见吗？」の含意は何ですか",
+    "answer": "You must have seen it.",
+    "choices": [
+     "You must have seen it.",
+     "You really did not see it.",
+     "I did not see it."
+    ],
+    "why": "A rhetorical question implies the opposite of its surface form.",
+    "why_ja": "反語は表面の意味の逆を含意します。"
+   },
+   {
+    "type": "produce",
+    "prompt": "Say: \"Don't tell me you are not going?\"",
+    "prompt_ja": "「まさか行かないのですか」と言う",
+    "answer": "难道你不去吗",
+    "answerPinyin": "nán dào nǐ bù qù ma",
+    "why": "难道 + subject + negative verb + 吗.",
+    "why_ja": "「难道＋主語＋否定の動詞＋吗」です。"
+   }
+  ]
+ },
+ {
+  "id": "gram:hsk4:yushi",
+  "level": "hsk4",
+  "unit": 9,
+  "order": 957,
+  "title": "于是: and so",
+  "title_ja": "于是：そこで・それで",
+  "pattern": "event 1，于是 + (S) + event 2",
+  "summary": "One event leads naturally to the next",
+  "summary_ja": "出来事が自然に次へつながる",
+  "explanation": "于是 links two events in sequence: the first creates the situation, and the second follows from it. It is weaker than 所以: 所以 states a logical result, 于是 just tells what happened next. 于是 usually comes at the start of the second clause, before or after the subject, and is common in stories and narration.",
+  "explanation_ja": "「于是」は2つの出来事を順につなぎます。最初の出来事が状況を作り、2つ目がそれを受けて起こります。「所以」よりも弱く、「所以」が論理的な結果を述べるのに対し、「于是」は単に次に何が起きたかを語ります。ふつう後半の節の頭、主語の前か後に置き、物語や語りによく使われます。",
+  "examples": [
+   {
+    "zh": "外面下雨了，于是我们就在家看电影。",
+    "pinyin": "wài miàn xià yǔ le, yú shì wǒ men jiù zài jiā kàn diàn yǐng.",
+    "en": "It started raining outside, so we watched a film at home.",
+    "ja": "外は雨になったので、私たちは家で映画を見ました。"
+   },
+   {
+    "zh": "他觉得很累，于是早早地睡了。",
+    "pinyin": "tā jué de hěn lèi, yú shì zǎo zǎo de shuì le.",
+    "en": "He felt tired, and so went to bed early.",
+    "ja": "彼は疲れを感じて、それで早めに寝ました。"
+   },
+   {
+    "zh": "市场上的苹果很便宜，于是她买了很多。",
+    "pinyin": "shì chǎng shàng de píng guǒ hěn pián yi, yú shì tā mǎi le hěn duō.",
+    "en": "Apples at the market were cheap, so she bought a lot.",
+    "ja": "市場のリンゴが安かったので、彼女はたくさん買いました。"
+   }
+  ],
+  "mistakes": [
+   "Using 于是 for a general logical rule; that needs 所以 or 因此.",
+   "Placing 于是 at the very end of the sentence."
+  ],
+  "mistakes_ja": [
+   "一般的な論理関係には「所以」「因此」を使います。",
+   "「于是」を文末に置くことはできません。"
+  ],
+  "exercises": [
+   {
+    "type": "fill",
+    "prompt": "商店关门了，＿我们去了另外一家。",
+    "answer": "于是",
+    "choices": [
+     "于是",
+     "虽然",
+     "不管"
+    ],
+    "why": "The shop closing led to the next action.",
+    "why_ja": "店が閉まったことが次の行動につながるので「于是」です。"
+   },
+   {
+    "type": "order",
+    "prompt": "Make: \"He was hungry, so he went to buy food.\"",
+    "prompt_ja": "「彼はお腹が空いたので、食べ物を買いに行った」を作る",
+    "answer": "他饿了于是去买吃的",
+    "choices": [
+     "他饿了",
+     "于是",
+     "去买",
+     "吃的"
+    ],
+    "why": "Event, 于是, next event.",
+    "why_ja": "出来事→于是→次の出来事です。"
+   },
+   {
+    "type": "produce",
+    "prompt": "Say: \"It was too hot, so we went swimming.\" (use 于是)",
+    "prompt_ja": "「暑すぎたので、私たちは泳ぎに行きました」と「于是」で言う",
+    "answer": "太热了于是我们去游泳了",
+    "answerPinyin": "tài rè le yú shì wǒ men qù yóu yǒng le",
+    "why": "于是 opens the second event.",
+    "why_ja": "「于是」で2つ目の出来事を始めます。"
+   }
+  ]
+ },
+ {
+  "id": "gram:hsk4:jingran-juran",
+  "level": "hsk4",
+  "unit": 10,
+  "order": 1058,
+  "title": "竟然 / 居然: unexpectedly",
+  "title_ja": "竟然／居然：意外にも・なんと",
+  "pattern": "S + 竟然/居然 + V",
+  "summary": "Something happened against all expectation",
+  "summary_ja": "予想に反して起きたことを表す",
+  "explanation": "竟然 and 居然 are adverbs placed before the verb that mark the event as surprising: 他竟然忘了自己的生日. They are interchangeable; 居然 is a little stronger and more colloquial. The surprise can be good or bad. Compare 竟然 (unexpected) with 果然 (just as expected).",
+  "explanation_ja": "「竟然」「居然」は動詞の前に置く副詞で、出来事が意外であることを示します（他竟然忘了自己的生日）。どちらも入れ替え可能で、「居然」のほうがやや強く、話し言葉的です。よい驚きにも悪い驚きにも使えます。「竟然」（意外）と「果然」（予想どおり）を対比して覚えましょう。",
+  "examples": [
+   {
+    "zh": "他竟然忘了自己的生日。",
+    "pinyin": "tā jìng rán wàng le zì jǐ de shēng rì.",
+    "en": "He actually forgot his own birthday.",
+    "ja": "彼はなんと自分の誕生日を忘れていました。"
+   },
+   {
+    "zh": "这么难的题，他居然做对了。",
+    "pinyin": "zhè me nán de tí, tā jū rán zuò duì le.",
+    "en": "Such a hard question, and he actually got it right.",
+    "ja": "こんなに難しい問題を、彼はなんと正解しました。"
+   },
+   {
+    "zh": "她竟然一个人去了中国。",
+    "pinyin": "tā jìng rán yī ge rén qù le zhōng guó.",
+    "en": "She went to China all by herself, surprisingly.",
+    "ja": "彼女は意外にも一人で中国に行きました。"
+   }
+  ],
+  "mistakes": [
+   "Putting 竟然 before the subject in a plain sentence; it goes after the subject.",
+   "Using 竟然 for an expected outcome; that is 果然."
+  ],
+  "mistakes_ja": [
+   "「竟然」は主語の後に置きます。",
+   "予想どおりの結果には「果然」を使います。"
+  ],
+  "exercises": [
+   {
+    "type": "fill",
+    "prompt": "他学了三年汉语，＿不会说\"你好\"。",
+    "answer": "竟然",
+    "choices": [
+     "竟然",
+     "一定",
+     "永远"
+    ],
+    "why": "Not knowing \"hello\" after three years is surprising.",
+    "why_ja": "3年学んで「你好」も言えないのは意外なので「竟然」です。"
+   },
+   {
+    "type": "order",
+    "prompt": "Make: \"He surprisingly came on time.\"",
+    "prompt_ja": "「彼は意外にも時間どおりに来た」を作る",
+    "answer": "他居然按时来了",
+    "choices": [
+     "他",
+     "居然",
+     "按时",
+     "来了"
+    ],
+    "why": "Subject + 居然 + adverbial + verb.",
+    "why_ja": "「主語＋居然＋状況語＋動詞」です。"
+   },
+   {
+    "type": "choose",
+    "prompt": "Which sentence shows surprise?",
+    "prompt_ja": "驚きを表す文はどれですか",
+    "answer": "他竟然没来。",
+    "choices": [
+     "他竟然没来。",
+     "他果然没来。",
+     "他已经没来。"
+    ],
+    "why": "竟然 marks the unexpected; 果然 marks the expected.",
+    "why_ja": "「竟然」は意外、「果然」は予想どおりです。"
+   }
+  ]
+ },
+ {
+  "id": "gram:hsk4:fanzheng",
+  "level": "hsk4",
+  "unit": 10,
+  "order": 1059,
+  "title": "反正: anyway",
+  "title_ja": "反正：どうせ・いずれにしても",
+  "pattern": "反正 + S + V　|　S + 反正 + V",
+  "summary": "The outcome is fixed whatever happens",
+  "summary_ja": "何があっても結果は決まっている",
+  "explanation": "反正 means \"anyway, in any case\": the speaker says that whatever the circumstances, the result is settled. 反正我不去，你自己决定吧. It often follows a 不管/无论 clause or stands alone to brush aside details. It is colloquial and goes before or after the subject.",
+  "explanation_ja": "「反正」は「どうせ・いずれにせよ」という意味で、状況がどうであれ結果は決まっていると話し手が述べるときに使います（反正我不去，你自己决定吧）。「不管／无论」の節の後に続くことも、単独で細かいことを切り捨てることもあります。話し言葉的で、主語の前にも後にも置けます。",
+  "examples": [
+   {
+    "zh": "反正我不去，你自己决定吧。",
+    "pinyin": "fǎn zhèng wǒ bù qù, nǐ zì jǐ jué dìng ba.",
+    "en": "Anyway I am not going; decide for yourself.",
+    "ja": "どうせ私は行かないので、自分で決めてください。"
+   },
+   {
+    "zh": "不用着急，反正时间还早。",
+    "pinyin": "bù yòng zháo jí, fǎn zhèng shí jiān hái zǎo.",
+    "en": "No need to hurry; it is still early anyway.",
+    "ja": "急がなくていいですよ。どうせまだ時間は早いですから。"
+   },
+   {
+    "zh": "不管你怎么说，反正他不会同意的。",
+    "pinyin": "bù guǎn nǐ zěn me shuō, fǎn zhèng tā bù huì tóng yì de.",
+    "en": "Whatever you say, he will not agree anyway.",
+    "ja": "あなたが何と言おうと、どうせ彼は同意しません。"
+   }
+  ],
+  "mistakes": [
+   "Using 反正 in a formal report; it is conversational.",
+   "Confusing 反正 with 反对 (\"to oppose\")."
+  ],
+  "mistakes_ja": [
+   "「反正」は会話的な表現で、改まった文書には向きません。",
+   "「反正」と「反对」（反対する）を混同しないでください。"
+  ],
+  "exercises": [
+   {
+    "type": "fill",
+    "prompt": "你别问了，＿我不会告诉你。",
+    "answer": "反正",
+    "choices": [
+     "反正",
+     "难道",
+     "于是"
+    ],
+    "why": "The speaker says the result is fixed anyway.",
+    "why_ja": "結果は決まっているという「どうせ」の意味なので「反正」です。"
+   },
+   {
+    "type": "order",
+    "prompt": "Make: \"Eat it; we cannot finish it anyway.\"",
+    "prompt_ja": "「食べてください。どうせ食べきれませんから」を作る",
+    "answer": "你吃吧反正我们吃不完",
+    "choices": [
+     "你吃吧",
+     "反正",
+     "我们",
+     "吃不完"
+    ],
+    "why": "反正 introduces the settled reason.",
+    "why_ja": "「反正」で決まった理由を述べます。"
+   },
+   {
+    "type": "produce",
+    "prompt": "Say: \"Anyway, I have time.\"",
+    "prompt_ja": "「どうせ私は時間があります」と言う",
+    "answer": "反正我有时间",
+    "answerPinyin": "fǎn zhèng wǒ yǒu shí jiān",
+    "why": "反正 before the subject.",
+    "why_ja": "「反正」を主語の前に置きます。"
+   }
+  ]
+ },
+ {
+  "id": "gram:hsk4:bujin-erqie",
+  "level": "hsk4",
+  "unit": 11,
+  "order": 1150,
+  "title": "不仅…而且: not only… but also",
+  "title_ja": "不仅…而且：…だけでなく…も",
+  "pattern": "S + 不仅 A，而且 (还/也) B",
+  "summary": "Adds a second, stronger point",
+  "summary_ja": "2つ目のより強い点を加える",
+  "explanation": "不仅…而且 works like 不但…而且: the second clause adds a point that goes further than the first. If both clauses share a subject, 不仅 follows it (他不仅会说，而且说得好); if the subjects differ, 不仅 comes first (不仅他会，而且我也会). 还 or 也 often reinforces the second clause. 不仅 is slightly more formal than 不但.",
+  "explanation_ja": "「不仅…而且」は「不但…而且」と同じで、後半で前半よりさらに進んだ点を付け加えます。主語が共通なら「不仅」は主語の後（他不仅会说，而且说得好）、主語が異なれば文頭に置きます（不仅他会，而且我也会）。後半には「还」「也」がよく添えられます。「不仅」は「不但」よりやや改まった言い方です。",
+  "examples": [
+   {
+    "zh": "他不仅会说汉语，而且说得很好。",
+    "pinyin": "tā bù jǐn huì shuō hàn yǔ, ér qiě shuō de hěn hǎo.",
+    "en": "He not only speaks Chinese but speaks it well.",
+    "ja": "彼は中国語が話せるだけでなく、とても上手です。"
+   },
+   {
+    "zh": "这本书不仅有意思，而且很有用。",
+    "pinyin": "zhè běn shū bù jǐn yǒu yì si, ér qiě hěn yǒu yòng.",
+    "en": "This book is not only interesting but also very useful.",
+    "ja": "この本は面白いだけでなく、とても役に立ちます。"
+   },
+   {
+    "zh": "不仅她喜欢这首歌，而且我也喜欢。",
+    "pinyin": "bù jǐn tā xǐ huan zhè shǒu gē, ér qiě wǒ yě xǐ huan.",
+    "en": "Not only does she like this song, I like it too.",
+    "ja": "彼女がこの歌を好きなだけでなく、私も好きです。"
+   }
+  ],
+  "mistakes": [
+   "Placing 不仅 before a shared subject: 不仅他会说汉语，而且说得好 is odd.",
+   "Following 不仅 with 但是; the partner is 而且."
+  ],
+  "mistakes_ja": [
+   "主語が共通なら「不仅」は主語の後です。",
+   "「不仅」の相手は「而且」で、「但是」ではありません。"
+  ],
+  "exercises": [
+   {
+    "type": "fill",
+    "prompt": "她不仅聪明，＿很努力。",
+    "answer": "而且",
+    "choices": [
+     "而且",
+     "但是",
+     "所以"
+    ],
+    "why": "不仅 pairs with 而且.",
+    "why_ja": "「不仅」は「而且」と呼応します。"
+   },
+   {
+    "type": "order",
+    "prompt": "Make: \"He not only sings, but also dances.\"",
+    "prompt_ja": "「彼は歌うだけでなく、踊りもする」を作る",
+    "answer": "他不仅唱歌而且跳舞",
+    "choices": [
+     "他",
+     "不仅",
+     "唱歌",
+     "而且",
+     "跳舞"
+    ],
+    "why": "Shared subject, then 不仅 A 而且 B.",
+    "why_ja": "共通の主語の後に「不仅A而且B」です。"
+   },
+   {
+    "type": "produce",
+    "prompt": "Say: \"This dish is not only cheap but also delicious.\"",
+    "prompt_ja": "「この料理は安いだけでなく、おいしいです」と言う",
+    "answer": "这个菜不仅便宜而且好吃",
+    "answerPinyin": "zhè ge cài bù jǐn pián yi ér qiě hǎo chī",
+    "why": "不仅 + first quality, 而且 + second.",
+    "why_ja": "「不仅＋性質1、而且＋性質2」です。"
+   }
+  ]
+ },
+ {
+  "id": "gram:hsk4:fouze",
+  "level": "hsk4",
+  "unit": 11,
+  "order": 1151,
+  "title": "否则: otherwise",
+  "title_ja": "否则：さもないと",
+  "pattern": "A，否则 + B",
+  "summary": "What happens if A is not done",
+  "summary_ja": "Aをしなければどうなるか",
+  "explanation": "否则 opens a clause that states the consequence if the first clause is not followed: 快点儿，否则我们要迟到了. The first clause is usually a request, condition or necessity (要, 必须, 得). 否则 is a little formal; in speech 要不然 or 不然 is common with the same meaning.",
+  "explanation_ja": "「否则」は、前半の内容に従わなかった場合の結果を述べる節を導きます（快点儿，否则我们要迟到了）。前半はふつう依頼・条件・必要（要・必须・得）です。「否则」はやや改まった言い方で、会話では同じ意味の「要不然」「不然」がよく使われます。",
+  "examples": [
+   {
+    "zh": "快点儿，否则我们要迟到了。",
+    "pinyin": "kuài diǎnr, fǒu zé wǒ men yào chí dào le.",
+    "en": "Hurry up, otherwise we will be late.",
+    "ja": "急いで。さもないと遅刻します。"
+   },
+   {
+    "zh": "你要多锻炼，否则身体会越来越差。",
+    "pinyin": "nǐ yào duō duàn liàn, fǒu zé shēn tǐ huì yuè lái yuè chà.",
+    "en": "You should exercise more, or your health will get worse and worse.",
+    "ja": "もっと運動しないと、体がどんどん悪くなりますよ。"
+   },
+   {
+    "zh": "请按时吃药，否则病不会好。",
+    "pinyin": "qǐng àn shí chī yào, fǒu zé bìng bù huì hǎo.",
+    "en": "Please take the medicine on time, otherwise the illness will not get better.",
+    "ja": "時間どおりに薬を飲んでください。さもないと病気は治りません。"
+   }
+  ],
+  "mistakes": [
+   "Using 否则 after a result rather than after a condition or request.",
+   "Adding 如果不 before 否则; the \"if not\" meaning is already inside 否则."
+  ],
+  "mistakes_ja": [
+   "「否则」は条件や依頼の後に置きます。結果の後には置きません。",
+   "「如果不…否则」とは言いません。「さもないと」の意味は「否则」に含まれています。"
+  ],
+  "exercises": [
+   {
+    "type": "fill",
+    "prompt": "你得早点儿出发，＿会错过火车。",
+    "answer": "否则",
+    "choices": [
+     "否则",
+     "因此",
+     "另外"
+    ],
+    "why": "Missing the train is the consequence of not leaving early.",
+    "why_ja": "早く出ないと電車に乗り遅れるという結果なので「否则」です。"
+   },
+   {
+    "type": "order",
+    "prompt": "Make: \"Wear more, otherwise you will catch a cold.\"",
+    "prompt_ja": "「もっと着なさい。さもないと風邪をひきます」を作る",
+    "answer": "多穿点儿否则会感冒",
+    "choices": [
+     "多穿点儿",
+     "否则",
+     "会感冒"
+    ],
+    "why": "Advice, 否则, consequence.",
+    "why_ja": "助言→否则→結果です。"
+   },
+   {
+    "type": "produce",
+    "prompt": "Say: \"Study hard, otherwise you cannot pass the exam.\"",
+    "prompt_ja": "「一生懸命勉強しなさい。さもないと試験に通りません」と言う",
+    "answer": "好好学习否则不能通过考试",
+    "answerPinyin": "hǎo hǎo xué xí fǒu zé bù néng tōng guò kǎo shì",
+    "why": "否则 introduces the negative consequence.",
+    "why_ja": "「否则」で望ましくない結果を導きます。"
+   }
+  ]
+ },
+ {
+  "id": "gram:hsk4:dagai-yexu",
+  "level": "hsk4",
+  "unit": 12,
+  "order": 1252,
+  "title": "大概 / 也许: probably, maybe",
+  "title_ja": "大概／也许：たぶん・もしかすると",
+  "pattern": "S + 大概/也许 + V　|　大概 + number",
+  "summary": "Expressing an estimate or possibility",
+  "summary_ja": "推定や可能性を表す",
+  "explanation": "大概 means \"probably, roughly\": before a verb it gives a likely guess (他大概八点到), and before a number it gives an approximate amount (大概三十块). 也许 means \"maybe, perhaps\" and expresses less certainty; it can go before or after the subject (也许他知道 / 他也许知道). 可能 is similar to 也许 and can also be a verb (\"be possible\").",
+  "explanation_ja": "「大概」は「たぶん・およそ」の意味で、動詞の前では確度の高い推測（他大概八点到）、数字の前ではおおよその量（大概三十块）を表します。「也许」は「もしかすると」で、より確信が低く、主語の前後どちらにも置けます（也许他知道／他也许知道）。「可能」は「也许」に近く、動詞としても使えます。",
+  "examples": [
+   {
+    "zh": "他大概八点到。",
+    "pinyin": "tā dà gài bā diǎn dào.",
+    "en": "He will probably arrive at eight.",
+    "ja": "彼はたぶん8時に着きます。"
+   },
+   {
+    "zh": "这本书大概三十块钱。",
+    "pinyin": "zhè běn shū dà gài sān shí kuài qián.",
+    "en": "This book costs about thirty yuan.",
+    "ja": "この本はだいたい30元です。"
+   },
+   {
+    "zh": "也许明天会下雨。",
+    "pinyin": "yě xǔ míng tiān huì xià yǔ.",
+    "en": "Maybe it will rain tomorrow.",
+    "ja": "もしかしたら明日は雨かもしれません。"
+   },
+   {
+    "zh": "他也许已经知道了。",
+    "pinyin": "tā yě xǔ yǐ jīng zhī dào le.",
+    "en": "Perhaps he already knows.",
+    "ja": "彼はもう知っているかもしれません。"
+   }
+  ],
+  "mistakes": [
+   "Using 也许 before a number for \"about\"; that is 大概 or 大约.",
+   "Putting 大概 at the end of the sentence."
+  ],
+  "mistakes_ja": [
+   "数字の前の「およそ」は「大概」「大约」で、「也许」は使えません。",
+   "「大概」を文末に置くことはできません。"
+  ],
+  "exercises": [
+   {
+    "type": "fill",
+    "prompt": "从这里到学校＿要二十分钟。",
+    "answer": "大概",
+    "choices": [
+     "大概",
+     "也许",
+     "难道"
+    ],
+    "why": "An approximate amount of time uses 大概.",
+    "why_ja": "おおよその時間には「大概」を使います。"
+   },
+   {
+    "type": "choose",
+    "prompt": "Which sentence means \"Maybe he is not at home\"?",
+    "prompt_ja": "「彼は家にいないかもしれない」はどれですか",
+    "answer": "他也许不在家。",
+    "choices": [
+     "他也许不在家。",
+     "他不在家也许。",
+     "他大概三个家。"
+    ],
+    "why": "也许 goes before the verb phrase.",
+    "why_ja": "「也许」は動詞句の前に置きます。"
+   },
+   {
+    "type": "produce",
+    "prompt": "Say: \"Perhaps she has gone home.\" (use 也许)",
+    "prompt_ja": "「彼女は家に帰ったのかもしれません」と「也许」で言う",
+    "answer": "她也许回家了",
+    "answerPinyin": "tā yě xǔ huí jiā le",
+    "why": "Subject + 也许 + verb + 了.",
+    "why_ja": "「主語＋也许＋動詞＋了」です。"
+   }
+  ]
+ },
+ {
+  "id": "gram:hsk4:anzhao",
+  "level": "hsk4",
+  "unit": 12,
+  "order": 1253,
+  "title": "按照: according to",
+  "title_ja": "按照：…に従って・…どおりに",
+  "pattern": "按照 + N/clause + V",
+  "summary": "Doing something in line with a rule or plan",
+  "summary_ja": "規則や計画に沿って行う",
+  "explanation": "按照 introduces the standard you follow: a plan, rule, instruction, order or someone's words. 按照计划进行, 按照老师说的做. The phrase goes before the verb. In short combinations 按 alone is used (按时, 按规定). Compare 根据, which introduces the basis of a judgement rather than a rule to follow.",
+  "explanation_ja": "「按照」は従うべき基準（計画・規則・指示・順序・誰かの言葉）を導きます（按照计划进行、按照老师说的做）。この句は動詞の前に置きます。短い組み合わせでは「按」だけを使います（按时・按规定）。判断の根拠を示す「根据」との違いにも注意しましょう。",
+  "examples": [
+   {
+    "zh": "请按照老师说的做。",
+    "pinyin": "qǐng àn zhào lǎo shī shuō de zuò.",
+    "en": "Please do as the teacher says.",
+    "ja": "先生の言うとおりにしてください。"
+   },
+   {
+    "zh": "我们按照计划进行。",
+    "pinyin": "wǒ men àn zhào jì huà jìn xíng.",
+    "en": "We proceed according to the plan.",
+    "ja": "私たちは計画どおりに進めます。"
+   },
+   {
+    "zh": "按照规定，这里不能照相。",
+    "pinyin": "àn zhào guī dìng, zhè lǐ bù néng zhào xiàng.",
+    "en": "According to the rules, no photos here.",
+    "ja": "規則により、ここでは写真を撮れません。"
+   }
+  ],
+  "mistakes": [
+   "Putting 按照 after the verb: 做按照计划 is wrong.",
+   "Using 按照 with a person alone: say 按照他的意见, not 按照他."
+  ],
+  "mistakes_ja": [
+   "「按照」は動詞の後には置けません。",
+   "人だけを目的語にせず、「按照他的意见」のようにします。"
+  ],
+  "exercises": [
+   {
+    "type": "fill",
+    "prompt": "请＿规定进行。",
+    "answer": "按照",
+    "choices": [
+     "按照",
+     "对于",
+     "由于"
+    ],
+    "why": "Following the rules is 按照规定.",
+    "why_ja": "規則に従うので「按照规定」です。"
+   },
+   {
+    "type": "order",
+    "prompt": "Make: \"Do it according to this method.\"",
+    "prompt_ja": "「この方法どおりにやりなさい」を作る",
+    "answer": "按照这个方法做",
+    "choices": [
+     "按照",
+     "这个方法",
+     "做"
+    ],
+    "why": "按照 + standard + verb.",
+    "why_ja": "「按照＋基準＋動詞」です。"
+   },
+   {
+    "type": "produce",
+    "prompt": "Say: \"We arrive on time according to the plan.\" (use 按照)",
+    "prompt_ja": "「私たちは計画どおり時間に着きます」と「按照」で言う",
+    "answer": "我们按照计划按时到",
+    "answerPinyin": "wǒ men àn zhào jì huà àn shí dào",
+    "why": "按照计划 goes before the verb phrase.",
+    "why_ja": "「按照计划」を動詞句の前に置きます。"
+   }
+  ]
+ },
+ {
+  "id": "gram:hsk4:jiran-jiu",
+  "level": "hsk4",
+  "unit": 13,
+  "order": 1354,
+  "title": "既然…就: since (that is so)",
+  "title_ja": "既然…就：…である以上・…なのだから",
+  "pattern": "既然 A，(S) 就 + B",
+  "summary": "Drawing a conclusion from a known fact",
+  "summary_ja": "既知の事実から結論を導く",
+  "explanation": "既然 presents a fact both speakers already accept, and 就 (or 那, 也, 还) introduces the natural conclusion or suggestion: 既然你不舒服，就在家休息吧. It is different from 因为: 因为 gives a reason the listener may not know, 既然 builds on something already known. 既然 can go before or after the subject.",
+  "explanation_ja": "「既然」は双方がすでに認めている事実を提示し、「就」（または那・也・还）が自然な結論や提案を導きます（既然你不舒服，就在家休息吧）。「因为」は聞き手が知らない理由を述べるのに対し、「既然」はすでに知っていることを前提にします。「既然」は主語の前後どちらにも置けます。",
+  "examples": [
+   {
+    "zh": "既然你不舒服，就在家休息吧。",
+    "pinyin": "jì rán nǐ bù shū fu, jiù zài jiā xiū xi ba.",
+    "en": "Since you are not feeling well, rest at home.",
+    "ja": "気分が悪いのなら、家で休みなさい。"
+   },
+   {
+    "zh": "既然大家都同意，我们就开始吧。",
+    "pinyin": "jì rán dà jiā dōu tóng yì, wǒ men jiù kāi shǐ ba.",
+    "en": "Since everyone agrees, let's begin.",
+    "ja": "みんな賛成なのだから、始めましょう。"
+   },
+   {
+    "zh": "既然来了，就多住几天。",
+    "pinyin": "jì rán lái le, jiù duō zhù jǐ tiān.",
+    "en": "Now that you are here, stay a few more days.",
+    "ja": "せっかく来たのだから、もう何日か泊まっていきなさい。"
+   }
+  ],
+  "mistakes": [
+   "Using 既然 for a new reason the listener does not know; use 因为.",
+   "Forgetting 就 in the conclusion clause."
+  ],
+  "mistakes_ja": [
+   "聞き手が知らない理由には「因为」を使います。",
+   "結論の節の「就」を忘れないでください。"
+  ],
+  "exercises": [
+   {
+    "type": "fill",
+    "prompt": "既然你喜欢这本书，＿买下来吧。",
+    "answer": "就",
+    "choices": [
+     "就",
+     "才",
+     "却"
+    ],
+    "why": "既然 pairs with 就.",
+    "why_ja": "「既然」は「就」と呼応します。"
+   },
+   {
+    "type": "order",
+    "prompt": "Make: \"Since it is raining, let's not go.\"",
+    "prompt_ja": "「雨なのだから、行くのはやめましょう」を作る",
+    "answer": "既然下雨了我们就别去了",
+    "choices": [
+     "既然",
+     "下雨了",
+     "我们就",
+     "别去了"
+    ],
+    "why": "既然 + fact, subject + 就 + suggestion.",
+    "why_ja": "「既然＋事実、主語＋就＋提案」です。"
+   },
+   {
+    "type": "produce",
+    "prompt": "Say: \"Since you know, I will not say it.\" (use 既然…就)",
+    "prompt_ja": "「知っているのなら、私は言いません」と「既然…就」で言う",
+    "answer": "既然你知道我就不说了",
+    "answerPinyin": "jì rán nǐ zhī dào wǒ jiù bù shuō le",
+    "why": "Known fact, then conclusion with 就.",
+    "why_ja": "既知の事実の後に「就」で結論です。"
+   }
+  ]
+ },
+ {
+  "id": "gram:hsk4:budebu",
+  "level": "hsk4",
+  "unit": 13,
+  "order": 1355,
+  "title": "不得不: have no choice but to",
+  "title_ja": "不得不：…せざるを得ない",
+  "pattern": "S + 不得不 + V",
+  "summary": "Doing something because there is no alternative",
+  "summary_ja": "ほかに選択肢がなくて…する",
+  "explanation": "不得不 goes before a verb and means you are forced to do it by circumstances: 他病了，不得不请假. It is stronger and more formal than 只好 and carries a feeling of reluctance. Since it already contains two negatives, it is never combined with another 不 or 没. The verb that follows is a positive action.",
+  "explanation_ja": "「不得不」は動詞の前に置き、状況によってやむを得ずそうすることを表します（他病了，不得不请假）。「只好」より強く改まった言い方で、不本意な気持ちを含みます。すでに2つの否定を含むため、さらに「不」「没」を重ねることはありません。後に続く動詞は肯定の動作です。",
+  "examples": [
+   {
+    "zh": "因为下雨，我们不得不取消活动。",
+    "pinyin": "yīn wèi xià yǔ, wǒ men bù dé bù qǔ xiāo huó dòng.",
+    "en": "Because of the rain, we had no choice but to cancel the event.",
+    "ja": "雨のため、私たちはイベントを中止せざるを得ませんでした。"
+   },
+   {
+    "zh": "他病了，不得不请假。",
+    "pinyin": "tā bìng le, bù dé bù qǐng jià.",
+    "en": "He fell ill and had to ask for leave.",
+    "ja": "彼は病気になり、休みを取らざるを得ませんでした。"
+   },
+   {
+    "zh": "时间太晚了，我不得不走。",
+    "pinyin": "shí jiān tài wǎn le, wǒ bù dé bù zǒu.",
+    "en": "It is too late; I have to go.",
+    "ja": "もう遅いので、帰らざるを得ません。"
+   }
+  ],
+  "mistakes": [
+   "Adding 不 after 不得不: 不得不不去 is wrong.",
+   "Pronouncing 得 as de; here it is dé."
+  ],
+  "mistakes_ja": [
+   "「不得不」の後にさらに「不」は付けません。",
+   "ここの「得」は de ではなく dé と読みます。"
+  ],
+  "exercises": [
+   {
+    "type": "fill",
+    "prompt": "没有车了，他＿走路回家。",
+    "answer": "不得不",
+    "choices": [
+     "不得不",
+     "不用",
+     "不能"
+    ],
+    "why": "With no bus, walking is the only option.",
+    "why_ja": "車がなく歩くしかないので「不得不」です。"
+   },
+   {
+    "type": "order",
+    "prompt": "Make: \"I had no choice but to accept.\"",
+    "prompt_ja": "「私は受け入れざるを得なかった」を作る",
+    "answer": "我不得不接受",
+    "choices": [
+     "我",
+     "不得不",
+     "接受"
+    ],
+    "why": "Subject + 不得不 + verb.",
+    "why_ja": "「主語＋不得不＋動詞」です。"
+   },
+   {
+    "type": "produce",
+    "prompt": "Say: \"She had to give up.\" (use 不得不)",
+    "prompt_ja": "「彼女はあきらめざるを得なかった」と「不得不」で言う",
+    "answer": "她不得不放弃",
+    "answerPinyin": "tā bù dé bù fàng qì",
+    "why": "不得不 + 放弃.",
+    "why_ja": "「不得不＋放弃」です。"
+   }
+  ]
+ },
+ {
+  "id": "gram:hsk4:jiujing",
+  "level": "hsk4",
+  "unit": 14,
+  "order": 1456,
+  "title": "究竟: what exactly…?",
+  "title_ja": "究竟：いったい（改まった言い方）",
+  "pattern": "S + 究竟 + question",
+  "summary": "The formal twin of 到底",
+  "summary_ja": "「到底」の改まった形",
+  "explanation": "究竟 is used like 到底 in questions to press for a definite answer: 你究竟想做什么？ It goes with question words or A-not-A forms, never with 吗. 究竟 is more formal and common in writing; in conversation 到底 is more frequent. As a noun, 究竟 can mean \"the truth of the matter\" (问个究竟).",
+  "explanation_ja": "「究竟」は疑問文で「到底」と同じように使い、はっきりした答えを求めます（你究竟想做什么？）。疑問詞や反復疑問と組み合わせ、「吗」とは使いません。「究竟」はより改まった表現で書き言葉に多く、会話では「到底」が一般的です。名詞として「真相」の意味にもなります（问个究竟）。",
+  "examples": [
+   {
+    "zh": "你究竟想做什么？",
+    "pinyin": "nǐ jiū jìng xiǎng zuò shén me?",
+    "en": "What exactly do you want to do?",
+    "ja": "あなたはいったい何をしたいのですか。"
+   },
+   {
+    "zh": "他究竟去了哪儿？",
+    "pinyin": "tā jiū jìng qù le nǎr?",
+    "en": "Where on earth did he go?",
+    "ja": "彼はいったいどこへ行ったのですか。"
+   },
+   {
+    "zh": "这件事究竟是谁做的？",
+    "pinyin": "zhè jiàn shì jiū jìng shì shéi zuò de?",
+    "en": "Who exactly did this?",
+    "ja": "このことはいったい誰がやったのですか。"
+   }
+  ],
+  "mistakes": [
+   "Pairing 究竟 with 吗.",
+   "Writing 到底 in a formal text where 究竟 fits better (both are correct, but register differs)."
+  ],
+  "mistakes_ja": [
+   "「究竟」と「吗」は併用しません。",
+   "改まった文章では「到底」より「究竟」が適します（どちらも正しいですが文体が異なります）。"
+  ],
+  "exercises": [
+   {
+    "type": "choose",
+    "prompt": "Which sentence is correct?",
+    "prompt_ja": "正しい文はどれですか",
+    "answer": "他究竟是不是老师？",
+    "choices": [
+     "他究竟是不是老师？",
+     "他究竟是老师吗？",
+     "究竟他是老师吗？"
+    ],
+    "why": "究竟 takes A-not-A or a question word, not 吗.",
+    "why_ja": "「究竟」は反復疑問か疑問詞と使い、「吗」とは使いません。"
+   },
+   {
+    "type": "fill",
+    "prompt": "你＿为什么不来？",
+    "answer": "究竟",
+    "choices": [
+     "究竟",
+     "也许",
+     "竟然"
+    ],
+    "why": "The speaker presses for the real reason.",
+    "why_ja": "本当の理由を問い詰めているので「究竟」です。"
+   },
+   {
+    "type": "produce",
+    "prompt": "Ask: \"What exactly happened?\" (use 究竟)",
+    "prompt_ja": "「いったい何が起きたのですか」と「究竟」で尋ねる",
+    "answer": "究竟发生了什么",
+    "answerPinyin": "jiū jìng fā shēng le shén me",
+    "why": "究竟 + verb + question word.",
+    "why_ja": "「究竟＋動詞＋疑問詞」です。"
+   }
+  ]
+ },
+ {
+  "id": "gram:hsk4:ji-you",
+  "level": "hsk4",
+  "unit": 14,
+  "order": 1457,
+  "title": "既…又: both… and",
+  "title_ja": "既…又：…でもあり…でもある",
+  "pattern": "S + 既 + A + 又 + B",
+  "summary": "Two qualities or actions at once",
+  "summary_ja": "2つの性質や動作を同時に述べる",
+  "explanation": "既…又 joins two adjectives or verb phrases that hold at the same time: 这个房间既干净又安静. Both parts should be of the same kind and the same length if possible, and usually both are positive or both negative. It is similar to 又…又 but a little more formal. The subject comes before 既.",
+  "explanation_ja": "「既…又」は同時に成り立つ2つの形容詞や動詞句をつなぎます（这个房间既干净又安静）。2つの部分は同じ種類で、できれば同じ長さにし、ふつう両方とも肯定的か両方とも否定的な内容にします。「又…又」に似ていますが、やや改まった言い方です。主語は「既」の前に置きます。",
+  "examples": [
+   {
+    "zh": "这个房间既干净又安静。",
+    "pinyin": "zhè ge fáng jiān jì gān jìng yòu ān jìng.",
+    "en": "This room is both clean and quiet.",
+    "ja": "この部屋は清潔で静かです。"
+   },
+   {
+    "zh": "他既聪明又努力。",
+    "pinyin": "tā jì cōng ming yòu nǔ lì.",
+    "en": "He is both clever and hard-working.",
+    "ja": "彼は賢くて努力家です。"
+   },
+   {
+    "zh": "这个方法既简单又有效。",
+    "pinyin": "zhè ge fāng fǎ jì jiǎn dān yòu yǒu xiào.",
+    "en": "This method is both simple and effective.",
+    "ja": "この方法は簡単で効果があります。"
+   }
+  ],
+  "mistakes": [
+   "Mixing a positive and a negative quality: 既便宜又难吃 sounds odd; use 虽然…但是.",
+   "Putting the subject between 既 and 又."
+  ],
+  "mistakes_ja": [
+   "肯定と否定の性質を混ぜる（既便宜又难吃）のは不自然です。「虽然…但是」を使います。",
+   "主語を「既」と「又」の間に置くことはできません。"
+  ],
+  "exercises": [
+   {
+    "type": "fill",
+    "prompt": "她既会唱歌，＿会跳舞。",
+    "answer": "又",
+    "choices": [
+     "又",
+     "也",
+     "还"
+    ],
+    "why": "既 pairs with 又.",
+    "why_ja": "「既」は「又」と呼応します。"
+   },
+   {
+    "type": "order",
+    "prompt": "Make: \"This dish is both cheap and tasty.\"",
+    "prompt_ja": "「この料理は安くておいしい」を作る",
+    "answer": "这个菜既便宜又好吃",
+    "choices": [
+     "这个菜",
+     "既",
+     "便宜",
+     "又",
+     "好吃"
+    ],
+    "why": "Subject + 既 + A + 又 + B.",
+    "why_ja": "「主語＋既＋A＋又＋B」です。"
+   },
+   {
+    "type": "produce",
+    "prompt": "Say: \"He is both tall and handsome.\" (use 既…又, 帅)",
+    "prompt_ja": "「彼は背が高くてかっこいい」と「既…又」で言う",
+    "answer": "他既高又帅",
+    "answerPinyin": "tā jì gāo yòu shuài",
+    "why": "Two short adjectives of the same kind.",
+    "why_ja": "同じ種類の短い形容詞を2つ並べます。"
+   }
+  ]
+ },
+ {
+  "id": "gram:hsk4:yaoshi-jiu",
+  "level": "hsk4",
+  "unit": 15,
+  "order": 1558,
+  "title": "要是…就: if… then",
+  "title_ja": "要是…就：もし…なら",
+  "pattern": "要是 A (的话)，(S) 就 + B",
+  "summary": "A colloquial \"if\"",
+  "summary_ja": "話し言葉の「もし」",
+  "explanation": "要是 is a spoken equivalent of 如果: it introduces a condition, and 就 in the second clause gives the result. 的话 may close the condition clause: 要是你有时间的话. 要是我是你 (\"if I were you\") is a common way to give advice. The 要是 clause always comes first.",
+  "explanation_ja": "「要是」は「如果」の話し言葉版で、条件を導き、後半の「就」が結果を述べます。条件の節の終わりに「的话」を付けることもできます（要是你有时间的话）。「要是我是你」（もし私があなたなら）は助言の決まり文句です。「要是」の節は必ず先に置きます。",
+  "examples": [
+   {
+    "zh": "要是明天不下雨，我们就去爬山。",
+    "pinyin": "yào shì míng tiān bù xià yǔ, wǒ men jiù qù pá shān.",
+    "en": "If it does not rain tomorrow, we will go hiking.",
+    "ja": "もし明日雨が降らなければ、山に登りに行きます。"
+   },
+   {
+    "zh": "要是你有时间，就来我家玩吧。",
+    "pinyin": "yào shì nǐ yǒu shí jiān, jiù lái wǒ jiā wán ba.",
+    "en": "If you have time, come to my place.",
+    "ja": "時間があれば、うちに遊びに来てください。"
+   },
+   {
+    "zh": "要是我是你，就不会这么做。",
+    "pinyin": "yào shì wǒ shì nǐ, jiù bù huì zhè me zuò.",
+    "en": "If I were you, I would not do this.",
+    "ja": "もし私があなたなら、こうはしません。"
+   }
+  ],
+  "mistakes": [
+   "Putting the 要是 clause second: 我们就去，要是不下雨 is not natural.",
+   "Dropping 就 and leaving the result clause hanging."
+  ],
+  "mistakes_ja": [
+   "「要是」の節を後ろに置くのは不自然です。",
+   "結果の節の「就」を落とさないでください。"
+  ],
+  "exercises": [
+   {
+    "type": "fill",
+    "prompt": "＿你累了，就先休息一下。",
+    "answer": "要是",
+    "choices": [
+     "要是",
+     "既然",
+     "尽管"
+    ],
+    "why": "A hypothetical condition uses 要是.",
+    "why_ja": "仮定の条件なので「要是」です。"
+   },
+   {
+    "type": "order",
+    "prompt": "Make: \"If he comes, call me.\"",
+    "prompt_ja": "「もし彼が来たら、電話してください」を作る",
+    "answer": "要是他来了就给我打电话",
+    "choices": [
+     "要是",
+     "他来了",
+     "就",
+     "给我打电话"
+    ],
+    "why": "要是 + condition, 就 + action.",
+    "why_ja": "「要是＋条件、就＋動作」です。"
+   },
+   {
+    "type": "produce",
+    "prompt": "Say: \"If I had money, I would buy a car.\"",
+    "prompt_ja": "「お金があれば車を買います」と言う",
+    "answer": "要是我有钱就买车",
+    "answerPinyin": "yào shì wǒ yǒu qián jiù mǎi chē",
+    "why": "Condition first, then 就 + result.",
+    "why_ja": "条件を先に、次に「就＋結果」です。"
+   }
+  ]
+ },
+ {
+  "id": "gram:hsk4:napa",
+  "level": "hsk4",
+  "unit": 15,
+  "order": 1559,
+  "title": "哪怕…也: even if (emphatic)",
+  "title_ja": "哪怕…也：たとえ…でも（強調）",
+  "pattern": "哪怕 A，(S) 也/都 + B",
+  "summary": "A colloquial, stronger 即使",
+  "summary_ja": "「即使」より強い話し言葉",
+  "explanation": "哪怕 is like 即使 but more emphatic and colloquial. It introduces an extreme case, often with 再 or 只 (哪怕再难, 哪怕只有一分钟), and 也 or 都 follows in the result clause: 哪怕再难，我也要学会. The pattern stresses determination or that something is true in all circumstances.",
+  "explanation_ja": "「哪怕」は「即使」に似ていますが、より強調的で話し言葉的です。極端な場合を導き、「再」や「只」を伴うことが多く（哪怕再难、哪怕只有一分钟）、後半には「也」や「都」が続きます（哪怕再难，我也要学会）。強い決意や、どんな状況でも変わらないことを表します。",
+  "examples": [
+   {
+    "zh": "哪怕再难，我也要学会。",
+    "pinyin": "nǎ pà zài nán, wǒ yě yào xué huì.",
+    "en": "However hard it is, I will learn it.",
+    "ja": "どんなに難しくても、私は身につけます。"
+   },
+   {
+    "zh": "哪怕只有一分钟，我也要见他。",
+    "pinyin": "nǎ pà zhǐ yǒu yī fēn zhōng, wǒ yě yào jiàn tā.",
+    "en": "Even if only for a minute, I want to see him.",
+    "ja": "たとえ1分だけでも、彼に会いたいです。"
+   },
+   {
+    "zh": "哪怕下雨，比赛也会进行。",
+    "pinyin": "nǎ pà xià yǔ, bǐ sài yě huì jìn xíng.",
+    "en": "Even if it rains, the match will go ahead.",
+    "ja": "たとえ雨でも、試合は行われます。"
+   }
+  ],
+  "mistakes": [
+   "Reading 哪怕 as a question (\"which fear?\"); it is one word meaning \"even if\".",
+   "Leaving out 也/都 in the result clause."
+  ],
+  "mistakes_ja": [
+   "「哪怕」を疑問の「どれが怖い」と読まないでください。「たとえ…でも」の一語です。",
+   "後半の「也／都」を落とさないでください。"
+  ],
+  "exercises": [
+   {
+    "type": "fill",
+    "prompt": "哪怕再贵，我＿要买这本书。",
+    "answer": "也",
+    "choices": [
+     "也",
+     "才",
+     "就"
+    ],
+    "why": "哪怕 pairs with 也.",
+    "why_ja": "「哪怕」は「也」と呼応します。"
+   },
+   {
+    "type": "order",
+    "prompt": "Make: \"Even if I am very tired, I will still finish it.\"",
+    "prompt_ja": "「たとえとても疲れていても、やり終えます」を作る",
+    "answer": "哪怕很累我也要做完",
+    "choices": [
+     "哪怕",
+     "很累",
+     "我也",
+     "要做完"
+    ],
+    "why": "哪怕 + extreme case, subject + 也 + verb.",
+    "why_ja": "「哪怕＋極端な場合、主語＋也＋動詞」です。"
+   },
+   {
+    "type": "produce",
+    "prompt": "Say: \"Even if nobody comes, I will still go.\"",
+    "prompt_ja": "「誰も来なくても、私は行きます」と言う",
+    "answer": "哪怕没有人来我也去",
+    "answerPinyin": "nǎ pà méi yǒu rén lái wǒ yě qù",
+    "why": "哪怕 + clause, 也 in the result.",
+    "why_ja": "「哪怕＋節」、結果に「也」です。"
+   }
+  ]
+ },
+ {
+  "id": "gram:hsk4:suizhe",
+  "level": "hsk4",
+  "unit": 16,
+  "order": 1650,
+  "title": "随着: along with",
+  "title_ja": "随着：…につれて・…に伴い",
+  "pattern": "随着 + N/change，S + 越来越 / 也 + V",
+  "summary": "One change follows another",
+  "summary_ja": "ある変化に伴って別の変化が起こる",
+  "explanation": "随着 introduces a change or process, and the main clause states what changes along with it: 随着时间的过去，他慢慢忘了这件事. The noun after 随着 is usually a change (发展, 增长, 变化) or a time expression. The main clause often contains 越来越 or 也. It is common in writing and news.",
+  "explanation_ja": "「随着」は変化や過程を導き、主節でそれに伴って変わることを述べます（随着时间的过去，他慢慢忘了这件事）。「随着」の後の名詞はふつう変化（发展・增长・变化）か時間の表現です。主節には「越来越」や「也」がよく現れます。書き言葉やニュースによく使われます。",
+  "examples": [
+   {
+    "zh": "随着时间的过去，他慢慢忘了这件事。",
+    "pinyin": "suí zhe shí jiān de guò qù, tā màn màn wàng le zhè jiàn shì.",
+    "en": "As time passed, he slowly forgot the matter.",
+    "ja": "時間が経つにつれ、彼は少しずつそのことを忘れました。"
+   },
+   {
+    "zh": "随着年龄的增长，人会越来越成熟。",
+    "pinyin": "suí zhe nián líng de zēng zhǎng, rén huì yuè lái yuè chéng shú.",
+    "en": "As people grow older, they become more and more mature.",
+    "ja": "年齢を重ねるにつれ、人はますます成熟していきます。"
+   },
+   {
+    "zh": "随着经济的发展，人们的生活越来越好。",
+    "pinyin": "suí zhe jīng jì de fā zhǎn, rén men de shēng huó yuè lái yuè hǎo.",
+    "en": "With economic development, people's lives are getting better and better.",
+    "ja": "経済の発展に伴い、人々の生活はますます良くなっています。"
+   }
+  ],
+  "mistakes": [
+   "Following 随着 with a plain person: 随着老师 is wrong; use 跟着老师.",
+   "Using 随着 as the main verb; it only introduces a phrase."
+  ],
+  "mistakes_ja": [
+   "「随着」の後に人だけを置くことはできません。「跟着老师」を使います。",
+   "「随着」は主動詞ではなく、句を導くだけです。"
+  ],
+  "exercises": [
+   {
+    "type": "fill",
+    "prompt": "＿天气变冷，穿大衣的人多了。",
+    "answer": "随着",
+    "choices": [
+     "随着",
+     "按照",
+     "通过"
+    ],
+    "why": "The number of coats rises along with the change in weather.",
+    "why_ja": "天気の変化に伴ってコートの人が増えるので「随着」です。"
+   },
+   {
+    "type": "order",
+    "prompt": "Make: \"As the city develops, there are more and more roads.\"",
+    "prompt_ja": "「都市の発展に伴い、道路はますます増える」を作る",
+    "answer": "随着城市的发展路越来越多",
+    "choices": [
+     "随着",
+     "城市的发展",
+     "路",
+     "越来越多"
+    ],
+    "why": "随着 + change, subject + 越来越 + adjective.",
+    "why_ja": "「随着＋変化、主語＋越来越＋形容詞」です。"
+   },
+   {
+    "type": "produce",
+    "prompt": "Say: \"As time passes, I understand more and more.\" (use 随着时间的过去)",
+    "prompt_ja": "「時間が経つにつれ、私はますます理解する」と言う",
+    "answer": "随着时间的过去我越来越理解",
+    "answerPinyin": "suí zhe shí jiān de guò qù wǒ yuè lái yuè lǐ jiě",
+    "why": "随着 phrase first, then the parallel change.",
+    "why_ja": "「随着」の句を先に、次に並行する変化です。"
+   }
+  ]
+ },
+ {
+  "id": "gram:hsk4:tongguo",
+  "level": "hsk4",
+  "unit": 16,
+  "order": 1651,
+  "title": "通过: by means of",
+  "title_ja": "通过：…を通じて・…によって",
+  "pattern": "通过 + N/V，(S) + result",
+  "summary": "The means by which something is achieved",
+  "summary_ja": "何かを達成する手段",
+  "explanation": "As a preposition, 通过 introduces the method, channel or experience through which a result is reached: 通过这次活动，我认识了很多朋友. The 通过 phrase usually opens the sentence or goes right before the verb. As a verb, 通过 means \"to pass (an exam, a proposal)\" or \"to go through (a place)\": 他通过了考试.",
+  "explanation_ja": "前置詞としての「通过」は、結果に至る方法・経路・経験を導きます（通过这次活动，我认识了很多朋友）。「通过」の句はふつう文頭か動詞の直前に置きます。動詞としては「（試験や提案に）通る」「（場所を）通り抜ける」の意味です（他通过了考试）。",
+  "examples": [
+   {
+    "zh": "通过这次活动，我认识了很多朋友。",
+    "pinyin": "tōng guò zhè cì huó dòng, wǒ rèn shi le hěn duō péng you.",
+    "en": "Through this event I got to know many friends.",
+    "ja": "このイベントを通じて、私は多くの友達と知り合いました。"
+   },
+   {
+    "zh": "通过努力，他终于通过了考试。",
+    "pinyin": "tōng guò nǔ lì, tā zhōng yú tōng guò le kǎo shì.",
+    "en": "Through hard work, he finally passed the exam.",
+    "ja": "努力によって、彼はついに試験に合格しました。"
+   },
+   {
+    "zh": "通过网站，你可以找到很多材料。",
+    "pinyin": "tōng guò wǎng zhàn, nǐ kě yǐ zhǎo dào hěn duō cái liào.",
+    "en": "Through the website you can find a lot of material.",
+    "ja": "ウェブサイトを通じて、多くの資料を見つけられます。"
+   }
+  ],
+  "mistakes": [
+   "Using 通过 with a person as the means: 通过老师学习 should be 跟老师学习.",
+   "Confusing the preposition (通过努力) with the verb (通过考试)."
+  ],
+  "mistakes_ja": [
+   "人を手段にする「通过老师学习」は不自然で、「跟老师学习」と言います。",
+   "前置詞の「通过努力」と動詞の「通过考试」を区別しましょう。"
+  ],
+  "exercises": [
+   {
+    "type": "fill",
+    "prompt": "＿学习历史，我们可以理解现在。",
+    "answer": "通过",
+    "choices": [
+     "通过",
+     "随着",
+     "对于"
+    ],
+    "why": "Studying history is the means of understanding.",
+    "why_ja": "歴史を学ぶことが理解の手段なので「通过」です。"
+   },
+   {
+    "type": "order",
+    "prompt": "Make: \"Through this book I learned a lot.\"",
+    "prompt_ja": "「この本を通じて私は多くを学んだ」を作る",
+    "answer": "通过这本书我学到了很多",
+    "choices": [
+     "通过",
+     "这本书",
+     "我",
+     "学到了很多"
+    ],
+    "why": "通过 + means, then subject and result.",
+    "why_ja": "「通过＋手段」の後に主語と結果です。"
+   },
+   {
+    "type": "produce",
+    "prompt": "Say: \"He passed the exam.\" (通过 as a verb)",
+    "prompt_ja": "「彼は試験に合格しました」と動詞の「通过」で言う",
+    "answer": "他通过了考试",
+    "answerPinyin": "tā tōng guò le kǎo shì",
+    "why": "通过 + 了 + object: the verb use.",
+    "why_ja": "「通过＋了＋目的語」が動詞の用法です。"
+   }
+  ]
+ },
+ {
+  "id": "gram:hsk4:kongpa",
+  "level": "hsk4",
+  "unit": 17,
+  "order": 1752,
+  "title": "恐怕: I'm afraid that…",
+  "title_ja": "恐怕：おそらく…（心配）",
+  "pattern": "恐怕 + S + V　|　S + 恐怕 + V",
+  "summary": "A worried guess about something unwelcome",
+  "summary_ja": "望ましくないことへの心配を込めた推測",
+  "explanation": "恐怕 is an adverb meaning \"I am afraid that, probably\", used when the speaker expects something bad or inconvenient: 恐怕我今天来不及了. It goes before the verb, either at the start of the sentence or after the subject. 恐怕 is not a verb: it never takes an object like English \"fear\", and the person who is afraid is always the speaker.",
+  "explanation_ja": "「恐怕」は「おそらく…だろう（心配だ）」という副詞で、話し手が悪いことや不都合なことを予想するときに使います（恐怕我今天来不及了）。動詞の前、つまり文頭か主語の後に置きます。「恐怕」は動詞ではないので、英語の fear のように目的語を取ることはなく、心配しているのは常に話し手です。",
+  "examples": [
+   {
+    "zh": "恐怕我今天来不及了。",
+    "pinyin": "kǒng pà wǒ jīn tiān lái bu jí le.",
+    "en": "I am afraid I will not make it today.",
+    "ja": "今日は間に合いそうにありません。"
+   },
+   {
+    "zh": "天气这么坏，恐怕飞机不会起飞。",
+    "pinyin": "tiān qì zhè me huài, kǒng pà fēi jī bù huì qǐ fēi.",
+    "en": "With weather this bad, the plane probably will not take off.",
+    "ja": "こんなに天気が悪いと、飛行機はおそらく飛ばないでしょう。"
+   },
+   {
+    "zh": "他恐怕已经走了。",
+    "pinyin": "tā kǒng pà yǐ jīng zǒu le.",
+    "en": "I am afraid he has already left.",
+    "ja": "彼はおそらくもう帰ってしまったでしょう。"
+   }
+  ],
+  "mistakes": [
+   "Using 恐怕 with an object: 我恐怕狗 is wrong; say 我怕狗.",
+   "Using 恐怕 for good news; it implies something unwelcome."
+  ],
+  "mistakes_ja": [
+   "「恐怕」は目的語を取りません。「我恐怕狗」は誤りで、「我怕狗」と言います。",
+   "良い知らせには使いません。望ましくない予想に使います。"
+  ],
+  "exercises": [
+   {
+    "type": "fill",
+    "prompt": "都八点了，＿商店已经关门了。",
+    "answer": "恐怕",
+    "choices": [
+     "恐怕",
+     "反正",
+     "难道"
+    ],
+    "why": "The speaker guesses, with worry, that the shop is closed.",
+    "why_ja": "店が閉まっていると心配しながら推測しているので「恐怕」です。"
+   },
+   {
+    "type": "choose",
+    "prompt": "Which sentence is correct?",
+    "prompt_ja": "正しい文はどれですか",
+    "answer": "恐怕他不会来了。",
+    "choices": [
+     "恐怕他不会来了。",
+     "他恐怕狗。",
+     "我恐怕了他。"
+    ],
+    "why": "恐怕 is an adverb before a clause, not a verb with an object.",
+    "why_ja": "「恐怕」は節の前に置く副詞で、目的語を取る動詞ではありません。"
+   },
+   {
+    "type": "produce",
+    "prompt": "Say: \"I am afraid there is no time.\"",
+    "prompt_ja": "「時間がなさそうです」と言う",
+    "answer": "恐怕没有时间了",
+    "answerPinyin": "kǒng pà méi yǒu shí jiān le",
+    "why": "恐怕 + the unwelcome situation.",
+    "why_ja": "「恐怕＋望ましくない状況」です。"
+   }
+  ]
+ },
+ {
+  "id": "gram:hsk4:laibuji",
+  "level": "hsk4",
+  "unit": 17,
+  "order": 1753,
+  "title": "来不及 / 来得及: (not) enough time",
+  "title_ja": "来不及／来得及：間に合わない／間に合う",
+  "pattern": "来不及 + V　|　来得及 + V　|　还来得及",
+  "summary": "Whether there is time to do something",
+  "summary_ja": "何かをする時間があるかどうか",
+  "explanation": "来得及 means there is still time to do something; 来不及 means it is too late. Both can stand alone (还来得及 / 来不及了) or take a verb: 来不及吃饭. The question form is 来得及吗 or 来得及来不及. 了 at the end marks the new situation: 来不及了 (it is too late now).",
+  "explanation_ja": "「来得及」はまだ何かをする時間があること、「来不及」はもう遅いことを表します。どちらも単独で使え（还来得及／来不及了）、動詞を続けることもできます（来不及吃饭）。疑問文は「来得及吗」または「来得及来不及」です。文末の「了」は新しい状況を示します（来不及了：もう間に合わない）。",
+  "examples": [
+   {
+    "zh": "现在去还来得及。",
+    "pinyin": "xiàn zài qù hái lái de jí.",
+    "en": "If we go now, there is still time.",
+    "ja": "今行けばまだ間に合います。"
+   },
+   {
+    "zh": "火车八点开，现在已经八点了，来不及了。",
+    "pinyin": "huǒ chē bā diǎn kāi, xiàn zài yǐ jīng bā diǎn le, lái bu jí le.",
+    "en": "The train leaves at eight; it is already eight, so it is too late.",
+    "ja": "電車は8時発で、もう8時なので間に合いません。"
+   },
+   {
+    "zh": "别着急，还来得及吃早饭。",
+    "pinyin": "bié zháo jí, hái lái de jí chī zǎo fàn.",
+    "en": "Don't worry, there is still time for breakfast.",
+    "ja": "慌てないで。まだ朝ごはんを食べる時間があります。"
+   }
+  ],
+  "mistakes": [
+   "Saying 不来得及 for \"too late\"; the negative form is 来不及.",
+   "Using 没 before 来得及; use 来不及 instead."
+  ],
+  "mistakes_ja": [
+   "「間に合わない」は「不来得及」ではなく「来不及」です。",
+   "「来得及」の前に「没」は付けません。「来不及」を使います。"
+  ],
+  "exercises": [
+   {
+    "type": "fill",
+    "prompt": "还有半个小时，＿去买票。",
+    "answer": "来得及",
+    "choices": [
+     "来得及",
+     "来不及",
+     "来得"
+    ],
+    "why": "Half an hour is enough time: 来得及.",
+    "why_ja": "30分あれば間に合うので「来得及」です。"
+   },
+   {
+    "type": "choose",
+    "prompt": "Which sentence means \"It is too late to write the letter\"?",
+    "prompt_ja": "「手紙を書く時間はもうない」はどれですか",
+    "answer": "来不及写信了。",
+    "choices": [
+     "来不及写信了。",
+     "不来得及写信了。",
+     "没来得及写信吗。"
+    ],
+    "why": "The negative form is 来不及 + verb.",
+    "why_ja": "否定形は「来不及＋動詞」です。"
+   },
+   {
+    "type": "produce",
+    "prompt": "Ask: \"Is there still time?\"",
+    "prompt_ja": "「まだ間に合いますか」と尋ねる",
+    "answer": "还来得及吗",
+    "answerPinyin": "hái lái de jí ma",
+    "why": "还来得及 + 吗.",
+    "why_ja": "「还来得及＋吗」です。"
+   }
+  ]
+ },
+ {
+  "id": "gram:hsk4:shoubuliao",
+  "level": "hsk4",
+  "unit": 18,
+  "order": 1854,
+  "title": "受不了: cannot stand",
+  "title_ja": "受不了：耐えられない",
+  "pattern": "S + 受不了 + (N/clause)　|　S + 受得了",
+  "summary": "Something is unbearable",
+  "summary_ja": "…に我慢できない",
+  "explanation": "受不了 means \"cannot bear, cannot stand\" and takes a noun or a whole situation as its object: 我受不了这里的热. It can also stand alone at the end: 太热了，我受不了. The positive 受得了 (\"can stand\") is mostly used in questions: 你受得了吗？ The pattern 受得了/受不了 is a potential complement, so no 能 or 不 is added in front.",
+  "explanation_ja": "「受不了」は「耐えられない・我慢できない」という意味で、名詞や状況全体を目的語に取ります（我受不了这里的热）。文末に単独で置くこともできます（太热了，我受不了）。肯定形の「受得了」（耐えられる）は主に疑問文で使います（你受得了吗？）。可能補語なので、前に「能」や「不」を重ねません。",
+  "examples": [
+   {
+    "zh": "这里太热了，我受不了。",
+    "pinyin": "zhè lǐ tài rè le, wǒ shòu bu liǎo.",
+    "en": "It is too hot here; I cannot stand it.",
+    "ja": "ここは暑すぎて耐えられません。"
+   },
+   {
+    "zh": "我受不了他天天迟到。",
+    "pinyin": "wǒ shòu bu liǎo tā tiān tiān chí dào.",
+    "en": "I cannot stand him being late every day.",
+    "ja": "彼が毎日遅刻するのには我慢できません。"
+   },
+   {
+    "zh": "这么辛苦的工作，谁受得了？",
+    "pinyin": "zhè me xīn kǔ de gōng zuò, shéi shòu de liǎo?",
+    "en": "Such exhausting work, who could stand it?",
+    "ja": "こんなにつらい仕事、誰が耐えられるでしょう。"
+   }
+  ],
+  "mistakes": [
+   "Adding 不 or 能: 不能受不了 is wrong.",
+   "Using 受不了 for \"cannot accept\" an idea; that is 不能接受."
+  ],
+  "mistakes_ja": [
+   "「不能受不了」のように「不」「能」を重ねるのは誤りです。",
+   "考えを「受け入れられない」は「不能接受」で、「受不了」ではありません。"
+  ],
+  "exercises": [
+   {
+    "type": "fill",
+    "prompt": "房间里太热了，我＿。",
+    "answer": "受不了",
+    "choices": [
+     "受不了",
+     "来不及",
+     "不得不"
+    ],
+    "why": "Heat being unbearable is 受不了.",
+    "why_ja": "暑さに耐えられないので「受不了」です。"
+   },
+   {
+    "type": "order",
+    "prompt": "Make: \"I cannot stand this cold weather.\"",
+    "prompt_ja": "「この寒い天気には耐えられない」を作る",
+    "answer": "我受不了这么冷的天气",
+    "choices": [
+     "我",
+     "受不了",
+     "这么冷的",
+     "天气"
+    ],
+    "why": "受不了 + the unbearable thing.",
+    "why_ja": "「受不了＋耐えられないもの」です。"
+   },
+   {
+    "type": "produce",
+    "prompt": "Ask: \"Can you stand it?\"",
+    "prompt_ja": "「あなたは耐えられますか」と尋ねる",
+    "answer": "你受得了吗",
+    "answerPinyin": "nǐ shòu de liǎo ma",
+    "why": "The positive potential form 受得了 in a question.",
+    "why_ja": "肯定の可能補語「受得了」を疑問文で使います。"
+   }
+  ]
+ },
+ {
+  "id": "gram:hsk4:buru",
+  "level": "hsk4",
+  "unit": 18,
+  "order": 1855,
+  "title": "不如: not as good as",
+  "title_ja": "不如：…に及ばない・…のほうがよい",
+  "pattern": "A + 不如 + B (+ Adj)　|　不如 + suggestion",
+  "summary": "B is better than A; or \"it would be better to\"",
+  "summary_ja": "AはBに及ばない／…したほうがよい",
+  "explanation": "A 不如 B means A is not as good as B; an adjective may follow to say in what way: 坐飞机不如坐火车便宜. Without an adjective, \"good\" is understood: 我的汉语不如他. 不如 can also open a suggestion, \"it would be better to\": 外面太热，不如在家看书吧. Compare 没有…(那么): A 没有 B 那么好 is the everyday way to say the same thing.",
+  "explanation_ja": "「A不如B」はAがBに及ばないという意味で、後に形容詞を付けてどの点で劣るかを示せます（坐飞机不如坐火车便宜）。形容詞がなければ「よい」の意味が補われます（我的汉语不如他）。「不如」は「…したほうがよい」と提案を導くこともできます（外面太热，不如在家看书吧）。「A没有B那么好」は同じ内容の日常的な言い方です。",
+  "examples": [
+   {
+    "zh": "坐飞机不如坐火车便宜。",
+    "pinyin": "zuò fēi jī bù rú zuò huǒ chē pián yi.",
+    "en": "Flying is not as cheap as taking the train.",
+    "ja": "飛行機は電車ほど安くありません。"
+   },
+   {
+    "zh": "我的汉语不如他好。",
+    "pinyin": "wǒ de hàn yǔ bù rú tā hǎo.",
+    "en": "My Chinese is not as good as his.",
+    "ja": "私の中国語は彼ほど上手ではありません。"
+   },
+   {
+    "zh": "外面太热，不如在家看书吧。",
+    "pinyin": "wài miàn tài rè, bù rú zài jiā kàn shū ba.",
+    "en": "It is too hot outside; better to read at home.",
+    "ja": "外は暑すぎるので、家で本を読んだほうがいいでしょう。"
+   }
+  ],
+  "mistakes": [
+   "Putting a negative adjective after 不如: 他不如我差 is wrong; the adjective is positive (好, 便宜, 快).",
+   "Mixing up the order: A 不如 B means B is better."
+  ],
+  "mistakes_ja": [
+   "「不如」の後の形容詞は肯定的なもの（好・便宜・快）です。「他不如我差」は誤りです。",
+   "語順に注意してください。「A不如B」はBのほうが上という意味です。"
+  ],
+  "exercises": [
+   {
+    "type": "fill",
+    "prompt": "今天＿昨天热。",
+    "answer": "不如",
+    "choices": [
+     "不如",
+     "不比",
+     "比较"
+    ],
+    "why": "Today is less hot than yesterday: A 不如 B + adjective.",
+    "why_ja": "今日は昨日ほど暑くないので「A不如B＋形容詞」です。"
+   },
+   {
+    "type": "choose",
+    "prompt": "Which sentence means \"His Chinese is better than mine\"?",
+    "prompt_ja": "「彼の中国語は私より上手だ」はどれですか",
+    "answer": "我的汉语不如他的。",
+    "choices": [
+     "我的汉语不如他的。",
+     "他的汉语不如我的。",
+     "我的汉语不比他的差。"
+    ],
+    "why": "A 不如 B means B is better.",
+    "why_ja": "「A不如B」はBのほうが上です。"
+   },
+   {
+    "type": "produce",
+    "prompt": "Say: \"It would be better to go tomorrow.\" (use 不如)",
+    "prompt_ja": "「明日行ったほうがいいです」と「不如」で言う",
+    "answer": "不如明天去吧",
+    "answerPinyin": "bù rú míng tiān qù ba",
+    "why": "不如 opens a suggestion.",
+    "why_ja": "「不如」で提案を始めます。"
+   }
+  ]
+ },
+ {
+  "id": "gram:hsk4:yuqi-buru",
+  "level": "hsk4",
+  "unit": 19,
+  "order": 1956,
+  "title": "与其…不如: rather than A, better B",
+  "title_ja": "与其…不如：AするよりBしたほうがよい",
+  "pattern": "与其 + A，不如 + B",
+  "summary": "Rejecting one option in favour of another",
+  "summary_ja": "Aを退けてBを選ぶ",
+  "explanation": "与其 introduces the option you reject, and 不如 the one you prefer: 与其在家等，不如出去找他. Both parts are usually verb phrases of similar shape. The choice is between two actions, not two things, and the speaker is giving advice or stating a preference. 还不如 can replace 不如 for extra emphasis.",
+  "explanation_ja": "「与其」は退ける選択肢を、「不如」は望ましい選択肢を導きます（与其在家等，不如出去找他）。両方ともふつう似た形の動詞句です。比べるのは2つの行動であり、話し手は助言や好みを述べています。強調したいときは「不如」の代わりに「还不如」を使えます。",
+  "examples": [
+   {
+    "zh": "与其在家等，不如出去找他。",
+    "pinyin": "yǔ qí zài jiā děng, bù rú chū qù zhǎo tā.",
+    "en": "Rather than waiting at home, better go out and look for him.",
+    "ja": "家で待つより、出かけて彼を探したほうがいいです。"
+   },
+   {
+    "zh": "与其买新的，不如把旧的修好。",
+    "pinyin": "yǔ qí mǎi xīn de, bù rú bǎ jiù de xiū hǎo.",
+    "en": "Rather than buying a new one, better repair the old one.",
+    "ja": "新しいのを買うより、古いのを直したほうがいいです。"
+   },
+   {
+    "zh": "与其担心，不如马上开始做。",
+    "pinyin": "yǔ qí dān xīn, bù rú mǎ shàng kāi shǐ zuò.",
+    "en": "Rather than worrying, better start right away.",
+    "ja": "心配するより、すぐに始めたほうがいいです。"
+   }
+  ],
+  "mistakes": [
+   "Reversing the two halves: the preferred action always follows 不如.",
+   "Using nouns instead of actions: 与其苹果，不如香蕉 is not natural."
+  ],
+  "mistakes_ja": [
+   "前後を逆にしないでください。望ましい行動は必ず「不如」の後です。",
+   "名詞ではなく動作を比べます。「与其苹果，不如香蕉」は不自然です。"
+  ],
+  "exercises": [
+   {
+    "type": "fill",
+    "prompt": "与其坐车，＿走路去。",
+    "answer": "不如",
+    "choices": [
+     "不如",
+     "不比",
+     "只有"
+    ],
+    "why": "与其 pairs with 不如.",
+    "why_ja": "「与其」は「不如」と呼応します。"
+   },
+   {
+    "type": "order",
+    "prompt": "Make: \"Rather than watching TV, better read a book.\"",
+    "prompt_ja": "「テレビを見るより本を読んだほうがいい」を作る",
+    "answer": "与其看电视不如看书",
+    "choices": [
+     "与其",
+     "看电视",
+     "不如",
+     "看书"
+    ],
+    "why": "与其 + rejected action, 不如 + preferred action.",
+    "why_ja": "「与其＋退ける行動、不如＋望ましい行動」です。"
+   },
+   {
+    "type": "produce",
+    "prompt": "Say: \"Rather than asking him, better ask the teacher.\"",
+    "prompt_ja": "「彼に聞くより先生に聞いたほうがいい」と言う",
+    "answer": "与其问他不如问老师",
+    "answerPinyin": "yǔ qí wèn tā bù rú wèn lǎo shī",
+    "why": "Two parallel verb phrases.",
+    "why_ja": "2つの並行する動詞句です。"
+   }
+  ]
+ },
+ {
+  "id": "gram:hsk4:yifangmian",
+  "level": "hsk4",
+  "unit": 19,
+  "order": 1957,
+  "title": "一方面…另一方面: on the one hand… on the other",
+  "title_ja": "一方面…另一方面：一方で…他方で",
+  "pattern": "一方面 + A，另一方面 + B",
+  "summary": "Two sides of the same matter",
+  "summary_ja": "同じ事柄の2つの側面",
+  "explanation": "一方面…另一方面 presents two aspects of one situation, which may support each other or pull in opposite directions: 这个工作一方面工资高，另一方面压力也大. Each half usually begins its own clause, after the shared subject. 又 or 也 often appears in the second half. It is useful for weighing advantages and disadvantages.",
+  "explanation_ja": "「一方面…另一方面」は1つの状況の2つの側面を示します。互いに補い合う内容でも、反対方向に引き合う内容でもかまいません（这个工作一方面工资高，另一方面压力也大）。それぞれ共通の主語の後で節を始めるのがふつうです。後半には「又」や「也」がよく現れます。長所と短所を比べるときに便利です。",
+  "examples": [
+   {
+    "zh": "这个工作一方面工资高，另一方面压力也大。",
+    "pinyin": "zhè ge gōng zuò yī fāng miàn gōng zī gāo, lìng yī fāng miàn yā lì yě dà.",
+    "en": "On the one hand this job pays well; on the other the pressure is high.",
+    "ja": "この仕事は一方で給料が高く、他方でプレッシャーも大きいです。"
+   },
+   {
+    "zh": "学汉语，一方面要记住生词，另一方面要多说。",
+    "pinyin": "xué hàn yǔ, yī fāng miàn yào jì zhù shēng cí, lìng yī fāng miàn yào duō shuō.",
+    "en": "In learning Chinese, on the one hand you must remember words; on the other you must speak a lot.",
+    "ja": "中国語を学ぶには、一方で単語を覚え、他方でたくさん話す必要があります。"
+   },
+   {
+    "zh": "他一方面想换工作，另一方面又怕找不到更好的。",
+    "pinyin": "tā yī fāng miàn xiǎng huàn gōng zuò, lìng yī fāng miàn yòu pà zhǎo bù dào gèng hǎo de.",
+    "en": "On the one hand he wants to change jobs; on the other he fears he will not find a better one.",
+    "ja": "彼は一方で転職したいと思い、他方でもっとよい仕事が見つからないのを恐れています。"
+   }
+  ],
+  "mistakes": [
+   "Saying 另外方面 or 第二方面; the fixed form is 另一方面.",
+   "Using the pattern for a simple list of unrelated facts."
+  ],
+  "mistakes_ja": [
+   "「另外方面」「第二方面」ではなく、決まった形「另一方面」です。",
+   "無関係な事実の羅列には使いません。"
+  ],
+  "exercises": [
+   {
+    "type": "fill",
+    "prompt": "住在城市一方面很方便，＿也很贵。",
+    "answer": "另一方面",
+    "choices": [
+     "另一方面",
+     "另外",
+     "其次"
+    ],
+    "why": "The second side of city life is introduced by 另一方面.",
+    "why_ja": "都市生活のもう一つの側面を「另一方面」で導きます。"
+   },
+   {
+    "type": "order",
+    "prompt": "Make: \"On the one hand I want to go; on the other I have no time.\"",
+    "prompt_ja": "「一方で行きたいが、他方で時間がない」を作る",
+    "answer": "一方面我想去另一方面我没有时间",
+    "choices": [
+     "一方面",
+     "我想去",
+     "另一方面",
+     "我没有时间"
+    ],
+    "why": "Two sides, each with its clause.",
+    "why_ja": "2つの側面をそれぞれの節で述べます。"
+   },
+   {
+    "type": "produce",
+    "prompt": "Say: \"This car is, on the one hand, cheap and, on the other, good-looking.\"",
+    "prompt_ja": "「この車は一方で安く、他方で格好いい」と言う",
+    "answer": "这辆车一方面便宜另一方面好看",
+    "answerPinyin": "zhè liàng chē yī fāng miàn pián yi lìng yī fāng miàn hǎo kàn",
+    "why": "Shared subject, then the two sides.",
+    "why_ja": "共通の主語の後に2つの側面です。"
+   }
+  ]
+ },
+ {
+  "id": "gram:hsk4:zai-ye",
+  "level": "hsk4",
+  "unit": 20,
+  "order": 2058,
+  "title": "再…也: however… still",
+  "title_ja": "再…也：どんなに…でも",
+  "pattern": "再 + Adj/V，(S) 也 + V",
+  "summary": "Even at the highest degree, the result holds",
+  "summary_ja": "程度がどんなに高くても結果は同じ",
+  "explanation": "再 before an adjective or verb means \"no matter how (much)\", and 也 in the main clause says the outcome does not change: 再贵我也要买. The 再 phrase may stand first or modify a noun (再难的问题). 也 is required. This is a short, colloquial way to say 不管多…都.",
+  "explanation_ja": "形容詞や動詞の前の「再」は「どんなに…でも」の意味で、主節の「也」が結果は変わらないことを示します（再贵我也要买）。「再」の句は文頭にも、名詞の修飾にも使えます（再难的问题）。「也」は必須です。「不管多…都」を短く話し言葉的に言う形です。",
+  "examples": [
+   {
+    "zh": "再贵我也要买。",
+    "pinyin": "zài guì wǒ yě yào mǎi.",
+    "en": "However expensive it is, I will buy it.",
+    "ja": "どんなに高くても買います。"
+   },
+   {
+    "zh": "你再说，我也不听。",
+    "pinyin": "nǐ zài shuō, wǒ yě bù tīng.",
+    "en": "However much you say, I will not listen.",
+    "ja": "あなたがいくら言っても、私は聞きません。"
+   },
+   {
+    "zh": "再难的问题，他也能解决。",
+    "pinyin": "zài nán de wèn tí, tā yě néng jiě jué.",
+    "en": "However hard the problem, he can solve it.",
+    "ja": "どんなに難しい問題でも、彼は解決できます。"
+   }
+  ],
+  "mistakes": [
+   "Dropping 也: 再贵我要买 loses the concessive meaning.",
+   "Reading 再 as \"again\" here; it means \"no matter how\"."
+  ],
+  "mistakes_ja": [
+   "「也」を落とすと譲歩の意味がなくなります。",
+   "ここの「再」は「もう一度」ではなく「どんなに…でも」の意味です。"
+  ],
+  "exercises": [
+   {
+    "type": "fill",
+    "prompt": "再忙，他＿每天给妈妈打电话。",
+    "answer": "也",
+    "choices": [
+     "也",
+     "才",
+     "就"
+    ],
+    "why": "再 pairs with 也.",
+    "why_ja": "「再」は「也」と呼応します。"
+   },
+   {
+    "type": "order",
+    "prompt": "Make: \"However tired I am, I still do my homework.\"",
+    "prompt_ja": "「どんなに疲れていても宿題をします」を作る",
+    "answer": "再累我也做作业",
+    "choices": [
+     "再累",
+     "我",
+     "也",
+     "做作业"
+    ],
+    "why": "再 + adjective, subject + 也 + verb.",
+    "why_ja": "「再＋形容詞、主語＋也＋動詞」です。"
+   },
+   {
+    "type": "produce",
+    "prompt": "Say: \"However cold it is, he goes running.\"",
+    "prompt_ja": "「どんなに寒くても、彼は走りに行きます」と言う",
+    "answer": "再冷他也去跑步",
+    "answerPinyin": "zài lěng tā yě qù pǎo bù",
+    "why": "再冷 then 也 + verb.",
+    "why_ja": "「再冷」の後に「也＋動詞」です。"
+   }
+  ]
+ },
+ {
+  "id": "gram:hsk4:yue-yue-review",
+  "level": "hsk4",
+  "unit": 20,
+  "order": 2059,
+  "title": "越…越 / 越来越 (review)",
+  "title_ja": "越…越／越来越：…すればするほど（復習）",
+  "pattern": "(S) 越 + A，(S) 越 + B　|　越来越 + Adj",
+  "summary": "One thing increases with another",
+  "summary_ja": "一方が増えると他方も増える",
+  "explanation": "越 A 越 B means \"the more A, the more B\": 雨越下越大. The two parts can share a subject or have different ones (你越说，他越生气). 越来越 + adjective means \"more and more\" over time: 天气越来越冷. Do not put 很 or 非常 after 越; 越 already carries the degree.",
+  "explanation_ja": "「越A越B」は「AすればするほどB」です（雨越下越大）。2つの部分は同じ主語でも別の主語でもかまいません（你越说，他越生气）。「越来越＋形容詞」は時間とともに「ますます…」を表します（天气越来越冷）。「越」の後に「很」「非常」は付けません。「越」自体が程度を表しています。",
+  "examples": [
+   {
+    "zh": "雨越下越大。",
+    "pinyin": "yǔ yuè xià yuè dà.",
+    "en": "The rain is getting heavier and heavier.",
+    "ja": "雨はますます強くなっています。"
+   },
+   {
+    "zh": "汉语越学越有意思。",
+    "pinyin": "hàn yǔ yuè xué yuè yǒu yì si.",
+    "en": "The more you study Chinese, the more interesting it gets.",
+    "ja": "中国語は学べば学ぶほど面白くなります。"
+   },
+   {
+    "zh": "你越说，他越生气。",
+    "pinyin": "nǐ yuè shuō, tā yuè shēng qì.",
+    "en": "The more you talk, the angrier he gets.",
+    "ja": "あなたが言えば言うほど、彼は怒ります。"
+   },
+   {
+    "zh": "天气越来越冷了。",
+    "pinyin": "tiān qì yuè lái yuè lěng le.",
+    "en": "The weather is getting colder and colder.",
+    "ja": "天気はますます寒くなってきました。"
+   }
+  ],
+  "mistakes": [
+   "Adding 很: 越来越很冷 is wrong.",
+   "Using 越来越 with a verb that has no degree: 越来越去 is not possible."
+  ],
+  "mistakes_ja": [
+   "「越来越很冷」のように「很」は付けません。",
+   "程度のない動詞に「越来越」は使えません。"
+  ],
+  "exercises": [
+   {
+    "type": "fill",
+    "prompt": "他越跑＿快。",
+    "answer": "越",
+    "choices": [
+     "越",
+     "更",
+     "很"
+    ],
+    "why": "越 pairs with a second 越.",
+    "why_ja": "「越」は2つ目の「越」と呼応します。"
+   },
+   {
+    "type": "choose",
+    "prompt": "Which sentence is correct?",
+    "prompt_ja": "正しい文はどれですか",
+    "answer": "人越来越多了。",
+    "choices": [
+     "人越来越多了。",
+     "人越来越很多了。",
+     "人很越来越多了。"
+    ],
+    "why": "No 很 with 越来越.",
+    "why_ja": "「越来越」に「很」は付けません。"
+   },
+   {
+    "type": "produce",
+    "prompt": "Say: \"The more I eat, the fatter I get.\"",
+    "prompt_ja": "「食べれば食べるほど太ります」と言う",
+    "answer": "我越吃越胖",
+    "answerPinyin": "wǒ yuè chī yuè pàng",
+    "why": "越 + verb, 越 + adjective.",
+    "why_ja": "「越＋動詞、越＋形容詞」です。"
+   }
+  ]
+ },
+ {
+  "id": "gram:hsk4:jieguo",
+  "level": "hsk4",
+  "unit": 21,
+  "order": 2150,
+  "title": "结果: as a result",
+  "title_ja": "结果：その結果",
+  "pattern": "situation，结果 + outcome",
+  "summary": "Telling what finally happened",
+  "summary_ja": "最終的にどうなったかを語る",
+  "explanation": "As a connector, 结果 introduces the final outcome of a situation, often one that was unexpected or unwelcome: 他没复习，结果考试没通过. It opens the second clause, before the subject. As a noun it means \"result\": 考试的结果. Compare 于是 (what happened next) and 因此 (logical consequence).",
+  "explanation_ja": "接続語としての「结果」は、ある状況の最終的な結果を導き、意外な結果や望ましくない結果であることが多いです（他没复习，结果考试没通过）。後半の節の頭、主語の前に置きます。名詞としては「結果」の意味です（考试的结果）。「于是」（次に起きたこと）や「因此」（論理的な帰結）と比べてみましょう。",
+  "examples": [
+   {
+    "zh": "他没复习，结果考试没通过。",
+    "pinyin": "tā méi fù xí, jié guǒ kǎo shì méi tōng guò.",
+    "en": "He did not revise, and as a result failed the exam.",
+    "ja": "彼は復習せず、その結果試験に通りませんでした。"
+   },
+   {
+    "zh": "我们等了很久，结果他没来。",
+    "pinyin": "wǒ men děng le hěn jiǔ, jié guǒ tā méi lái.",
+    "en": "We waited a long time, and in the end he did not come.",
+    "ja": "私たちは長く待ちましたが、結局彼は来ませんでした。"
+   },
+   {
+    "zh": "她很努力，结果得了第一。",
+    "pinyin": "tā hěn nǔ lì, jié guǒ dé le dì yī.",
+    "en": "She worked hard, and as a result came first.",
+    "ja": "彼女は努力し、その結果1位になりました。"
+   }
+  ],
+  "mistakes": [
+   "Placing 结果 after the subject of the second clause: 他结果没来 is awkward; say 结果他没来.",
+   "Confusing the noun (结果很好) with the connector."
+  ],
+  "mistakes_ja": [
+   "後半の主語の後に置く「他结果没来」は不自然です。「结果他没来」とします。",
+   "名詞の「结果很好」と接続語の用法を区別しましょう。"
+  ],
+  "exercises": [
+   {
+    "type": "fill",
+    "prompt": "他吃得太多，＿肚子疼了。",
+    "answer": "结果",
+    "choices": [
+     "结果",
+     "只要",
+     "甚至"
+    ],
+    "why": "A stomach ache is the outcome of eating too much.",
+    "why_ja": "食べすぎた結果としてお腹が痛くなったので「结果」です。"
+   },
+   {
+    "type": "order",
+    "prompt": "Make: \"He forgot his umbrella, and as a result caught a cold.\"",
+    "prompt_ja": "「彼は傘を忘れて、その結果風邪をひいた」を作る",
+    "answer": "他忘了带伞结果感冒了",
+    "choices": [
+     "他忘了带伞",
+     "结果",
+     "感冒了"
+    ],
+    "why": "Situation, 结果, outcome.",
+    "why_ja": "状況→结果→結末です。"
+   },
+   {
+    "type": "produce",
+    "prompt": "Say: \"I got up late, and as a result missed the train.\" (use 结果, 没坐上)",
+    "prompt_ja": "「寝坊して、その結果電車に乗り遅れた」と言う",
+    "answer": "我起晚了结果没坐上火车",
+    "answerPinyin": "wǒ qǐ wǎn le jié guǒ méi zuò shàng huǒ chē",
+    "why": "结果 opens the outcome clause.",
+    "why_ja": "「结果」で結末の節を始めます。"
+   }
+  ]
+ },
+ {
+  "id": "gram:hsk4:conglai",
+  "level": "hsk4",
+  "unit": 21,
+  "order": 2151,
+  "title": "从来不 / 从来没: never",
+  "title_ja": "从来不／从来没：決して…ない／一度も…ない",
+  "pattern": "S + 从来不 + V　|　S + 从来没(有) + V + 过",
+  "summary": "\"Never\" as a habit vs \"never\" as an experience",
+  "summary_ja": "習慣としての「決して」と経験としての「一度も」",
+  "explanation": "从来 means \"ever, all along\" and is almost always negative. 从来不 + verb describes a habit that never happens: 他从来不吃肉. 从来没(有) + verb + 过 describes something that has never happened up to now: 我从来没去过日本. Choose 不 for habits and attitudes, 没 for experiences.",
+  "explanation_ja": "「从来」は「これまでずっと」の意味で、ほぼ常に否定と一緒に使います。「从来不＋動詞」は決して起こらない習慣を表します（他从来不吃肉）。「从来没(有)＋動詞＋过」は今まで一度も起きていないことを表します（我从来没去过日本）。習慣や態度には「不」、経験には「没」を選びます。",
+  "examples": [
+   {
+    "zh": "他从来不吃肉。",
+    "pinyin": "tā cóng lái bù chī ròu.",
+    "en": "He never eats meat.",
+    "ja": "彼は決して肉を食べません。"
+   },
+   {
+    "zh": "我从来没去过日本。",
+    "pinyin": "wǒ cóng lái méi qù guo rì běn.",
+    "en": "I have never been to Japan.",
+    "ja": "私は一度も日本に行ったことがありません。"
+   },
+   {
+    "zh": "她从来不迟到。",
+    "pinyin": "tā cóng lái bù chí dào.",
+    "en": "She is never late.",
+    "ja": "彼女は決して遅刻しません。"
+   }
+  ],
+  "mistakes": [
+   "Using 从来 in a positive sentence: 我从来喜欢 is unusual; say 我一直喜欢.",
+   "Mixing the forms: 从来不去过 is wrong; use 从来没去过."
+  ],
+  "mistakes_ja": [
+   "肯定文の「我从来喜欢」は不自然です。「我一直喜欢」と言います。",
+   "「从来不去过」は誤りで、「从来没去过」です。"
+  ],
+  "exercises": [
+   {
+    "type": "fill",
+    "prompt": "我＿吃过这么好吃的菜。",
+    "answer": "从来没",
+    "choices": [
+     "从来没",
+     "从来不",
+     "永远不"
+    ],
+    "why": "A past experience that never happened uses 从来没…过.",
+    "why_ja": "一度もない経験なので「从来没…过」です。"
+   },
+   {
+    "type": "choose",
+    "prompt": "Which sentence means \"He never drinks coffee\" (as a habit)?",
+    "prompt_ja": "「彼は（習慣として）コーヒーを飲まない」はどれですか",
+    "answer": "他从来不喝咖啡。",
+    "choices": [
+     "他从来不喝咖啡。",
+     "他从来没喝咖啡。",
+     "他从来喝咖啡。"
+    ],
+    "why": "Habits use 从来不.",
+    "why_ja": "習慣には「从来不」です。"
+   },
+   {
+    "type": "produce",
+    "prompt": "Say: \"I have never seen snow.\"",
+    "prompt_ja": "「私は一度も雪を見たことがありません」と言う",
+    "answer": "我从来没见过雪",
+    "answerPinyin": "wǒ cóng lái méi jiàn guo xuě",
+    "why": "从来没 + verb + 过.",
+    "why_ja": "「从来没＋動詞＋过」です。"
+   }
+  ]
+ },
+ {
+  "id": "gram:hsk4:jihu",
+  "level": "hsk4",
+  "unit": 22,
+  "order": 2252,
+  "title": "几乎: almost",
+  "title_ja": "几乎：ほとんど",
+  "pattern": "S + 几乎 + (都/没/不) + V",
+  "summary": "Very close to the whole or to happening",
+  "summary_ja": "全体や実現にきわめて近い",
+  "explanation": "几乎 is an adverb before the verb meaning \"almost, nearly\": 我几乎每天都锻炼. With 都 it means \"almost all\"; with 没 or 不 it means \"hardly\": 他几乎没睡. It can also mean something nearly happened but did not: 我几乎忘了 (I almost forgot). Compare 差点儿, which is only for things that nearly happened.",
+  "explanation_ja": "「几乎」は動詞の前に置く副詞で「ほとんど・ほぼ」の意味です（我几乎每天都锻炼）。「都」と一緒なら「ほとんどすべて」、「没」「不」と一緒なら「ほとんど…ない」です（他几乎没睡）。もう少しで起きそうだったが起きなかったことにも使えます（我几乎忘了）。起きかけたことだけに使う「差点儿」と比べてみましょう。",
+  "examples": [
+   {
+    "zh": "我几乎每天都锻炼。",
+    "pinyin": "wǒ jī hū měi tiān dōu duàn liàn.",
+    "en": "I exercise almost every day.",
+    "ja": "私はほとんど毎日運動しています。"
+   },
+   {
+    "zh": "他几乎忘了这件事。",
+    "pinyin": "tā jī hū wàng le zhè jiàn shì.",
+    "en": "He almost forgot about this.",
+    "ja": "彼はもう少しでこのことを忘れるところでした。"
+   },
+   {
+    "zh": "这里的人几乎都认识他。",
+    "pinyin": "zhè lǐ de rén jī hū dōu rèn shi tā.",
+    "en": "Almost everyone here knows him.",
+    "ja": "ここの人はほとんどみんな彼を知っています。"
+   }
+  ],
+  "mistakes": [
+   "Putting 几乎 at the end: 他们都来了几乎 is wrong.",
+   "Using 几乎 for a number estimate alone; say 几乎一百个 or 差不多一百个."
+  ],
+  "mistakes_ja": [
+   "「几乎」を文末に置くことはできません。",
+   "数の概算だけなら「几乎一百个」「差不多一百个」のように言います。"
+  ],
+  "exercises": [
+   {
+    "type": "fill",
+    "prompt": "他太累了，＿站不住了。",
+    "answer": "几乎",
+    "choices": [
+     "几乎",
+     "永远",
+     "反正"
+    ],
+    "why": "He was nearly unable to stand: 几乎.",
+    "why_ja": "ほとんど立っていられないので「几乎」です。"
+   },
+   {
+    "type": "order",
+    "prompt": "Make: \"Almost all the students have passed.\"",
+    "prompt_ja": "「ほとんどすべての学生が合格した」を作る",
+    "answer": "学生几乎都通过了",
+    "choices": [
+     "学生",
+     "几乎",
+     "都",
+     "通过了"
+    ],
+    "why": "Subject + 几乎 + 都 + verb.",
+    "why_ja": "「主語＋几乎＋都＋動詞」です。"
+   },
+   {
+    "type": "produce",
+    "prompt": "Say: \"I hardly slept last night.\"",
+    "prompt_ja": "「昨夜はほとんど眠れませんでした」と言う",
+    "answer": "我昨天晚上几乎没睡",
+    "answerPinyin": "wǒ zuó tiān wǎn shang jī hū méi shuì",
+    "why": "几乎没 + verb.",
+    "why_ja": "「几乎没＋動詞」です。"
+   }
+  ]
+ },
+ {
+  "id": "gram:hsk4:jianzhi",
+  "level": "hsk4",
+  "unit": 22,
+  "order": 2253,
+  "title": "简直: simply, absolutely",
+  "title_ja": "简直：まったく・まるで",
+  "pattern": "S + 简直 + (是/像/太…了)",
+  "summary": "An exaggeration for emphasis",
+  "summary_ja": "誇張して強調する",
+  "explanation": "简直 is an adverb that stresses the speaker's strong feeling, \"simply, downright\": 这简直太漂亮了. It often goes with 太…了, 像 (\"just like\") or 是, and with extreme expressions such as 死了 (今天简直热死了). It expresses an exaggerated judgement, so it is used in speech and informal writing rather than reports.",
+  "explanation_ja": "「简直」は話し手の強い感情を「まったく・本当に」と強調する副詞です（这简直太漂亮了）。「太…了」「像」（まるで…のよう）「是」と一緒に使うことが多く、「死了」などの極端な表現とも相性がよいです（今天简直热死了）。誇張した判断を表すため、報告書などではなく会話やくだけた文章で使います。",
+  "examples": [
+   {
+    "zh": "这简直太漂亮了！",
+    "pinyin": "zhè jiǎn zhí tài piào liang le!",
+    "en": "This is simply too beautiful!",
+    "ja": "これは本当に美しすぎます。"
+   },
+   {
+    "zh": "今天简直热死了。",
+    "pinyin": "jīn tiān jiǎn zhí rè sǐ le.",
+    "en": "Today is absolutely boiling.",
+    "ja": "今日はまったく暑くて死にそうです。"
+   },
+   {
+    "zh": "他说的话简直让人不敢相信。",
+    "pinyin": "tā shuō de huà jiǎn zhí ràng rén bù gǎn xiāng xìn.",
+    "en": "What he said is simply unbelievable.",
+    "ja": "彼の言ったことはまったく信じがたいです。"
+   }
+  ],
+  "mistakes": [
+   "Using 简直 with a neutral statement: 他简直是学生 makes no sense.",
+   "Confusing 简直 with 简单 (\"simple\")."
+  ],
+  "mistakes_ja": [
+   "中立的な文「他简直是学生」では意味をなしません。",
+   "「简直」と「简单」（簡単）を混同しないでください。"
+  ],
+  "exercises": [
+   {
+    "type": "fill",
+    "prompt": "这个菜＿太好吃了！",
+    "answer": "简直",
+    "choices": [
+     "简直",
+     "简单",
+     "几乎"
+    ],
+    "why": "A strong, exaggerated judgement uses 简直.",
+    "why_ja": "誇張した強い評価なので「简直」です。"
+   },
+   {
+    "type": "choose",
+    "prompt": "Which sentence uses 简直 correctly?",
+    "prompt_ja": "「简直」を正しく使っている文はどれですか",
+    "answer": "他的房间简直像商店。",
+    "choices": [
+     "他的房间简直像商店。",
+     "他的房间简直有桌子。",
+     "他简直去了商店。"
+    ],
+    "why": "简直 needs an extreme or figurative judgement (像商店).",
+    "why_ja": "「简直」には極端な、または比喩的な判断（像商店）が必要です。"
+   },
+   {
+    "type": "produce",
+    "prompt": "Say: \"I am simply exhausted.\" (use 简直, 累死了)",
+    "prompt_ja": "「本当に疲れて死にそうです」と「简直」で言う",
+    "answer": "我简直累死了",
+    "answerPinyin": "wǒ jiǎn zhí lèi sǐ le",
+    "why": "简直 + extreme expression.",
+    "why_ja": "「简直＋極端な表現」です。"
+   }
+  ]
+ },
+ {
+  "id": "gram:hsk4:duiyu-guanyu",
+  "level": "hsk4",
+  "unit": 23,
+  "order": 2354,
+  "title": "对于 / 关于: regarding",
+  "title_ja": "对于／关于：…に対して／…について",
+  "pattern": "对于 + N，S + V　|　关于 + N，S + V　|　关于 + N + 的 + N",
+  "summary": "Pointing at the target or topic of a statement",
+  "summary_ja": "対象や話題を示す",
+  "explanation": "对于 marks the target of an attitude or judgement: 对于这个问题，我没有意见. 关于 marks the topic something is about: 关于明天的会议，我有几个问题. Both phrases usually open the sentence. Only 关于 can modify a noun with 的: 关于中国历史的书. 对于…来说 (\"as far as … is concerned\") is a common frame: 对于孩子来说，玩儿很重要.",
+  "explanation_ja": "「对于」は態度や判断の対象を示します（对于这个问题，我没有意见）。「关于」は何についての話かという話題を示します（关于明天的会议，我有几个问题）。どちらの句もふつう文頭に置きます。「的」を付けて名詞を修飾できるのは「关于」だけです（关于中国历史的书）。「对于…来说」（…にとって）はよく使う枠です（对于孩子来说，玩儿很重要）。",
+  "examples": [
+   {
+    "zh": "对于这个问题，我没有意见。",
+    "pinyin": "duì yú zhè ge wèn tí, wǒ méi yǒu yì jiàn.",
+    "en": "Regarding this question, I have no objection.",
+    "ja": "この問題について、私に意見はありません。"
+   },
+   {
+    "zh": "关于明天的会议，我有几个问题。",
+    "pinyin": "guān yú míng tiān de huì yì, wǒ yǒu jǐ ge wèn tí.",
+    "en": "About tomorrow's meeting, I have a few questions.",
+    "ja": "明日の会議について、いくつか質問があります。"
+   },
+   {
+    "zh": "对于孩子来说，玩儿很重要。",
+    "pinyin": "duì yú hái zi lái shuō, wánr hěn zhòng yào.",
+    "en": "For children, play is very important.",
+    "ja": "子どもにとって、遊びはとても大切です。"
+   },
+   {
+    "zh": "他读了很多关于中国历史的书。",
+    "pinyin": "tā dú le hěn duō guān yú zhōng guó lì shǐ de shū.",
+    "en": "He has read many books about Chinese history.",
+    "ja": "彼は中国の歴史に関する本をたくさん読みました。"
+   }
+  ],
+  "mistakes": [
+   "Using 对于 to modify a noun: 对于历史的书 should be 关于历史的书.",
+   "Putting 对于 after the verb like English \"about\"."
+  ],
+  "mistakes_ja": [
+   "名詞の修飾に「对于」は使えません。「关于历史的书」です。",
+   "英語の about のように動詞の後に「对于」を置くことはできません。"
+  ],
+  "exercises": [
+   {
+    "type": "fill",
+    "prompt": "这是一本＿北京的书。",
+    "answer": "关于",
+    "choices": [
+     "关于",
+     "对于",
+     "由于"
+    ],
+    "why": "Only 关于 + 的 can modify a noun.",
+    "why_ja": "名詞を修飾できるのは「关于＋的」だけです。"
+   },
+   {
+    "type": "choose",
+    "prompt": "Which sentence is correct?",
+    "prompt_ja": "正しい文はどれですか",
+    "answer": "对于老人来说，健康最重要。",
+    "choices": [
+     "对于老人来说，健康最重要。",
+     "关于老人来说，健康最重要。",
+     "老人对于来说，健康最重要。"
+    ],
+    "why": "The frame is 对于…来说.",
+    "why_ja": "枠は「对于…来说」です。"
+   },
+   {
+    "type": "produce",
+    "prompt": "Say: \"Regarding this matter, I agree.\" (use 对于)",
+    "prompt_ja": "「このことについて、私は賛成です」と「对于」で言う",
+    "answer": "对于这件事我同意",
+    "answerPinyin": "duì yú zhè jiàn shì wǒ tóng yì",
+    "why": "对于 + target, then the attitude.",
+    "why_ja": "「对于＋対象」の後に態度です。"
+   }
+  ]
+ },
+ {
+  "id": "gram:hsk4:yi-wei",
+  "level": "hsk4",
+  "unit": 23,
+  "order": 2355,
+  "title": "以…为: take … as",
+  "title_ja": "以…为：…を…とする",
+  "pattern": "S + 以 + A + 为 + B",
+  "summary": "A formal way to say \"regard A as B\"",
+  "summary_ja": "「AをBとみなす」の改まった言い方",
+  "explanation": "以 A 为 B is a written pattern meaning \"take A as B, regard A as B\": 他以老师为目标 (he takes his teacher as his goal). B is often a role or standard: 中心, 主, 目标, 例. Fixed phrases include 以…为主 (\"mainly\"), 以…为中心 (\"centred on\") and 以…为例 (\"taking … as an example\"). It is formal; in speech 把 A 当作 B is more common.",
+  "explanation_ja": "「以A为B」は「AをBとする・AをBとみなす」という書き言葉の型です（他以老师为目标：先生を目標にする）。Bは役割や基準であることが多く、「中心・主・目标・例」などが入ります。「以…为主」（…を主とする）、「以…为中心」（…を中心とする）、「以…为例」（…を例にとる）は決まった言い方です。改まった表現で、会話では「把A当作B」が一般的です。",
+  "examples": [
+   {
+    "zh": "他以老师为自己的目标。",
+    "pinyin": "tā yǐ lǎo shī wéi zì jǐ de mù biāo.",
+    "en": "He takes his teacher as his own goal.",
+    "ja": "彼は先生を自分の目標にしています。"
+   },
+   {
+    "zh": "这家公司以服务为主。",
+    "pinyin": "zhè jiā gōng sī yǐ fú wù wéi zhǔ.",
+    "en": "This company focuses mainly on service.",
+    "ja": "この会社はサービスを主としています。"
+   },
+   {
+    "zh": "我们以北京为中心进行调查。",
+    "pinyin": "wǒ men yǐ běi jīng wéi zhōng xīn jìn xíng diào chá.",
+    "en": "We carry out the survey centred on Beijing.",
+    "ja": "私たちは北京を中心に調査を行います。"
+   }
+  ],
+  "mistakes": [
+   "Reading 为 as wèi; in this pattern it is wéi.",
+   "Using 以…为 in casual speech where 把…当作 sounds natural."
+  ],
+  "mistakes_ja": [
+   "この型の「为」は wèi ではなく wéi と読みます。",
+   "くだけた会話では「把…当作」のほうが自然です。"
+  ],
+  "exercises": [
+   {
+    "type": "fill",
+    "prompt": "这个学校以汉语教学＿主。",
+    "answer": "为",
+    "choices": [
+     "为",
+     "是",
+     "做"
+    ],
+    "why": "The pattern is 以…为主.",
+    "why_ja": "型は「以…为主」です。"
+   },
+   {
+    "type": "order",
+    "prompt": "Make: \"He takes his father as his example.\" (example = 例子)",
+    "prompt_ja": "「彼は父を手本にしている」を作る",
+    "answer": "他以父亲为例子",
+    "choices": [
+     "他",
+     "以父亲",
+     "为",
+     "例子"
+    ],
+    "why": "以 + A + 为 + B.",
+    "why_ja": "「以＋A＋为＋B」です。"
+   },
+   {
+    "type": "produce",
+    "prompt": "Say: \"This city takes tourism as its main business.\" (use 以…为主, 旅游)",
+    "prompt_ja": "「この都市は観光を主としている」と「以…为主」で言う",
+    "answer": "这个城市以旅游为主",
+    "answerPinyin": "zhè ge chéng shì yǐ lǚ yóu wéi zhǔ",
+    "why": "以旅游为主: tourism is the main thing.",
+    "why_ja": "「以旅游为主」で観光が主だと述べます。"
+   }
+  ]
+ },
+ {
+  "id": "gram:hsk4:yixiazi",
+  "level": "hsk4",
+  "unit": 24,
+  "order": 2456,
+  "title": "一下子: all at once",
+  "title_ja": "一下子：一気に・あっという間に",
+  "pattern": "S + 一下子 + (就) + V + 了",
+  "summary": "A sudden, quick change or action",
+  "summary_ja": "急で速い変化や動作",
+  "explanation": "一下子 is an adverb meaning \"in one go, all of a sudden\": 天一下子冷了. It stresses that the change or action happened quickly and completely, and is often followed by 就 and closed by 了. Do not confuse it with 一下 after a verb (看一下, \"take a look\"), which softens the action.",
+  "explanation_ja": "「一下子」は「一気に・突然」という副詞です（天一下子冷了）。変化や動作が速く完全に起こったことを強調し、「就」を伴い「了」で締めることが多いです。動詞の後の「一下」（看一下：ちょっと見る）は動作を和らげる別の表現なので混同しないでください。",
+  "examples": [
+   {
+    "zh": "天一下子冷了。",
+    "pinyin": "tiān yī xià zi lěng le.",
+    "en": "It suddenly turned cold.",
+    "ja": "急に寒くなりました。"
+   },
+   {
+    "zh": "他一下子就明白了。",
+    "pinyin": "tā yī xià zi jiù míng bai le.",
+    "en": "He understood at once.",
+    "ja": "彼は一気に理解しました。"
+   },
+   {
+    "zh": "钱一下子就花完了。",
+    "pinyin": "qián yī xià zi jiù huā wán le.",
+    "en": "The money was spent in no time.",
+    "ja": "お金はあっという間に使い切ってしまいました。"
+   }
+  ],
+  "mistakes": [
+   "Writing 一下子 after the verb: 冷了一下子 changes the meaning.",
+   "Using 一下子 for slow change; it means sudden."
+  ],
+  "mistakes_ja": [
+   "動詞の後に置く「冷了一下子」は意味が変わります。",
+   "ゆっくりした変化には使いません。「突然」の意味です。"
+  ],
+  "exercises": [
+   {
+    "type": "fill",
+    "prompt": "听到这个消息，她＿哭了起来。",
+    "answer": "一下子",
+    "choices": [
+     "一下子",
+     "一下",
+     "一点儿"
+    ],
+    "why": "A sudden burst of tears: 一下子.",
+    "why_ja": "突然泣き出したので「一下子」です。"
+   },
+   {
+    "type": "order",
+    "prompt": "Make: \"The room got quiet all at once.\"",
+    "prompt_ja": "「部屋は一気に静かになった」を作る",
+    "answer": "房间一下子安静了",
+    "choices": [
+     "房间",
+     "一下子",
+     "安静",
+     "了"
+    ],
+    "why": "Subject + 一下子 + change + 了.",
+    "why_ja": "「主語＋一下子＋変化＋了」です。"
+   },
+   {
+    "type": "produce",
+    "prompt": "Say: \"He grew up all at once.\" (use 一下子, 长大)",
+    "prompt_ja": "「彼は一気に大きくなった」と言う",
+    "answer": "他一下子长大了",
+    "answerPinyin": "tā yī xià zi zhǎng dà le",
+    "why": "一下子 before the verb of change.",
+    "why_ja": "変化の動詞の前に「一下子」です。"
+   }
+  ]
+ },
+ {
+  "id": "gram:hsk4:shaowei",
+  "level": "hsk4",
+  "unit": 25,
+  "order": 2557,
+  "title": "稍微: slightly",
+  "title_ja": "稍微：少し・やや",
+  "pattern": "稍微 + Adj + 一点儿/一些　|　稍微 + V + 一下",
+  "summary": "A small degree",
+  "summary_ja": "わずかな程度",
+  "explanation": "稍微 is an adverb meaning \"a little, slightly\". It goes before an adjective or verb and is usually completed by 一点儿, 一些 or 一下: 稍微等一下, 今天稍微有点儿冷. It softens requests and judgements. Do not use 稍微 with 很 or 非常; it belongs to small degrees only.",
+  "explanation_ja": "「稍微」は「少し・やや」という副詞です。形容詞や動詞の前に置き、ふつう「一点儿・一些・一下」で締めます（稍微等一下、今天稍微有点儿冷）。依頼や評価を和らげます。「很」「非常」とは一緒に使いません。わずかな程度にだけ使います。",
+  "examples": [
+   {
+    "zh": "请稍微等一下。",
+    "pinyin": "qǐng shāo wēi děng yī xià.",
+    "en": "Please wait a moment.",
+    "ja": "少々お待ちください。"
+   },
+   {
+    "zh": "今天稍微有点儿冷。",
+    "pinyin": "jīn tiān shāo wēi yǒu diǎnr lěng.",
+    "en": "It is slightly cold today.",
+    "ja": "今日は少し寒いです。"
+   },
+   {
+    "zh": "这个菜稍微有点儿辣。",
+    "pinyin": "zhè ge cài shāo wēi yǒu diǎnr là.",
+    "en": "This dish is a little spicy.",
+    "ja": "この料理は少し辛いです。"
+   }
+  ],
+  "mistakes": [
+   "Leaving the adjective bare: 稍微冷 needs 一点儿 or 有点儿.",
+   "Combining with 很: 稍微很冷 is contradictory."
+  ],
+  "mistakes_ja": [
+   "形容詞を裸で置く「稍微冷」は不完全で、「一点儿」「有点儿」が必要です。",
+   "「稍微很冷」は矛盾します。"
+  ],
+  "exercises": [
+   {
+    "type": "fill",
+    "prompt": "请把声音＿开大一点儿。",
+    "answer": "稍微",
+    "choices": [
+     "稍微",
+     "几乎",
+     "简直"
+    ],
+    "why": "A small adjustment uses 稍微 + verb + 一点儿.",
+    "why_ja": "わずかな調整なので「稍微＋動詞＋一点儿」です。"
+   },
+   {
+    "type": "order",
+    "prompt": "Make: \"This shirt is slightly big.\"",
+    "prompt_ja": "「このシャツは少し大きい」を作る",
+    "answer": "这件衬衫稍微有点儿大",
+    "choices": [
+     "这件衬衫",
+     "稍微",
+     "有点儿",
+     "大"
+    ],
+    "why": "Subject + 稍微 + 有点儿 + adjective.",
+    "why_ja": "「主語＋稍微＋有点儿＋形容詞」です。"
+   },
+   {
+    "type": "produce",
+    "prompt": "Say: \"Please speak a little more slowly.\" (use 稍微)",
+    "prompt_ja": "「もう少しゆっくり話してください」と「稍微」で言う",
+    "answer": "请稍微说慢一点儿",
+    "answerPinyin": "qǐng shāo wēi shuō màn yī diǎnr",
+    "why": "稍微 + verb + adjective + 一点儿.",
+    "why_ja": "「稍微＋動詞＋形容詞＋一点儿」です。"
+   }
+  ]
+ },
+ {
+  "id": "gram:hsk4:chadianr",
+  "level": "hsk4",
+  "unit": 25,
+  "order": 2558,
+  "title": "差点儿: almost (but did not)",
+  "title_ja": "差点儿：もう少しで…するところだった",
+  "pattern": "S + 差点儿 + V + 了　|　S + 差点儿没 + V",
+  "summary": "Something nearly happened",
+  "summary_ja": "危うく起こりそうだったこと",
+  "explanation": "差点儿 goes before the verb and means something came close to happening but did not: 我差点儿迟到了 (I was almost late, but was not). With unwelcome events, 差点儿 V 了 and 差点儿没 V mean the same thing: 差点儿摔倒了 = 差点儿没摔倒 (nearly fell). With welcome events the forms differ: 差点儿没赶上 means I did catch it, just barely.",
+  "explanation_ja": "「差点儿」は動詞の前に置き、もう少しで起こりそうだったが起こらなかったことを表します（我差点儿迟到了：遅刻しそうだったが、しなかった）。望ましくない出来事では「差点儿V了」と「差点儿没V」は同じ意味です（差点儿摔倒了＝差点儿没摔倒：転びそうだった）。望ましい出来事では意味が変わり、「差点儿没赶上」は「ぎりぎり間に合った」です。",
+  "examples": [
+   {
+    "zh": "我差点儿迟到了。",
+    "pinyin": "wǒ chà diǎnr chí dào le.",
+    "en": "I was almost late.",
+    "ja": "もう少しで遅刻するところでした。"
+   },
+   {
+    "zh": "他差点儿忘了带护照。",
+    "pinyin": "tā chà diǎnr wàng le dài hù zhào.",
+    "en": "He almost forgot to bring his passport.",
+    "ja": "彼は危うくパスポートを忘れるところでした。"
+   },
+   {
+    "zh": "听到这个消息，我差点儿哭了。",
+    "pinyin": "tīng dào zhè ge xiāo xi, wǒ chà diǎnr kū le.",
+    "en": "Hearing the news, I almost cried.",
+    "ja": "その知らせを聞いて、私はもう少しで泣くところでした。"
+   }
+  ],
+  "mistakes": [
+   "Thinking 差点儿迟到了 means the person was late; it means they were not.",
+   "Using 差点儿 for something that did happen; that is 几乎 or 快."
+  ],
+  "mistakes_ja": [
+   "「差点儿迟到了」は遅刻した意味ではなく、しなかった意味です。",
+   "実際に起きたことには「差点儿」は使いません。"
+  ],
+  "exercises": [
+   {
+    "type": "choose",
+    "prompt": "What does 我差点儿忘了 mean?",
+    "prompt_ja": "「我差点儿忘了」の意味はどれですか",
+    "answer": "I almost forgot, but remembered.",
+    "choices": [
+     "I almost forgot, but remembered.",
+     "I forgot completely.",
+     "I often forget."
+    ],
+    "why": "差点儿 means it nearly happened but did not.",
+    "why_ja": "「差点儿」は起こりかけたが起こらなかった意味です。"
+   },
+   {
+    "type": "fill",
+    "prompt": "我＿忘了带钱包。",
+    "answer": "差点儿",
+    "choices": [
+     "差点儿",
+     "一点儿",
+     "有点儿"
+    ],
+    "why": "Nearly forgetting is 差点儿忘了.",
+    "why_ja": "忘れかけたので「差点儿忘了」です。"
+   },
+   {
+    "type": "produce",
+    "prompt": "Say: \"I almost missed the plane.\" (use 差点儿没坐上)",
+    "prompt_ja": "「もう少しで飛行機に乗り遅れるところでした」と言う",
+    "answer": "我差点儿没坐上飞机",
+    "answerPinyin": "wǒ chà diǎnr méi zuò shàng fēi jī",
+    "why": "差点儿没 + welcome event: it happened, just barely.",
+    "why_ja": "「差点儿没＋望ましい出来事」でぎりぎり実現した意味です。"
+   }
+  ]
+ },
+ {
+  "id": "gram:hsk4:qilai",
+  "level": "hsk4",
+  "unit": 26,
+  "order": 2659,
+  "title": "起来: starting; \"seems\"",
+  "title_ja": "起来：…し始める／…してみると",
+  "pattern": "V/Adj + 起来 (+ 了)　|　看/听/吃 + 起来 + Adj",
+  "summary": "Beginning a state, or judging by a sense",
+  "summary_ja": "状態の始まり、または感覚による判断",
+  "explanation": "After a verb or adjective, 起来 marks that an action or state begins and continues: 天气热起来了, 大家笑起来了. With an object, the object goes inside: 唱起歌来. A second use is with 看, 听, 吃, 用: 看起来很好吃 means \"looks delicious\", giving an impression based on that sense. Both are very common in speech.",
+  "explanation_ja": "動詞や形容詞の後の「起来」は、動作や状態が始まって続くことを表します（天气热起来了、大家笑起来了）。目的語があれば間に入れます（唱起歌来）。もう1つの用法は「看・听・吃・用」と組み合わせたもので、「看起来很好吃」は「おいしそうに見える」という、その感覚に基づく印象を表します。どちらも会話で非常によく使います。",
+  "examples": [
+   {
+    "zh": "天气热起来了。",
+    "pinyin": "tiān qì rè qǐ lai le.",
+    "en": "The weather has started getting hot.",
+    "ja": "暑くなってきました。"
+   },
+   {
+    "zh": "大家都笑起来了。",
+    "pinyin": "dà jiā dōu xiào qǐ lai le.",
+    "en": "Everyone started laughing.",
+    "ja": "みんな笑い出しました。"
+   },
+   {
+    "zh": "这个菜看起来很好吃。",
+    "pinyin": "zhè ge cài kàn qǐ lai hěn hǎo chī.",
+    "en": "This dish looks delicious.",
+    "ja": "この料理はおいしそうに見えます。"
+   },
+   {
+    "zh": "他的计划听起来不错。",
+    "pinyin": "tā de jì huà tīng qǐ lai bù cuò.",
+    "en": "His plan sounds good.",
+    "ja": "彼の計画はよさそうに聞こえます。"
+   }
+  ],
+  "mistakes": [
+   "Putting the object after 起来: 唱起来歌 should be 唱起歌来.",
+   "Using 看起来 for \"look at\"; it means \"it seems\"."
+  ],
+  "mistakes_ja": [
+   "目的語は「起来」の後ではなく間に入れます。「唱起歌来」です。",
+   "「看起来」は「見る」ではなく「…のように見える」です。"
+  ],
+  "exercises": [
+   {
+    "type": "fill",
+    "prompt": "孩子们一下子跑＿了。",
+    "answer": "起来",
+    "choices": [
+     "起来",
+     "下去",
+     "出来"
+    ],
+    "why": "Starting to run is 跑起来.",
+    "why_ja": "走り出したので「跑起来」です。"
+   },
+   {
+    "type": "order",
+    "prompt": "Make: \"This apple looks very fresh.\"",
+    "prompt_ja": "「このリンゴはとても新鮮そうに見える」を作る",
+    "answer": "这个苹果看起来很新鲜",
+    "choices": [
+     "这个苹果",
+     "看起来",
+     "很",
+     "新鲜"
+    ],
+    "why": "看起来 + adjective gives an impression.",
+    "why_ja": "「看起来＋形容詞」で印象を述べます。"
+   },
+   {
+    "type": "produce",
+    "prompt": "Say: \"It started raining.\" (use 起来)",
+    "prompt_ja": "「雨が降り出しました」と「起来」で言う",
+    "answer": "下起雨来了",
+    "answerPinyin": "xià qǐ yǔ lái le",
+    "why": "The object 雨 goes between 起 and 来.",
+    "why_ja": "目的語の「雨」は「起」と「来」の間に入れます。"
+   }
+  ]
+ },
+ {
+  "id": "gram:hsk4:xiaqu",
+  "level": "hsk4",
+  "unit": 26,
+  "order": 2650,
+  "title": "下去: carrying on",
+  "title_ja": "下去：…し続ける",
+  "pattern": "V + 下去　|　Adj + 下去",
+  "summary": "Continuing an action or state into the future",
+  "summary_ja": "動作や状態がこの先も続く",
+  "explanation": "下去 after a verb means to continue what is already going on: 请说下去 (go on speaking). After an adjective it means the state keeps developing, usually in a bad direction: 天气再这样热下去，我受不了. Compare 起来 (begin) and 下去 (continue). 坚持下去 (\"keep at it\") is a very common encouragement.",
+  "explanation_ja": "動詞の後の「下去」は、すでに進行中のことを続ける意味です（请说下去：続けて話して）。形容詞の後では状態がさらに進むことを表し、多くは悪い方向です（天气再这样热下去，我受不了）。「起来」（始まる）と「下去」（続く）を対比しましょう。「坚持下去」（がんばり続けて）はよく使う励ましの言葉です。",
+  "examples": [
+   {
+    "zh": "请说下去。",
+    "pinyin": "qǐng shuō xià qu.",
+    "en": "Please go on.",
+    "ja": "続けて話してください。"
+   },
+   {
+    "zh": "他要在北京住下去。",
+    "pinyin": "tā yào zài běi jīng zhù xià qu.",
+    "en": "He wants to go on living in Beijing.",
+    "ja": "彼は北京に住み続けるつもりです。"
+   },
+   {
+    "zh": "天气再这样热下去，我受不了。",
+    "pinyin": "tiān qì zài zhè yàng rè xià qu, wǒ shòu bu liǎo.",
+    "en": "If it keeps getting hotter like this, I cannot bear it.",
+    "ja": "このまま暑さが続いたら、私は耐えられません。"
+   }
+  ],
+  "mistakes": [
+   "Using 下去 for an action that has not yet started; that is 起来.",
+   "Putting an object after 下去: 学下去汉语 should be 把汉语学下去 or 继续学汉语."
+  ],
+  "mistakes_ja": [
+   "まだ始まっていない動作には「起来」を使います。",
+   "「下去」の後に目的語は置けません。「把汉语学下去」か「继续学汉语」です。"
+  ],
+  "exercises": [
+   {
+    "type": "fill",
+    "prompt": "虽然很难，但是你一定要坚持＿。",
+    "answer": "下去",
+    "choices": [
+     "下去",
+     "起来",
+     "过来"
+    ],
+    "why": "Keeping on with something already begun is 坚持下去.",
+    "why_ja": "すでに始めたことを続けるので「坚持下去」です。"
+   },
+   {
+    "type": "choose",
+    "prompt": "Which sentence means \"Go on reading\"?",
+    "prompt_ja": "「読み続けなさい」はどれですか",
+    "answer": "读下去吧。",
+    "choices": [
+     "读下去吧。",
+     "读起来吧。",
+     "读出来吧。"
+    ],
+    "why": "下去 = continue; 起来 = start; 出来 = out.",
+    "why_ja": "「下去」は続ける、「起来」は始める、「出来」は外へ出すです。"
+   },
+   {
+    "type": "produce",
+    "prompt": "Say: \"We cannot go on living like this.\" (use 下去)",
+    "prompt_ja": "「私たちはこんなふうに暮らし続けることはできません」と言う",
+    "answer": "我们不能这样生活下去",
+    "answerPinyin": "wǒ men bù néng zhè yàng shēng huó xià qu",
+    "why": "Verb + 下去 after 不能.",
+    "why_ja": "「不能」の後に「動詞＋下去」です。"
+   }
+  ]
+ },
+ {
+  "id": "gram:hsk4:chulai",
+  "level": "hsk4",
+  "unit": 27,
+  "order": 2751,
+  "title": "出来: figuring out",
+  "title_ja": "出来：…してわかる・…し出す",
+  "pattern": "V + 出来　|　V + 得/不 + 出来",
+  "summary": "Perceiving or producing something from nothing",
+  "summary_ja": "認識する・作り出す",
+  "explanation": "Beyond its literal meaning \"come out\", 出来 after verbs of perception or thought means to recognise or work something out: 我没听出来是谁 (I could not tell who it was), 他想出来一个好办法 (he came up with a good idea). The potential forms 看得出来 / 看不出来 (\"can / cannot tell\") are very frequent. An object goes between 出 and 来 or after the whole phrase.",
+  "explanation_ja": "本来の「出てくる」のほか、知覚や思考の動詞の後の「出来」は「認識する・考え出す」の意味になります（我没听出来是谁：誰だかわからなかった、他想出来一个好办法：よい方法を思いついた）。可能補語の「看得出来／看不出来」（わかる／わからない）はとてもよく使います。目的語は「出」と「来」の間か、句全体の後に置きます。",
+  "examples": [
+   {
+    "zh": "我没听出来是谁。",
+    "pinyin": "wǒ méi tīng chū lai shì shéi.",
+    "en": "I could not tell who it was.",
+    "ja": "誰だか聞き分けられませんでした。"
+   },
+   {
+    "zh": "他想出来一个好办法。",
+    "pinyin": "tā xiǎng chū lai yī ge hǎo bàn fǎ.",
+    "en": "He came up with a good idea.",
+    "ja": "彼はよい方法を思いつきました。"
+   },
+   {
+    "zh": "你看得出来她多大吗？",
+    "pinyin": "nǐ kàn de chū lai tā duō dà ma?",
+    "en": "Can you tell how old she is?",
+    "ja": "彼女が何歳か見てわかりますか。"
+   }
+  ],
+  "mistakes": [
+   "Saying 不看出来; the negative potential form is 看不出来.",
+   "Using 出来 where 起来 (seems) is meant: 看起来很好 vs 看出来."
+  ],
+  "mistakes_ja": [
+   "「不看出来」ではなく「看不出来」です。",
+   "「…のように見える」は「看起来」で、「看出来」ではありません。"
+  ],
+  "exercises": [
+   {
+    "type": "fill",
+    "prompt": "这个字太小，我看不＿。",
+    "answer": "出来",
+    "choices": [
+     "出来",
+     "起来",
+     "下去"
+    ],
+    "why": "Not being able to make out the character is 看不出来.",
+    "why_ja": "字が判別できないので「看不出来」です。"
+   },
+   {
+    "type": "order",
+    "prompt": "Make: \"I recognised his voice.\"",
+    "prompt_ja": "「私は彼の声だと聞き分けた」を作る",
+    "answer": "我听出来了他的声音",
+    "choices": [
+     "我",
+     "听出来了",
+     "他的",
+     "声音"
+    ],
+    "why": "听出来 + object.",
+    "why_ja": "「听出来＋目的語」です。"
+   },
+   {
+    "type": "produce",
+    "prompt": "Ask: \"Can you work out the answer?\" (use 想得出来)",
+    "prompt_ja": "「答えを考え出せますか」と尋ねる",
+    "answer": "你想得出来答案吗",
+    "answerPinyin": "nǐ xiǎng de chū lai dá àn ma",
+    "why": "Positive potential form + object + 吗.",
+    "why_ja": "肯定の可能補語＋目的語＋吗です。"
+   }
+  ]
+ },
+ {
+  "id": "gram:hsk4:guolai-guoqu",
+  "level": "hsk4",
+  "unit": 27,
+  "order": 2752,
+  "title": "过来 / 过去: extended uses",
+  "title_ja": "过来／过去：意識が戻る・失われる など",
+  "pattern": "V + 过来 (back to normal)　|　V + 过去 (losing normal state)",
+  "summary": "Coming back to, or leaving, a normal state",
+  "summary_ja": "正常な状態に戻る／正常な状態から離れる",
+  "explanation": "Literally 过来 is \"come over\" and 过去 \"go over\": 他走过来了. Beyond that, 过来 marks a return to a normal or awake state: 醒过来 (wake up), 明白过来 (come to understand), 改过来 (correct). 过去 marks leaving the normal state: 睡过去 (fall asleep), 晕过去 (faint), 死过去. Keep the direction in mind: 过来 is towards normality, 过去 away from it.",
+  "explanation_ja": "本来「过来」は「こちらへ来る」、「过去」は「向こうへ行く」です（他走过来了）。そこから、「过来」は正常または目覚めた状態への回復を表します（醒过来：目が覚める、明白过来：理解するようになる、改过来：直す）。「过去」は正常な状態から離れることを表します（睡过去：寝入る、晕过去：気絶する）。「过来」は正常へ向かう、「过去」は正常から離れる、と覚えましょう。",
+  "examples": [
+   {
+    "zh": "他慢慢走过来了。",
+    "pinyin": "tā màn màn zǒu guò lai le.",
+    "en": "He slowly walked over.",
+    "ja": "彼はゆっくりこちらへ歩いてきました。"
+   },
+   {
+    "zh": "他终于醒过来了。",
+    "pinyin": "tā zhōng yú xǐng guò lai le.",
+    "en": "He finally came round.",
+    "ja": "彼はようやく目を覚ましました。"
+   },
+   {
+    "zh": "孩子太累，一会儿就睡过去了。",
+    "pinyin": "hái zi tài lèi, yī huìr jiù shuì guò qu le.",
+    "en": "The child was so tired that he fell asleep in no time.",
+    "ja": "子どもは疲れすぎて、すぐに寝入ってしまいました。"
+   },
+   {
+    "zh": "她现在明白过来了。",
+    "pinyin": "tā xiàn zài míng bai guò lai le.",
+    "en": "She has now come to understand.",
+    "ja": "彼女は今になってわかってきました。"
+   }
+  ],
+  "mistakes": [
+   "Saying 醒过去 for \"wake up\"; waking is a return, so 醒过来.",
+   "Using 睡过来 for \"fall asleep\"; losing awareness is 睡过去."
+  ],
+  "mistakes_ja": [
+   "「目が覚める」は戻る方向なので「醒过来」です。「醒过去」ではありません。",
+   "「寝入る」は意識を失う方向なので「睡过去」です。"
+  ],
+  "exercises": [
+   {
+    "type": "fill",
+    "prompt": "病人终于醒＿了。",
+    "answer": "过来",
+    "choices": [
+     "过来",
+     "过去",
+     "起来"
+    ],
+    "why": "Waking is a return to the normal state: 醒过来.",
+    "why_ja": "目覚めは正常な状態への回復なので「醒过来」です。"
+   },
+   {
+    "type": "choose",
+    "prompt": "Which sentence means \"He fell asleep\"?",
+    "prompt_ja": "「彼は寝入った」はどれですか",
+    "answer": "他睡过去了。",
+    "choices": [
+     "他睡过去了。",
+     "他睡过来了。",
+     "他睡起来了。"
+    ],
+    "why": "Losing awareness is 过去.",
+    "why_ja": "意識が離れていくのは「过去」です。"
+   },
+   {
+    "type": "produce",
+    "prompt": "Say: \"Please come over here.\" (use 过来)",
+    "prompt_ja": "「こちらへ来てください」と「过来」で言う",
+    "answer": "请你过来",
+    "answerPinyin": "qǐng nǐ guò lai",
+    "why": "The literal direction \"come over\".",
+    "why_ja": "本来の「こちらへ来る」の意味です。"
+   }
+  ]
+ },
+ {
+  "id": "gram:hsk4:le-vs-guo",
+  "level": "hsk4",
+  "unit": 28,
+  "order": 2853,
+  "title": "了 vs 过 (review)",
+  "title_ja": "了と过の違い（復習）",
+  "pattern": "V + 了 + O (completed)　|　V + 过 + O (experienced)",
+  "summary": "A completed action vs a past experience",
+  "summary_ja": "完了した動作と過去の経験",
+  "explanation": "V 了 says an action was completed at a particular time: 我昨天看了这个电影. V 过 says the subject has had the experience at some time in the past, with no particular occasion in mind: 我看过这个电影. The negatives differ: 没看 (did not watch) vs 没看过 (have never watched). 了 cannot be used with 没; 过 can.",
+  "explanation_ja": "「V了」は特定の時点で動作が完了したことを表します（我昨天看了这个电影）。「V过」は過去のいつかにその経験があることを表し、特定の時点は念頭にありません（我看过这个电影）。否定形も異なります。「没看」（見なかった）と「没看过」（見たことがない）です。「了」は「没」と一緒に使えませんが、「过」は使えます。",
+  "examples": [
+   {
+    "zh": "我去过中国。",
+    "pinyin": "wǒ qù guo zhōng guó.",
+    "en": "I have been to China.",
+    "ja": "私は中国に行ったことがあります。"
+   },
+   {
+    "zh": "我去年去了中国。",
+    "pinyin": "wǒ qù nián qù le zhōng guó.",
+    "en": "I went to China last year.",
+    "ja": "私は去年中国に行きました。"
+   },
+   {
+    "zh": "他没看过这个电影。",
+    "pinyin": "tā méi kàn guo zhè ge diàn yǐng.",
+    "en": "He has never seen this film.",
+    "ja": "彼はこの映画を見たことがありません。"
+   },
+   {
+    "zh": "他昨天没看电影。",
+    "pinyin": "tā zuó tiān méi kàn diàn yǐng.",
+    "en": "He did not watch a film yesterday.",
+    "ja": "彼は昨日映画を見ませんでした。"
+   }
+  ],
+  "mistakes": [
+   "Saying 没看了; after 没 the 了 disappears.",
+   "Using 过 with a time like 昨天 for a single event; use 了."
+  ],
+  "mistakes_ja": [
+   "「没看了」とは言いません。「没」の後では「了」が消えます。",
+   "「昨天」のような特定の時点の出来事には「过」ではなく「了」です。"
+  ],
+  "exercises": [
+   {
+    "type": "fill",
+    "prompt": "我从来没吃＿这种菜。",
+    "answer": "过",
+    "choices": [
+     "过",
+     "了",
+     "着"
+    ],
+    "why": "A lifetime experience, negated with 没, takes 过.",
+    "why_ja": "「没」で否定した経験なので「过」です。"
+   },
+   {
+    "type": "choose",
+    "prompt": "Which sentence means \"I went to the hospital this morning\"?",
+    "prompt_ja": "「今朝病院に行きました」はどれですか",
+    "answer": "我今天早上去了医院。",
+    "choices": [
+     "我今天早上去了医院。",
+     "我今天早上去过医院。",
+     "我今天早上没去了医院。"
+    ],
+    "why": "A single completed event at a stated time takes 了.",
+    "why_ja": "特定の時点で完了した1回の出来事には「了」です。"
+   },
+   {
+    "type": "produce",
+    "prompt": "Ask: \"Have you ever eaten Chinese food?\"",
+    "prompt_ja": "「中国料理を食べたことがありますか」と尋ねる",
+    "answer": "你吃过中国菜吗",
+    "answerPinyin": "nǐ chī guo zhōng guó cài ma",
+    "why": "Experience: V + 过 + O + 吗.",
+    "why_ja": "経験なので「V＋过＋O＋吗」です。"
+   }
+  ]
+ },
+ {
+  "id": "gram:hsk4:zhe-review",
+  "level": "hsk4",
+  "unit": 28,
+  "order": 2854,
+  "title": "着: ongoing states (review)",
+  "title_ja": "着：状態の持続（復習）",
+  "pattern": "V + 着 (+ O)　|　V1 + 着 + V2",
+  "summary": "A state that continues, or the manner of an action",
+  "summary_ja": "持続する状態、または動作の様子",
+  "explanation": "V 着 shows that a state is continuing: 门开着 (the door is open), 墙上挂着一张照片 (a photo hangs on the wall). In V1 着 V2, the first verb describes the manner of the second: 他笑着说 (he said with a smile), 坐着看书. The negative is 没 + V + 着. 着 describes a state, not an action in progress; \"is doing\" is 在/正在 + V.",
+  "explanation_ja": "「V着」は状態が続いていることを表します（门开着：ドアが開いている、墙上挂着一张照片：壁に写真が掛かっている）。「V1着V2」では最初の動詞が2つ目の動詞の様子を描きます（他笑着说：笑いながら言う、坐着看书）。否定は「没＋V＋着」です。「着」は状態を表すもので、進行中の動作は「在／正在＋V」です。",
+  "examples": [
+   {
+    "zh": "门开着。",
+    "pinyin": "mén kāi zhe.",
+    "en": "The door is open.",
+    "ja": "ドアが開いています。"
+   },
+   {
+    "zh": "墙上挂着一张照片。",
+    "pinyin": "qiáng shàng guà zhe yī zhāng zhào piàn.",
+    "en": "A photo is hanging on the wall.",
+    "ja": "壁に写真が1枚掛かっています。"
+   },
+   {
+    "zh": "他笑着说：\"没关系。\"",
+    "pinyin": "tā xiào zhe shuō: \"méi guān xi.\"",
+    "en": "He said with a smile, \"It doesn't matter.\"",
+    "ja": "彼は笑いながら「大丈夫」と言いました。"
+   },
+   {
+    "zh": "她喜欢躺着看书。",
+    "pinyin": "tā xǐ huan tǎng zhe kàn shū.",
+    "en": "She likes reading lying down.",
+    "ja": "彼女は寝転がって本を読むのが好きです。"
+   }
+  ],
+  "mistakes": [
+   "Using 着 for an action in progress: 我吃着饭 alone sounds unfinished; say 我在吃饭.",
+   "Putting 着 after the second verb in V1 着 V2: 笑说着 is wrong."
+  ],
+  "mistakes_ja": [
+   "進行中の動作に「着」だけを使う「我吃着饭」は不自然で、「我在吃饭」と言います。",
+   "「V1着V2」で「着」を2つ目の動詞に付ける「笑说着」は誤りです。"
+  ],
+  "exercises": [
+   {
+    "type": "fill",
+    "prompt": "桌子上放＿一本书。",
+    "answer": "着",
+    "choices": [
+     "着",
+     "了",
+     "过"
+    ],
+    "why": "A continuing state (a book lying there) takes 着.",
+    "why_ja": "本がそこにあるという持続する状態なので「着」です。"
+   },
+   {
+    "type": "order",
+    "prompt": "Make: \"He listens to music standing up.\"",
+    "prompt_ja": "「彼は立ったまま音楽を聞く」を作る",
+    "answer": "他站着听音乐",
+    "choices": [
+     "他",
+     "站着",
+     "听",
+     "音乐"
+    ],
+    "why": "V1 着 (manner) + V2.",
+    "why_ja": "「V1着（様子）＋V2」です。"
+   },
+   {
+    "type": "produce",
+    "prompt": "Say: \"The window is open.\" (use 着)",
+    "prompt_ja": "「窓が開いています」と「着」で言う",
+    "answer": "窗户开着",
+    "answerPinyin": "chuāng hu kāi zhe",
+    "why": "Subject + verb + 着 for a state.",
+    "why_ja": "状態は「主語＋動詞＋着」です。"
+   }
+  ]
+ },
+ {
+  "id": "gram:hsk4:dongci-chongdie",
+  "level": "hsk4",
+  "unit": 29,
+  "order": 2955,
+  "title": "Verb reduplication: 看看, 休息休息",
+  "title_ja": "動詞の重ね型：看看・休息休息",
+  "pattern": "V + V　|　V 一 V　|　V 了 V　|　AB + AB",
+  "summary": "Doing something briefly or casually",
+  "summary_ja": "軽く・ちょっと…する",
+  "explanation": "Repeating a verb makes the action brief, casual or tentative, and softens requests: 让我看看, 你尝尝. One-syllable verbs can take 一 in between (看一看) or 了 for the past (他想了想). Two-syllable verbs repeat as a whole: 休息休息, 讨论讨论, never 休休息息. Reduplication is not used with 着, 过 or a duration phrase.",
+  "explanation_ja": "動詞を重ねると、動作が短く・気軽に・試しにという感じになり、依頼も柔らかくなります（让我看看、你尝尝）。1音節の動詞は間に「一」を入れたり（看一看）、過去には「了」を入れたりできます（他想了想）。2音節の動詞は全体を繰り返します（休息休息、讨论讨论）。「休休息息」は誤りです。重ね型は「着」「过」や時間の長さの表現とは一緒に使いません。",
+  "examples": [
+   {
+    "zh": "让我看看。",
+    "pinyin": "ràng wǒ kàn kan.",
+    "en": "Let me have a look.",
+    "ja": "ちょっと見せてください。"
+   },
+   {
+    "zh": "我们休息休息吧。",
+    "pinyin": "wǒ men xiū xi xiū xi ba.",
+    "en": "Let's take a little rest.",
+    "ja": "ちょっと休みましょう。"
+   },
+   {
+    "zh": "你尝尝这个菜。",
+    "pinyin": "nǐ cháng chang zhè ge cài.",
+    "en": "Try a bite of this dish.",
+    "ja": "この料理をちょっと味見してみてください。"
+   },
+   {
+    "zh": "他想了想，说：\"好吧。\"",
+    "pinyin": "tā xiǎng le xiǎng, shuō: \"hǎo ba.\"",
+    "en": "He thought for a moment and said, \"All right.\"",
+    "ja": "彼は少し考えて「いいよ」と言いました。"
+   }
+  ],
+  "mistakes": [
+   "Splitting a two-syllable verb: 休休息息 is wrong.",
+   "Adding a duration: 看看一个小时 is impossible."
+  ],
+  "mistakes_ja": [
+   "2音節動詞を分けて重ねる「休休息息」は誤りです。",
+   "時間の長さを付ける「看看一个小时」はできません。"
+  ],
+  "exercises": [
+   {
+    "type": "choose",
+    "prompt": "Which is the correct reduplicated form of 介绍?",
+    "prompt_ja": "「介绍」の正しい重ね型はどれですか",
+    "answer": "介绍介绍",
+    "choices": [
+     "介绍介绍",
+     "介介绍绍",
+     "介绍绍"
+    ],
+    "why": "Two-syllable verbs repeat as a whole: ABAB.",
+    "why_ja": "2音節動詞はABABの形で全体を繰り返します。"
+   },
+   {
+    "type": "fill",
+    "prompt": "这个问题我们再＿吧。",
+    "answer": "讨论讨论",
+    "choices": [
+     "讨论讨论",
+     "讨讨论论",
+     "讨论着"
+    ],
+    "why": "ABAB reduplication softens the suggestion.",
+    "why_ja": "ABAB型の重ね型で提案が柔らかくなります。"
+   },
+   {
+    "type": "produce",
+    "prompt": "Say: \"Let me think about it.\" (use 想想)",
+    "prompt_ja": "「ちょっと考えさせてください」と「想想」で言う",
+    "answer": "让我想想",
+    "answerPinyin": "ràng wǒ xiǎng xiang",
+    "why": "让我 + reduplicated verb.",
+    "why_ja": "「让我＋重ね型の動詞」です。"
+   }
+  ]
+ },
+ {
+  "id": "gram:hsk4:xingrongci-chongdie",
+  "level": "hsk4",
+  "unit": 30,
+  "order": 3056,
+  "title": "Adjective reduplication: 高高兴兴",
+  "title_ja": "形容詞の重ね型：高高兴兴",
+  "pattern": "AA 的 + N　|　AABB 地 + V　|　S + AABB 的",
+  "summary": "Vivid, lively description",
+  "summary_ja": "生き生きとした描写",
+  "explanation": "Repeating an adjective makes the description vivid and often warm: 高高兴兴 (happily), 干干净净 (spotless). One-syllable adjectives double as AA (大大的眼睛, 早早地起床); two-syllable ones as AABB (高高兴兴, 清清楚楚). Before a verb add 地, before a noun add 的, and at the end of a sentence add 的. A reduplicated adjective never takes 很 or 非常.",
+  "explanation_ja": "形容詞を重ねると描写が生き生きし、温かみも出ます（高高兴兴：楽しそうに、干干净净：ぴかぴかに）。1音節の形容詞はAA型（大大的眼睛、早早地起床）、2音節はAABB型（高高兴兴、清清楚楚）です。動詞の前では「地」、名詞の前では「的」、文末でも「的」を付けます。重ね型の形容詞には「很」「非常」を付けません。",
+  "examples": [
+   {
+    "zh": "她高高兴兴地回家了。",
+    "pinyin": "tā gāo gāo xìng xìng de huí jiā le.",
+    "en": "She went home happily.",
+    "ja": "彼女はうれしそうに家に帰りました。"
+   },
+   {
+    "zh": "房间干干净净的。",
+    "pinyin": "fáng jiān gān gān jìng jìng de.",
+    "en": "The room is spotless.",
+    "ja": "部屋はきれいに片づいています。"
+   },
+   {
+    "zh": "他每天早早地起床。",
+    "pinyin": "tā měi tiān zǎo zǎo de qǐ chuáng.",
+    "en": "He gets up nice and early every day.",
+    "ja": "彼は毎日早めに起きます。"
+   },
+   {
+    "zh": "孩子有一双大大的眼睛。",
+    "pinyin": "hái zi yǒu yī shuāng dà dà de yǎn jing.",
+    "en": "The child has big, big eyes.",
+    "ja": "その子は大きな目をしています。"
+   }
+  ],
+  "mistakes": [
+   "Adding 很: 很高高兴兴 is wrong.",
+   "Using ABAB for adjectives: 高兴高兴 is a verb-like use (\"cheer up\"), not a description."
+  ],
+  "mistakes_ja": [
+   "「很高高兴兴」のように「很」は付けません。",
+   "形容詞にABAB型（高兴高兴）を使うと「楽しむ」という動詞的な意味になり、描写にはなりません。"
+  ],
+  "exercises": [
+   {
+    "type": "choose",
+    "prompt": "Which is the correct reduplicated form of 清楚?",
+    "prompt_ja": "「清楚」の正しい重ね型はどれですか",
+    "answer": "清清楚楚",
+    "choices": [
+     "清清楚楚",
+     "清楚清楚",
+     "清楚楚"
+    ],
+    "why": "Two-syllable adjectives use AABB.",
+    "why_ja": "2音節の形容詞はAABB型です。"
+   },
+   {
+    "type": "fill",
+    "prompt": "他把房间打扫得＿的。",
+    "answer": "干干净净",
+    "choices": [
+     "干干净净",
+     "很干净净",
+     "干净干净"
+    ],
+    "why": "AABB + 的 describes the result vividly.",
+    "why_ja": "AABB＋的で結果を生き生きと描写します。"
+   },
+   {
+    "type": "produce",
+    "prompt": "Say: \"They happily went to the park.\" (use 高高兴兴地)",
+    "prompt_ja": "「彼らは楽しそうに公園へ行きました」と言う",
+    "answer": "他们高高兴兴地去公园了",
+    "answerPinyin": "tā men gāo gāo xìng xìng de qù gōng yuán le",
+    "why": "AABB + 地 before the verb.",
+    "why_ja": "動詞の前に「AABB＋地」です。"
+   }
+  ]
+ },
+ {
+  "id": "gram:hsk4:liangci-review",
+  "level": "hsk4",
+  "unit": 31,
+  "order": 3157,
+  "title": "Measure words: 份, 篇, 座, 台, 棵, 对",
+  "title_ja": "量詞の復習：份・篇・座・台・棵・对",
+  "pattern": "number + MW + N",
+  "summary": "Six HSK 4 measure words",
+  "summary_ja": "HSK 4 の量詞6つ",
+  "explanation": "Each noun takes its own measure word. 份 is for portions and documents (一份报纸, 一份工作); 篇 for written pieces (一篇文章); 座 for large fixed things (一座山, 一座桥); 台 for machines (一台电脑); 棵 for trees and plants (一棵树); 对 for pairs that belong together (一对夫妻, 一对耳朵). When unsure, 个 is understood, but the right measure word sounds much more natural.",
+  "explanation_ja": "名詞にはそれぞれ決まった量詞があります。「份」は一人前や書類（一份报纸、一份工作）、「篇」は文章（一篇文章）、「座」は大きく固定されたもの（一座山、一座桥）、「台」は機械（一台电脑）、「棵」は木や植物（一棵树）、「对」は対になるもの（一对夫妻、一对耳朵）に使います。迷ったら「个」でも通じますが、正しい量詞のほうがずっと自然です。",
+  "examples": [
+   {
+    "zh": "我买了一份报纸。",
+    "pinyin": "wǒ mǎi le yī fèn bào zhǐ.",
+    "en": "I bought a newspaper.",
+    "ja": "私は新聞を1部買いました。"
+   },
+   {
+    "zh": "她写了一篇文章。",
+    "pinyin": "tā xiě le yī piān wén zhāng.",
+    "en": "She wrote an article.",
+    "ja": "彼女は文章を1本書きました。"
+   },
+   {
+    "zh": "公司买了三台新电脑。",
+    "pinyin": "gōng sī mǎi le sān tái xīn diàn nǎo.",
+    "en": "The company bought three new computers.",
+    "ja": "会社は新しいパソコンを3台買いました。"
+   },
+   {
+    "zh": "门口有两棵大树和一座桥。",
+    "pinyin": "mén kǒu yǒu liǎng kē dà shù hé yī zuò qiáo.",
+    "en": "By the gate are two big trees and a bridge.",
+    "ja": "入口には大きな木が2本と橋が1つあります。"
+   }
+  ],
+  "mistakes": [
+   "Using 个 for trees or machines: 一个树, 一个电脑 sound childish.",
+   "Using 双 for a married couple; 双 is for shoes and socks, 对 for people and matching things."
+  ],
+  "mistakes_ja": [
+   "木や機械に「个」を使う「一个树」「一个电脑」は幼く聞こえます。",
+   "夫婦に「双」は使いません。「双」は靴や靴下、「对」は人や対になるものです。"
+  ],
+  "exercises": [
+   {
+    "type": "fill",
+    "prompt": "山上有一＿很老的树。",
+    "answer": "棵",
+    "choices": [
+     "棵",
+     "座",
+     "台"
+    ],
+    "why": "Trees take 棵.",
+    "why_ja": "木には「棵」です。"
+   },
+   {
+    "type": "fill",
+    "prompt": "老师让我们写一＿文章。",
+    "answer": "篇",
+    "choices": [
+     "篇",
+     "份",
+     "张"
+    ],
+    "why": "Written pieces take 篇.",
+    "why_ja": "文章には「篇」です。"
+   },
+   {
+    "type": "choose",
+    "prompt": "Which phrase is correct?",
+    "prompt_ja": "正しい言い方はどれですか",
+    "answer": "一对夫妻",
+    "choices": [
+     "一对夫妻",
+     "一双夫妻",
+     "一台夫妻"
+    ],
+    "why": "A couple is 一对.",
+    "why_ja": "夫婦は「一对」です。"
+   },
+   {
+    "type": "produce",
+    "prompt": "Say: \"There is a mountain behind the school.\" (use 座)",
+    "prompt_ja": "「学校の後ろに山が1つあります」と「座」で言う",
+    "answer": "学校后面有一座山",
+    "answerPinyin": "xué xiào hòu miàn yǒu yī zuò shān",
+    "why": "Large fixed things take 座.",
+    "why_ja": "大きく固定されたものには「座」です。"
+   }
+  ]
+ }
+]

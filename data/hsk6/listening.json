@@ -1,1 +1,355 @@
-[]
+[
+ {
+  "id": "listen:hsk6:001",
+  "level": "hsk6",
+  "unit": 10,
+  "order": 1095,
+  "type": "dictation",
+  "title": "Dictation: formal statements",
+  "title_ja": "書き取り：改まった表現",
+  "items": [
+   {
+    "text": "这并非我的本意。",
+    "pinyin": "zhè bìng fēi wǒ de běn yì.",
+    "en": "This is not my intention at all.",
+    "ja": "これは決して私の本意ではありません。"
+   },
+   {
+    "text": "公司决定给予他一定的奖励。",
+    "pinyin": "gōng sī jué dìng jǐ yǔ tā yī dìng de jiǎng lì.",
+    "en": "The company decided to grant him a certain reward.",
+    "ja": "会社は彼に一定の報酬を与えることにしました。"
+   },
+   {
+    "text": "这座城市位于中国的南部。",
+    "pinyin": "zhè zuò chéng shì wèi yú zhōng guó de nán bù.",
+    "en": "This city is located in the south of China.",
+    "ja": "この都市は中国の南部に位置しています。"
+   },
+   {
+    "text": "即便遇到困难，我们也不会放弃。",
+    "pinyin": "jí biàn yù dào kùn nan, wǒ men yě bù huì fàng qì.",
+    "en": "Even if we meet difficulties, we will not give up.",
+    "ja": "たとえ困難にあっても、私たちはあきらめません。"
+   },
+   {
+    "text": "与其在家等消息，不如自己去问问。",
+    "pinyin": "yǔ qí zài jiā děng xiāo xi, bù rú zì jǐ qù wèn wèn.",
+    "en": "Rather than waiting at home for news, better go and ask yourself.",
+    "ja": "家で知らせを待つより、自分で聞きに行くほうがいいです。"
+   }
+  ]
+ },
+ {
+  "id": "listen:hsk6:002",
+  "level": "hsk6",
+  "unit": 18,
+  "order": 1895,
+  "type": "comprehension",
+  "title": "Listening: a company announcement",
+  "title_ja": "聞き取り：社内のお知らせ",
+  "items": [
+   {
+    "text": "各位同事，鉴于近期网络故障频繁，公司决定本周五下午对系统进行全面检查。检查期间，所有人将无法登录办公系统，请大家提前保存文件，以免丢失资料。如有紧急工作，请与技术部联系。",
+    "pinyin": "gè wèi tóng shì, jiàn yú jìn qī wǎng luò gù zhàng pín fán, gōng sī jué dìng běn zhōu wǔ xià wǔ duì xì tǒng jìn xíng quán miàn jiǎn chá. jiǎn chá qī jiān, suǒ yǒu rén jiāng wú fǎ dēng lù bàn gōng xì tǒng, qǐng dà jiā tí qián bǎo cún wén jiàn, yǐ miǎn diū shī zī liào. rú yǒu jǐn jí gōng zuò, qǐng yǔ jì shù bù lián xì.",
+    "en": "Colleagues, in view of the frequent network failures recently, the company has decided to carry out a full system check this Friday afternoon. During the check nobody will be able to log in to the office system, so please save your files in advance to avoid losing data. For urgent work, please contact the technical department.",
+    "ja": "皆さん、最近ネットワークの障害が頻発していることに鑑み、会社は今週金曜日の午後にシステムの全面点検を行うことにしました。点検中は全員がオフィスシステムにログインできなくなりますので、資料を失わないよう事前にファイルを保存してください。緊急の仕事がある場合は技術部にご連絡ください。",
+    "questions": [
+     {
+      "q": "公司为什么要检查系统？",
+      "choices": [
+       "网络故障频繁",
+       "要换新电脑",
+       "有人丢了资料"
+      ],
+      "answer": 0,
+      "why": "The announcement cites frequent network failures.",
+      "why_ja": "ネットワーク障害が頻発していることが理由として挙げられています。"
+     },
+     {
+      "q": "检查在什么时候进行？",
+      "choices": [
+       "周五上午",
+       "周五下午",
+       "周末"
+      ],
+      "answer": 1,
+      "why": "The check is this Friday afternoon.",
+      "why_ja": "点検は今週金曜日の午後です。"
+     }
+    ]
+   },
+   {
+    "text": "另外，下个月公司将举行成立十周年的隆重仪式，欢迎大家带家属参加。为了妥善安排座位，请在本月二十号之前把人数告诉行政部。",
+    "pinyin": "lìng wài, xià ge yuè gōng sī jiāng jǔ xíng chéng lì shí zhōu nián de lóng zhòng yí shì, huān yíng dà jiā dài jiā shǔ cān jiā. wèi le tuǒ shàn ān pái zuò wèi, qǐng zài běn yuè èr shí hào zhī qián bǎ rén shù gào su xíng zhèng bù.",
+    "en": "In addition, next month the company will hold a grand ceremony for its tenth anniversary; everyone is welcome to bring family. To arrange seating properly, please tell the administration department your numbers before the twentieth of this month.",
+    "ja": "また、来月、会社は創立十周年の盛大な式典を開きます。ご家族を連れての参加を歓迎します。座席を適切に手配するため、今月二十日までに人数を総務部にお知らせください。",
+    "questions": [
+     {
+      "q": "下个月的仪式是为了什么？",
+      "choices": [
+       "庆祝新年",
+       "公司成立十周年",
+       "欢迎新员工"
+      ],
+      "answer": 1,
+      "why": "It is a ceremony for the company's tenth anniversary.",
+      "why_ja": "会社創立十周年の式典です。"
+     },
+     {
+      "q": "参加的人需要做什么？",
+      "choices": [
+       "二十号前告诉行政部人数",
+       "自己准备座位",
+       "交报名费"
+      ],
+      "answer": 0,
+      "why": "People should report their numbers to the administration department before the twentieth.",
+      "why_ja": "二十日までに人数を総務部に伝える必要があります。"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "listen:hsk6:003",
+  "level": "hsk6",
+  "unit": 30,
+  "order": 3095,
+  "type": "dictation",
+  "title": "Dictation: written-register links",
+  "title_ja": "書き取り：書き言葉のつなぎ",
+  "items": [
+   {
+    "text": "请提前出发，以免错过航班。",
+    "pinyin": "qǐng tí qián chū fā, yǐ miǎn cuò guò háng bān.",
+    "en": "Please leave early so as not to miss the flight.",
+    "ja": "フライトに乗り遅れないよう、早めに出発してください。"
+   },
+   {
+    "text": "不论结果如何，我们都尽力了。",
+    "pinyin": "bù lùn jié guǒ rú hé, wǒ men dōu jìn lì le.",
+    "en": "Whatever the result, we did our best.",
+    "ja": "結果がどうであれ、私たちは全力を尽くしました。"
+   },
+   {
+    "text": "看到老照片，她不禁流下了眼泪。",
+    "pinyin": "kàn dào lǎo zhào piàn, tā bù jīn liú xià le yǎn lèi.",
+    "en": "Seeing the old photos, she could not help shedding tears.",
+    "ja": "古い写真を見て、彼女は思わず涙を流しました。"
+   },
+   {
+    "text": "对此，我们深表遗憾。",
+    "pinyin": "duì cǐ, wǒ men shēn biǎo yí hàn.",
+    "en": "We deeply regret this.",
+    "ja": "この件について、私たちは深く遺憾に思います。"
+   },
+   {
+    "text": "第一次上台，紧张是难免的。",
+    "pinyin": "dì yī cì shàng tái, jǐn zhāng shì nán miǎn de.",
+    "en": "Being nervous the first time on stage is unavoidable.",
+    "ja": "初めて舞台に立つのですから、緊張するのは仕方ありません。"
+   },
+   {
+    "text": "他每天不是加班，便是出差。",
+    "pinyin": "tā měi tiān bù shì jiā bān, biàn shì chū chāi.",
+    "en": "Every day he is either working overtime or on a business trip.",
+    "ja": "彼は毎日残業か出張のどちらかです。"
+   }
+  ]
+ },
+ {
+  "id": "listen:hsk6:004",
+  "level": "hsk6",
+  "unit": 38,
+  "order": 3895,
+  "type": "comprehension",
+  "title": "Listening: a radio commentary",
+  "title_ja": "聞き取り：ラジオの論評",
+  "items": [
+   {
+    "text": "最近，一项调查显示，超过一半的年轻人每天看手机的时间超过五个小时。有人说，这无非是时代的变化，不必大惊小怪。然而，医生提醒，长时间看手机不仅伤害视力，还会导致睡眠质量下降，甚至影响心理健康。",
+    "pinyin": "zuì jìn, yī xiàng diào chá xiǎn shì, chāo guò yī bàn de nián qīng rén měi tiān kàn shǒu jī de shí jiān chāo guò wǔ ge xiǎo shí. yǒu rén shuō, zhè wú fēi shì shí dài de biàn huà, bù bì dà jīng xiǎo guài. rán ér, yī shēng tí xǐng, cháng shí jiān kàn shǒu jī bù jǐn shāng hài shì lì, hái huì dǎo zhì shuì mián zhì liàng xià jiàng, shèn zhì yǐng xiǎng xīn lǐ jiàn kāng.",
+    "en": "A recent survey shows that more than half of young people look at their phones for over five hours a day. Some say this is merely a change of the times and nothing to fuss about. Doctors warn, however, that long hours on the phone not only harm eyesight but also lower sleep quality and may even affect mental health.",
+    "ja": "最近のある調査によると、若者の半数以上が毎日五時間以上携帯を見ています。これは時代の変化にすぎず、騒ぐことはないと言う人もいます。しかし医師は、長時間携帯を見ると視力を傷めるだけでなく、睡眠の質も下がり、心の健康にまで影響しかねないと注意しています。",
+    "questions": [
+     {
+      "q": "调查发现了什么？",
+      "choices": [
+       "一半以上的年轻人每天看手机超过五小时",
+       "年轻人不喜欢看手机",
+       "医生每天看手机"
+      ],
+      "answer": 0,
+      "why": "Over half of young people use phones more than five hours daily.",
+      "why_ja": "若者の半数以上が毎日五時間以上携帯を見ているとあります。"
+     },
+     {
+      "q": "医生认为长时间看手机有什么影响？",
+      "choices": [
+       "只影响视力",
+       "影响视力，睡眠和心理健康",
+       "没有影响"
+      ],
+      "answer": 1,
+      "why": "Eyesight, sleep quality and mental health are all mentioned.",
+      "why_ja": "視力、睡眠の質、心の健康がすべて挙げられています。"
+     }
+    ]
+   },
+   {
+    "text": "在我看来，问题不在于手机本身，而在于我们怎样使用它。不妨给自己定一个规矩：吃饭和睡觉前一小时不看手机，周末抽出半天时间到户外走走。只要坚持，难免会有一些不习惯，但身体和心情都会慢慢好起来。",
+    "pinyin": "zài wǒ kàn lái, wèn tí bù zài yú shǒu jī běn shēn, ér zài yú wǒ men zěn yàng shǐ yòng tā. bù fáng gěi zì jǐ dìng yī ge guī ju: chī fàn hé shuì jiào qián yī xiǎo shí bù kàn shǒu jī, zhōu mò chōu chū bàn tiān shí jiān dào hù wài zǒu zǒu. zhǐ yào jiān chí, nán miǎn huì yǒu yī xiē bù xí guàn, dàn shēn tǐ hé xīn qíng dōu huì màn màn hǎo qi lai.",
+    "en": "In my view, the problem lies not in the phone itself but in how we use it. Why not set yourself a rule: no phone during meals or in the hour before sleep, and half a day outdoors at the weekend. If you keep it up, some discomfort is inevitable at first, but body and mood will slowly improve.",
+    "ja": "私の見るところ、問題は携帯そのものではなく、私たちがどう使うかにあります。食事中と寝る前の一時間は携帯を見ない、週末は半日外を歩く、という決まりを自分に課してみてはどうでしょう。続ければ、慣れないこともあるでしょうが、体も気分もだんだん良くなっていきます。",
+    "questions": [
+     {
+      "q": "说话人认为问题在哪里？",
+      "choices": [
+       "手机太贵",
+       "怎样使用手机",
+       "年轻人太多"
+      ],
+      "answer": 1,
+      "why": "The problem lies in how we use the phone, not in the phone itself.",
+      "why_ja": "問題は携帯そのものではなく、使い方にあると述べています。"
+     },
+     {
+      "q": "说话人建议什么时候不看手机？",
+      "choices": [
+       "上班的时候",
+       "吃饭和睡觉前一小时",
+       "周末全天"
+      ],
+      "answer": 1,
+      "why": "No phone during meals and in the hour before sleep.",
+      "why_ja": "食事中と寝る前の一時間は携帯を見ないよう提案しています。"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "listen:hsk6:005",
+  "level": "hsk6",
+  "unit": 45,
+  "order": 4595,
+  "type": "shadow",
+  "title": "Shadowing: a short speech",
+  "title_ja": "シャドーイング：短いスピーチ",
+  "items": [
+   {
+    "text": "各位来宾，大家好。",
+    "pinyin": "gè wèi lái bīn, dà jiā hǎo.",
+    "en": "Distinguished guests, good day to you all.",
+    "ja": "ご来賓の皆さま、こんにちは。"
+   },
+   {
+    "text": "今天，我们在这里隆重庆祝学校成立五十周年。",
+    "pinyin": "jīn tiān, wǒ men zài zhè lǐ lóng zhòng qìng zhù xué xiào chéng lì wǔ shí zhōu nián.",
+    "en": "Today we are gathered here to celebrate the fiftieth anniversary of our school.",
+    "ja": "本日、私たちはここで学校創立五十周年を盛大に祝います。"
+   },
+   {
+    "text": "五十年来，一代又一代的老师为教育事业付出了心血。",
+    "pinyin": "wǔ shí nián lái, yī dài yòu yī dài de lǎo shī wèi jiào yù shì yè fù chū le xīn xuè.",
+    "en": "Over fifty years, generation after generation of teachers have devoted their hearts to education.",
+    "ja": "五十年にわたり、幾世代もの教師が教育のために心血を注いできました。"
+   },
+   {
+    "text": "成绩固然令人骄傲，但是我们不能停下脚步。",
+    "pinyin": "chéng jì gù rán lìng rén jiāo ào, dàn shì wǒ men bù néng tíng xià jiǎo bù.",
+    "en": "The achievements are admittedly something to be proud of, but we cannot stop here.",
+    "ja": "成果は確かに誇るべきものですが、私たちは歩みを止めてはなりません。"
+   },
+   {
+    "text": "让我们以坚韧的精神，迎接新的挑战。",
+    "pinyin": "ràng wǒ men yǐ jiān rèn de jīng shén, yíng jiē xīn de tiǎo zhàn.",
+    "en": "Let us meet new challenges with a resilient spirit.",
+    "ja": "粘り強い精神で、新たな挑戦に向かいましょう。"
+   }
+  ]
+ },
+ {
+  "id": "listen:hsk6:006",
+  "level": "hsk6",
+  "unit": 52,
+  "order": 5295,
+  "type": "comprehension",
+  "title": "Listening: a conversation about moving",
+  "title_ja": "聞き取り：引っ越しについての会話",
+  "items": [
+   {
+    "text": "女：听说你要搬到沿海城市去了？男：对，公司派我去那边负责新项目。女：那边的生活你习惯吗？男：说实话，我有点担心。不过倘若不去，这个机会就没有了。女：也是，大不了干两年再回来。男：我也是这么想的，反正总比一直待在原地强。",
+    "pinyin": "nǚ: tīng shuō nǐ yào bān dào yán hǎi chéng shì qù le? nán: duì, gōng sī pài wǒ qù nà bian fù zé xīn xiàng mù. nǚ: nà bian de shēng huó nǐ xí guàn ma? nán: shuō shí huà, wǒ yǒu diǎn dān xīn. bù guò tǎng ruò bù qù, zhè ge jī huì jiù méi yǒu le. nǚ: yě shì, dà bù liǎo gàn liǎng nián zài huí lai. nán: wǒ yě shì zhè me xiǎng de, fǎn zhèng zǒng bǐ yī zhí dāi zài yuán dì qiáng.",
+    "en": "Woman: I hear you are moving to a coastal city? Man: Yes, the company is sending me there to take charge of a new project. Woman: Will you get used to life there? Man: Honestly, I am a bit worried. But if I do not go, the chance will be gone. Woman: True; at worst you work there two years and come back. Man: That is what I think too; anyway it beats staying put forever.",
+    "ja": "女：沿海の都市に引っ越すんですって？ 男：ええ、会社が新しいプロジェクトの担当として私を派遣するんです。女：あちらの生活には慣れそう？ 男：正直、少し心配です。でも行かなければ、この機会はなくなってしまいます。女：そうね、最悪でも二年働いて戻ってくればいいし。男：私もそう思っています。ずっと同じ場所にいるよりはましですから。",
+    "questions": [
+     {
+      "q": "男的为什么要搬家？",
+      "choices": [
+       "想换个环境",
+       "公司派他负责新项目",
+       "家人在那边"
+      ],
+      "answer": 1,
+      "why": "The company is sending him to take charge of a new project.",
+      "why_ja": "会社が新しいプロジェクトの担当として派遣するからです。"
+     },
+     {
+      "q": "男的对搬家的态度是什么？",
+      "choices": [
+       "完全不担心",
+       "有点担心但还是要去",
+       "决定不去"
+      ],
+      "answer": 1,
+      "why": "He is a bit worried but will go, since otherwise the chance is lost.",
+      "why_ja": "少し心配だが、行かなければ機会を失うので行くと言っています。"
+     },
+     {
+      "q": "女的说\"大不了干两年再回来\"是什么意思？",
+      "choices": [
+       "最坏的情况也可以接受",
+       "两年太长了",
+       "不应该回来"
+      ],
+      "answer": 0,
+      "why": "大不了 names the worst case to show it is acceptable.",
+      "why_ja": "「大不了」は最悪の場合を挙げて、それでも受け入れられると示します。"
+     }
+    ]
+   },
+   {
+    "text": "女：那边的房子找好了吗？男：还没有，我打算先租一个小房子，等熟悉了环境再说。女：有什么需要帮忙的，尽管开口。男：谢谢，搬家那天恐怕真得麻烦你。",
+    "pinyin": "nǚ: nà bian de fáng zi zhǎo hǎo le ma? nán: hái méi yǒu, wǒ dǎ suàn xiān zū yī ge xiǎo fáng zi, děng shú xī le huán jìng zài shuō. nǚ: yǒu shén me xū yào bāng máng de, jǐn guǎn kāi kǒu. nán: xiè xie, bān jiā nà tiān kǒng pà zhēn děi má fan nǐ.",
+    "en": "Woman: Have you found a place there yet? Man: Not yet; I plan to rent a small flat first and decide once I know the area. Woman: If you need any help, just say so. Man: Thanks, I am afraid I really will have to trouble you on moving day.",
+    "ja": "女：あちらの家は見つかった？ 男：まだです。まず小さな家を借りて、環境に慣れてから考えるつもりです。女：手伝いが必要なら遠慮なく言ってね。男：ありがとう。引っ越しの日は本当にお世話になりそうです。",
+    "questions": [
+     {
+      "q": "男的打算先怎么住？",
+      "choices": [
+       "买房子",
+       "租一个小房子",
+       "住在公司"
+      ],
+      "answer": 1,
+      "why": "He plans to rent a small flat first.",
+      "why_ja": "まず小さな家を借りるつもりだと言っています。"
+     },
+     {
+      "q": "女的表示愿意做什么？",
+      "choices": [
+       "帮他找工作",
+       "帮他搬家",
+       "陪他去沿海城市"
+      ],
+      "answer": 1,
+      "why": "She offers help, and he says he will need her on moving day.",
+      "why_ja": "手伝いを申し出て、男性は引っ越しの日に世話になると答えています。"
+     }
+    ]
+   }
+  ]
+ }
+]

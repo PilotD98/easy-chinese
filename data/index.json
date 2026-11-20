@@ -22,9 +22,9 @@
     { "id": "pinyin", "title": "Pinyin and tones", "files": { "pinyin": "pinyin.json" } },
     { "id": "hsk1", "title": "HSK 1", "targets": { "hanzi": 178, "vocab": 150, "grammar": 40 }, "files": { "chars": "hsk1/chars.json", "vocab": "hsk1/vocab.json", "grammar": "hsk1/grammar.json", "readings": "hsk1/readings.json", "listening": "hsk1/listening.json", "units": "hsk1/units.json" } },
     { "id": "hsk2", "title": "HSK 2", "targets": { "hanzi": 168, "vocab": 147, "grammar": 42 }, "files": { "chars": "hsk2/chars.json", "vocab": "hsk2/vocab.json", "grammar": "hsk2/grammar.json", "readings": "hsk2/readings.json", "listening": "hsk2/listening.json", "units": "hsk2/units.json" } },
-    { "id": "hsk3", "title": "HSK 3", "targets": { "hanzi": 272, "vocab": 298, "grammar": 50 }, "files": {} },
-    { "id": "hsk4", "title": "HSK 4", "targets": { "hanzi": 453, "vocab": 598, "grammar": 50 }, "files": {} },
-    { "id": "hsk5", "title": "HSK 5", "targets": { "hanzi": 639, "vocab": 1298, "grammar": 50 }, "files": {} },
-    { "id": "hsk6", "title": "HSK 6", "targets": { "hanzi": 922, "vocab": 2500, "grammar": 40 }, "files": {} }
+    { "id": "hsk3", "title": "HSK 3", "targets": { "hanzi": 272, "vocab": 298, "grammar": 51 }, "files": { "chars": "hsk3/chars.json", "vocab": "hsk3/vocab.json", "grammar": "hsk3/grammar.json", "readings": "hsk3/readings.json", "listening": "hsk3/listening.json", "units": "hsk3/units.json" } },
+    { "id": "hsk4", "title": "HSK 4", "targets": { "hanzi": 453, "vocab": 598, "grammar": 58 }, "files": { "chars": "hsk4/chars.json", "vocab": "hsk4/vocab.json", "grammar": "hsk4/grammar.json", "readings": "hsk4/readings.json", "listening": "hsk4/listening.json", "units": "hsk4/units.json" } },
+    { "id": "hsk5", "title": "HSK 5", "targets": { "hanzi": 639, "vocab": 1298, "grammar": 56 }, "files": { "chars": "hsk5/chars.json", "vocab": "hsk5/vocab.json", "grammar": "hsk5/grammar.json", "readings": "hsk5/readings.json", "listening": "hsk5/listening.json", "units": "hsk5/units.json" } },
+    { "id": "hsk6", "title": "HSK 6", "targets": { "hanzi": 922, "vocab": 2500, "grammar": 46 }, "files": { "chars": "hsk6/chars.json", "vocab": "hsk6/vocab.json", "grammar": "hsk6/grammar.json", "readings": "hsk6/readings.json", "listening": "hsk6/listening.json", "units": "hsk6/units.json" } }
   ]
 }

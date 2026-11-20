@@ -17,7 +17,7 @@ export const FINALS = ['a', 'o', 'e', 'i', 'u', 'ü', 'ai', 'ei', 'ao', 'ou', 'a
 // y-/w- spellings of finals without an initial
 const Y_W = { yi: 'i', ya: 'ia', ye: 'ie', yao: 'iao', you: 'iu', yan: 'ian', yin: 'in', yang: 'iang', ying: 'ing', yong: 'iong',
   yu: 'ü', yue: 'üe', yuan: 'üan', yun: 'ün', wu: 'u', wa: 'ua', wo: 'uo', wai: 'uai', wei: 'ui', wan: 'uan', wen: 'un', wang: 'uang', weng: 'ueng' };
-const BARE = new Set(['a', 'o', 'e', 'ai', 'ei', 'ao', 'ou', 'an', 'en', 'ang', 'eng', 'er', 'ê', 'm', 'n', 'ng', 'hm', 'hng', 'o']);
+const BARE = new Set(['a', 'o', 'e', 'ai', 'ei', 'ao', 'ou', 'an', 'en', 'ang', 'eng', 'er', 'ê', 'm', 'n', 'ng', 'hm', 'hng', 'yo']);
 const AFTER_JQX = new Set(['i', 'ia', 'ie', 'iao', 'iu', 'ian', 'in', 'iang', 'ing', 'iong', 'u', 'ue', 'uan', 'un', 'ü', 'üe', 'üan', 'ün']);
 const AFTER_RETRO = new Set(['i', 'a', 'e', 'ai', 'ei', 'ao', 'ou', 'an', 'en', 'ang', 'eng', 'ong', 'u', 'ua', 'uo', 'uai', 'ui', 'uan', 'un', 'uang']);
 

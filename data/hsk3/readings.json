@@ -1,1 +1,386 @@
-[]
+[
+ {
+  "id": "read:hsk3:001",
+  "level": "hsk3",
+  "unit": 3,
+  "order": 390,
+  "title": "周六的比赛",
+  "en": "Saturday's match",
+  "ja": "土曜日の試合",
+  "text": "星期六，我们学校有篮球比赛。我和小张都参加了。比赛以前，我有点儿担心，因为我们的对手很高，也很快。老师说：别担心，只要大家一起用心打，就一定能打好。比赛开始以后，我们先打得不太好，然后打得更好了。最后，我们是第一！大家都非常高兴，老师也笑了。",
+  "pinyin": "xīng qī liù, wǒ men xué xiào yǒu lán qiú bǐ sài. wǒ hé xiǎo zhāng dōu cān jiā le. bǐ sài yǐ qián, wǒ yǒu diǎnr dān xīn, yīn wèi wǒ men de duì shǒu hěn gāo, yě hěn kuài. lǎo shī shuō: bié dān xīn, zhǐ yào dà jiā yī qǐ yòng xīn dǎ, jiù yī dìng néng dǎ hǎo. bǐ sài kāi shǐ yǐ hòu, wǒ men xiān dǎ de bù tài hǎo, rán hòu dǎ de gèng hǎo le. zuì hòu, wǒ men shì dì yī! dà jiā dōu fēi cháng gāo xìng, lǎo shī yě xiào le.",
+  "enText": "On Saturday our school had a basketball match. Xiao Zhang and I both took part. Before the match I was a little worried, because our opponents were tall and fast. The teacher said: do not worry, as long as everyone plays with their whole heart, we can surely play well. After the match began, we did not play very well at first, then we played better. In the end we came first! Everyone was very happy, and the teacher smiled too.",
+  "jaText": "土曜日、私たちの学校でバスケットボールの試合がありました。私と小張は二人とも参加しました。試合の前、私は少し心配でした。相手は背が高くて、速かったからです。先生は「心配しないで。みんなで一緒に一生懸命やれば、きっとうまくやれる」と言いました。試合が始まると、最初はあまりうまくいきませんでしたが、その後はもっと良くなりました。最後に私たちが一位でした！みんなとても喜び、先生も笑いました。",
+  "questions": [
+   {
+    "q": "比赛以前，他怎么样？",
+    "choices": [
+     "很高兴",
+     "有点儿担心",
+     "很累"
+    ],
+    "answer": 1,
+    "why": "比赛以前，我有点儿担心.",
+    "why_ja": "「比赛以前，我有点儿担心」とあります。"
+   },
+   {
+    "q": "老师说应该怎么做？",
+    "choices": [
+     "大家一起用心打",
+     "一个人打",
+     "不参加比赛"
+    ],
+    "answer": 0,
+    "why": "只要大家一起用心打，就一定能打好.",
+    "why_ja": "「只要大家一起用心打，就一定能打好」とあります。"
+   },
+   {
+    "q": "最后谁是第一？",
+    "choices": [
+     "对手",
+     "他们学校",
+     "没有人"
+    ],
+    "answer": 1,
+    "why": "最后，我们是第一.",
+    "why_ja": "「最后，我们是第一」とあります。"
+   }
+  ]
+ },
+ {
+  "id": "read:hsk3:002",
+  "level": "hsk3",
+  "unit": 7,
+  "order": 790,
+  "title": "努力学汉语",
+  "en": "Working hard at Chinese",
+  "ja": "中国語を頑張る",
+  "text": "我是去年来中国的。来的时候，我一点儿汉语也不会说，觉得特别难。后来我想了一个办法：每天早上听半个小时汉语，晚上跟中国朋友讲话。朋友说，我说错了没关系，只要努力就会越来越好。现在我已经能讲很多话了，也认识了很多字。虽然还有很多不懂的地方，但是我相信，一年以后我的汉语一定会更好。",
+  "pinyin": "wǒ shì qù nián lái zhōng guó de. lái de shí hou, wǒ yī diǎnr hàn yǔ yě bù huì shuō, jué de tè bié nán. hòu lái wǒ xiǎng le yī ge bàn fǎ: měi tiān zǎo shang tīng yī ge xiǎo shí hàn yǔ, wǎn shang gēn zhōng guó péng you jiǎng huà. péng you shuō, wǒ shuō cuò le méi guān xi, zhǐ yào nǔ lì jiù huì yuè lái yuè hǎo. xiàn zài wǒ yǐ jīng néng jiǎng hěn duō huà le, yě rèn shi le hěn duō zì. suī rán hái yǒu hěn duō bù dǒng de dì fang, dàn shì wǒ xiāng xìn, yī nián yǐ hòu wǒ de hàn yǔ yī dìng huì gèng hǎo.",
+  "enText": "I came to China last year. When I had just arrived, I could not say a word of Chinese and found it especially hard. Later I thought of a method: every morning I listen to Chinese for an hour, and in the evening I talk with Chinese friends. My friends say it does not matter if I make mistakes; as long as I work hard it will get better and better. Now I can already say a lot and have learned many characters. Although there is still much I do not understand, I believe that a year from now my Chinese will surely be even better.",
+  "jaText": "私は去年中国に来ました。来たばかりのころは中国語が少しも話せず、とても難しいと感じました。その後、一つの方法を思いつきました。毎朝1時間中国語を聞き、夜は中国人の友達と話すことです。友達は、間違えても構わない、努力すればどんどん良くなると言ってくれます。今ではもうたくさん話せるようになり、漢字もたくさん覚えました。まだわからないところは多いですが、1年後には中国語がきっともっと上手になると信じています。",
+  "questions": [
+   {
+    "q": "他是什么时候来中国的？",
+    "choices": [
+     "去年",
+     "今年",
+     "三年以前"
+    ],
+    "answer": 0,
+    "why": "我是去年来中国的.",
+    "why_ja": "「我是去年来中国的」とあります。"
+   },
+   {
+    "q": "他每天早上做什么？",
+    "choices": [
+     "写汉字",
+     "听汉语",
+     "跟朋友讲话"
+    ],
+    "answer": 1,
+    "why": "每天早上听半个小时汉语.",
+    "why_ja": "「每天早上听半个小时汉语」とあります。"
+   },
+   {
+    "q": "朋友觉得说错了怎么样？",
+    "choices": [
+     "没关系",
+     "很不好",
+     "应该不说"
+    ],
+    "answer": 0,
+    "why": "朋友说，我说错了没关系.",
+    "why_ja": "「朋友说，我说错了没关系」とあります。"
+   }
+  ]
+ },
+ {
+  "id": "read:hsk3:003",
+  "level": "hsk3",
+  "unit": 7,
+  "order": 790,
+  "title": "去银行",
+  "en": "Going to the bank",
+  "ja": "銀行へ行く",
+  "text": "今天上午我去银行换钱。银行离我家很近，走路只要十分钟。银行里人很多，半个小时以后才到我。工作人员是一位女孩子，她说话说得很清楚，也很客气。我说我听不太懂，她就讲得更慢了。换完钱以后，我去旁边的面包店买了两个面包，然后回家。回家的路上我还照了几张照片，因为今天的天气特别好。",
+  "pinyin": "jīn tiān shàng wǔ wǒ qù yín háng huàn qián. yín háng lí wǒ jiā hěn jìn, zǒu lù zhǐ yào shí fēn zhōng. yín háng lǐ rén hěn duō, bàn ge xiǎo shí yǐ hòu cái dào wǒ. gōng zuò rén yuán shì yī wèi nǚ hái zi, tā shuō huà shuō de hěn qīng chu, yě hěn kè qi. wǒ shuō wǒ tīng bù tài dǒng, tā jiù jiǎng de gèng màn le. huàn wán qián yǐ hòu, wǒ qù páng biān de miàn bāo diàn mǎi le liǎng ge miàn bāo, rán hòu huí jiā. huí jiā de lù shang wǒ hái zhào le jǐ zhāng zhào piàn, yīn wèi jīn tiān de tiān qì tè bié hǎo.",
+  "enText": "This morning I went to the bank to change money. The bank is close to my home, only ten minutes on foot. There were many people in the bank, and only after half an hour was it my turn. The clerk was a young woman; she spoke very clearly and politely. I said I could not quite understand, and she spoke even more slowly. After changing the money, I bought two pieces of bread at the bakery next door, then went home. On the way home I also took a few photos, because the weather was especially nice today.",
+  "jaText": "今日の午前、私は銀行にお金を両替しに行きました。銀行は家からとても近く、歩いて10分です。銀行は人が多く、30分たってやっと順番が来ました。係の人は女性で、話し方がはっきりしていて、とても丁寧でした。私があまり聞き取れないと言うと、もっとゆっくり話してくれました。両替が終わった後、隣のパン屋でパンを二つ買って家に帰りました。帰り道では写真も何枚か撮りました。今日は天気が特に良かったからです。",
+  "questions": [
+   {
+    "q": "他去银行做什么？",
+    "choices": [
+     "换钱",
+     "买面包",
+     "照相"
+    ],
+    "answer": 0,
+    "why": "我去银行换钱.",
+    "why_ja": "「我去银行换钱」とあります。"
+   },
+   {
+    "q": "过了多长时间才到他？",
+    "choices": [
+     "十分钟",
+     "半个小时",
+     "一个小时"
+    ],
+    "answer": 1,
+    "why": "半个小时以后才到我.",
+    "why_ja": "「半个小时以后才到我」とあります。"
+   },
+   {
+    "q": "他买了几个面包？",
+    "choices": [
+     "一个",
+     "两个",
+     "三个"
+    ],
+    "answer": 1,
+    "why": "买了两个面包.",
+    "why_ja": "「买了两个面包」とあります。"
+   }
+  ]
+ },
+ {
+  "id": "read:hsk3:004",
+  "level": "hsk3",
+  "unit": 9,
+  "order": 990,
+  "title": "刚结婚的朋友",
+  "en": "A newly married friend",
+  "ja": "結婚したばかりの友達",
+  "text": "我的朋友小张上个月刚结婚。他的妻子是他的同学，两个人认识差不多十年了。结婚那天，我们都去参加了。小张穿着新衣服，又高兴又不好意思，说话的时候脸都红了。他的妻子很年轻，也很漂亮。朋友们一边吃饭，一边讲他们以前的故事，大家都笑了。晚上我回家的时候已经很晚了，但是我一点儿也不累，因为这一天过得特别开心。",
+  "pinyin": "wǒ de péng you xiǎo zhāng shàng ge yuè gāng jié hūn. tā de qī zi shì tā de tóng xué, liǎng ge rén rèn shi chà bù duō shí nián le. jié hūn nà tiān, wǒ men dōu qù cān jiā le. xiǎo zhāng chuān zhe xīn yī fu, yòu gāo xìng yòu bù hǎo yì si, shuō huà de shí hou liǎn dōu hóng le. tā de qī zi hěn nián qīng, yě hěn piào liang. péng you men yī biān chī fàn, yī biān jiǎng tā men yǐ qián de gù shi, dà jiā dōu xiào le. wǎn shang wǒ huí jiā de shí hou yǐ jīng hěn wǎn le, dàn shì wǒ yī diǎnr yě bù lèi, yīn wèi zhè yī tiān guò de tè bié kāi xīn.",
+  "enText": "My friend Xiao Zhang just got married last month. His wife is his classmate; the two have known each other for about ten years. On the wedding day we all went. Xiao Zhang wore new clothes and was both happy and shy; his face went red when he spoke. His wife is young and pretty. While eating, friends told stories about their past, and everyone laughed. When I got home in the evening it was already late, but I was not tired at all, because the day had been especially happy.",
+  "jaText": "友達の小張は先月結婚したばかりです。奥さんは同級生で、二人は知り合ってほぼ10年になります。結婚式の日、私たちはみんな参加しました。小張は新しい服を着て、うれしそうで照れてもいて、話すときは顔まで赤くなっていました。奥さんは若くてきれいです。友達は食事をしながら二人の昔の話をして、みんな笑いました。夜、家に帰ったときはもう遅かったのですが、少しも疲れていませんでした。この一日が特に楽しかったからです。",
+  "questions": [
+   {
+    "q": "小张是什么时候结婚的？",
+    "choices": [
+     "上个星期",
+     "上个月",
+     "去年"
+    ],
+    "answer": 1,
+    "why": "上个月刚结婚.",
+    "why_ja": "「上个月刚结婚」とあります。"
+   },
+   {
+    "q": "小张和妻子认识多长时间了？",
+    "choices": [
+     "差不多一年",
+     "差不多十年",
+     "两个月"
+    ],
+    "answer": 1,
+    "why": "两个人认识差不多十年了.",
+    "why_ja": "「两个人认识差不多十年了」とあります。"
+   },
+   {
+    "q": "晚上回家的时候，他觉得怎么样？",
+    "choices": [
+     "很累",
+     "一点儿也不累",
+     "有点儿难过"
+    ],
+    "answer": 1,
+    "why": "我一点儿也不累.",
+    "why_ja": "「我一点儿也不累」とあります。"
+   }
+  ]
+ },
+ {
+  "id": "read:hsk3:005",
+  "level": "hsk3",
+  "unit": 11,
+  "order": 1190,
+  "title": "奇怪的礼物",
+  "en": "A strange gift",
+  "ja": "不思議な贈り物",
+  "text": "上个星期是我的生日。妈妈送了我一个礼物，是一只蓝色的小鸟。我觉得很奇怪，因为我以前没有过鸟。妈妈说：你一个人住，总是害怕，有了小鸟就不害怕了。小鸟很可爱，每天早上都唱歌。我把它放在树旁边，它一边唱，一边看外面。现在我回家的时候，它一看见我就叫。虽然它只是一只小鸟，但是我觉得家里更有意思了，也更像一个家了。",
+  "pinyin": "shàng ge xīng qī shì wǒ de shēng rì. mā ma sòng le wǒ yī ge lǐ wù, shì yī zhī lán sè de xiǎo niǎo. wǒ jué de hěn qí guài, yīn wèi wǒ yǐ qián méi yǒu guo niǎo. mā ma shuō: nǐ yī ge rén zhù, zǒng shì hài pà, yǒu le xiǎo niǎo jiù bù hài pà le. xiǎo niǎo hěn kě ài, měi tiān zǎo shang dōu chàng gē. wǒ bǎ tā fàng zài shù páng biān, tā yī biān chàng, yī biān kàn wài miàn. xiàn zài wǒ huí jiā de shí hou, tā yī kàn jiàn wǒ jiù jiào. suī rán tā zhǐ shì yī zhī xiǎo niǎo, dàn shì wǒ jué de jiā lǐ gèng yǒu yì si le, yě gèng xiàng yī ge jiā le.",
+  "enText": "Last week was my birthday. Mum gave me a gift: a little blue bird. I thought it was strange, because I had never kept a bird. Mum said: you live alone and are always afraid; with a little bird you will not be afraid. The bird is cute and sings every morning. I put it next to the tree; it sings while looking outside. Now when I come home, it calls as soon as it sees me. Although it is only a little bird, I feel the house is more fun and more like a home.",
+  "jaText": "先週は私の誕生日でした。母は青い小鳥をプレゼントしてくれました。鳥を飼ったことがなかったので、不思議に思いました。母は「一人暮らしでいつも怖がっているけれど、小鳥がいれば怖くなくなるよ」と言いました。小鳥はかわいくて、毎朝歌います。木のそばに置くと、歌いながら外を見ています。今では帰宅すると、私を見るとすぐに鳴きます。ただの小鳥ですが、家がもっと楽しくなって、もっと家らしくなったと感じます。",
+  "questions": [
+   {
+    "q": "妈妈送了他什么礼物？",
+    "choices": [
+     "一只小鸟",
+     "一只猫",
+     "一本书"
+    ],
+    "answer": 0,
+    "why": "是一只蓝色的小鸟.",
+    "why_ja": "「是一只蓝色的小鸟」とあります。"
+   },
+   {
+    "q": "妈妈为什么送小鸟？",
+    "choices": [
+     "因为他喜欢鸟",
+     "因为他一个人住，总是害怕",
+     "因为小鸟很便宜"
+    ],
+    "answer": 1,
+    "why": "你一个人住，总是害怕，有了小鸟就不害怕了.",
+    "why_ja": "「你一个人住，总是害怕」とあります。"
+   },
+   {
+    "q": "小鸟什么时候唱歌？",
+    "choices": [
+     "每天早上",
+     "晚上",
+     "他回家的时候"
+    ],
+    "answer": 0,
+    "why": "每天早上都唱歌.",
+    "why_ja": "「每天早上都唱歌」とあります。"
+   }
+  ]
+ },
+ {
+  "id": "read:hsk3:006",
+  "level": "hsk3",
+  "unit": 13,
+  "order": 1390,
+  "title": "搬到新家",
+  "en": "Moving to a new home",
+  "ja": "新しい家に引っ越す",
+  "text": "上个月我们搬家了。新家在城市的南边，离公园很近，环境又安静又干净。以前的房子又小又旧，也特别热，现在的房子有三个房间，房子也很大，住着非常舒服。我最喜欢的是那个小花园，里面有绿绿的草和很多树，早上能听见鸟叫。周末的时候，我们一家人一边喝茶，一边看太阳慢慢下去。虽然搬家很累，但是我们都对新家很满意。",
+  "pinyin": "shàng ge yuè wǒ men bān jiā le. xīn jiā zài chéng shì de nán biān, lí gōng yuán hěn jìn, huán jìng yòu ān jìng yòu gān jìng. yǐ qián de fáng zi yòu xiǎo yòu jiù, yě tè bié rè, xiàn zài de fáng zi yǒu sān ge fáng jiān, fáng zi yě hěn dà, zhù zhe fēi cháng shū fu. wǒ zuì xǐ huan de shì nà ge xiǎo huā yuán, lǐ miàn yǒu lǜ lǜ de cǎo hé hěn duō shù, zǎo shang néng tīng jiàn niǎo jiào. zhōu mò de shí hou, wǒ men yī jiā rén yī biān hē chá, yī biān kàn tài yáng màn màn xià qù. suī rán bān jiā hěn lèi, dàn shì wǒ men dōu duì xīn jiā hěn mǎn yì.",
+  "enText": "Last month we moved house. The new home is in the south of the city, close to the park, and the surroundings are quiet and clean. The old house was small and old, and especially hot; the new house has three rooms and is big, and is very comfortable to live in. What I like most is the little garden, with green grass and many trees; in the morning you can hear birds. At weekends our family drinks tea while watching the sun slowly go down. Although moving was tiring, we are all very satisfied with the new home.",
+  "jaText": "先月、私たちは引っ越しました。新しい家は街の南側で、公園に近く、環境は静かで清潔です。前の家は狭くて古く、とても暑かったのですが、今の家は部屋が三つあり、家も広くて、とても快適に暮らせます。一番気に入っているのは小さな庭で、緑の草とたくさんの木があり、朝には鳥の声が聞こえます。週末には家族でお茶を飲みながら、太陽がゆっくり沈むのを眺めます。引っ越しは大変でしたが、みんな新しい家にとても満足しています。",
+  "questions": [
+   {
+    "q": "新家在哪儿？",
+    "choices": [
+     "城市的南边",
+     "城市的北边",
+     "公园里"
+    ],
+    "answer": 0,
+    "why": "新家在城市的南边.",
+    "why_ja": "「新家在城市的南边」とあります。"
+   },
+   {
+    "q": "以前的房子怎么样？",
+    "choices": [
+     "又大又新",
+     "又小又旧",
+     "很安静"
+    ],
+    "answer": 1,
+    "why": "以前的房子又小又旧.",
+    "why_ja": "「以前的房子又小又旧」とあります。"
+   },
+   {
+    "q": "他最喜欢新家的什么？",
+    "choices": [
+     "房子里的灯",
+     "小花园",
+     "房间"
+    ],
+    "answer": 1,
+    "why": "我最喜欢的是那个小花园.",
+    "why_ja": "「我最喜欢的是那个小花园」とあります。"
+   }
+  ]
+ },
+ {
+  "id": "read:hsk3:007",
+  "level": "hsk3",
+  "unit": 15,
+  "order": 1590,
+  "title": "感冒了",
+  "en": "Catching a cold",
+  "ja": "風邪をひいた",
+  "text": "昨天下午突然下起了大雨，我没带雨衣，衣服从上到下都是水。晚上回到家，我觉得头疼，鼻子也不舒服。今天早上我发现自己感冒了，所以没去上班。我给经理打了电话，他让我好好儿休息。中午叔叔来看我，带了一些水果和药。他说：你以前总是不锻炼，身体当然不好。以后每天早上跑半个小时步，就不容易感冒了。我觉得他说得对，决定从下个星期一开始锻炼。",
+  "pinyin": "zuó tiān xià wǔ tū rán xià qǐ le dà yǔ, wǒ méi dài yǔ yī, yī fu cóng shàng dào xià dōu shì shuǐ. wǎn shang huí dào jiā, wǒ jué de tóu téng, bí zi yě bù shū fu. jīn tiān zǎo shang wǒ fā xiàn zì jǐ gǎn mào le, suǒ yǐ méi qù shàng bān. wǒ gěi jīng lǐ dǎ le diàn huà, tā ràng wǒ hǎo hāor xiū xi. zhōng wǔ shū shu lái kàn wǒ, dài le yī xiē shuǐ guǒ hé yào. tā shuō: nǐ yǐ qián zǒng shì bù duàn liàn, shēn tǐ dāng rán bù hǎo. yǐ hòu měi tiān zǎo shang pǎo bàn ge xiǎo shí bù, jiù bù róng yì gǎn mào le. wǒ jué de tā shuō de duì, jué dìng cóng xià ge xīng qī yī kāi shǐ duàn liàn.",
+  "enText": "Yesterday afternoon it suddenly started raining heavily; I had no raincoat, and my clothes were soaked from top to bottom. In the evening at home my head hurt and my nose felt uncomfortable. This morning I found I had caught a cold, so I did not go to work. I phoned the manager and he told me to rest well. At noon my uncle came to see me, bringing fruit and medicine. He said: you never used to exercise, so of course your health is poor. From now on, run for half an hour every morning and you will not catch colds so easily. I think he is right, and decided to start exercising next Monday.",
+  "jaText": "昨日の午後、突然大雨が降り出しました。雨具を持っていなかったので、服が上から下までびしょ濡れになりました。夜家に帰ると頭が痛く、鼻の調子も悪くなりました。今朝、風邪をひいたことに気づいたので、仕事を休みました。部長に電話すると、ゆっくり休むように言われました。昼に叔父が見舞いに来て、果物と薬を持ってきてくれました。叔父は「前からずっと運動しないから、体が弱いのは当然だ。これから毎朝30分走れば、風邪をひきにくくなる」と言いました。その通りだと思い、来週の月曜日から運動を始めることにしました。",
+  "questions": [
+   {
+    "q": "他为什么感冒了？",
+    "choices": [
+     "因为下雨没带雨衣",
+     "因为吃了坏东西",
+     "因为天气太冷"
+    ],
+    "answer": 0,
+    "why": "突然下起了大雨，我没带雨衣，衣服从上到下都是水.",
+    "why_ja": "「突然下起了大雨，我没带雨衣」とあります。"
+   },
+   {
+    "q": "谁来看他了？",
+    "choices": [
+     "经理",
+     "叔叔",
+     "妈妈"
+    ],
+    "answer": 1,
+    "why": "中午叔叔来看我.",
+    "why_ja": "「中午叔叔来看我」とあります。"
+   },
+   {
+    "q": "他决定做什么？",
+    "choices": [
+     "换工作",
+     "每天早上跑步",
+     "去医院"
+    ],
+    "answer": 1,
+    "why": "决定从下个星期一开始锻炼.",
+    "why_ja": "「决定从下个星期一开始锻炼」とあります。"
+   }
+  ]
+ },
+ {
+  "id": "read:hsk3:008",
+  "level": "hsk3",
+  "unit": 18,
+  "order": 1890,
+  "title": "我的爱好",
+  "en": "My hobby",
+  "ja": "私の趣味",
+  "text": "我的爱好是爬山。我们城市附近有一个有名的山，不太高，爬到山上只要两个小时。每个周末，只要天气好，我就跟几个朋友一起去。我们带着水和面包，一边爬，一边说话。山上的空气特别新鲜，还能看见下面的城市。山上有一个小饭馆，我们常常在那儿吃一碗面条，然后再下山。爬山不但对身体好，而且让我认识了很多新朋友。我觉得，这是最好的锻炼方法。",
+  "pinyin": "wǒ de ài hào shì pá shān. wǒ men chéng shì fù jìn yǒu yī ge yǒu míng de shān, bù tài gāo, pá dào shān shàng zhǐ yào liǎng ge xiǎo shí. měi ge zhōu mò, zhǐ yào tiān qì hǎo, wǒ jiù gēn jǐ ge péng you yī qǐ qù. wǒ men dài zhe shuǐ hé miàn bāo, yī biān pá, yī biān shuō huà. shān shàng de kōng qì tè bié xīn xiān, hái néng kàn jiàn xià miàn de chéng shì. shān shàng yǒu yī ge xiǎo fàn guǎn, wǒ men cháng cháng zài nàr chī yī wǎn miàn tiáo, rán hòu zài xià shān. pá shān bù dàn duì shēn tǐ hǎo, ér qiě ràng wǒ rèn shi le hěn duō xīn péng you. wǒ jué de, zhè shì zuì hǎo de duàn liàn fāng fǎ.",
+  "enText": "My hobby is hiking. Near our city there is a famous mountain, not very high; it takes only two hours to reach the top. Every weekend, as long as the weather is good, I go with a few friends. We bring water and bread and talk while climbing. The air on the mountain is especially fresh, and you can see the city below. On the mountain there is a small restaurant where we often eat a bowl of noodles before going back down. Hiking is not only good for the body but has also let me meet many new friends. I think it is the best way to exercise.",
+  "jaText": "私の趣味は山登りです。私たちの街の近くに有名な山があり、あまり高くなく、頂上まで2時間しかかかりません。毎週末、天気が良ければ、友達数人と一緒に出かけます。水とパンを持って、登りながら話をします。山の上の空気は特に新鮮で、下の街が見えます。山の上には小さな食堂があり、よくそこで麺を一杯食べてから下山します。山登りは体に良いだけでなく、たくさんの新しい友達と知り合うきっかけにもなりました。これが一番良い運動の方法だと思います。",
+  "questions": [
+   {
+    "q": "爬到山上要多长时间？",
+    "choices": [
+     "一个小时",
+     "两个小时",
+     "半天"
+    ],
+    "answer": 1,
+    "why": "爬到山上只要两个小时.",
+    "why_ja": "「爬到山上只要两个小时」とあります。"
+   },
+   {
+    "q": "他们在山上吃什么？",
+    "choices": [
+     "面包",
+     "面条",
+     "米饭"
+    ],
+    "answer": 1,
+    "why": "在那儿吃一碗面条.",
+    "why_ja": "「在那儿吃一碗面条」とあります。"
+   },
+   {
+    "q": "什么时候他们去爬山？",
+    "choices": [
+     "每天早上",
+     "天气好的周末",
+     "下雨的时候"
+    ],
+    "answer": 1,
+    "why": "每个周末，只要天气好，我就跟几个朋友一起去.",
+    "why_ja": "「每个周末，只要天气好」とあります。"
+   }
+  ]
+ }
+]

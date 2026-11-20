@@ -1,1 +1,386 @@
-[]
+[
+ {
+  "id": "read:hsk4:001",
+  "level": "hsk4",
+  "unit": 4,
+  "order": 490,
+  "title": "留学的第一个月",
+  "en": "The first month abroad",
+  "ja": "留学の最初の1か月",
+  "text": "我来北京留学已经一个月了。刚来的时候，我什么都不习惯：饭菜不好吃，地铁上人太多，老师说话太快。有几天我甚至想回国。不过情况慢慢变好了。我认识了几个中国朋友，他们每天和我一起练习说话，周末还带我去看了长城。现在我的汉语进步了很多，上课能听懂百分之八十的内容，也敢在课上回答问题了。我知道，只要继续努力，一切都会越来越好。留学不只是学习汉语，也是学习怎么生活。",
+  "pinyin": "wǒ lái běi jīng liú xué yǐ jīng yī ge yuè le. gāng lái de shí hou, wǒ shén me dōu bù xí guàn: fàn cài bù hǎo chī, dì tiě shàng rén tài duō, lǎo shī shuō huà tài kuài. yǒu jǐ tiān wǒ shèn zhì xiǎng huí guó. bù guò qíng kuàng màn màn biàn hǎo le. wǒ rèn shi le jǐ ge zhōng guó péng you, tā men měi tiān hé wǒ yī qǐ liàn xí shuō huà, zhōu mò hái dài wǒ qù kàn le cháng chéng. xiàn zài wǒ de hàn yǔ jìn bù le hěn duō, shàng kè néng tīng dǒng bǎi fēn zhī bā shí de nèi róng, yě gǎn zài kè shàng huí dá wèn tí le. wǒ zhī dào, zhǐ yào jì xù nǔ lì, yī qiè dōu huì yuè lái yuè hǎo. liú xué bù zhǐ shì xué xí hàn yǔ, yě shì xué xí zěn me shēng huó.",
+  "enText": "I have been studying in Beijing for a month now. When I first arrived, I was not used to anything: the food was not tasty, the subway was too crowded, the teachers spoke too fast. For a few days I even wanted to go home. But things slowly got better. I got to know a few Chinese friends who practise speaking with me every day and at the weekend took me to see the Great Wall. Now my Chinese has improved a lot; in class I can understand eighty percent of the content and I dare to answer questions. I know that as long as I keep working hard, everything will get better and better. Studying abroad is not just learning Chinese; it is also learning how to live.",
+  "jaText": "私が北京に留学に来てもう1か月になります。来たばかりのころは何にも慣れませんでした。料理はおいしくなく、地下鉄は人が多すぎ、先生の話は速すぎました。帰国したいと思った日さえありました。でも状況は少しずつよくなりました。中国人の友達が何人かでき、毎日一緒に話す練習をしてくれ、週末には万里の長城にも連れて行ってくれました。今では中国語がかなり上達し、授業の内容の8割は聞き取れ、授業で質問に答える勇気も出てきました。努力を続けさえすれば、すべてがますますよくなると分かっています。留学は中国語を学ぶだけでなく、どう生きるかを学ぶことでもあります。",
+  "questions": [
+   {
+    "q": "他来北京多长时间了？",
+    "choices": [
+     "一个星期",
+     "一个月",
+     "一年"
+    ],
+    "answer": 1,
+    "why": "The text opens with 已经一个月了.",
+    "why_ja": "冒頭に「已经一个月了」とあります。"
+   },
+   {
+    "q": "刚来的时候，他觉得什么太快？",
+    "choices": [
+     "地铁",
+     "老师说话",
+     "饭菜"
+    ],
+    "answer": 1,
+    "why": "老师说话太快.",
+    "why_ja": "「老师说话太快」とあります。"
+   },
+   {
+    "q": "现在他上课能听懂多少？",
+    "choices": [
+     "百分之八十",
+     "百分之十八",
+     "一切"
+    ],
+    "answer": 0,
+    "why": "能听懂百分之八十的内容.",
+    "why_ja": "「能听懂百分之八十的内容」とあります。"
+   }
+  ]
+ },
+ {
+  "id": "read:hsk4:002",
+  "level": "hsk4",
+  "unit": 8,
+  "order": 890,
+  "title": "一个警察的故事",
+  "en": "A police officer's story",
+  "ja": "ある警察官の話",
+  "text": "小张是一名警察。昨天晚上十一点，他接到一个电话：一位老人在公园里找不到回家的路了。小张马上开车过去。公园很大，又很黑，找人很困难。他一边走一边叫老人的名字。半个小时以后，他终于在公园最里面的一张椅子上找到了老人。老人很冷，也很害怕。小张把自己的衣服给他穿上，然后送他回家。老人的女儿一直在门口等着，看见父亲回来，她哭了。小张说：\"这是我的工作，不用谢。\"他觉得，能帮助别人，就是最大的幸福。",
+  "pinyin": "xiǎo zhāng shì yī míng jǐng chá. zuó tiān wǎn shang shí yī diǎn, tā jiē dào yī ge diàn huà: yī wèi lǎo rén zài gōng yuán lǐ zhǎo bù dào huí jiā de lù le. xiǎo zhāng mǎ shàng kāi chē guò qù. gōng yuán hěn dà, yòu hěn hēi, zhǎo rén hěn kùn nan. tā yī biān zǒu yī biān jiào lǎo rén de míng zi. bàn ge xiǎo shí yǐ hòu, tā zhōng yú zài gōng yuán zuì lǐ miàn de yī zhāng yǐ zi shàng zhǎo dào le lǎo rén. lǎo rén hěn lěng, yě hěn hài pà. xiǎo zhāng bǎ zì jǐ de yī fu gěi tā chuān shàng, rán hòu sòng tā huí jiā. lǎo rén de nǚ ér yī zhí zài mén kǒu děng zhe, kàn jiàn fù qīn huí lái, tā kū le. xiǎo zhāng shuō: \"zhè shì wǒ de gōng zuò, bù yòng xiè.\" tā jué de, néng bāng zhù bié rén, jiù shì zuì dà de xìng fú.",
+  "enText": "Xiao Zhang is a police officer. At eleven last night he got a call: an elderly man could not find his way home in the park. Xiao Zhang drove over at once. The park was big and dark, and finding someone was hard. He walked and called the old man's name. Half an hour later he finally found him on a bench at the far end of the park. The old man was cold and frightened. Xiao Zhang put his own jacket on him and then took him home. The old man's daughter had been waiting at the door the whole time; when she saw her father return, she cried. Xiao Zhang said, \"This is my job, no need to thank me.\" He feels that being able to help others is the greatest happiness.",
+  "jaText": "張さんは警察官です。昨夜11時、彼は電話を受けました。公園で一人のお年寄りが帰り道が分からなくなったというのです。張さんはすぐ車で向かいました。公園は広くて暗く、人を探すのは大変でした。彼は歩きながらお年寄りの名前を呼びました。30分後、ようやく公園のいちばん奥のベンチでお年寄りを見つけました。お年寄りは寒がって、おびえていました。張さんは自分の上着を着せて、家まで送りました。お年寄りの娘さんはずっと玄関で待っていて、父親が戻ったのを見て泣きました。張さんは「これが私の仕事です。お礼はいりません」と言いました。人を助けられることが最大の幸せだと彼は思っています。",
+  "questions": [
+   {
+    "q": "小张是做什么的？",
+    "choices": [
+     "医生",
+     "警察",
+     "司机"
+    ],
+    "answer": 1,
+    "why": "小张是一名警察.",
+    "why_ja": "「小张是一名警察」とあります。"
+   },
+   {
+    "q": "他在哪儿找到了老人？",
+    "choices": [
+     "公园门口",
+     "公园里的一张椅子上",
+     "老人家里"
+    ],
+    "answer": 1,
+    "why": "在公园最里面的一张椅子上找到了老人.",
+    "why_ja": "「在公园最里面的一张椅子上找到了老人」とあります。"
+   },
+   {
+    "q": "看见父亲回来，老人的女儿怎么了？",
+    "choices": [
+     "她笑了",
+     "她哭了",
+     "她走了"
+    ],
+    "answer": 1,
+    "why": "看见父亲回来，她哭了.",
+    "why_ja": "「看见父亲回来，她哭了」とあります。"
+   }
+  ]
+ },
+ {
+  "id": "read:hsk4:003",
+  "level": "hsk4",
+  "unit": 12,
+  "order": 1290,
+  "title": "我的第一次申请",
+  "en": "My first application",
+  "ja": "初めての応募",
+  "text": "大学快结束的时候，我申请了一家著名公司的工作。那是我第一次申请工作，我紧张得几天都睡不好。我按照网站上的要求，写了一份计划，还准备了很多问题怎么回答。面谈那天，一共有三十多个人竞争这个工作，其中很多人比我更有经验。结果我失败了。那天晚上我非常失望，甚至想放弃找工作。可是妈妈对我说：\"失败一次并不可怕，关键是你从中学到了什么。\"我想了想，觉得她说得对。于是我重新开始准备。两个月以后，我终于得到了一份合适的工作。",
+  "pinyin": "dà xué kuài jié shù de shí hou, wǒ shēn qǐng le yī jiā zhù míng gōng sī de gōng zuò. nà shì wǒ dì yī cì shēn qǐng gōng zuò, wǒ jǐn zhāng de jǐ tiān dōu shuì bù hǎo. wǒ àn zhào wǎng zhàn shàng de yāo qiú, xiě le yī fèn jì huà, hái zhǔn bèi le hěn duō wèn tí zěn me huí dá. miàn tán nà tiān, yī gòng yǒu sān shí duō ge rén jìng zhēng zhè ge gōng zuò, qí zhōng hěn duō rén bǐ wǒ gèng yǒu jīng yàn. jié guǒ wǒ shī bài le. nà tiān wǎn shang wǒ fēi cháng shī wàng, shèn zhì xiǎng fàng qì zhǎo gōng zuò. kě shì mā ma duì wǒ shuō: \"shī bài yī cì bìng bù kě pà, guān jiàn shì nǐ cóng zhōng xué dào le shén me.\" wǒ xiǎng le xiǎng, jué de tā shuō de duì. yú shì wǒ chóng xīn kāi shǐ zhǔn bèi. liǎng ge yuè yǐ hòu, wǒ zhōng yú dé dào le yī fèn hé shì de gōng zuò.",
+  "enText": "Near the end of university, I applied for a job at a famous company. It was my first job application, and I was so nervous that I slept badly for days. Following the requirements on the website, I wrote a plan and prepared answers to many questions. On the interview day, more than thirty people were competing for the job, many of them with more experience than me. In the end I failed. That evening I was very disappointed and even thought of giving up the job search. But my mother said to me, \"Failing once is nothing to fear; the key is what you learned from it.\" I thought about it and felt she was right. So I started preparing again. Two months later, I finally got a suitable job.",
+  "jaText": "大学が終わりに近づいたころ、私は有名な会社の仕事に応募しました。初めての応募で、緊張して何日もよく眠れませんでした。ウェブサイトの要件に従って計画書を1通書き、たくさんの質問の答えも準備しました。面談の日、30人以上がこの仕事を争い、その多くは私より経験がありました。結果は不採用でした。その夜はとてもがっかりして、仕事探しをあきらめようとさえ思いました。でも母は「一度の失敗は怖くない。大事なのはそこから何を学んだかだ」と言いました。少し考えて、母の言うとおりだと思いました。そこで私は準備をやり直しました。2か月後、ようやくふさわしい仕事を得ました。",
+  "questions": [
+   {
+    "q": "他申请的是什么样的公司？",
+    "choices": [
+     "一家著名公司",
+     "一家小公司",
+     "一家新公司"
+    ],
+    "answer": 0,
+    "why": "一家著名公司的工作.",
+    "why_ja": "「一家著名公司的工作」とあります。"
+   },
+   {
+    "q": "面谈那天有多少人竞争？",
+    "choices": [
+     "十多个",
+     "二十多个",
+     "三十多个"
+    ],
+    "answer": 2,
+    "why": "一共有三十多个人竞争这个工作.",
+    "why_ja": "「一共有三十多个人竞争这个工作」とあります。"
+   },
+   {
+    "q": "妈妈觉得什么最关键？",
+    "choices": [
+     "不要失败",
+     "从失败中学到了什么",
+     "放弃找工作"
+    ],
+    "answer": 1,
+    "why": "关键是你从中学到了什么.",
+    "why_ja": "「关键是你从中学到了什么」とあります。"
+   }
+  ]
+ },
+ {
+  "id": "read:hsk4:004",
+  "level": "hsk4",
+  "unit": 16,
+  "order": 1690,
+  "title": "老照片",
+  "en": "An old photo",
+  "ja": "古い写真",
+  "text": "上个周末，我帮奶奶打扫房间，在一个旧箱子里发现了一张老照片。照片上是一座桥，桥上站着一个年轻的女孩，笑得很好看。奶奶说，那就是她，照片是五十年前照的。那时候，这座桥是城市里最有名的地方，很多年轻人都喜欢在桥上聊天。随着城市的发展，旧桥已经没有了，现在那里是一条很大的路。奶奶看着照片，回忆起很多以前的事。她说：\"时间过得真快，不过这些回忆永远不会变。\"我把照片挂在了奶奶房间的墙上。",
+  "pinyin": "shàng ge zhōu mò, wǒ bāng nǎi nai dǎ sǎo fáng jiān, zài yī ge jiù xiāng zi lǐ fā xiàn le yī zhāng lǎo zhào piàn. zhào piàn shàng shì yī zuò qiáo, qiáo shàng zhàn zhe yī ge nián qīng de nǚ hái, xiào de hěn hǎo kàn. nǎi nai shuō, nà jiù shì tā, zhào piàn shì wǔ shí nián qián zhào de. nà shí hou, zhè zuò qiáo shì chéng shì lǐ zuì yǒu míng de dì fang, hěn duō nián qīng rén dōu xǐ huan zài qiáo shàng liáo tiān. suí zhe chéng shì de fā zhǎn, jiù qiáo yǐ jīng méi yǒu le, xiàn zài nà lǐ shì yī tiáo hěn dà de lù. nǎi nai kàn zhe zhào piàn, huí yì qǐ hěn duō yǐ qián de shì. tā shuō: \"shí jiān guò de zhēn kuài, bù guò zhè xiē huí yì yǒng yuǎn bù huì biàn.\" wǒ bǎ zhào piàn guà zài le nǎi nai fáng jiān de qiáng shàng.",
+  "enText": "Last weekend I helped my grandmother clean her room and found an old photo in an old box. The photo showed a bridge, and on the bridge stood a young girl with a lovely smile. Grandma said that was her; the photo was taken fifty years ago. Back then, the bridge was the most famous spot in the city, and many young people liked to chat on it. As the city developed, the old bridge disappeared; today there is a big road there. Looking at the photo, Grandma recalled many things from the past. She said, \"Time flies, but these memories will never change.\" I hung the photo on the wall of her room.",
+  "jaText": "先週末、祖母の部屋の掃除を手伝っていて、古い箱の中に古い写真を見つけました。写真には橋が写っていて、橋の上に若い女の子が立ち、とてもきれいに笑っていました。祖母はそれが自分で、50年前に撮った写真だと言いました。当時この橋は町でいちばん有名な場所で、多くの若者が橋の上でおしゃべりするのが好きでした。町の発展とともに古い橋はなくなり、今そこは大きな道路です。祖母は写真を見ながら、昔のことをたくさん思い出しました。「時間が経つのは本当に早い。でもこの思い出は永遠に変わらない」と言いました。私は写真を祖母の部屋の壁に掛けました。",
+  "questions": [
+   {
+    "q": "照片上有什么？",
+    "choices": [
+     "一座山",
+     "一座桥",
+     "一条河"
+    ],
+    "answer": 1,
+    "why": "照片上是一座桥.",
+    "why_ja": "「照片上是一座桥」とあります。"
+   },
+   {
+    "q": "照片是什么时候照的？",
+    "choices": [
+     "五年前",
+     "十五年前",
+     "五十年前"
+    ],
+    "answer": 2,
+    "why": "照片是五十年前照的.",
+    "why_ja": "「照片是五十年前照的」とあります。"
+   },
+   {
+    "q": "现在旧桥那里是什么？",
+    "choices": [
+     "一条大路",
+     "一个公园",
+     "一座新桥"
+    ],
+    "answer": 0,
+    "why": "现在那里是一条很大的路.",
+    "why_ja": "「现在那里是一条很大的路」とあります。"
+   }
+  ]
+ },
+ {
+  "id": "read:hsk4:005",
+  "level": "hsk4",
+  "unit": 20,
+  "order": 2090,
+  "title": "网上购物",
+  "en": "Shopping online",
+  "ja": "ネットショッピング",
+  "text": "现在越来越多的人喜欢在网上购物。我妈妈以前从来不在网上买东西，她总是说：\"看不见的东西，质量怎么保证？\"可是去年冬天，她想买一件大衣，商店里的价格太贵了。我帮她在网上找到了一件一样的，便宜了一半。大衣寄到家以后，妈妈仔细检查了一遍，质量确实不错。从那以后，她也成了网上商店的顾客。不过我提醒她：网上购物要注意，首先要看别的顾客的意见，其次不要买太便宜的东西，否则很容易被骗。妈妈笑着说：\"放心吧，我比你还小心。\"",
+  "pinyin": "xiàn zài yuè lái yuè duō de rén xǐ huan zài wǎng shàng gòu wù. wǒ mā ma yǐ qián cóng lái bù zài wǎng shàng mǎi dōng xi, tā zǒng shì shuō: \"kàn bù jiàn de dōng xi, zhì liàng zěn me bǎo zhèng?\" kě shì qù nián dōng tiān, tā xiǎng mǎi yī jiàn dà yī, shāng diàn lǐ de jià gé tài guì le. wǒ bāng tā zài wǎng shàng zhǎo dào le yī jiàn yī yàng de, pián yi le yī bàn. dà yī jì dào jiā yǐ hòu, mā ma zǐ xì jiǎn chá le yī biàn, zhì liàng què shí bù cuò. cóng nà yǐ hòu, tā yě chéng le wǎng shàng shāng diàn de gù kè. bù guò wǒ tí xǐng tā: wǎng shàng gòu wù yào zhù yì, shǒu xiān yào kàn bié de gù kè de yì jiàn, qí cì bù yào mǎi tài pián yi de dōng xi, fǒu zé hěn róng yì bèi piàn. mā ma xiào zhe shuō: \"fàng xīn ba, wǒ bǐ nǐ hái xiǎo xīn.\"",
+  "enText": "More and more people like shopping online these days. My mother never used to buy things online; she always said, \"How can you guarantee the quality of something you cannot see?\" But last winter she wanted to buy a coat, and the price in the shop was too high. I helped her find the same coat online for half the price. After it was delivered, Mum checked it carefully, and the quality really was good. Since then she has become a customer of online shops too. But I reminded her: be careful shopping online; first read other customers' reviews, and second do not buy things that are too cheap, otherwise you can easily be cheated. Mum laughed and said, \"Don't worry, I am even more careful than you.\"",
+  "jaText": "今ではますます多くの人がネットショッピングを好みます。母は以前はネットで物を買うことがなく、「見えない物の品質をどう保証するの」といつも言っていました。でも去年の冬、母はコートを買いたくなり、店の値段は高すぎました。私がネットで同じものを見つけてあげると、半額でした。コートが家に届くと、母は丁寧に一通り調べ、品質は確かによいものでした。それ以来、母もネットショップの客になりました。ただ私は注意しました。ネットショッピングでは、まずほかの客の意見を見ること、次に安すぎるものを買わないこと、さもないとだまされやすいと。母は笑って「安心して。私はあなたより慎重よ」と言いました。",
+  "questions": [
+   {
+    "q": "妈妈以前为什么不在网上买东西？",
+    "choices": [
+     "太贵",
+     "不会用电脑",
+     "担心质量"
+    ],
+    "answer": 2,
+    "why": "她说 质量怎么保证, so she worried about quality.",
+    "why_ja": "「质量怎么保证」と言っているので、品質を心配していました。"
+   },
+   {
+    "q": "网上的大衣比商店里的便宜多少？",
+    "choices": [
+     "一半",
+     "一点儿",
+     "一倍"
+    ],
+    "answer": 0,
+    "why": "便宜了一半.",
+    "why_ja": "「便宜了一半」とあります。"
+   },
+   {
+    "q": "网上购物首先要做什么？",
+    "choices": [
+     "买最便宜的",
+     "看别的顾客的意见",
+     "仔细检查"
+    ],
+    "answer": 1,
+    "why": "首先要看别的顾客的意见.",
+    "why_ja": "「首先要看别的顾客的意见」とあります。"
+   }
+  ]
+ },
+ {
+  "id": "read:hsk4:006",
+  "level": "hsk4",
+  "unit": 24,
+  "order": 2490,
+  "title": "海边的一天",
+  "en": "A day by the sea",
+  "ja": "海辺の一日",
+  "text": "上个星期，我们全家去海边旅游。那天天气特别好，阳光很好，风也不大。爸爸一到海边就开始照相，他说这里的风景比任何地方都美丽。妈妈坐在树下看书，一边看一边笑。我和弟弟在海里游泳，水有点儿冷，但是很干净。中午我们在海边的一家小饭馆吃饭，老板是一位很热情的阿姨，她做的鱼好吃极了。下午，弟弟突然说想爬附近的小山，从山上往下看，海洋又蓝又大，简直像一张画。回家的路上，大家都累了，可是每个人的脸上都带着笑。",
+  "pinyin": "shàng ge xīng qī, wǒ men quán jiā qù hǎi biān lǚ yóu. nà tiān tiān qì tè bié hǎo, yáng guāng hěn hǎo, fēng yě bù dà. bà ba yī dào hǎi biān jiù kāi shǐ zhào xiàng, tā shuō zhè lǐ de fēng jǐng bǐ rèn hé dì fang dōu měi lì. mā ma zuò zài shù xià kàn shū, yī biān kàn yī biān xiào. wǒ hé dì di zài hǎi lǐ yóu yǒng, shuǐ yǒu diǎnr lěng, dàn shì hěn gān jìng. zhōng wǔ wǒ men zài hǎi biān de yī jiā xiǎo fàn guǎn chī fàn, lǎo bǎn shì yī wèi hěn rè qíng de ā yí, tā zuò de yú hǎo chī jí le. xià wǔ, dì di tū rán shuō xiǎng pá fù jìn de xiǎo shān, cóng shān shàng wǎng xià kàn, hǎi yáng yòu lán yòu dà, jiǎn zhí xiàng yī zhāng huà. huí jiā de lù shàng, dà jiā dōu lèi le, kě shì měi ge rén de liǎn shàng dōu dài zhe xiào.",
+  "enText": "Last week our whole family went on a trip to the seaside. The weather that day was especially good: warm sunshine and little wind. As soon as Dad reached the beach he started taking photos, saying the scenery here was more beautiful than anywhere else. Mum sat under a tree reading and laughing. My younger brother and I swam in the sea; the water was a little cool but very clean. At noon we ate at a small restaurant by the beach; the owner was a warm-hearted lady, and her fish was delicious. In the afternoon my brother suddenly wanted to climb the nearby hill; looking down from the top, the ocean was blue and vast, just like a painting. On the way home everyone was tired, but every face wore a smile.",
+  "jaText": "先週、家族みんなで海辺へ旅行に行きました。その日は天気がとてもよく、日差しは暖かく、風もあまりありませんでした。父は海辺に着くとすぐ写真を撮り始め、ここの景色はどこよりも美しいと言いました。母は木の下で本を読みながら笑っていました。私と弟は海で泳ぎました。水は少し冷たかったですが、とてもきれいでした。お昼は海辺の小さな食堂で食べました。店主は親切なおばさんで、彼女の作る魚料理は最高においしかったです。午後、弟が急に近くの小さな山に登りたいと言い出しました。山の上から見下ろすと、海は青くて広く、まるで一枚の絵のようでした。帰り道、みんな疲れていましたが、誰の顔にも笑顔がありました。",
+  "questions": [
+   {
+    "q": "那天的天气怎么样？",
+    "choices": [
+     "风很大",
+     "特别好",
+     "下雨"
+    ],
+    "answer": 1,
+    "why": "那天天气特别好.",
+    "why_ja": "「那天天气特别好」とあります。"
+   },
+   {
+    "q": "谁一到海边就开始照相？",
+    "choices": [
+     "爸爸",
+     "妈妈",
+     "弟弟"
+    ],
+    "answer": 0,
+    "why": "爸爸一到海边就开始照相.",
+    "why_ja": "「爸爸一到海边就开始照相」とあります。"
+   },
+   {
+    "q": "从山上往下看，海洋像什么？",
+    "choices": [
+     "一张画",
+     "一本书",
+     "一条路"
+    ],
+    "answer": 0,
+    "why": "简直像一张画.",
+    "why_ja": "「简直像一张画」とあります。"
+   }
+  ]
+ },
+ {
+  "id": "read:hsk4:007",
+  "level": "hsk4",
+  "unit": 28,
+  "order": 2890,
+  "title": "去农村的一天",
+  "en": "A day in the countryside",
+  "ja": "農村での一日",
+  "text": "我在城市长大，从来没去过农村。这个夏天，同学小李邀请我去他的老家住几天。他家在一个安静的小村子里，周围是绿绿的树和一条小河。那里的气候比城市好，空气也新鲜。早上五点，我被鸟的叫声弄醒了。小李的爷爷已经在地里干活了。他七十多岁了，身体却非常好。我问他累不累，他笑着说：\"习惯了，不干活反而不舒服。\"晚上，全家人坐在院子里一边吃西瓜一边聊天，小李的奶奶还给我讲了很多以前的事。这几天让我明白，幸福的生活不一定在大城市里。",
+  "pinyin": "wǒ zài chéng shì zhǎng dà, cóng lái méi qù guo nóng cūn. zhè ge xià tiān, tóng xué xiǎo lǐ yāo qǐng wǒ qù tā de lǎo jiā zhù jǐ tiān. tā jiā zài yī ge ān jìng de xiǎo cūn zi lǐ, zhōu wéi shì lǜ lǜ de shù hé yī tiáo xiǎo hé. nà lǐ de qì hòu bǐ chéng shì hǎo, kōng qì yě xīn xiān. zǎo shang wǔ diǎn, wǒ bèi niǎo de jiào shēng nòng xǐng le. xiǎo lǐ de yé ye yǐ jīng zài dì lǐ gàn huó le. tā qī shí duō suì le, shēn tǐ què fēi cháng hǎo. wǒ wèn tā lèi bù lèi, tā xiào zhe shuō: \"xí guàn le, bù gàn huó fǎn ér bù shū fu.\" wǎn shang, quán jiā rén zuò zài yuàn zi lǐ yī biān chī xī guā yī biān liáo tiān, xiǎo lǐ de nǎi nai hái gěi wǒ jiǎng le hěn duō yǐ qián de shì. zhè jǐ tiān ràng wǒ míng bai, xìng fú de shēng huó bù yī dìng zài dà chéng shì lǐ.",
+  "enText": "I grew up in the city and had never been to the countryside. This summer my classmate Xiao Li invited me to stay a few days at his family home. His house is in a quiet little village surrounded by green trees and a small river. The climate there is better than in the city and the air is fresh. At five in the morning I was woken by birdsong. Xiao Li's grandfather was already working in the fields. He is over seventy, yet very fit. I asked whether he was tired; he smiled and said, \"I am used to it; not working actually feels uncomfortable.\" In the evening the whole family sat in the yard eating watermelon and chatting, and Xiao Li's grandmother told me many stories from the past. These few days taught me that a happy life is not necessarily found in a big city.",
+  "jaText": "私は都会で育ち、農村に行ったことがありませんでした。この夏、クラスメートの李くんが実家に何日か泊まりに来ないかと誘ってくれました。彼の家は静かな小さな村にあり、周りは緑の木々と小さな川です。気候は都会よりよく、空気も新鮮です。朝5時、私は鳥の鳴き声で起こされました。李くんのおじいさんはもう畑で働いていました。70歳を過ぎているのに体はとても元気です。疲れないかと聞くと、笑って「慣れたよ。働かないほうがかえって落ち着かない」と言いました。夜は家族みんなで庭に座ってスイカを食べながらおしゃべりし、おばあさんは昔の話をたくさん聞かせてくれました。この数日で、幸せな暮らしは大都市にあるとは限らないと分かりました。",
+  "questions": [
+   {
+    "q": "他以前去过农村吗？",
+    "choices": [
+     "去过很多次",
+     "从来没去过",
+     "去过一次"
+    ],
+    "answer": 1,
+    "why": "从来没去过农村.",
+    "why_ja": "「从来没去过农村」とあります。"
+   },
+   {
+    "q": "早上五点，他是被什么弄醒的？",
+    "choices": [
+     "鸟的叫声",
+     "小李",
+     "爷爷"
+    ],
+    "answer": 0,
+    "why": "我被鸟的叫声弄醒了.",
+    "why_ja": "「我被鸟的叫声弄醒了」とあります。"
+   },
+   {
+    "q": "小李的爷爷多大了？",
+    "choices": [
+     "五十多岁",
+     "六十多岁",
+     "七十多岁"
+    ],
+    "answer": 2,
+    "why": "他七十多岁了.",
+    "why_ja": "「他七十多岁了」とあります。"
+   }
+  ]
+ },
+ {
+  "id": "read:hsk4:008",
+  "level": "hsk4",
+  "unit": 31,
+  "order": 3190,
+  "title": "暑假的计划",
+  "en": "Summer holiday plans",
+  "ja": "夏休みの計画",
+  "text": "再过两个星期就放暑假了，我和几个同学正在商量暑假的计划。小张想去上海看京剧，她说京剧是中国最有名的艺术之一，一定要去看一次。小李对历史很感兴趣，打算去西安参观。我呢，既想旅游，又想提高汉语，所以决定先在北京上一个月的语法课，然后再去南方旅游。我们讨论了很久，最后决定：七月各做各的事，八月一起去南方。无论去哪儿，我们都要用汉语交流，不许说别的语言。暑假还没开始，我已经等不及了。希望这个暑假我们都能过得既愉快又有意思。",
+  "pinyin": "zài guò liǎng ge xīng qī jiù fàng shǔ jià le, wǒ hé jǐ ge tóng xué zhèng zài shāng liang shǔ jià de jì huà. xiǎo zhāng xiǎng qù shàng hǎi kàn jīng jù, tā shuō jīng jù shì zhōng guó zuì yǒu míng de yì shù zhī yī, yī dìng yào qù kàn yī cì. xiǎo lǐ duì lì shǐ hěn gǎn xìng qù, dǎ suàn qù xī ān cān guān. wǒ ne, jì xiǎng lǚ yóu, yòu xiǎng tí gāo hàn yǔ, suǒ yǐ jué dìng xiān zài běi jīng shàng yī ge yuè de yǔ fǎ kè, rán hòu zài qù nán fāng lǚ yóu. wǒ men tǎo lùn le hěn jiǔ, zuì hòu jué dìng: qī yuè gè zuò gè de shì, bā yuè yī qǐ qù nán fāng. wú lùn qù nǎr, wǒ men dōu yào yòng hàn yǔ jiāo liú, bù xǔ shuō bié de yǔ yán. shǔ jià hái méi kāi shǐ, wǒ yǐ jīng děng bù jí le. xī wàng zhè ge shǔ jià wǒ men dōu néng guò de jì yú kuài yòu yǒu yì si.",
+  "enText": "In two weeks the summer holiday begins, and a few classmates and I are discussing our plans. Xiao Zhang wants to go to Shanghai to see Beijing opera; she says it is one of China's most famous arts and must be seen at least once. Xiao Li is very interested in history and plans to visit Xi'an. As for me, I want both to travel and to improve my Chinese, so I decided to take a month of grammar classes in Beijing first and then travel to the south. We discussed for a long time and finally decided: in July everyone does their own thing, and in August we go south together. Wherever we go, we will communicate in Chinese; no other language allowed. The holiday has not even started, and I can hardly wait. I hope we can all have a summer that is both enjoyable and interesting.",
+  "jaText": "あと2週間で夏休みです。私は何人かのクラスメートと夏休みの計画を相談しています。張さんは上海で京劇を見たいそうです。京劇は中国でもっとも有名な芸術の一つだから、必ず一度は見るべきだと言います。李くんは歴史に興味があり、西安を見学するつもりです。私はというと、旅行もしたいし中国語も上達させたいので、まず北京で1か月文法の授業を受け、それから南方へ旅行することにしました。長く話し合って、最後に決めました。7月はそれぞれ自分のことをして、8月は一緒に南方へ行く。どこへ行っても中国語でやりとりし、ほかの言語は禁止です。夏休みはまだ始まっていないのに、もう待ちきれません。この夏休みがみんなにとって楽しく、面白いものになりますように。",
+  "questions": [
+   {
+    "q": "小张暑假想做什么？",
+    "choices": [
+     "去上海看京剧",
+     "去西安参观",
+     "上语法课"
+    ],
+    "answer": 0,
+    "why": "小张想去上海看京剧.",
+    "why_ja": "「小张想去上海看京剧」とあります。"
+   },
+   {
+    "q": "他们决定八月做什么？",
+    "choices": [
+     "各做各的事",
+     "一起去南方",
+     "在北京上课"
+    ],
+    "answer": 1,
+    "why": "八月一起去南方.",
+    "why_ja": "「八月一起去南方」とあります。"
+   },
+   {
+    "q": "暑假他们要用什么语言交流？",
+    "choices": [
+     "汉语",
+     "日语",
+     "别的语言"
+    ],
+    "answer": 0,
+    "why": "我们都要用汉语交流.",
+    "why_ja": "「我们都要用汉语交流」とあります。"
+   }
+  ]
+ }
+]

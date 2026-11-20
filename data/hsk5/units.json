@@ -321,7 +321,9 @@
    "gram:hsk5:dao-di-jiu-jing"
   ],
   "readings": [],
-  "listening": []
+  "listening": [
+   "listen:hsk5:001"
+  ]
  },
  {
   "id": "unit:hsk5:05",
@@ -389,7 +391,9 @@
    "gram:hsk5:bu-shi-er-shi",
    "gram:hsk5:bu-shi-jiu-shi"
   ],
-  "readings": [],
+  "readings": [
+   "read:hsk5:001"
+  ],
   "listening": []
  },
  {
@@ -808,7 +812,9 @@
    "gram:hsk5:zi-cong",
    "gram:hsk5:yi-wei-zhu"
   ],
-  "readings": [],
+  "readings": [
+   "read:hsk5:002"
+  ],
   "listening": []
  },
  {
@@ -1004,7 +1010,9 @@
    "gram:hsk5:lai-zhe"
   ],
   "readings": [],
-  "listening": []
+  "listening": [
+   "listen:hsk5:003"
+  ]
  },
  {
   "id": "unit:hsk5:15",
@@ -1068,7 +1076,9 @@
    "gram:hsk5:sui-zhe",
    "gram:hsk5:de-hua"
   ],
-  "readings": [],
+  "readings": [
+   "read:hsk5:003"
+  ],
   "listening": []
  },
  {
@@ -1322,7 +1332,9 @@
    "gram:hsk5:fan-er"
   ],
   "readings": [],
-  "listening": []
+  "listening": [
+   "listen:hsk5:004"
+  ]
  },
  {
   "id": "unit:hsk5:20",
@@ -1383,8 +1395,12 @@
    "gram:hsk5:chen",
    "gram:hsk5:wei-le-qi-jian"
   ],
-  "readings": [],
-  "listening": []
+  "readings": [
+   "read:hsk5:004"
+  ],
+  "listening": [
+   "listen:hsk5:002"
+  ]
  },
  {
   "id": "unit:hsk5:21",
@@ -1691,8 +1707,12 @@
    "vocab:hsk5:gu3dai4-古代",
    "vocab:hsk5:gu3dian3-古典"
   ],
-  "grammar": [],
-  "readings": [],
+  "grammar": [
+   "gram:hsk5:zong-suan-zhong-yu"
+  ],
+  "readings": [
+   "read:hsk5:005"
+  ],
   "listening": []
  },
  {
@@ -1752,7 +1772,9 @@
    "vocab:hsk5:suo1duan3-缩短",
    "vocab:hsk5:kong4xian2-空闲"
   ],
-  "grammar": [],
+  "grammar": [
+   "gram:hsk5:nan-guai"
+  ],
   "readings": [],
   "listening": []
  },
@@ -1813,7 +1835,9 @@
    "vocab:hsk5:cheng1zan4-称赞",
    "vocab:hsk5:you2lan3-游览"
   ],
-  "grammar": [],
+  "grammar": [
+   "gram:hsk5:shi-er"
+  ],
   "readings": [],
   "listening": []
  },
@@ -1875,7 +1899,9 @@
    "vocab:hsk5:e4lie4-恶劣",
    "vocab:hsk5:cu4shi3-促使"
   ],
-  "grammar": [],
+  "grammar": [
+   "gram:hsk5:zong-zhi"
+  ],
   "readings": [],
   "listening": []
  },
@@ -1932,9 +1958,13 @@
    "vocab:hsk5:jian1ju4-艰巨",
    "vocab:hsk5:deng1ji1pai2-登机牌"
   ],
-  "grammar": [],
+  "grammar": [
+   "gram:hsk5:he-bi"
+  ],
   "readings": [],
-  "listening": []
+  "listening": [
+   "listen:hsk5:006"
+  ]
  },
  {
   "id": "unit:hsk5:30",
@@ -1988,8 +2018,12 @@
    "vocab:hsk5:zhen3tou5-枕头",
    "vocab:hsk5:sheng3lüe4-省略"
   ],
-  "grammar": [],
-  "readings": [],
+  "grammar": [
+   "gram:hsk5:he-kuang"
+  ],
+  "readings": [
+   "read:hsk5:006"
+  ],
   "listening": []
  },
  {
@@ -2102,7 +2136,9 @@
   ],
   "grammar": [],
   "readings": [],
-  "listening": []
+  "listening": [
+   "listen:hsk5:005"
+  ]
  },
  {
   "id": "unit:hsk5:33",
@@ -2162,7 +2198,10 @@
    "vocab:hsk5:rong2hua4-融化",
    "vocab:hsk5:mai4ke4feng1-麦克风"
   ],
-  "grammar": [],
+  "grammar": [
+   "gram:hsk5:ning-ke",
+   "gram:hsk5:fan-shi"
+  ],
   "readings": [],
   "listening": []
  },
@@ -2285,8 +2324,12 @@
    "vocab:hsk5:hu2xu1-胡须",
    "vocab:hsk5:hu2tong4-胡同"
   ],
-  "grammar": [],
-  "readings": [],
+  "grammar": [
+   "gram:hsk5:xing-kui"
+  ],
+  "readings": [
+   "read:hsk5:007"
+  ],
   "listening": []
  },
  {
@@ -2456,7 +2499,9 @@
    "vocab:hsk5:mei2tan4-煤炭",
    "vocab:hsk5:fa1chou2-发愁"
   ],
-  "grammar": [],
+  "grammar": [
+   "gram:hsk5:yu-qi-bu-ru"
+  ],
   "readings": [],
   "listening": []
  },
@@ -2507,7 +2552,9 @@
    "vocab:hsk5:zhao2liang2-着凉",
    "vocab:hsk5:dan3xiao3gui3-胆小鬼"
   ],
-  "grammar": [],
+  "grammar": [
+   "gram:hsk5:bu-jian-de"
+  ],
   "readings": [],
   "listening": []
  },
@@ -2560,8 +2607,12 @@
    "vocab:hsk5:duan3xin4-短信",
    "vocab:hsk5:shi3jin4r55-使劲儿"
   ],
-  "grammar": [],
-  "readings": [],
+  "grammar": [
+   "gram:hsk5:nan-mian"
+  ],
+  "readings": [
+   "read:hsk5:008"
+  ],
   "listening": []
  }
 ]

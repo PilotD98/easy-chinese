@@ -9,8 +9,8 @@ export const GRAMMAR = [
     explanation_ja: '「而已」は文末に置いて、「それだけのことだ、それ以上ではない」と範囲を限定します。多くの場合、前に「只是」「不过」「只不过」を置いて、限定の意味をはっきりさせます。「罢了」はやや投げやりで口語的ですが、「而已」は中立的で、話し言葉にも書き言葉にも使われます。主張をやわらげたり、自分の役割を控えめに言ったりするときによく使います。',
     ex: [
       ['我只是随便问问而已。', 'wǒ zhǐ shì suí biàn wèn wèn ér yǐ.', 'I was just asking casually, that is all.', '私はただ何となく聞いてみただけです。'],
-      ['这不过是一个小小的事故而已。', 'zhè bu guò shì yī ge xiǎo xiǎo de shì gù ér yǐ.', 'This is merely a minor accident, nothing more.', 'これは小さな事故にすぎません。'],
-      ['他只不过是个普通的成员而已，没有决定权。', 'tā zhǐ bu guò shì gè pǔ tōng de chéng yuán ér yǐ, méi yǒu jué dìng quán.', 'He is just an ordinary member; he has no power to decide.', '彼はただの一般メンバーにすぎず、決定権はありません。'],
+      ['这不过是一个小小的事故而已。', 'zhè bù guò shì yī ge xiǎo xiǎo de shì gù ér yǐ.', 'This is merely a minor accident, nothing more.', 'これは小さな事故にすぎません。'],
+      ['他只不过是个普通的成员而已，没有决定权。', 'tā zhǐ bù guò shì ge pǔ tōng de chéng yuán ér yǐ, méi yǒu jué dìng quán.', 'He is just an ordinary member; he has no power to decide.', '彼はただの一般メンバーにすぎず、決定権はありません。'],
       ['我说说而已，你别当真。', 'wǒ shuō shuō ér yǐ, nǐ bié dàng zhēn.', 'I am only saying it; do not take it seriously.', '言ってみただけですから、本気にしないでください。'],
     ],
     mistakes: ['Putting 而已 before the verb: it always ends the sentence.', 'Using 而已 to mean "already" (already is 已经).'],
@@ -66,7 +66,7 @@ export const GRAMMAR = [
     explanation_ja: '「于」は動詞や形容詞の直後に付き、いくつかの口語の前置詞に相当します。場所・時間の動詞の後では「在」の意味で、「位于」「生于」「死于」のように使います。態度を表す動詞の後では「对／向」の意味になり、「有利于」「忠于」などがあります。形容詞の後では「比」の意味で、「高于」「低于」と比較します。「在」「比」と違って動詞の前には置かず、「于」の句はつねに後ろに続くため、書き言葉らしい響きになります。',
     ex: [
       ['这座城市位于中国的南部。', 'zhè zuò chéng shì wèi yú zhōng guó de nán bù.', 'This city is located in the south of China.', 'この都市は中国の南部に位置しています。'],
-      ['他生于1990年，长于北京。', 'tā shēng yú1990 nián, cháng yú běi jīng.', 'He was born in 1990 and grew up in Beijing.', '彼は1990年に生まれ、北京で育ちました。'],
+      ['他生于上海，长于北京。', 'tā shēng yú shàng hǎi, zhǎng yú běi jīng.', 'He was born in Shanghai and grew up in Beijing.', '彼は上海に生まれ、北京で育ちました。'],
       ['今年的产量高于去年。', 'jīn nián de chǎn liàng gāo yú qù nián.', 'This year\'s output is higher than last year\'s.', '今年の生産量は昨年より高いです。'],
       ['这种做法不利于团结。', 'zhè zhǒng zuò fǎ bù lì yú tuán jié.', 'This practice is not conducive to unity.', 'このやり方は団結のためになりません。'],
     ],
@@ -122,7 +122,7 @@ export const GRAMMAR = [
     explanation: '以 is the written form of 用 ("by means of"): 以英语交流 "communicate in English", 以最快的速度 "at top speed". It also gives a reason in set phrases such as 以此为理由, and the pattern 以 A 为 B means "take A as B": 以客户为中心 "customer-centred". 足以 + verb means "enough to", and 以…的方式 is "in the manner of". Because 以 is literary, it is paired with two-syllable, formal verbs rather than with everyday ones.',
     explanation_ja: '「以」は「用」（…を用いて）の書き言葉で、「以英语交流」「以最快的速度」のように使います。「以此为理由」のように理由を表す慣用句もあり、「以A为B」はAをBとみなす・Bとするという意味です（「以客户为中心」）。「足以＋動詞」は「…するのに十分だ」、「以…的方式」は「…の方法で」です。「以」は文語なので、日常的な動詞よりも二音節の改まった動詞と組み合わせます。',
     ex: [
-      ['我们应该以事实为依据。', 'wǒ men yīng gāi yǐ shì shí wèi yī jù.', 'We should take the facts as our basis.', '私たちは事実を根拠とすべきです。'],
+      ['我们应该以事实为依据。', 'wǒ men yīng gāi yǐ shì shí wéi yī jù.', 'We should take the facts as our basis.', '私たちは事実を根拠とすべきです。'],
       ['他以优异的成绩毕业。', 'tā yǐ yōu yì de chéng jì bì yè.', 'He graduated with outstanding results.', '彼は優秀な成績で卒業しました。'],
       ['这些证据足以证明他是清白的。', 'zhè xiē zhèng jù zú yǐ zhèng míng tā shì qīng bái de.', 'This evidence is enough to prove that he is innocent.', 'これらの証拠は、彼が潔白であることを証明するのに十分です。'],
       ['公司以合理的价格提供服务。', 'gōng sī yǐ hé lǐ de jià gé tí gōng fú wù.', 'The company provides services at a reasonable price.', '会社は適正な価格でサービスを提供しています。'],
@@ -218,7 +218,7 @@ export const GRAMMAR = [
     explanation_ja: '「不止」は「…で止まらない、…以上」の意味で、数量の前に置きます（「不止一次」「不止三年」）。「不只」は「…だけでなく」で、「不但／不仅」と同じように後半に「还」「也」「而且」を伴います（「不只他，我们也去」）。同音なので混同しやすいですが、数量には「止」（止まる）、「…だけでなく」には「只」（だけ）と覚えてください。「不止」は「大笑不止」のように動詞の後に置いて「止まらない」を表すこともあります。',
     ex: [
       ['我提醒过他不止一次。', 'wǒ tí xǐng guò tā bù zhǐ yī cì.', 'I have reminded him more than once.', '私は彼に一度ならず注意しました。'],
-      ['参加的人不止一百个。', 'cān jiā de rén bù zhǐ yī bǎi gè.', 'More than a hundred people took part.', '参加者は百人にとどまりませんでした。'],
+      ['参加的人不止一百个。', 'cān jiā de rén bù zhǐ yī bǎi ge.', 'More than a hundred people took part.', '参加者は百人にとどまりませんでした。'],
       ['不只孩子喜欢，大人也喜欢这个节目。', 'bù zhǐ hái zi xǐ huan, dà ren yě xǐ huan zhè ge jié mù.', 'Not only children but adults like this programme too.', '子どもだけでなく、大人もこの番組が好きです。'],
       ['他不只会说英语，还会说法语。', 'tā bù zhǐ huì shuō yīng yǔ, hái huì shuō fǎ yǔ.', 'He not only speaks English but also French.', '彼は英語だけでなく、フランス語も話せます。'],
     ],
@@ -352,7 +352,7 @@ export const GRAMMAR = [
     ex: [
       ['你不妨先听听他的意见。', 'nǐ bù fáng xiān tīng tīng tā de yì jiàn.', 'You might as well hear his opinion first.', 'まず彼の意見を聞いてみてはどうでしょうか。'],
       ['既然有机会，不妨去试一试。', 'jì rán yǒu jī huì, bù fáng qù shì yī shì.', 'Since there is a chance, why not give it a try?', 'せっかく機会があるのですから、試してみてもいいでしょう。'],
-      ['他不过是开个玩笑罢了，别生气。', 'tā bù guò shì kāi gè wán xiào bà le, bié shēng qì.', 'He was only joking; do not be angry.', '彼はただ冗談を言っただけですから、怒らないでください。'],
+      ['他不过是开个玩笑罢了，别生气。', 'tā bù guò shì kāi ge wán xiào bà le, bié shēng qì.', 'He was only joking; do not be angry.', '彼はただ冗談を言っただけですから、怒らないでください。'],
       ['我只是运气好罢了。', 'wǒ zhǐ shì yùn qi hǎo bà le.', 'I was merely lucky, that is all.', '私はただ運がよかっただけです。'],
     ],
     mistakes: ['Using 不妨 in the negative (不不妨): the word is already a suggestion.', 'Putting 罢了 in the middle of a sentence; it is final.'],
@@ -371,8 +371,8 @@ export const GRAMMAR = [
     ex: [
       ['看到老照片，她不禁流下了眼泪。', 'kàn dào lǎo zhào piàn, tā bù jīn liú xià le yǎn lèi.', 'Seeing the old photos, she could not help shedding tears.', '古い写真を見て、彼女は思わず涙を流しました。'],
       ['听到这个消息，大家不禁欢呼起来。', 'tīng dào zhè ge xiāo xi, dà jiā bù jīn huān hū qi lai.', 'Hearing the news, everyone burst into cheers.', 'その知らせを聞いて、みんな思わず歓声を上げました。'],
-      ['别担心，大不了重新开始。', 'bié dān xīn, dà bu liǎo chóng xīn kāi shǐ.', 'Do not worry; at worst we start again.', '心配しないで。最悪でもやり直せばいいだけです。'],
-      ['失败了也没什么大不了的。', 'shī bài le yě méi shén me dà bu liǎo de.', 'Even if we fail, it is no big deal.', '失敗しても大したことではありません。'],
+      ['别担心，大不了重新开始。', 'bié dān xīn, dà bù liǎo chóng xīn kāi shǐ.', 'Do not worry; at worst we start again.', '心配しないで。最悪でもやり直せばいいだけです。'],
+      ['失败了也没什么大不了的。', 'shī bài le yě méi shén me dà bù liǎo de.', 'Even if we fail, it is no big deal.', '失敗しても大したことではありません。'],
     ],
     mistakes: ['Using 不禁 with a deliberate action: 不禁决定 is wrong; the verb must be involuntary.', 'Reading 大不了 as "very big"; it means "the worst case".'],
     mistakes_ja: ['意図的な行動には使えません（「不禁决定」は誤り）。動詞は無意識の反応でなければなりません。', '「大不了」を「とても大きい」と読まないでください。「最悪の場合」の意味です。'],
@@ -445,7 +445,7 @@ export const GRAMMAR = [
     explanation: '免得 and 省得 both mean "so as to avoid, to save (someone) the trouble of" and begin the second clause, exactly like 以免. They are colloquial: 免得 is neutral everyday speech, 省得 stresses saving effort or trouble (省 "save"). The clause after them names the unwanted result directly, without 不. In a formal notice choose 以免; in conversation 免得 / 省得 sound natural.',
     explanation_ja: '「免得」「省得」はどちらも「…しないように、…の手間を省くために」の意味で、「以免」と同じく後半の節の頭に置きます。口語的で、「免得」は日常のふつうの言い方、「省得」は手間や面倒を省くことを強調します（「省」は「省く」）。後ろには望ましくない結果を「不」なしでそのまま置きます。改まった掲示では「以免」を、会話では「免得／省得」を使うと自然です。',
     ex: [
-      ['你先打个电话，免得白跑一趟。', 'nǐ xiān dǎ gè diàn huà, miǎn de bái pǎo yī tàng.', 'Call first so that you do not make a wasted trip.', '無駄足にならないように、先に電話しておきなさい。'],
+      ['你先打个电话，免得白跑一趟。', 'nǐ xiān dǎ ge diàn huà, miǎn de bái pǎo yī tàng.', 'Call first so that you do not make a wasted trip.', '無駄足にならないように、先に電話しておきなさい。'],
       ['带把伞吧，免得淋雨。', 'dài bǎ sǎn ba, miǎn de lín yǔ.', 'Take an umbrella so that you do not get rained on.', '雨に濡れないように、傘を持って行きなさい。'],
       ['我今天把作业做完，省得明天着急。', 'wǒ jīn tiān bǎ zuò yè zuò wán, shěng de míng tiān zháo jí.', 'I will finish the homework today to save myself rushing tomorrow.', '明日慌てなくて済むように、今日宿題を終わらせます。'],
       ['早点告诉他，省得他担心。', 'zǎo diǎn gào su tā, shěng de tā dān xīn.', 'Tell him early to spare him worry.', '彼が心配しなくて済むように、早めに伝えてください。'],
@@ -541,7 +541,7 @@ export const GRAMMAR = [
     explanation_ja: '「进行」（行う）は二音節の動作動詞を目的語にとる軽い動詞です（「进行讨论」「进行调查」「进行研究」）。対象は「进行」の前に「对」で導くので、「我们讨论了这个问题」は「我们对这个问题进行了讨论」となります。文が長く改まった印象になるため、報告書やスピーチで多用されます。「作为」（…として）は行動する立場を示し（「作为老师，我有责任…」）、「把…作为…」（…を…とする）という動詞の用法もあります。どちらも公的・学術的な文体に典型的です。',
     ex: [
       ['警方对事故原因进行了调查。', 'jǐng fāng duì shì gù yuán yīn jìn xíng le diào chá.', 'The police conducted an investigation into the cause of the accident.', '警察は事故の原因について調査を行いました。'],
-      ['双方将就合作问题进行讨论。', 'shuāng fāng jiāng jiu hé zuò wèn tí jìn xíng tǎo lùn.', 'The two sides will hold discussions on cooperation.', '双方は協力の問題について討議を行う予定です。'],
+      ['双方将就合作问题进行讨论。', 'shuāng fāng jiāng jiù hé zuò wèn tí jìn xíng tǎo lùn.', 'The two sides will hold discussions on cooperation.', '双方は協力の問題について討議を行う予定です。'],
       ['作为一名医生，他必须保护患者的隐私。', 'zuò wéi yī míng yī shēng, tā bì xū bǎo hù huàn zhě de yǐn sī.', 'As a doctor, he must protect his patients\' privacy.', '医師として、彼は患者のプライバシーを守らなければなりません。'],
       ['我们把这次失败作为一次教训。', 'wǒ men bǎ zhè cì shī bài zuò wéi yī cì jiào xun.', 'We take this failure as a lesson.', '私たちはこの失敗を一つの教訓とします。'],
     ],
@@ -579,7 +579,7 @@ export const GRAMMAR = [
     explanation_ja: '中国語は四字のリズムを好み、いくつかの型が新しい表現を生み出します。「不A不B」は反対語を入れると「…でも…でもない、ちょうどよい」を表し（「不大不小」「不快不慢」）、類義語を入れると強い否定になります（「不知不觉」）。「一A一B」は名詞や動詞を入れて一つずつ・交互の意味を表します（「一步一步」「一问一答」）。「有A有B」はそろっているものを並べ、「完全な、整った」という意味になることが多いです（「有说有笑」「有头有尾」）。「半A半B」は「半分…半分…」です（「半信半疑」）。自由に新語を作るより、慣用句として覚えてください。',
     ex: [
       ['这件衣服不大不小，正合适。', 'zhè jiàn yī fu bù dà bù xiǎo, zhèng hé shì.', 'This garment is neither too big nor too small; it fits just right.', 'この服は大きすぎず小さすぎず、ちょうどいいです。'],
-      ['他们一边走一边聊，不知不觉到了车站。', 'tā men yī biān zǒu yī biān liáo, bù zhī bù jué dào liǎo chē zhàn.', 'They chatted as they walked and reached the station before they knew it.', '二人は歩きながらおしゃべりをして、気づかないうちに駅に着きました。'],
+      ['他们一边走一边聊，不知不觉到了车站。', 'tā men yī biān zǒu yī biān liáo, bù zhī bù jué dào le chē zhàn.', 'They chatted as they walked and reached the station before they knew it.', '二人は歩きながらおしゃべりをして、気づかないうちに駅に着きました。'],
       ['孩子们有说有笑，气氛很热闹。', 'hái zi men yǒu shuō yǒu xiào, qì fēn hěn rè nao.', 'The children were talking and laughing; the atmosphere was lively.', '子どもたちは話したり笑ったりして、とてもにぎやかでした。'],
       ['对这个消息，他半信半疑。', 'duì zhè ge xiāo xi, tā bàn xìn bàn yí.', 'He half believed and half doubted the news.', 'その知らせを、彼は半信半疑で聞きました。'],
     ],
@@ -617,8 +617,8 @@ export const GRAMMAR = [
     explanation_ja: '「无非」は「…にすぎない、…にほかならない」の意味で、事柄が後に続く内容だけであると断じ、やや軽く見る語気を含みます。述語の前、多くは「是」とともに置き、文末を「而已」や「罢了」で締めることがよくあります（「他无非是想多赚点钱罢了」）。「原因无非两个」のように、考えられる可能性を短く列挙することもできます。「只是／只不过」より分析的で、改まった文体です。',
     ex: [
       ['他这样做无非是为了钱。', 'tā zhè yàng zuò wú fēi shì wèi le qián.', 'He is doing this for nothing but money.', '彼がそうするのは、ただ金のためにほかなりません。'],
-      ['失败的原因无非两个：准备不足和运气不好。', 'shī bài de yuán yīn wú fēi liǎng gè: zhǔn bèi bù zú hé yùn qi bù hǎo.', 'There are only two reasons for failure: poor preparation and bad luck.', '失敗の原因は二つしかありません。準備不足と運の悪さです。'],
-      ['我无非是说了几句实话罢了。', 'wǒ wú fēi shì shuō le jǐ gōu shí huà bà le.', 'I merely said a few true words, that is all.', '私はただ本当のことを少し言っただけです。'],
+      ['失败的原因无非两个：准备不足和运气不好。', 'shī bài de yuán yīn wú fēi liǎng ge: zhǔn bèi bù zú hé yùn qi bù hǎo.', 'There are only two reasons for failure: poor preparation and bad luck.', '失敗の原因は二つしかありません。準備不足と運の悪さです。'],
+      ['我无非是说了几句实话罢了。', 'wǒ wú fēi shì shuō le jǐ jù shí huà bà le.', 'I merely said a few true words, that is all.', '私はただ本当のことを少し言っただけです。'],
       ['所谓的办法，无非是多练习。', 'suǒ wèi de bàn fǎ, wú fēi shì duō liàn xí.', 'The so-called method is nothing but lots of practice.', 'いわゆる方法とは、練習を重ねることにほかなりません。'],
     ],
     mistakes: ['Reading 无非 as "right and wrong" (that is 是非).', 'Using 无非 when the content is impressive; it minimises.'],
@@ -675,7 +675,7 @@ export const GRAMMAR = [
     ex: [
       ['凡是报名的人都可以参加培训。', 'fán shì bào míng de rén dōu kě yǐ cān jiā péi xùn.', 'Everyone who registers may take part in the training.', '申し込んだ人は誰でも研修に参加できます。'],
       ['凡是过期的食品一律不能出售。', 'fán shì guò qī de shí pǐn yī lǜ bù néng chū shòu.', 'Any food past its date may not be sold.', '期限切れの食品はすべて販売してはいけません。'],
-      ['凡是他说过的话，他都会做到。', 'fán shì tā shuō guò de huà, tā dū huì zuò dào.', 'Whatever he has said, he will do.', '彼は自分が言ったことはすべて実行します。'],
+      ['凡是他说过的话，他都会做到。', 'fán shì tā shuō guò de huà, tā dōu huì zuò dào.', 'Whatever he has said, he will do.', '彼は自分が言ったことはすべて実行します。'],
       ['凡与本案有关的材料均已提交。', 'fán yǔ běn àn yǒu guān de cái liào jūn yǐ tí jiāo.', 'All materials related to this case have been submitted.', '本件に関する資料はすべて提出済みです。'],
     ],
     mistakes: ['Omitting 都 / 一律 in the main clause.', 'Using 凡是 for a single specific item; it generalises.'],
@@ -693,9 +693,9 @@ export const GRAMMAR = [
     explanation_ja: '「若」「倘若」「倘使」「假使」は「如果」（もし）の書き言葉です。「若」は最も短く文語的で、ことわざや改まった文に多く見られます（「若有问题，请联系我们」）。「倘若」は論説文やスピーチで使う本格的な接続詞で、「假使」「假如」は条件が想像上のものであることを強調します。主節には「就」「便」（「就」の文語）「则」を使えます。文語の否定は「若不／若非」です。会話では「如果」「要是」が自然です。',
     ex: [
       ['倘若明天下雨，活动将改期举行。', 'tǎng ruò míng tiān xià yǔ, huó dòng jiāng gǎi qī jǔ xíng.', 'Should it rain tomorrow, the event will be rescheduled.', 'もし明日雨が降れば、イベントは日を改めて行われます。'],
-      ['若有任何疑问，请随时联系我们。', 'rě yǒu rèn hé yí wèn, qǐng suí shí lián xì wǒ men.', 'If you have any questions, please contact us at any time.', 'ご質問があれば、いつでもご連絡ください。'],
+      ['若有任何疑问，请随时联系我们。', 'ruò yǒu rèn hé yí wèn, qǐng suí shí lián xì wǒ men.', 'If you have any questions, please contact us at any time.', 'ご質問があれば、いつでもご連絡ください。'],
       ['假使当时他听了劝告，就不会出事。', 'jiǎ shǐ dāng shí tā tīng le quàn gào, jiù bù huì chū shì.', 'Had he taken the advice at the time, nothing would have happened.', 'もしあのとき彼が忠告を聞いていたら、事故は起きなかったでしょう。'],
-      ['若不努力，便难以成功。', 'rě bù nǔ lì, biàn nàn yǐ chéng gōng.', 'Without effort, success is hard to achieve.', '努力しなければ、成功は難しいです。'],
+      ['若不努力，便难以成功。', 'ruò bù nǔ lì, biàn nán yǐ chéng gōng.', 'Without effort, success is hard to achieve.', '努力しなければ、成功は難しいです。'],
     ],
     mistakes: ['Writing 若 in a casual text message, where 要是 fits.', 'Pairing 倘若 with 但是 instead of 就 / 则 / 便.'],
     mistakes_ja: ['くだけたメッセージに「若」は硬すぎます。「要是」が合います。', '「倘若」の相手は「但是」ではなく「就／则／便」です。'],
@@ -778,7 +778,7 @@ export const GRAMMAR = [
     exercises: [
       { type: 'fill', prompt: '＿天气恶劣，比赛被迫取消。', answer: '由于', choices: ['由于', '因此', '从而'], why: '由于 opens the cause clause.', why_ja: '「由于」で原因の節を始めます。' },
       { type: 'choose', prompt: 'Which sentence is natural formal Chinese?', prompt_ja: '自然な改まった中国語はどれですか。', answer: '由于缺乏资金，计划因而推迟。', choices: ['由于缺乏资金，计划因而推迟。', '计划推迟，由于缺乏资金。', '因而缺乏资金，计划由于推迟。'], why: '由于 + cause first, 因而 + result.', why_ja: '「由于＋原因」を先に、「因而＋結果」を後に置きます。' },
-      { type: 'produce', prompt: 'Write formally: "Owing to his efforts, the problem was finally solved."', prompt_ja: '書き言葉で「彼の努力により、問題はついに解決された」と書く', answer: '由于他的努力，问题终于得到了解决', answerPinyin: 'yóu yú tā de nǔ lì, wèn tí zhōng yú dé dào liǎo jiě jué', why: '由于 + noun phrase, then the result.', why_ja: '「由于＋名詞句」の後に結果を述べます。' },
+      { type: 'produce', prompt: 'Write formally: "Owing to his efforts, the problem was finally solved."', prompt_ja: '書き言葉で「彼の努力により、問題はついに解決された」と書く', answer: '由于他的努力，问题终于得到了解决', answerPinyin: 'yóu yú tā de nǔ lì, wèn tí zhōng yú dé dào le jiě jué', why: '由于 + noun phrase, then the result.', why_ja: '「由于＋名詞句」の後に結果を述べます。' },
     ] },
 
   // ───────────────────────── Unit 49 ─────────────────────────
@@ -789,7 +789,7 @@ export const GRAMMAR = [
     ex: [
       ['这就是我所了解的全部情况。', 'zhè jiù shì wǒ suǒ liǎo jiě de quán bù qíng kuàng.', 'This is all that I know of the situation.', 'これが私の知っている状況のすべてです。'],
       ['请准备好申请所需的材料。', 'qǐng zhǔn bèi hǎo shēn qǐng suǒ xū de cái liào.', 'Please prepare the materials required for the application.', '申請に必要な書類を準備してください。'],
-      ['他的建议为大家所接受。', 'tā de jiàn yì wèi dà jiā suǒ jiē shòu.', 'His suggestion was accepted by everyone.', '彼の提案はみんなに受け入れられました。'],
+      ['他的建议为大家所接受。', 'tā de jiàn yì wéi dà jiā suǒ jiē shòu.', 'His suggestion was accepted by everyone.', '彼の提案はみんなに受け入れられました。'],
       ['所谓成功，就是不断进步。', 'suǒ wèi chéng gōng, jiù shì bù duàn jìn bù.', 'So-called success is simply constant progress.', 'いわゆる成功とは、絶えず進歩することにほかなりません。'],
     ],
     mistakes: ['Putting a noun directly after 所 (所问题 is wrong).', 'Using 为 … 所 … in casual speech where 被 is natural.'],
@@ -844,7 +844,7 @@ export const GRAMMAR = [
     explanation: '岂 asks a rhetorical question that expects the opposite answer: 岂能放弃 "how could we possibly give up?", 岂不是 "is it not …?", 岂有此理 "how outrageous!". 何尝 means "when did (I) ever …?": 我何尝不想去 "it is not that I do not want to go". Both are literary and give the sentence a strong, dignified emphasis; the everyday equivalent is 难道 … 吗. Remember that the surface question is really an assertion of the contrary.',
     explanation_ja: '「岂」は反対の答えを期待する反語を作ります（「岂能放弃」どうしてあきらめられようか、「岂不是」…ではないか、「岂有此理」とんでもない）。「何尝」は「いつ…したことがあろうか」の意味です（「我何尝不想去」行きたくないわけではない）。どちらも文語で、文に強く格調ある強調を与えます。日常では「难道…吗」が相当します。表面は疑問でも、実際には反対の内容を断言していると覚えてください。',
     ex: [
-      ['这么好的机会，我们岂能放弃？', 'zhè me hǎo de jī huì, wǒ men kǎi néng fàng qì?', 'Such a good opportunity: how could we give it up?', 'こんな良い機会を、どうしてあきらめられるでしょうか。'],
+      ['这么好的机会，我们岂能放弃？', 'zhè me hǎo de jī huì, wǒ men qǐ néng fàng qì?', 'Such a good opportunity: how could we give it up?', 'こんな良い機会を、どうしてあきらめられるでしょうか。'],
       ['他不打招呼就走了，岂有此理！', 'tā bù dǎ zhāo hu jiù zǒu le, qǐ yǒu cǐ lǐ!', 'He left without a word; how outrageous!', '彼は挨拶もなしに帰ってしまった。まったくけしからん。'],
       ['这样做岂不是更麻烦？', 'zhè yàng zuò qǐ bù shì gèng má fan?', 'Would that not be even more troublesome?', 'そうするともっと面倒ではありませんか。'],
       ['我何尝不想回家？只是工作太忙。', 'wǒ hé cháng bù xiǎng huí jiā? zhǐ shì gōng zuò tài máng.', 'It is not that I do not want to go home; I am simply too busy with work.', '家に帰りたくないわけではありません。ただ仕事が忙しすぎるのです。'],

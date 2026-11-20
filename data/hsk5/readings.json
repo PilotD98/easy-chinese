@@ -1,1 +1,386 @@
-[]
+[
+ {
+  "id": "read:hsk5:001",
+  "level": "hsk5",
+  "unit": 5,
+  "order": 590,
+  "title": "新图书馆",
+  "en": "The new library",
+  "ja": "新しい図書館",
+  "text": "本市政府昨天宣布，一个新的图书馆项目已经正式开始建设。这个图书馆由一位有名的设计师设计，位置在市中心的公园旁边。政府表示，目前市里只有两个图书馆，对于一个有三百万人口的城市来说，显然不够。新图书馆建成以后，不但可以保存更多的书，同时还会有一个很大的孩子活动中心。设计师说，他希望利用自然光，创造一个安静，舒服的学习空间。很多市民对这个项目充满期待。一位老人说，他每天都去图书馆看报，以后离家就更近了。也有人担心，项目的费用太高，会影响其他的建设。政府回答，费用已经确定，不会影响其他项目。图书馆预计两年后开放。",
+  "pinyin": "běn shì zhèng fǔ zuó tiān xuān bù, yī ge xīn de tú shū guǎn xiàng mù yǐ jīng zhèng shì kāi shǐ jiàn shè. zhè ge tú shū guǎn yóu yī wèi yǒu míng de shè jì shī shè jì, wèi zhi zài shì zhōng xīn de gōng yuán páng biān. zhèng fǔ biǎo shì, mù qián shì lǐ zhǐ yǒu liǎng ge tú shū guǎn, duì yú yī ge yǒu sān bǎi wàn rén kǒu de chéng shì lái shuō, xiǎn rán bù gòu. xīn tú shū guǎn jiàn chéng yǐ hòu, bù dàn kě yǐ bǎo cún gèng duō de shū, tóng shí hái huì yǒu yī ge hěn dà de hái zi huó dòng zhōng xīn. shè jì shī shuō, tā xī wàng lì yòng zì rán guāng, chuàng zào yī ge ān jìng, shū fu de xué xí kōng jiān. hěn duō shì mín duì zhè ge xiàng mù chōng mǎn qī dài. yī wèi lǎo rén shuō, tā měi tiān dōu qù tú shū guǎn kàn bào, yǐ hòu lí jiā jiù gèng jìn le. yě yǒu rén dān xīn, xiàng mù de fèi yòng tài gāo, huì yǐng xiǎng qí tā de jiàn shè. zhèng fǔ huí dá, fèi yòng yǐ jīng què dìng, bù huì yǐng xiǎng qí tā xiàng mù. tú shū guǎn yù jì liǎng nián hòu kāi fàng.",
+  "enText": "The city government announced yesterday that a new library project has officially begun construction. The library is designed by a well-known designer and is located next to the park in the city centre. The government said that the city currently has only two libraries, which is clearly not enough for a city of three million people. Once built, the new library will not only store more books but also have a large children's activity centre. The designer said he hopes to use natural light to create a quiet, comfortable study space. Many residents are full of expectation. One old man said he goes to the library every day to read the paper, and it will soon be closer to home. Some worry that the cost is too high and will affect other construction. The government replied that the cost is fixed and will not affect other projects. The library is expected to open in two years.",
+  "jaText": "市政府は昨日、新しい図書館プロジェクトが正式に建設を開始したと発表しました。この図書館は有名な設計者が設計し、市中心部の公園の隣に位置します。政府によると、現在市内には図書館が二つしかなく、人口三百万の都市にとって明らかに不足しています。新図書館が完成すれば、より多くの本を保存できるだけでなく、大きな子ども活動センターも設けられます。設計者は自然光を利用して静かで快適な学習空間を作りたいと述べました。多くの市民がこのプロジェクトに期待しています。あるお年寄りは、毎日図書館で新聞を読んでおり、今後は家からもっと近くなると話しました。一方、費用が高すぎて他の建設に影響するのではと心配する声もあります。政府は、費用はすでに確定しており他のプロジェクトには影響しないと答えました。図書館は二年後に開館する予定です。",
+  "questions": [
+   {
+    "q": "新图书馆在什么地方？",
+    "choices": [
+     "市中心的公园旁边",
+     "大学里面",
+     "老人的家旁边"
+    ],
+    "answer": 0,
+    "why": "The text says 位置在市中心的公园旁边.",
+    "why_ja": "本文に「位置在市中心的公园旁边」とあります。"
+   },
+   {
+    "q": "政府为什么要建新图书馆？",
+    "choices": [
+     "因为老图书馆太旧了",
+     "因为现在的图书馆不够",
+     "因为设计师想建"
+    ],
+    "answer": 1,
+    "why": "Two libraries are 显然不够 for three million people.",
+    "why_ja": "三百万人の都市に図書館二つでは「显然不够」だからです。"
+   },
+   {
+    "q": "有人担心什么？",
+    "choices": [
+     "图书馆太小",
+     "图书馆离家太远",
+     "项目的费用太高"
+    ],
+    "answer": 2,
+    "why": "Some worry that 项目的费用太高.",
+    "why_ja": "「项目的费用太高」と心配する人がいます。"
+   }
+  ]
+ },
+ {
+  "id": "read:hsk5:002",
+  "level": "hsk5",
+  "unit": 11,
+  "order": 1190,
+  "title": "独立的第一年",
+  "en": "My first year of independence",
+  "ja": "自立の一年目",
+  "text": "我上大学的第一年，第一次离开家庭，独立生活。刚开始的时候，我简直什么都不会做。做饭，洗衣服，管理自己的钱，对我来说都是挑战。记得有一次，我把所有的钱都花完了，只好吃了一个星期的面包。那个阶段，我常常想念家里的饭菜。但是，慢慢地，我学会了观察别人怎么做，也学会了为自己制定规则。比如，每个月先把钱分成几部分，避免乱花。现在，一年过去了，我已经形成了良好的生活习惯。父母来看我的时候，发现我的房间很干净，我还会做几个菜，他们都很欣赏我的变化。我觉得，独立不是一下子就能学会的，而是在一次次的错误中慢慢成长的。这一年的记忆，我永远不会忘记。",
+  "pinyin": "wǒ shàng dà xué de dì yī nián, dì yī cì lí kāi jiā tíng, dú lì shēng huó. gāng kāi shǐ de shí hou, wǒ jiǎn zhí shén me dōu bù huì zuò. zuò fàn, xǐ yī fu, guǎn lǐ zì jǐ de qián, duì wǒ lái shuō dōu shì tiǎo zhàn. jì de yǒu yī cì, wǒ bǎ suǒ yǒu de qián dōu huā wán le, zhǐ hǎo chī le yī ge xīng qī de miàn bāo. nà ge jiē duàn, wǒ cháng cháng xiǎng niàn jiā lǐ de fàn cài. dàn shì, màn màn de, wǒ xué huì le guān chá bié rén zěn me zuò, yě xué huì le wèi zì jǐ zhì dìng guī zé. bǐ rú, měi ge yuè xiān bǎ qián fēn chéng jǐ bù fen, bì miǎn luàn huā. xiàn zài, yī nián guò qù le, wǒ yǐ jīng xíng chéng le liáng hǎo de shēng huó xí guàn. fù mǔ lái kàn wǒ de shí hou, fā xiàn wǒ de fáng jiān hěn gān jìng, wǒ hái huì zuò jǐ ge cài, tā men dōu hěn xīn shǎng wǒ de biàn huà. wǒ jué de, dú lì bù shì yī xià zi jiù néng xué huì de, ér shì zài yī cì cì de cuò wù zhōng màn màn chéng zhǎng de. zhè yī nián de jì yì, wǒ yǒng yuǎn bù huì wàng jì.",
+  "enText": "In my first year at university, I left my family for the first time and lived independently. At the beginning I simply could not do anything. Cooking, washing clothes and managing my own money were all challenges for me. I remember once spending all my money and having to eat bread for a week. In that period I often missed home cooking. But slowly I learned to watch how others did things and to make rules for myself, for example dividing my money into several parts each month to avoid wasting it. Now a year has passed and I have formed good living habits. When my parents came to visit, they found my room clean and I could even cook a few dishes; they appreciated the change in me. I think independence is not learned all at once but grown slowly through one mistake after another. I will never forget the memories of this year.",
+  "jaText": "大学一年目、私は初めて家族のもとを離れて一人暮らしをしました。最初はまったく何もできませんでした。料理、洗濯、お金の管理、どれも私には挑戦でした。一度お金を全部使ってしまい、一週間パンばかり食べたこともあります。その頃は家の料理がよく恋しくなりました。でも少しずつ、人のやり方を観察し、自分のために規則を作ることを覚えました。例えば毎月お金をいくつかに分けて、無駄遣いを避けるのです。今、一年が過ぎ、私は良い生活習慣を身につけました。両親が訪ねてきたとき、部屋がきれいで料理もいくつか作れるのを見て、私の変化をとても喜んでくれました。自立は一度に身につくものではなく、何度もの失敗の中でゆっくり育つものだと思います。この一年の記憶を、私は決して忘れません。",
+  "questions": [
+   {
+    "q": "刚开始独立生活的时候，作者怎么样？",
+    "choices": [
+     "什么都会做",
+     "简直什么都不会做",
+     "每天做饭"
+    ],
+    "answer": 1,
+    "why": "The text says 我简直什么都不会做.",
+    "why_ja": "本文に「我简直什么都不会做」とあります。"
+   },
+   {
+    "q": "作者为什么吃了一个星期的面包？",
+    "choices": [
+     "因为喜欢吃面包",
+     "因为把钱都花完了",
+     "因为不会做饭"
+    ],
+    "answer": 1,
+    "why": "我把所有的钱都花完了，只好吃面包.",
+    "why_ja": "「我把所有的钱都花完了」ので、パンを食べるしかなかったのです。"
+   },
+   {
+    "q": "作者认为独立是怎么学会的？",
+    "choices": [
+     "一下子就能学会",
+     "在错误中慢慢成长",
+     "父母教的"
+    ],
+    "answer": 1,
+    "why": "独立…是在一次次的错误中慢慢成长的.",
+    "why_ja": "「在一次次的错误中慢慢成长的」と述べています。"
+   }
+  ]
+ },
+ {
+  "id": "read:hsk5:003",
+  "level": "hsk5",
+  "unit": 15,
+  "order": 1590,
+  "title": "老人餐厅",
+  "en": "A restaurant run by the elderly",
+  "ja": "お年寄りのレストラン",
+  "text": "本市最近出现了一家特别的餐厅。这家餐厅的服务员都是六十岁以上的老人。餐厅的老板说，她开这家餐厅的目的，不是为了钱，而是想给老人提供一个交流的地方。很多老人退休以后，生活突然失去了平衡，每天呆在家里，情绪也不稳定。在这里工作，他们可以认识新朋友，也能感到自己仍然有价值。餐厅的气氛非常温暖。顾客进门的时候，老人们会微笑着打招呼，推荐他们自己最喜欢的菜。一位七十岁的服务员说，刚开始她有点儿紧张，怕记不住菜名，但是经过一个月的培养和练习，她已经完全适应了。现在，她每周固定工作三天，身体反而比以前更好了。这家餐厅的成功，使更多的人开始思考，如何让老人的生活转变得更有意义。",
+  "pinyin": "běn shì zuì jìn chū xiàn le yī jiā tè bié de cān tīng. zhè jiā cān tīng de fú wù yuán dōu shì liù shí suì yǐ shàng de lǎo rén. cān tīng de lǎo bǎn shuō, tā kāi zhè jiā cān tīng de mù dì, bù shì wèi le qián, ér shì xiǎng gěi lǎo rén tí gōng yī ge jiāo liú de dì fang. hěn duō lǎo rén tuì xiū yǐ hòu, shēng huó tū rán shī qù le píng héng, měi tiān dāi zài jiā lǐ, qíng xù yě bù wěn dìng. zài zhè lǐ gōng zuò, tā men kě yǐ rèn shi xīn péng you, yě néng gǎn dào zì jǐ réng rán yǒu jià zhí. cān tīng de qì fēn fēi cháng wēn nuǎn. gù kè jìn mén de shí hou, lǎo rén men huì wēi xiào zhe dǎ zhāo hu, tuī jiàn tā men zì jǐ zuì xǐ huan de cài. yī wèi qī shí suì de fú wù yuán shuō, gāng kāi shǐ tā yǒu diǎnr jǐn zhāng, pà jì bù zhù cài míng, dàn shì jīng guò yī ge yuè de péi yǎng hé liàn xí, tā yǐ jīng wán quán shì yìng le. xiàn zài, tā měi zhōu gù dìng gōng zuò sān tiān, shēn tǐ fǎn ér bǐ yǐ qián gèng hǎo le. zhè jiā cān tīng de chéng gōng, shǐ gèng duō de rén kāi shǐ sī kǎo, rú hé ràng lǎo rén de shēng huó zhuǎn biàn de gèng yǒu yì yì.",
+  "enText": "A special restaurant recently appeared in our city: all its waiters are over sixty. The owner says her aim is not money but to give old people a place to socialize. After retirement many old people suddenly lose their balance in life, stay at home all day and become emotionally unstable. Working here, they can meet new friends and feel they are still valuable. The atmosphere is very warm. When customers come in, the old people greet them with a smile and recommend their own favourite dishes. A seventy-year-old waitress said she was nervous at first, afraid of forgetting the dish names, but after a month of training and practice she has adapted completely. Now she works three fixed days a week, and her health is actually better than before. The restaurant's success has made more people think about how to make old people's lives more meaningful.",
+  "jaText": "最近、市内に特別なレストランが現れました。このレストランの店員は全員六十歳以上のお年寄りです。店主によると、店を開いた目的はお金のためではなく、お年寄りに交流の場を提供したかったからです。多くのお年寄りは退職後、生活のバランスを急に失い、毎日家にこもって気持ちも不安定になります。ここで働けば新しい友人と知り合い、自分にまだ価値があると感じられます。店の雰囲気はとても温かく、客が入ると、お年寄りたちは笑顔であいさつし、自分の一番好きな料理を勧めます。七十歳の店員は、最初は料理名を覚えられないかと緊張したが、一か月の指導と練習で完全に慣れたと言います。今は週に三日決まって働き、体はかえって以前より良くなりました。この店の成功は、お年寄りの生活をどう変えればもっと意味あるものになるか、より多くの人に考えさせています。",
+  "questions": [
+   {
+    "q": "这家餐厅的服务员是什么人？",
+    "choices": [
+     "大学生",
+     "六十岁以上的老人",
+     "老板的家人"
+    ],
+    "answer": 1,
+    "why": "服务员都是六十岁以上的老人.",
+    "why_ja": "「服务员都是六十岁以上的老人」です。"
+   },
+   {
+    "q": "老板开餐厅的目的是什么？",
+    "choices": [
+     "为了钱",
+     "给老人一个交流的地方",
+     "推荐好吃的菜"
+    ],
+    "answer": 1,
+    "why": "不是为了钱，而是想给老人提供一个交流的地方.",
+    "why_ja": "「不是为了钱，而是想给老人提供一个交流的地方」です。"
+   },
+   {
+    "q": "七十岁的服务员现在怎么样？",
+    "choices": [
+     "还是很紧张",
+     "身体比以前更好了",
+     "不想工作了"
+    ],
+    "answer": 1,
+    "why": "She has adapted and 身体反而比以前更好了.",
+    "why_ja": "すっかり慣れ、「身体反而比以前更好了」とあります。"
+   }
+  ]
+ },
+ {
+  "id": "read:hsk5:004",
+  "level": "hsk5",
+  "unit": 20,
+  "order": 2090,
+  "title": "一次小小的地震",
+  "en": "A small earthquake",
+  "ja": "小さな地震",
+  "text": "上个月的一天晚上，我在宿舍里看书，突然感到桌子在摇。几秒钟以后，我才明白，这是地震。虽然震动不大，但我还是很紧张。这时候，我想起学校在开学时教过的规则：地震时不要跑，先到桌子下面，等震动停了再离开房间。我按照规则做了。震动很快就停了，我们都跑到了楼下的空地上。同学们一边沟通情况，一边互相安慰。有一个同学特别紧张，一直沉默，什么也不说。我们都去陪她，趁等待的时间，跟她聊天。后来，老师来了，严肃地告诉我们，这次地震没有造成损失，但是大家一定要记住，平时遵守规则，关键时刻才能保护自己。这件事让我体会到，规则不是用来限制人的，而是用来保护人的。我也很感激我的同学们，在糟糕的时刻，大家仍然互相帮助。",
+  "pinyin": "shàng ge yuè de yī tiān wǎn shang, wǒ zài sù shè lǐ kàn shū, tū rán gǎn dào zhuō zi zài yáo. jǐ miǎo zhōng yǐ hòu, wǒ cái míng bai, zhè shì dì zhèn. suī rán zhèn dòng bù dà, dàn wǒ hái shì hěn jǐn zhāng. zhè shí hou, wǒ xiǎng qǐ xué xiào zài kāi xué shí jiāo guò de guī zé: dì zhèn shí bù yào pǎo, xiān dào zhuō zi xià miàn, děng zhèn dòng tíng le zài lí kāi fáng jiān. wǒ àn zhào guī zé zuò le. zhèn dòng hěn kuài jiù tíng le, wǒ men dōu pǎo dào le lóu xià de kòng dì shàng. tóng xué men yī biān gōu tōng qíng kuàng, yī biān hù xiāng ān wèi. yǒu yī ge tóng xué tè bié jǐn zhāng, yī zhí chén mò, shén me yě bù shuō. wǒ men dōu qù péi tā, chèn děng dài de shí jiān, gēn tā liáo tiān. hòu lái, lǎo shī lái le, yán sù de gào su wǒ men, zhè cì dì zhèn méi yǒu zào chéng sǔn shī, dàn shì dà jiā yī dìng yào jì zhù, píng shí zūn shǒu guī zé, guān jiàn shí kè cái néng bǎo hù zì jǐ. zhè jiàn shì ràng wǒ tǐ huì dào, guī zé bù shì yòng lái xiàn zhì rén de, ér shì yòng lái bǎo hù rén de. wǒ yě hěn gǎn jī wǒ de tóng xué men, zài zāo gāo de shí kè, dà jiā réng rán hù xiāng bāng zhù.",
+  "enText": "One evening last month I was reading in the dormitory when I suddenly felt the table shaking. A few seconds later I realized it was an earthquake. Although the shaking was not strong, I was still nervous. Then I remembered the rules the school had taught at the start of term: do not run during an earthquake; first get under the table and leave the room only when the shaking stops. I did as the rules said. The shaking soon stopped and we all ran to the open ground downstairs. Classmates exchanged information and comforted each other. One classmate was especially nervous and stayed silent, so we all kept her company and chatted with her while we waited. Later the teacher came and told us seriously that the earthquake had caused no damage, but we must remember that following rules in ordinary times is what protects us at the critical moment. This made me realize that rules are not meant to restrict people but to protect them. I am also grateful to my classmates, who kept helping each other at a bad moment.",
+  "jaText": "先月のある晩、寮で本を読んでいると、突然机が揺れるのを感じました。数秒後、これは地震だと分かりました。揺れは大きくありませんでしたが、やはり緊張しました。そのとき、学校が学期の初めに教えてくれた規則を思い出しました。地震のときは走らず、まず机の下に入り、揺れが止まってから部屋を出る、というものです。私は規則どおりにしました。揺れはすぐ止まり、私たちは階下の空き地へ走りました。クラスメートは状況を伝え合いながら、互いに慰め合いました。特に緊張して黙り込んでいる子がいたので、みんなで付き添い、待つ間におしゃべりをしました。その後、先生が来て、今回の地震は損害を出さなかったが、普段から規則を守ってこそ肝心なときに自分を守れるのだと真剣に話しました。この出来事で、規則は人を制限するためではなく守るためにあるのだと実感しました。ひどい時にも助け合ってくれたクラスメートにも感謝しています。",
+  "questions": [
+   {
+    "q": "地震的时候，作者在做什么？",
+    "choices": [
+     "在宿舍看书",
+     "在楼下聊天",
+     "在教室上课"
+    ],
+    "answer": 0,
+    "why": "我在宿舍里看书.",
+    "why_ja": "「我在宿舍里看书」とあります。"
+   },
+   {
+    "q": "学校教的规则是什么？",
+    "choices": [
+     "马上跑出房间",
+     "先到桌子下面，等震动停了再离开",
+     "给老师打电话"
+    ],
+    "answer": 1,
+    "why": "地震时不要跑，先到桌子下面，等震动停了再离开房间.",
+    "why_ja": "「先到桌子下面，等震动停了再离开房间」です。"
+   },
+   {
+    "q": "作者从这件事体会到了什么？",
+    "choices": [
+     "规则是用来限制人的",
+     "规则是用来保护人的",
+     "地震不可怕"
+    ],
+    "answer": 1,
+    "why": "规则不是用来限制人的，而是用来保护人的.",
+    "why_ja": "「规则不是用来限制人的，而是用来保护人的」です。"
+   }
+  ]
+ },
+ {
+  "id": "read:hsk5:005",
+  "level": "hsk5",
+  "unit": 25,
+  "order": 2590,
+  "title": "犹豫与决定",
+  "en": "Hesitation and decision",
+  "ja": "ためらいと決断",
+  "text": "我是一个做决定很慢的人。去年，有一家公司给我提供了一个在国外工作的机会。我犹豫了整整一个月。一方面，这是一个很好的前途，工资高，还能学到很多东西。另一方面，我舍不得离开家乡和父母，也害怕一个人去陌生的地方。我问了很多朋友，有的说应该去，有的说应该留下来。朋友们说来说去，我反而更不知道该怎么办了。后来，我的爷爷对我说了一句话：年轻的时候，做错了也比什么都不做好。我想来想去，终于决定接受这个机会。现在我已经在国外工作半年了。刚开始的确很不容易，语言，文化，工作方式，都要重新学习。但是，我总算明白了一个道理：犹豫本身比错误更可怕。机会不会一直等你，趁年轻，应该勇敢去实践。",
+  "pinyin": "wǒ shì yī ge zuò jué dìng hěn màn de rén. qù nián, yǒu yī jiā gōng sī gěi wǒ tí gōng le yī ge zài guó wài gōng zuò de jī huì. wǒ yóu yù le zhěng zhěng yī ge yuè. yī fāng miàn, zhè shì yī ge hěn hǎo de qián tú, gōng zī gāo, hái néng xué dào hěn duō dōng xi. lìng yī fāng miàn, wǒ shě bù de lí kāi jiā xiāng hé fù mǔ, yě hài pà yī ge rén qù mò shēng de dì fang. wǒ wèn le hěn duō péng you, yǒu de shuō yīng gāi qù, yǒu de shuō yīng gāi liú xià lái. péng you men shuō lái shuō qù, wǒ fǎn ér gèng bù zhī dào gāi zěn me bàn le. hòu lái, wǒ de yé ye duì wǒ shuō le yī jù huà: nián qīng de shí hou, zuò cuò le yě bǐ shén me dōu bù zuò hǎo. wǒ xiǎng lái xiǎng qù, zhōng yú jué dìng jiē shòu zhè ge jī huì. xiàn zài wǒ yǐ jīng zài guó wài gōng zuò bàn nián le. gāng kāi shǐ dí què hěn bù róng yì, yǔ yán, wén huà, gōng zuò fāng shì, dōu yào chóng xīn xué xí. dàn shì, wǒ zǒng suàn míng bai le yī ge dào lǐ: yóu yù běn shēn bǐ cuò wù gèng kě pà. jī huì bù huì yī zhí děng nǐ, chèn nián qīng, yīng gāi yǒng gǎn qù shí jiàn.",
+  "enText": "I am someone who makes decisions slowly. Last year a company offered me a chance to work abroad. I hesitated for a whole month. On the one hand, it was a good future: a high salary and a lot to learn. On the other hand, I could not bear to leave my hometown and parents, and I was afraid of going alone to an unfamiliar place. I asked many friends; some said go, some said stay. The more they talked, the less I knew what to do. Then my grandfather said one thing to me: when you are young, doing something wrong is better than doing nothing. After much thought I finally decided to accept. I have now been working abroad for half a year. It was indeed hard at first; the language, the culture and the way of working all had to be learned afresh. But I have at last understood one thing: hesitation itself is more frightening than mistakes. Opportunities do not wait forever; while you are young, you should be brave and put things into practice.",
+  "jaText": "私は決断がとても遅い人間です。去年、ある会社が海外で働く機会をくれました。私はまる一か月ためらいました。一方では、給料も高く多くを学べる、良い将来です。他方では、故郷と両親から離れるのがつらく、一人で見知らぬ土地へ行くのも怖かったのです。多くの友人に尋ねると、行くべきだと言う人も、残るべきだと言う人もいました。友人たちがあれこれ言うほど、私はかえってどうすべきか分からなくなりました。その後、祖父が一言こう言いました。若いうちは、間違えても何もしないよりましだ、と。私はあれこれ考えた末、ついにこの機会を受け入れることにしました。今、海外で働いて半年になります。最初は確かに大変で、言語も文化も仕事のやり方もすべて学び直さなければなりませんでした。けれども、私はようやく一つのことを理解しました。ためらいそのものが、間違いより恐ろしいのです。機会はいつまでも待ってくれません。若いうちに、勇気を持って実践すべきです。",
+  "questions": [
+   {
+    "q": "作者犹豫了多长时间？",
+    "choices": [
+     "一个星期",
+     "一个月",
+     "半年"
+    ],
+    "answer": 1,
+    "why": "我犹豫了整整一个月.",
+    "why_ja": "「我犹豫了整整一个月」です。"
+   },
+   {
+    "q": "爷爷对作者说了什么？",
+    "choices": [
+     "应该留在家乡",
+     "做错了也比什么都不做好",
+     "不要听朋友的话"
+    ],
+    "answer": 1,
+    "why": "年轻的时候，做错了也比什么都不做好.",
+    "why_ja": "「做错了也比什么都不做好」と言いました。"
+   },
+   {
+    "q": "作者最后明白了什么道理？",
+    "choices": [
+     "犹豫比错误更可怕",
+     "国外的工作很容易",
+     "朋友的意见最重要"
+    ],
+    "answer": 0,
+    "why": "犹豫本身比错误更可怕.",
+    "why_ja": "「犹豫本身比错误更可怕」です。"
+   }
+  ]
+ },
+ {
+  "id": "read:hsk5:006",
+  "level": "hsk5",
+  "unit": 30,
+  "order": 3090,
+  "title": "新的停车规定",
+  "en": "New parking rules",
+  "ja": "新しい駐車規則",
+  "text": "从下个月开始，本市将实行新的停车规定。根据新规定，在人行道上停车的，罚款两百元；妨碍交通的，罚款五百元。政府表示，近几年，本市的汽车数量迅速增加，乱停车的现象越来越严重，不但妨碍行人，也常常引起争论。新规定的目的，是促进良好的交通秩序。为了方便市民，政府还将延长市中心停车场的开放时间，并对晚上停车提供优惠。对于这个规定，市民的看法不太一样。一部分人表示赞成，认为这是一个必然的趋势，发达城市都是这样做的。也有人觉得罚款太高，主张先做宣传，再慢慢推广。一位工程师说，他特意对比了几个城市的做法，认为本市的规定比较灵活，关键是要执行得透明，公平。政府回答，所有的罚款信息都会公开，市民可以随时查询。",
+  "pinyin": "cóng xià ge yuè kāi shǐ, běn shì jiāng shí xíng xīn de tíng chē guī dìng. gēn jù xīn guī dìng, zài rén xíng dào shàng tíng chē de, fá kuǎn liǎng bǎi yuán; fáng ài jiāo tōng de, fá kuǎn wǔ bǎi yuán. zhèng fǔ biǎo shì, jìn jǐ nián, běn shì de qì chē shù liàng xùn sù zēng jiā, luàn tíng chē de xiàn xiàng yuè lái yuè yán zhòng, bù dàn fáng ài xíng rén, yě cháng cháng yǐn qǐ zhēng lùn. xīn guī dìng de mù dì, shì cù jìn liáng hǎo de jiāo tōng zhì xù. wèi le fāng biàn shì mín, zhèng fǔ hái jiāng yán cháng shì zhōng xīn tíng chē chǎng de kāi fàng shí jiān, bìng duì wǎn shang tíng chē tí gōng yōu huì. duì yú zhè ge guī dìng, shì mín de kàn fǎ bù tài yī yàng. yī bù fen rén biǎo shì zàn chéng, rèn wéi zhè shì yī ge bì rán de qū shì, fā dá chéng shì dōu shì zhè yàng zuò de. yě yǒu rén jué de fá kuǎn tài gāo, zhǔ zhāng xiān zuò xuān chuán, zài màn màn tuī guǎng. yī wèi gōng chéng shī shuō, tā tè yì duì bǐ le jǐ ge chéng shì de zuò fǎ, rèn wéi běn shì de guī dìng bǐ jiào líng huó, guān jiàn shì yào zhí xíng de tòu míng, gōng píng. zhèng fǔ huí dá, suǒ yǒu de fá kuǎn xìn xī dōu huì gōng kāi, shì mín kě yǐ suí shí chá xún.",
+  "enText": "From next month the city will implement new parking rules. Under them, parking on the pavement is fined 200 yuan, and obstructing traffic is fined 500 yuan. The government said that in recent years the number of cars has increased rapidly and illegal parking has become more and more serious, not only obstructing pedestrians but often causing disputes. The aim of the new rules is to promote good traffic order. For residents' convenience, the government will also extend the opening hours of city-centre car parks and offer discounts for evening parking. Residents' views differ. Some approve, seeing it as an inevitable trend that developed cities all follow. Others feel the fines are too high and argue for publicity first and gradual roll-out. An engineer said he had deliberately compared several cities' approaches and found this city's rules fairly flexible; the key is transparent, fair enforcement. The government replied that all fine information will be public and residents can check it at any time.",
+  "jaText": "来月から、市は新しい駐車規則を実施します。新規則では、歩道に駐車した場合は二百元、交通を妨げた場合は五百元の罰金です。政府によると、近年市内の自動車の数が急速に増え、違法駐車がますます深刻になり、歩行者の妨げになるだけでなく、しばしば争いの原因にもなっています。新規則の目的は、良好な交通秩序を促すことです。市民の便宜のため、政府は市中心部の駐車場の開放時間を延長し、夜間駐車の割引も提供します。この規則について市民の見方は一様ではありません。賛成する人は、これは必然の流れで、発達した都市はみなそうしていると考えます。一方、罰金が高すぎるとして、まず宣伝をしてから徐々に広げるべきだと主張する人もいます。あるエンジニアは、わざわざいくつかの都市のやり方を比較したところ、この市の規則は比較的柔軟だが、肝心なのは透明で公平な執行だと述べました。政府は、罰金の情報はすべて公開され、市民はいつでも照会できると答えました。",
+  "questions": [
+   {
+    "q": "在人行道上停车要罚款多少？",
+    "choices": [
+     "一百元",
+     "两百元",
+     "五百元"
+    ],
+    "answer": 1,
+    "why": "在人行道上停车的，罚款两百元.",
+    "why_ja": "「在人行道上停车的，罚款两百元」です。"
+   },
+   {
+    "q": "政府为了方便市民做了什么？",
+    "choices": [
+     "取消了罚款",
+     "延长停车场的开放时间",
+     "建了新的马路"
+    ],
+    "answer": 1,
+    "why": "政府还将延长市中心停车场的开放时间.",
+    "why_ja": "「延长市中心停车场的开放时间」とあります。"
+   },
+   {
+    "q": "那位工程师认为关键是什么？",
+    "choices": [
+     "罚款要更高",
+     "执行得透明，公平",
+     "先做宣传"
+    ],
+    "answer": 1,
+    "why": "关键是要执行得透明，公平.",
+    "why_ja": "「关键是要执行得透明，公平」です。"
+   }
+  ]
+ },
+ {
+  "id": "read:hsk5:007",
+  "level": "hsk5",
+  "unit": 35,
+  "order": 3590,
+  "title": "老胡同",
+  "en": "The old hutong",
+  "ja": "古い胡同",
+  "text": "我家住在北京的一条老胡同里。胡同不宽，两边是灰色的老房子，房子上有一层薄薄的灰尘。傍晚的时候，老人们纷纷搬出椅子，坐在门口聊天，孩子们在胡同里跑来跑去。我小时候觉得这里很普通，长大以后才发现，这里的生活格外有味道。邻居们都很热心。谁家做了好吃的，都会给隔壁送一碗。每天早上，大家轮流打扫胡同，自觉得不需要人提醒。去年，有人打听到这里要改建，说要拆掉一部分老房子。老人们都很担心，纷纷议论，怕胡同消失。幸亏后来政府决定保留胡同，只是改善水电设施。现在，胡同里的景色和从前一模一样，只是路更光滑，灯更亮了。我盼望这条胡同能一直这样，让当代的年轻人也能体会到老北京老百姓的生活。",
+  "pinyin": "wǒ jiā zhù zài běi jīng de yī tiáo lǎo hú tòng lǐ. hú tòng bù kuān, liǎng biān shì huī sè de lǎo fáng zi, fáng zi shàng yǒu yī céng báo báo de huī chén. bàng wǎn de shí hou, lǎo rén men fēn fēn bān chū yǐ zi, zuò zài mén kǒu liáo tiān, hái zi men zài hú tòng lǐ pǎo lái pǎo qù. wǒ xiǎo shí hou jué de zhè lǐ hěn pǔ tōng, zhǎng dà yǐ hòu cái fā xiàn, zhè lǐ de shēng huó gé wài yǒu wèi dào. lín jū men dōu hěn rè xīn. shéi jiā zuò le hǎo chī de, dōu huì gěi gé bì sòng yī wǎn. měi tiān zǎo shang, dà jiā lún liú dǎ sǎo hú tòng, zì jué de bù xū yào rén tí xǐng. qù nián, yǒu rén dǎ ting dào zhè lǐ yào gǎi jiàn, shuō yào chāi diào yī bù fen lǎo fáng zi. lǎo rén men dōu hěn dān xīn, fēn fēn yì lùn, pà hú tòng xiāo shī. xìng kuī hòu lái zhèng fǔ jué dìng bǎo liú hú tòng, zhǐ shì gǎi shàn shuǐ diàn shè shī. xiàn zài, hú tòng lǐ de jǐng sè hé cóng qián yī mú yī yàng, zhǐ shì lù gèng guāng huá, dēng gèng liàng le. wǒ pàn wàng zhè tiáo hú tòng néng yī zhí zhè yàng, ràng dāng dài de nián qīng rén yě néng tǐ huì dào lǎo běi jīng lǎo bǎi xìng de shēng huó.",
+  "enText": "My family lives in an old hutong in Beijing. The lane is narrow, lined on both sides with grey old houses covered in a thin layer of dust. In the evening the old people bring out chairs one after another and chat at their doors, while children run up and down the lane. As a child I thought it was ordinary; only when I grew up did I realize how much flavour life here has. The neighbours are warm-hearted: whoever cooks something good sends a bowl next door. Every morning people take turns sweeping the lane, so conscientiously that nobody needs reminding. Last year someone heard that the area was to be rebuilt and some old houses demolished. The old people were worried and talked about it constantly, afraid the hutong would disappear. Luckily the government later decided to preserve it and only improve the water and electricity facilities. Now the scenery is exactly as before, only the road is smoother and the lamps brighter. I hope this hutong stays like this forever, so that today's young people can also experience the life of ordinary old Beijingers.",
+  "jaText": "私の家は北京の古い胡同にあります。胡同は広くなく、両側には灰色の古い家が並び、家には薄く埃が積もっています。夕方になると、お年寄りたちが次々と椅子を持ち出して戸口でおしゃべりし、子どもたちは胡同を走り回ります。小さい頃はここがごく普通だと思っていましたが、大人になってから、ここの暮らしには格別の味わいがあると気づきました。近所の人はみな親切で、おいしいものを作れば隣に一杯届けます。毎朝みんなが交代で胡同を掃除し、誰に言われなくても自覚的にやっています。去年、ここが改築され古い家の一部が取り壊されると聞いた人がいて、お年寄りたちは胡同が消えるのではと心配し、口々に議論しました。幸い政府は胡同を残し、水道と電気の設備だけ改善することに決めました。今、胡同の景色は以前とまったく同じで、道がなめらかになり、灯りが明るくなっただけです。この胡同がずっとこのままで、今の若者も昔の北京の庶民の暮らしを味わえるよう願っています。",
+  "questions": [
+   {
+    "q": "傍晚的时候，老人们做什么？",
+    "choices": [
+     "打扫胡同",
+     "坐在门口聊天",
+     "跑来跑去"
+    ],
+    "answer": 1,
+    "why": "老人们纷纷搬出椅子，坐在门口聊天.",
+    "why_ja": "「坐在门口聊天」とあります。"
+   },
+   {
+    "q": "去年老人们担心什么？",
+    "choices": [
+     "胡同会消失",
+     "邻居搬走",
+     "路不光滑"
+    ],
+    "answer": 0,
+    "why": "老人们都很担心…怕胡同消失.",
+    "why_ja": "「怕胡同消失」と心配していました。"
+   },
+   {
+    "q": "政府最后决定怎么做？",
+    "choices": [
+     "拆掉所有老房子",
+     "保留胡同，改善设施",
+     "建一条新路"
+    ],
+    "answer": 1,
+    "why": "政府决定保留胡同，只是改善水电设施.",
+    "why_ja": "「保留胡同，只是改善水电设施」と決めました。"
+   }
+  ]
+ },
+ {
+  "id": "read:hsk5:008",
+  "level": "hsk5",
+  "unit": 40,
+  "order": 4090,
+  "title": "学习成语",
+  "en": "Learning idioms",
+  "ja": "成語を学ぶ",
+  "text": "学汉语的人，早晚都会碰见成语。成语大多由四个字组成，看起来简单，其实每一个都包含着一个故事或者一个道理。比如，自言自语的意思很容易猜，可是有些成语，不知道故事的话，就很难理解。我刚开始学成语的时候，总是发愁，觉得它们太抽象了。后来，一位老师嘱咐我，与其一个一个地背，不如先了解它们的来历。我照着做了，果然效果好得多。现在，我每个礼拜天都会学三个新成语，然后在短信里用它们跟中国朋友聊天。朋友们常常称赞我，说我的汉语越来越地道了。当然，使用成语也要讲究场合。在正式的文章里，一个巧妙的成语可以让语言格外有力量；可是在日常的聊天中，用太多成语，反而会显得不自然。总之，成语是中国文化的一部分，学好它们，不但能提高语言水平，也能更深地了解中国人的思想。",
+  "pinyin": "xué hàn yǔ de rén, zǎo wǎn dōu huì pèng jiàn chéng yǔ. chéng yǔ dà duō yóu sì ge zì zǔ chéng, kàn qǐ lái jiǎn dān, qí shí měi yī ge dōu bāo hán zhe yī ge gù shi huò zhě yī ge dào lǐ. bǐ rú, zì yán zì yǔ de yì si hěn róng yì cāi, kě shì yǒu xiē chéng yǔ, bù zhī dào gù shi de huà, jiù hěn nán lǐ jiě. wǒ gāng kāi shǐ xué chéng yǔ de shí hou, zǒng shì fā chóu, jué de tā men tài chōu xiàng le. hòu lái, yī wèi lǎo shī zhǔ fù wǒ, yǔ qí yī ge yī ge de bèi, bù rú xiān liǎo jiě tā men de lái lì. wǒ zhào zhe zuò le, guǒ rán xiào guǒ hǎo de duō. xiàn zài, wǒ měi ge lǐ bài tiān dōu huì xué sān ge xīn chéng yǔ, rán hòu zài duǎn xìn lǐ yòng tā men gēn zhōng guó péng you liáo tiān. péng you men cháng cháng chēng zàn wǒ, shuō wǒ de hàn yǔ yuè lái yuè dì dao le. dāng rán, shǐ yòng chéng yǔ yě yào jiǎng jiu chǎng hé. zài zhèng shì de wén zhāng lǐ, yī ge qiǎo miào de chéng yǔ kě yǐ ràng yǔ yán gé wài yǒu lì liang; kě shì zài rì cháng de liáo tiān zhōng, yòng tài duō chéng yǔ, fǎn ér huì xiǎn de bù zì rán. zǒng zhī, chéng yǔ shì zhōng guó wén huà de yī bù fen, xué hǎo tā men, bù dàn néng tí gāo yǔ yán shuǐ píng, yě néng gèng shēn de liǎo jiě zhōng guó rén de sī xiǎng.",
+  "enText": "Anyone learning Chinese will sooner or later run into idioms. Most idioms consist of four characters; they look simple, but each contains a story or a lesson. The meaning of 自言自语, for example, is easy to guess, yet some idioms are hard to understand without knowing the story. When I started learning idioms I always worried, finding them too abstract. Then a teacher told me that rather than memorize them one by one, I should first learn where they come from. I did so, and the results were indeed much better. Now I learn three new idioms every Sunday and then use them in text messages when chatting with Chinese friends. My friends often praise me, saying my Chinese is getting more and more authentic. Of course, using idioms also depends on the occasion. In a formal essay a clever idiom gives the language extra force, but in everyday chat too many idioms seem unnatural. In short, idioms are part of Chinese culture; learning them well not only raises your language level but also gives a deeper understanding of how Chinese people think.",
+  "jaText": "中国語を学ぶ人は、遅かれ早かれ成語に出会います。成語の多くは四つの字から成り、簡単そうに見えますが、実はどれも物語や教訓を含んでいます。例えば「自言自语」の意味は簡単に推測できますが、物語を知らないと理解しにくい成語もあります。私は成語を学び始めた頃、抽象的すぎると感じていつも悩んでいました。その後、ある先生が、一つ一つ暗記するより、まず由来を知りなさいと言ってくれました。そのとおりにすると、果たして効果はずっと良くなりました。今は毎週日曜日に新しい成語を三つ学び、ショートメッセージで中国人の友人と話すときに使っています。友人たちはよく、私の中国語がますます本場らしくなったとほめてくれます。もちろん、成語の使用は場面にも気を配る必要があります。正式な文章では巧みな成語が言葉に格別の力を与えますが、日常のおしゃべりで成語を使いすぎると、かえって不自然に見えます。要するに、成語は中国文化の一部であり、しっかり学べば語学力が上がるだけでなく、中国人の考え方もより深く理解できるのです。",
+  "questions": [
+   {
+    "q": "老师嘱咐作者怎么学成语？",
+    "choices": [
+     "一个一个地背",
+     "先了解它们的来历",
+     "每天学十个"
+    ],
+    "answer": 1,
+    "why": "与其一个一个地背，不如先了解它们的来历.",
+    "why_ja": "「不如先了解它们的来历」と言われました。"
+   },
+   {
+    "q": "作者现在怎么练习成语？",
+    "choices": [
+     "在短信里跟朋友用",
+     "写正式的文章",
+     "看电视"
+    ],
+    "answer": 0,
+    "why": "在短信里用它们跟中国朋友聊天.",
+    "why_ja": "「在短信里用它们跟中国朋友聊天」とあります。"
+   },
+   {
+    "q": "在日常聊天中用太多成语会怎么样？",
+    "choices": [
+     "显得很有力量",
+     "显得不自然",
+     "显得很地道"
+    ],
+    "answer": 1,
+    "why": "用太多成语，反而会显得不自然.",
+    "why_ja": "「用太多成语，反而会显得不自然」です。"
+   }
+  ]
+ }
+]

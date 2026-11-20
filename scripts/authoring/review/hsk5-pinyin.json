@@ -1,0 +1,13 @@
+{
+  "看来": { "num": "kan4 lai2", "why": "Standard mainland reading is kànlái (现代汉语词典); 来 keeps its 2nd tone, CC-CEDICT's neutral 'lai' is non-standard" },
+  "土地": { "num": "tu3 di4", "why": "HSK sense 'land' is tǔdì; the neutral-tone tǔdi is only the earth-god sense (土地神)" },
+  "吓": { "num": "xia4", "why": "HSK5 吓 'to frighten/scare' is xià; hè is the literary reading used only in 恐吓/恫吓" },
+  "抢": { "num": "qiang3", "why": "'to rob, to snatch' is qiǎng (3rd tone); qiāng is a rare reading (抢风, 呼天抢地)" },
+  "薄": { "num": "bao2", "why": "HSK5 薄 'thin (of flat things)' is the colloquial reading báo; bó is the literary/compound reading (薄弱, 单薄)" },
+  "学问": { "num": "xue2 wen5", "why": "现代汉语词典 and the HSK list give xué·wen with neutral-tone 问" },
+  "下载": { "num": "xia4 zai4", "why": "Prescribed mainland reading is xiàzài (载 'to carry/load' is zài); xiàzǎi is a widespread but non-standard pronunciation" },
+  "系领带": { "num": "ji4 ling3 dai4", "why": "系 'to tie/fasten' is jì, not xì (department/system)" },
+  "干活儿": { "num": "gan4 huo2r", "why": "Malformed erhua: 'gàn huó r 5' should be gàn huór (r attached to 活, no separate tone)" },
+  "使劲儿": { "num": "shi3 jin4r", "why": "Malformed erhua: 'shǐ jìn r 5' should be shǐ jìnr" },
+  "_glosses": {}
+}

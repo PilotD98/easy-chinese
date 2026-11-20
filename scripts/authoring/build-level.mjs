@@ -37,6 +37,7 @@ const jaVocab = merged('ja', `${LEVEL}-vocab`);
 const jaChars = merged('ja', `${LEVEL}-chars`);
 const mnemonics = merged('mnemonics', LEVEL);
 const overrides = optional(path.join(__dir, 'overrides', `${LEVEL}.json`));
+const reviewGlosses = optional(path.join(__dir, 'review', `${LEVEL}-pinyin.json`))._glosses || {};
 const unitsSrc = await src('units-src.mjs');
 const grammarSrc = await src('grammar-src.mjs');
 const readingsSrc = await src('readings-src.mjs');
@@ -150,6 +151,7 @@ words.forEach((w, i) => {
   seenIds.add(id);
   const ja = jaVocab[w.zh] || {};
   let meanings = (ja.en?.length ? ja.en : (w.glosses || [])).map(cleanGloss).filter((g) => g && !SKIP_GLOSS.test(g)).slice(0, 4);
+  if (reviewGlosses[w.zh]) meanings = [reviewGlosses[w.zh], ...meanings.filter((g) => g !== reviewGlosses[w.zh])].slice(0, 4);
   if (!meanings.length) meanings = (hskWords.find((x) => x.zh === w.zh)?.meanings || []).map(cleanGloss).filter(Boolean).slice(0, 4);
   if (!meanings.length) problems.push(`no gloss for ${w.zh}`);
   vocab.push({

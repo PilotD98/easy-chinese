@@ -7,10 +7,10 @@
   "unit": 1,
   "order": 100,
   "pinyin": [
-   "o"
+   "ò"
   ],
   "num": [
-   "o5"
+   "o4"
   ],
   "meanings": [
    "oh (particle)",
@@ -30,7 +30,7 @@
   "mnemonic_ja": "口で「ああ」と言う、我（私）がやっと分かった時の声。",
   "hint": "mouth",
   "examples": [
-   "vocab:hsk6:o5-哦"
+   "vocab:hsk6:o4-哦"
   ]
  },
  {
@@ -3914,10 +3914,10 @@
   "unit": 7,
   "order": 714,
   "pinyin": [
-   "pù"
+   "pū"
   ],
   "num": [
-   "pu4"
+   "pu1"
   ],
   "meanings": [
    "shop",
@@ -3939,7 +3939,7 @@
   "mnemonic_ja": "钅（金属）を甫（畑）に敷き広げる、店・敷く。",
   "hint": "money",
   "examples": [
-   "vocab:hsk6:pu4-铺"
+   "vocab:hsk6:pu1-铺"
   ]
  },
  {
@@ -9317,11 +9317,11 @@
   "unit": 17,
   "order": 1705,
   "pinyin": [
-   "hōng",
+   "hǒng",
    "hòng"
   ],
   "num": [
-   "hong1",
+   "hong3",
    "hong4"
   ],
   "meanings": [
@@ -9344,7 +9344,7 @@
   "mnemonic_ja": "口が共（みんな）で騒ぐ、どっと笑う・あやす。",
   "hint": "mouth",
   "examples": [
-   "vocab:hsk6:hong1-哄",
+   "vocab:hsk6:hong3-哄",
    "vocab:hsk6:qi3hong4-起哄"
   ]
  },
@@ -10823,10 +10823,10 @@
   "unit": 19,
   "order": 1915,
   "pinyin": [
-   "lìn"
+   "lín"
   ],
   "num": [
-   "lin4"
+   "lin2"
   ],
   "meanings": [
    "drench",
@@ -10848,7 +10848,7 @@
   "mnemonic_ja": "氵（水）が林を通って降り注ぐ、ずぶ濡れ。",
   "hint": "water",
   "examples": [
-   "vocab:hsk6:lin4-淋"
+   "vocab:hsk6:lin2-淋"
   ]
  },
  {
@@ -22783,10 +22783,10 @@
   "unit": 41,
   "order": 4112,
   "pinyin": [
-   "bèng"
+   "béng"
   ],
   "num": [
-   "beng4"
+   "beng2"
   ],
   "meanings": [
    "no need to"
@@ -22804,7 +22804,7 @@
   "mnemonic_ja": "不と用を縮めてひと文字、「する必要なし」。",
   "hint": "Not 不 needed 用; 用 also provides the pronunciation",
   "examples": [
-   "vocab:hsk6:beng4-甭"
+   "vocab:hsk6:beng2-甭"
   ]
  },
  {
@@ -26965,10 +26965,10 @@
   "unit": 49,
   "order": 4906,
   "pinyin": [
-   "yù"
+   "yùn"
   ],
   "num": [
-   "yu4"
+   "yun4"
   ],
   "meanings": [
    "iron (clothes)",
@@ -26987,7 +26987,7 @@
   "mnemonic_ja": "役人(尉)が火を布に押し当てる、アイロン。",
   "hint": "fire",
   "examples": [
-   "vocab:hsk6:yu4-熨"
+   "vocab:hsk6:yun4-熨"
   ]
  },
  {

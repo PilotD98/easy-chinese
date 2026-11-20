@@ -1,10 +1,10 @@
 [
  {
-  "id": "vocab:hsk6:o5-哦",
+  "id": "vocab:hsk6:o4-哦",
   "zh": "哦",
   "trad": "哦",
-  "pinyin": "o",
-  "num": "o5",
+  "pinyin": "ò",
+  "num": "o4",
   "level": "hsk6",
   "unit": 1,
   "order": 120,
@@ -8785,11 +8785,11 @@
   "verified": true
  },
  {
-  "id": "vocab:hsk6:pu4-铺",
+  "id": "vocab:hsk6:pu1-铺",
   "zh": "铺",
   "trad": "鋪",
-  "pinyin": "pù",
-  "num": "pu4",
+  "pinyin": "pū",
+  "num": "pu1",
   "level": "hsk6",
   "unit": 7,
   "order": 720.25,
@@ -21537,15 +21537,16 @@
   "verified": true
  },
  {
-  "id": "vocab:hsk6:hong1-哄",
+  "id": "vocab:hsk6:hong3-哄",
   "zh": "哄",
   "trad": "哄",
-  "pinyin": "hōng",
-  "num": "hong1",
+  "pinyin": "hǒng",
+  "num": "hong3",
   "level": "hsk6",
   "unit": 17,
   "order": 1720.06,
   "meanings": [
+   "to coax; to humor (a child)",
    "to roar (with laughter)",
    "uproar"
   ],
@@ -24909,11 +24910,11 @@
   "verified": true
  },
  {
-  "id": "vocab:hsk6:lin4-淋",
+  "id": "vocab:hsk6:lin2-淋",
   "zh": "淋",
   "trad": "淋",
-  "pinyin": "lìn",
-  "num": "lin4",
+  "pinyin": "lín",
+  "num": "lin2",
   "level": "hsk6",
   "unit": 19,
   "order": 1920.1,
@@ -31425,11 +31426,11 @@
   "verified": true
  },
  {
-  "id": "vocab:hsk6:kuan3shi5-款式",
+  "id": "vocab:hsk6:kuan3shi4-款式",
   "zh": "款式",
   "trad": "款式",
-  "pinyin": "kuǎn shi",
-  "num": "kuan3 shi5",
+  "pinyin": "kuǎn shì",
+  "num": "kuan3 shi4",
   "level": "hsk6",
   "unit": 27,
   "order": 2720.07,
@@ -50566,11 +50567,11 @@
   "verified": true
  },
  {
-  "id": "vocab:hsk6:beng4-甭",
+  "id": "vocab:hsk6:beng2-甭",
   "zh": "甭",
   "trad": "甭",
-  "pinyin": "bèng",
-  "num": "beng4",
+  "pinyin": "béng",
+  "num": "beng2",
   "level": "hsk6",
   "unit": 41,
   "order": 4120.43,
@@ -59452,11 +59453,11 @@
   "verified": true
  },
  {
-  "id": "vocab:hsk6:yu4-熨",
+  "id": "vocab:hsk6:yun4-熨",
   "zh": "熨",
   "trad": "熨",
-  "pinyin": "yù",
-  "num": "yu4",
+  "pinyin": "yùn",
+  "num": "yun4",
   "level": "hsk6",
   "unit": 49,
   "order": 4920.05,
@@ -59968,11 +59969,11 @@
   "verified": true
  },
  {
-  "id": "vocab:hsk6:chu1xi1-出息",
+  "id": "vocab:hsk6:chu1xi5-出息",
   "zh": "出息",
   "trad": "出息",
-  "pinyin": "chū xī",
-  "num": "chu1 xi1",
+  "pinyin": "chū xi",
+  "num": "chu1 xi5",
   "level": "hsk6",
   "unit": 51,
   "order": 5120.24,

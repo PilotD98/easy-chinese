@@ -1397,11 +1397,11 @@
   "verified": true
  },
  {
-  "id": "vocab:hsk5:kan4lai5-看来",
+  "id": "vocab:hsk5:kan4lai2-看来",
   "zh": "看来",
   "trad": "看來",
-  "pinyin": "kàn lai",
-  "num": "kan4 lai5",
+  "pinyin": "kàn lái",
+  "num": "kan4 lai2",
   "level": "hsk5",
   "unit": 2,
   "order": 220.5,
@@ -2983,11 +2983,11 @@
   "verified": true
  },
  {
-  "id": "vocab:hsk5:qiang1-抢",
+  "id": "vocab:hsk5:qiang3-抢",
   "zh": "抢",
   "trad": "搶",
-  "pinyin": "qiāng",
-  "num": "qiang1",
+  "pinyin": "qiǎng",
+  "num": "qiang3",
   "level": "hsk5",
   "unit": 3,
   "order": 320.48,
@@ -5032,11 +5032,11 @@
   "verified": true
  },
  {
-  "id": "vocab:hsk5:tu3di5-土地",
+  "id": "vocab:hsk5:tu3di4-土地",
   "zh": "土地",
   "trad": "土地",
-  "pinyin": "tǔ di",
-  "num": "tu3 di5",
+  "pinyin": "tǔ dì",
+  "num": "tu3 di4",
   "level": "hsk5",
   "unit": 6,
   "order": 620.02,
@@ -6757,11 +6757,11 @@
   "verified": true
  },
  {
-  "id": "vocab:hsk5:he4-吓",
+  "id": "vocab:hsk5:xia4-吓",
   "zh": "吓",
   "trad": "嚇",
-  "pinyin": "hè",
-  "num": "he4",
+  "pinyin": "xià",
+  "num": "xia4",
   "level": "hsk5",
   "unit": 7,
   "order": 720.04,
@@ -18766,11 +18766,11 @@
   "verified": true
  },
  {
-  "id": "vocab:hsk5:bo2-薄",
+  "id": "vocab:hsk5:bao2-薄",
   "zh": "薄",
   "trad": "薄",
-  "pinyin": "bó",
-  "num": "bo2",
+  "pinyin": "báo",
+  "num": "bao2",
   "level": "hsk5",
   "unit": 21,
   "order": 2120.24,
@@ -20101,11 +20101,11 @@
   "verified": true
  },
  {
-  "id": "vocab:hsk5:xia4zai3-下载",
+  "id": "vocab:hsk5:xia4zai4-下载",
   "zh": "下载",
   "trad": "下載",
-  "pinyin": "xià zǎi",
-  "num": "xia4 zai3",
+  "pinyin": "xià zài",
+  "num": "xia4 zai4",
   "level": "hsk5",
   "unit": 23,
   "order": 2320.13,
@@ -32753,11 +32753,11 @@
   "verified": true
  },
  {
-  "id": "vocab:hsk5:xue2wen4-学问",
+  "id": "vocab:hsk5:xue2wen5-学问",
   "zh": "学问",
   "trad": "學問",
-  "pinyin": "xué wèn",
-  "num": "xue2 wen4",
+  "pinyin": "xué wen",
+  "num": "xue2 wen5",
   "level": "hsk5",
   "unit": 38,
   "order": 3820.03,
@@ -35157,11 +35157,11 @@
   "verified": true
  },
  {
-  "id": "vocab:hsk5:gan4huo2r55-干活儿",
+  "id": "vocab:hsk5:gan4huor2-干活儿",
   "zh": "干活儿",
   "trad": "幹活兒",
-  "pinyin": "gàn huó r 5",
-  "num": "gan4 huo2 r5 5",
+  "pinyin": "gàn huór",
+  "num": "gan4 huor2",
   "level": "hsk5",
   "unit": 40,
   "order": 4020.33,
@@ -35242,11 +35242,11 @@
   "verified": true
  },
  {
-  "id": "vocab:hsk5:shi3jin4r55-使劲儿",
+  "id": "vocab:hsk5:shi3jinr4-使劲儿",
   "zh": "使劲儿",
   "trad": "使勁兒",
-  "pinyin": "shǐ jìn r 5",
-  "num": "shi3 jin4 r5 5",
+  "pinyin": "shǐ jìnr",
+  "num": "shi3 jinr4",
   "level": "hsk5",
   "unit": 40,
   "order": 4020.36,

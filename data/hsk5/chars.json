@@ -1504,10 +1504,10 @@
   "unit": 3,
   "order": 310,
   "pinyin": [
-   "qiāng"
+   "qiǎng"
   ],
   "num": [
-   "qiang1"
+   "qiang3"
   ],
   "meanings": [
    "snatch",
@@ -1529,7 +1529,7 @@
   "mnemonic_ja": "手扌が倉庫仓に伸びて奪い取る。",
   "hint": "hand",
   "examples": [
-   "vocab:hsk5:qiang1-抢"
+   "vocab:hsk5:qiang3-抢"
   ]
  },
  {
@@ -2914,7 +2914,7 @@
   "mnemonic_ja": "地面一に粘土十、土。",
   "hint": "A lump of clay on a potter's wheel",
   "examples": [
-   "vocab:hsk5:tu3di5-土地",
+   "vocab:hsk5:tu3di4-土地",
    "vocab:hsk5:tu3dou4-土豆"
   ]
  },
@@ -3842,10 +3842,10 @@
   "unit": 7,
   "order": 712,
   "pinyin": [
-   "hè"
+   "xià"
   ],
   "num": [
-   "he4"
+   "xia4"
   ],
   "meanings": [
    "scare",
@@ -3865,7 +3865,7 @@
   "mnemonic_ja": "口で「下がれ！」と脅かす。",
   "hint": "mouth",
   "examples": [
-   "vocab:hsk5:he4-吓"
+   "vocab:hsk5:xia4-吓"
   ]
  },
  {
@@ -11757,10 +11757,10 @@
   "unit": 21,
   "order": 2112,
   "pinyin": [
-   "bó"
+   "báo"
   ],
   "num": [
-   "bo2"
+   "bao2"
   ],
   "meanings": [
    "thin",
@@ -11781,7 +11781,7 @@
   "mnemonic_ja": "草（艹）が水面に広く（溥）広がると薄くなる。",
   "hint": "grass",
   "examples": [
-   "vocab:hsk5:bo2-薄"
+   "vocab:hsk5:bao2-薄"
   ]
  },
  {
@@ -12588,10 +12588,10 @@
   "unit": 23,
   "order": 2304,
   "pinyin": [
-   "zǎi"
+   "zài"
   ],
   "num": [
-   "zai3"
+   "zai4"
   ],
   "meanings": [
    "carry",
@@ -12613,7 +12613,7 @@
   "mnemonic_ja": "車に荷を載せて哉（ああ）と驚く、積載の载。",
   "hint": "cart",
   "examples": [
-   "vocab:hsk5:xia4zai3-下载"
+   "vocab:hsk5:xia4zai4-下载"
   ]
  },
  {
@@ -22411,12 +22411,10 @@
   "unit": 40,
   "order": 4014,
   "pinyin": [
-   "jìn",
-   "jìng"
+   "jinr"
   ],
   "num": [
-   "jin4",
-   "jing4"
+   "jinr5"
   ],
   "meanings": [
    "strength",
@@ -22437,7 +22435,7 @@
   "mnemonic_ja": "川（巠）を流れる力、勢いの劲。",
   "hint": "strength",
   "examples": [
-   "vocab:hsk5:shi3jin4r55-使劲儿"
+   "vocab:hsk5:shi3jinr4-使劲儿"
   ]
  }
 ]

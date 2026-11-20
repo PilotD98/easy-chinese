@@ -33,7 +33,7 @@ const out = {};
 let found = 0, missing = [], mismatched = [], proper = 0;
 for (const w of words) {
   const entries = cedict[w.zh] || [];
-  if (!entries.length) { missing.push(w.zh); out[w.zh] = { found: false, pinyin: w.pinyin, num: w.num, trad: w.trad, glosses: w.meanings }; continue; }
+  if (!entries.length) { missing.push(w.zh); const n = OVERRIDES[w.zh] ? norm(OVERRIDES[w.zh]) : norm(w.num); out[w.zh] = { found: false, pinyin: toMarked(n), num: n, trad: w.trad, glosses: w.meanings }; continue; }
   const want = OVERRIDES[w.zh] ? norm(OVERRIDES[w.zh]) : null;
   // Candidate readings: all HSK forms; prefer the one with an override, else a non-proper-noun entry with the most glosses.
   const forms = [{ num: w.num, meanings: w.meanings, trad: w.trad }, ...(w.altForms || [])];

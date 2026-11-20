@@ -567,7 +567,7 @@
   "id": "unit:hsk4:11",
   "no": 11,
   "level": "hsk4",
-  "title": "Refusal, fame and smooth going",
+  "title": "Refusal, fame and smooth progress",
   "title_ja": "拒否・名声・順調",
   "chars": [
    "hanzi:否",
@@ -1138,8 +1138,8 @@
   "id": "unit:hsk4:22",
   "no": 22,
   "level": "hsk4",
-  "title": "Keys, pollution and praise",
-  "title_ja": "鍵・汚染・称賛",
+  "title": "Keys, pollution and congratulations",
+  "title_ja": "鍵・汚染・祝賀",
   "chars": [
    "hanzi:钥",
    "hanzi:匙",
@@ -1435,8 +1435,8 @@
   "id": "unit:hsk4:28",
   "no": 28,
   "level": "hsk4",
-  "title": "Research, visas and the countryside",
-  "title_ja": "研究・ビザ・農村",
+  "title": "Climate, visas and the countryside",
+  "title_ja": "気候・ビザ・農村",
   "chars": [
    "hanzi:研",
    "hanzi:泪",

@@ -20,7 +20,7 @@
    },
    {
     "zh": "我把他的名字看成了别人的名字。",
-    "pinyin": "wǒ bǎ tā de míng zi kàn chéng le bié rén de míng zi.",
+    "pinyin": "wǒ bǎ tā de míng zi kàn chéng le bié ren de míng zi.",
     "en": "I misread his name as someone else's.",
     "ja": "私は彼の名前を別の人の名前と見間違えました。"
    },
@@ -74,7 +74,7 @@
    },
    {
     "type": "choose",
-    "prompt": "Which sentence means \"I wrote the sentence out in Chinese\"?",
+    "prompt": "Which sentence means \"I rewrote this sentence in Chinese\"?",
     "prompt_ja": "「私はその文を中国語に書き換えました」はどれですか",
     "answer": "我把这句话写成了汉语。",
     "choices": [
@@ -117,7 +117,7 @@
    },
    {
     "zh": "对学生来说，时间就是钱。",
-    "pinyin": "duì xué shēng lái shuō, shí jiān jiù shì qián.",
+    "pinyin": "duì xué sheng lái shuō, shí jiān jiù shì qián.",
     "en": "For students, time is money.",
     "ja": "学生にとって、時間はお金です。"
    },
@@ -194,8 +194,8 @@
   "pattern": "S + 未必 + V/Adj",
   "summary": "A soft denial of what the listener expects",
   "summary_ja": "相手の思い込みをやわらかく否定する",
-  "explanation": "未必 goes before the verb or adjective and means \"not necessarily, may well not\": 贵的未必好 \"expensive is not necessarily good\". It is softer than 不 and more literary than 不一定, which means the same thing in everyday speech; you will see 未必 in essays, news and careful conversation. It cannot be used alone as an answer; say 不一定 instead. A sentence with 未必 often contrasts with a common assumption stated before it.",
-  "explanation_ja": "「未必」は動詞や形容詞の前に置き、「必ずしも…とは限らない」を表します。「贵的未必好」は「高いものが良いとは限らない」です。「不」より控えめで、同じ意味の日常語「不一定」より書き言葉的で、評論や報道、改まった会話で見られます。単独で返事には使えないので、その場合は「不一定」と言います。「未必」の文は、前に述べた一般的な思い込みと対比されることが多いです。",
+  "explanation": "未必 goes before the verb or adjective and means \"not necessarily, may well not\": 贵的未必好 \"expensive is not necessarily good\". It is softer than 不 and more literary than 不一定, which means the same thing in everyday speech; you will see 未必 in essays, news and careful conversation. Like 不一定, it can also stand alone as a terse reply (未必。 \"not necessarily\"). A sentence with 未必 often contrasts with a common assumption stated before it.",
+  "explanation_ja": "「未必」は動詞や形容詞の前に置き、「必ずしも…とは限らない」を表します。「贵的未必好」は「高いものが良いとは限らない」です。「不」より控えめで、同じ意味の日常語「不一定」より書き言葉的で、評論や報道、改まった会話で見られます。「不一定」と同じく、単独で「未必。（そうとは限らない）」と短く答えることもできます。「未必」の文は、前に述べた一般的な思い込みと対比されることが多いです。",
   "examples": [
    {
     "zh": "贵的东西未必好。",
@@ -223,17 +223,17 @@
    }
   ],
   "mistakes": [
-   "Answering a question with just 未必; use 不一定.",
+   "Putting 未必 before a noun: 未必好人 is wrong; it needs a verb or adjective (未必是好人).",
    "Writing 未必不 to mean \"certainly\"; it means \"not necessarily not\", a double hedge that is rarely wanted."
   ],
   "mistakes_ja": [
-   "返事として「未必」だけを言わないこと。「不一定」を使います。",
+   "「未必」を名詞の前に置かないこと。「未必好人」は誤りで、動詞か形容詞が必要です（未必是好人）。",
    "「未必不」を「きっと」の意味で使わないこと。「…でないとは限らない」という二重の留保になります。"
   ],
   "exercises": [
    {
     "type": "fill",
-    "prompt": "价格高的东西＿好。",
+    "prompt": "价格高的东西＿好，便宜的也可能不错。",
     "answer": "未必",
     "choices": [
      "未必",
@@ -384,8 +384,8 @@
     "ja": "彼女は意外にも一人で中国へ行きました。"
    },
    {
-    "zh": "他居然赢了冠军。",
-    "pinyin": "tā jū rán yíng le guàn jūn.",
+    "zh": "他居然得了冠军。",
+    "pinyin": "tā jū rán dé le guàn jūn.",
     "en": "He unexpectedly won the championship.",
     "ja": "彼はなんと優勝しました。"
    }
@@ -707,7 +707,7 @@
   "examples": [
    {
     "zh": "他不是老师，而是学生。",
-    "pinyin": "tā bù shì lǎo shī, ér shì xué shēng.",
+    "pinyin": "tā bù shì lǎo shī, ér shì xué sheng.",
     "en": "He is not a teacher but a student.",
     "ja": "彼は先生ではなく、学生です。"
    },
@@ -882,7 +882,7 @@
    {
     "zh": "所谓朋友，就是在你需要的时候帮助你的人。",
     "pinyin": "suǒ wèi péng you, jiù shì zài nǐ xū yào de shí hou bāng zhù nǐ de rén.",
-    "en": "A so-called friend is someone who helps you when you need it.",
+    "en": "What we call a friend is someone who helps you when you need it.",
     "ja": "いわゆる友人とは、あなたが必要とするときに助けてくれる人のことです。"
    },
    {
@@ -915,7 +915,7 @@
   "exercises": [
    {
     "type": "fill",
-    "prompt": "＿的好朋友，就是能一起吃苦的人。",
+    "prompt": "＿好朋友，就是能一起吃苦的人。",
     "answer": "所谓",
     "choices": [
      "所谓",
@@ -940,7 +940,7 @@
    },
    {
     "type": "order",
-    "prompt": "Make: \"A so-called friend is a person who can help you.\"",
+    "prompt": "Make: \"What we call a friend is a person who can help you.\"",
     "prompt_ja": "「いわゆる友人とは、あなたを助けられる人のことです」を作る",
     "answer": "所谓朋友就是能帮助你的人",
     "choices": [
@@ -988,7 +988,7 @@
    },
    {
     "zh": "任何困难都不能让他放弃。",
-    "pinyin": "rèn hé kùn nán dōu bù néng ràng tā fàng qì.",
+    "pinyin": "rèn hé kùn nan dōu bù néng ràng tā fàng qì.",
     "en": "No difficulty can make him give up.",
     "ja": "どんな困難も彼をあきらめさせることはできません。"
    }
@@ -1231,7 +1231,7 @@
   "summary": "Pushes a description to the extreme, often with exaggeration",
   "summary_ja": "描写を極端にまで強める。誇張によく使う",
   "explanation": "简直 is an emphatic adverb meaning \"simply, practically\": 这简直太好了 \"this is simply wonderful\". It goes before the predicate and is frequently followed by 太…了, 像…一样 or a negative such as 不敢相信. It expresses the speaker's strong feeling and often exaggerates, so it belongs to lively speech and informal writing rather than to neutral reports. It cannot describe a plain fact without emotion.",
-  "explanation_ja": "「简直」は「まったく、ほとんど」を表す強調の副詞です（这简直太好了「本当に素晴らしい」）。述語の前に置き、「太…了」「像…一样」「不敢相信」などの否定表現とよく組み合わせます。話し手の強い感情を表し、誇張になることが多いので、生き生きした会話やくだけた文章向きで、中立的な報告には向きません。感情のない単なる事実には使えません。",
+  "explanation_ja": "「简直」は「まったく、ほとんど」を表す強調の副詞です（这简直太好了「本当に素晴らしい」）。述語の前に置き、「太…了」「像…一样」や「不敢相信」のような否定表現とよく組み合わせます。話し手の強い感情を表し、誇張になることが多いので、生き生きした会話やくだけた文章向きで、中立的な報告には向きません。感情のない単なる事実には使えません。",
   "examples": [
    {
     "zh": "这简直太好了！",
@@ -1324,7 +1324,7 @@
    },
    {
     "zh": "你说得倒容易，做起来很难。",
-    "pinyin": "nǐ shuō de dào róng yì, zuò qǐ lái hěn nán.",
+    "pinyin": "nǐ shuō de dào róng yì, zuò qǐ lai hěn nán.",
     "en": "Easy for you to say; doing it is hard.",
     "ja": "言うのは簡単ですが、やってみると難しいです。"
    },
@@ -1540,7 +1540,7 @@
     "choices": [
      "反正",
      "反而",
-     "正好"
+     "即使"
     ],
     "why": "Whatever the listener does, the speaker's plan stands: 反正.",
     "why_ja": "相手がどうしようと話し手の予定は変わらないので、「反正」です。"
@@ -1864,10 +1864,10 @@
     "ja": "彼の収入は給料が主です。"
    },
    {
-    "zh": "这个节目以年轻人为主。",
-    "pinyin": "zhè ge jié mù yǐ nián qīng rén wéi zhǔ.",
-    "en": "This programme is aimed mainly at young people.",
-    "ja": "この番組は若者が中心です。"
+    "zh": "这个节目的观众以年轻人为主。",
+    "pinyin": "zhè ge jié mù de guān zhòng yǐ nián qīng rén wéi zhǔ.",
+    "en": "The audience of this programme is mainly young people.",
+    "ja": "この番組の視聴者は若者が中心です。"
    }
   ],
   "mistakes": [
@@ -2270,7 +2270,7 @@
    },
    {
     "zh": "在老师看来，学生的健康最重要。",
-    "pinyin": "zài lǎo shī kàn lái, xué shēng de jiàn kāng zuì zhòng yào.",
+    "pinyin": "zài lǎo shī kàn lái, xué sheng de jiàn kāng zuì zhòng yào.",
     "en": "As the teacher sees it, students' health matters most.",
     "ja": "先生から見れば、学生の健康が最も重要です。"
    },
@@ -2594,8 +2594,8 @@
   "pattern": "无论如何, S + 都/也 + V",
   "summary": "A firm resolve or demand that holds in every circumstance",
   "summary_ja": "どんな状況でも変わらない決意や要求",
-  "explanation": "无论如何 is a fixed phrase meaning \"whatever happens, by all means\": 无论如何，我都要完成这个项目. It usually opens the sentence or follows the subject, and the main clause carries 都 or 也. It expresses determination, an urgent request or an absolute rule, and it is acceptable in every register, from a plea to a friend to a formal notice. It is the dignified cousin of 反正.",
-  "explanation_ja": "「无论如何」は「何があっても、ぜひとも」を表す固定表現です（无论如何，我都要完成这个项目）。ふつう文頭か主語の後に置き、主節に「都」「也」が入ります。決意や切実な依頼、絶対的な規則を表し、友人への頼みから公式の通知まで、どの文体でも使えます。「反正」の改まった親戚といえます。",
+  "explanation": "无论如何 is a fixed phrase meaning \"whatever happens, by all means\": 无论如何，我都要完成这个项目. It usually opens the sentence or follows the subject, and the main clause carries 都 or 也. It expresses determination, an urgent request or an absolute rule, and it is acceptable in every register, from a plea to a friend to a formal notice. Unlike 反正, which shrugs that the circumstances do not matter, 无论如何 insists on the outcome.",
+  "explanation_ja": "「无论如何」は「何があっても、ぜひとも」を表す固定表現です（无论如何，我都要完成这个项目）。ふつう文頭か主語の後に置き、主節に「都」「也」が入ります。決意や切実な依頼、絶対的な規則を表し、友人への頼みから公式の通知まで、どの文体でも使えます。「事情はどうでもいい」と流す「反正」と違い、「无论如何」は結果を強く求めます。",
   "examples": [
    {
     "zh": "无论如何，我都要完成这个项目。",
@@ -2875,11 +2875,11 @@
    }
   ],
   "mistakes": [
-   "Mixing frames: 对…而言 is heard but 就…而言 is the standard pairing.",
+   "Dropping 而: 就价格言 is not a sentence; the frame needs both 就 and 而言 (对…而言 is also fine).",
    "Using 就…而言 in casual chat, where it sounds stiff."
   ],
   "mistakes_ja": [
-   "枠を混ぜないこと。「对…而言」も聞かれますが、標準は「就…而言」です。",
+   "「而」を落とさないこと。「就价格言」は文になりません。「就」と「而言」の両方が必要です（「对…而言」も使えます）。",
    "くだけた会話で使うと堅苦しく聞こえます。"
   ],
   "exercises": [
@@ -2958,11 +2958,11 @@
    }
   ],
   "mistakes": [
-   "Using 而已 without 只是/不过: the sentence loses its frame.",
+   "Dropping 只是/不过 in front: 而已 normally echoes one of them, so 我开个玩笑而已 sounds abrupt.",
    "Confusing 而已 with 已经 (already)."
   ],
   "mistakes_ja": [
-   "「只是／不过」なしで「而已」を使わないこと。枠が失われます。",
+   "前の「只是／不过」を落とさないこと。「而已」はふつうそれらと呼応するので、「我开个玩笑而已」はぶっきらぼうに聞こえます。",
    "「而已」を「已经（すでに）」と混同しないこと。"
   ],
   "exercises": [
@@ -3529,13 +3529,13 @@
    },
    {
     "zh": "我想来想去，还是决定不去了。",
-    "pinyin": "wǒ xiǎng lái xiǎng qù, hái shì jué dìng bù qù le.",
+    "pinyin": "wǒ xiǎng lái xiǎng qù, hái shi jué dìng bù qù le.",
     "en": "After thinking it over and over, I decided not to go after all.",
     "ja": "あれこれ考えた末、やはり行かないことにしました。"
    },
    {
     "zh": "他们说来说去，还是没有结果。",
-    "pinyin": "tā men shuō lái shuō qù, hái shì méi yǒu jié guǒ.",
+    "pinyin": "tā men shuō lái shuō qù, hái shi méi yǒu jié guǒ.",
     "en": "They talked round and round and still reached no result.",
     "ja": "彼らは何度も話し合いましたが、やはり結論が出ませんでした。"
    },
@@ -3585,7 +3585,7 @@
     "prompt": "Say: \"After thinking it over, I will not go after all.\"",
     "prompt_ja": "「あれこれ考えて、やはり行かないことにします」と言う",
     "answer": "我想来想去还是不去了",
-    "answerPinyin": "wǒ xiǎng lái xiǎng qù hái shì bù qù le",
+    "answerPinyin": "wǒ xiǎng lái xiǎng qù hái shi bù qù le",
     "why": "想来想去 leads to the conclusion with 还是.",
     "why_ja": "「想来想去」の後に「还是」で結論を述べます。"
    }
@@ -3606,25 +3606,25 @@
   "examples": [
    {
     "zh": "他动不动就生气。",
-    "pinyin": "tā dòng bù dòng jiù shēng qì.",
+    "pinyin": "tā dòng bu dòng jiù shēng qì.",
     "en": "He gets angry at the slightest thing.",
     "ja": "彼は何かにつけてすぐ怒ります。"
    },
    {
     "zh": "这台电脑动不动就坏。",
-    "pinyin": "zhè tái diàn nǎo dòng bù dòng jiù huài.",
+    "pinyin": "zhè tái diàn nǎo dòng bu dòng jiù huài.",
     "en": "This computer breaks down all the time.",
     "ja": "このパソコンはしょっちゅう壊れます。"
    },
    {
     "zh": "你别动不动就哭。",
-    "pinyin": "nǐ bié dòng bù dòng jiù kū.",
+    "pinyin": "nǐ bié dòng bu dòng jiù kū.",
     "en": "Don't burst into tears at every little thing.",
     "ja": "ちょっとしたことですぐ泣かないでください。"
    },
    {
     "zh": "她动不动就催我快点儿。",
-    "pinyin": "tā dòng bù dòng jiù cuī wǒ kuài diǎnr.",
+    "pinyin": "tā dòng bu dòng jiù cuī wǒ kuài diǎnr.",
     "en": "She is forever urging me to hurry up.",
     "ja": "彼女は何かというとすぐ私を急かします。"
    }
@@ -3668,7 +3668,7 @@
     "prompt": "Say: \"Don't cry at every little thing.\"",
     "prompt_ja": "「ちょっとしたことですぐ泣かないでください」と言う",
     "answer": "别动不动就哭",
-    "answerPinyin": "bié dòng bù dòng jiù kū",
+    "answerPinyin": "bié dòng bu dòng jiù kū",
     "why": "别 + 动不动就 + verb.",
     "why_ja": "「别＋动不动就＋動詞」です。"
    }
@@ -3861,7 +3861,7 @@
    },
    {
     "zh": "怪不得这么冷，窗户开着呢。",
-    "pinyin": "guài bù de zhè me lěng, chuāng hu kāi zhe ne.",
+    "pinyin": "guài bu de zhè me lěng, chuāng hu kāi zhe ne.",
     "en": "No wonder it is so cold; the window is open.",
     "ja": "どうりで寒いわけです。窓が開いています。"
    },
@@ -3873,7 +3873,7 @@
    },
    {
     "zh": "怪不得你找不到，东西在隔壁房间。",
-    "pinyin": "guài bù de nǐ zhǎo bù dào, dōng xi zài gé bì fáng jiān.",
+    "pinyin": "guài bu de nǐ zhǎo bù dào, dōng xi zài gé bì fáng jiān.",
     "en": "No wonder you cannot find it; it is in the next room.",
     "ja": "どうりで見つからないわけです。物は隣の部屋にあります。"
    }
@@ -4029,7 +4029,7 @@
    },
    {
     "zh": "他又聪明又努力，总之是个好学生。",
-    "pinyin": "tā yòu cōng míng yòu nǔ lì, zǒng zhī shì ge hǎo xué shēng.",
+    "pinyin": "tā yòu cōng ming yòu nǔ lì, zǒng zhī shì ge hǎo xué sheng.",
     "en": "He is both clever and hard-working; in a word, a good student.",
     "ja": "彼は賢くて努力家で、要するに良い学生です。"
    },
@@ -4190,7 +4190,7 @@
   "examples": [
    {
     "zh": "这个问题大人都不懂，何况孩子呢？",
-    "pinyin": "zhè ge wèn tí dà rén dōu bù dǒng, hé kuàng hái zi ne?",
+    "pinyin": "zhè ge wèn tí dà ren dōu bù dǒng, hé kuàng hái zi ne?",
     "en": "Even adults do not understand this question, let alone children.",
     "ja": "この問題は大人でも分からないのに、まして子どもはなおさらです。"
    },
@@ -4252,7 +4252,7 @@
     "prompt": "Say: \"Even adults do not understand, let alone children.\"",
     "prompt_ja": "「大人でも分からないのに、まして子どもは」と言う",
     "answer": "大人都不懂何况孩子呢",
-    "answerPinyin": "dà rén dōu bù dǒng hé kuàng hái zi ne",
+    "answerPinyin": "dà ren dōu bù dǒng hé kuàng hái zi ne",
     "why": "都 in the first clause, 何况…呢 in the second.",
     "why_ja": "最初の節に「都」、二つ目に「何况…呢」です。"
    }
@@ -4291,7 +4291,7 @@
    },
    {
     "zh": "她宁可自己辛苦，也不麻烦别人。",
-    "pinyin": "tā nìng kě zì jǐ xīn kǔ, yě bù má fan bié rén.",
+    "pinyin": "tā nìng kě zì jǐ xīn kǔ, yě bù má fan bié ren.",
     "en": "She would rather suffer herself than trouble others.",
     "ja": "彼女は人に迷惑をかけるくらいなら、むしろ自分が苦労します。"
    }
@@ -4370,7 +4370,7 @@
    },
    {
     "zh": "凡是参加比赛的学生，都要早点儿到。",
-    "pinyin": "fán shì cān jiā bǐ sài de xué shēng, dōu yào zǎo diǎnr dào.",
+    "pinyin": "fán shì cān jiā bǐ sài de xué sheng, dōu yào zǎo diǎnr dào.",
     "en": "All students taking part in the competition must arrive early.",
     "ja": "試合に参加する学生は全員、早めに来なければなりません。"
    },
@@ -4534,7 +4534,7 @@
    },
    {
     "zh": "与其等别人帮忙，不如自己动手。",
-    "pinyin": "yǔ qí děng bié rén bāng máng, bù rú zì jǐ dòng shǒu.",
+    "pinyin": "yǔ qí děng bié ren bāng máng, bù rú zì jǐ dòng shǒu.",
     "en": "Rather than wait for others to help, better do it yourself.",
     "ja": "人の助けを待つより、自分でやるほうがいいです。"
    },
@@ -4566,7 +4566,7 @@
     "answer": "与其",
     "choices": [
      "与其",
-     "其实",
+     "宁可",
      "不如"
     ],
     "why": "与其 opens the rejected option; 不如 opens the better one.",
@@ -4607,8 +4607,8 @@
   "pattern": "S + 不见得 + V/Adj　|　不见得。",
   "summary": "The spoken twin of 未必",
   "summary_ja": "未必の口語版",
-  "explanation": "不见得 means \"not necessarily, I doubt it\" and goes before the verb or adjective: 他不见得会来. It is the colloquial partner of 未必 (unit 2); unlike 未必 it can stand alone as an answer: 不见得 \"I doubt it\". It expresses the speaker's doubt about something the listener seems to assume. Use it in conversation; in formal writing prefer 未必 or 不一定.",
-  "explanation_ja": "「不见得」は「…とは限らない、そうでもないだろう」を表し、動詞や形容詞の前に置きます（他不见得会来）。第2課の「未必」の口語版で、「未必」と違って単独で返事にも使えます（不见得「どうかな」）。相手が思い込んでいることへの話し手の疑いを表します。会話で使い、硬い文章では「未必」「不一定」が好まれます。",
+  "explanation": "不见得 means \"not necessarily, I doubt it\" and goes before the verb or adjective: 他不见得会来. It is the colloquial partner of 未必 (unit 2), and like 未必 it can stand alone as an answer: 不见得 \"I doubt it\". It expresses the speaker's doubt about something the listener seems to assume. Use it in conversation; in formal writing prefer 未必 or 不一定.",
+  "explanation_ja": "「不见得」は「…とは限らない、そうでもないだろう」を表し、動詞や形容詞の前に置きます（他不见得会来）。第2課の「未必」の口語版で、「未必」と同じく単独で返事にも使えます（不见得「どうかな」）。相手が思い込んでいることへの話し手の疑いを表します。会話で使い、硬い文章では「未必」「不一定」が好まれます。",
   "examples": [
    {
     "zh": "他不见得会来。",

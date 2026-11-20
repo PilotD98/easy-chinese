@@ -229,7 +229,7 @@
     "choices": [
      "被",
      "把",
-     "给"
+     "对"
     ],
     "why": "The wallet is the thing affected, so the passive 被 is used.",
     "why_ja": "財布が影響を受ける側なので受け身の「被」です。"
@@ -395,7 +395,7 @@
     "choices": [
      "就",
      "才",
-     "都"
+     "却"
     ],
     "why": "只要 pairs with 就.",
     "why_ja": "「只要」は「就」と呼応します。"
@@ -949,8 +949,8 @@
     "answer": "其次",
     "choices": [
      "其次",
-     "另外",
-     "首先"
+     "但是",
+     "所以"
     ],
     "why": "The second step after 首先 is 其次.",
     "why_ja": "「首先」の次の段階は「其次」です。"
@@ -1013,11 +1013,11 @@
    }
   ],
   "mistakes": [
-   "Using 也 instead of 但是/还是 after 尽管; 也 belongs to 即使.",
+   "Following 尽管 with 所以 or 就: the second clause is a contrast, so it needs 但是, 可是 or 还是.",
    "Confusing 尽管…但是 (real fact) with 即使…也 (hypothesis)."
   ],
   "mistakes_ja": [
-   "「尽管」の後半は「但是／还是」です。「也」は「即使」の相手です。",
+   "「尽管」の後半に「所以」「就」は使えません。後半は逆接なので「但是・可是・还是」です。",
    "事実の「尽管…但是」と仮定の「即使…也」を混同しないでください。"
   ],
   "exercises": [
@@ -1040,11 +1040,11 @@
     "answer": "尽管很累，他还是来了。",
     "choices": [
      "尽管很累，他还是来了。",
-     "尽管很累，他也来了。",
+     "尽管很累，他就来了。",
      "尽管很累，所以他来了。"
     ],
-    "why": "尽管 pairs with 还是/但是, not 也 or 所以.",
-    "why_ja": "「尽管」は「还是／但是」と呼応します。「也」「所以」ではありません。"
+    "why": "尽管 pairs with 还是/但是, not 就 or 所以.",
+    "why_ja": "「尽管」は「还是／但是」と呼応します。「就」「所以」ではありません。"
    },
    {
     "type": "produce",
@@ -1188,7 +1188,7 @@
     "answer": "连",
     "choices": [
      "连",
-     "把",
+     "被",
      "对"
     ],
     "why": "Getting even one's own name wrong is the extreme case: 连…都.",
@@ -1821,8 +1821,8 @@
     "answer": "大概",
     "choices": [
      "大概",
-     "也许",
-     "难道"
+     "难道",
+     "永远"
     ],
     "why": "An approximate amount of time uses 大概.",
     "why_ja": "おおよその時間には「大概」を使います。"
@@ -2207,8 +2207,8 @@
     "answer": "又",
     "choices": [
      "又",
-     "也",
-     "还"
+     "就",
+     "才"
     ],
     "why": "既 pairs with 又.",
     "why_ja": "「既」は「又」と呼応します。"
@@ -2286,8 +2286,8 @@
     "answer": "要是",
     "choices": [
      "要是",
-     "既然",
-     "尽管"
+     "尽管",
+     "虽然"
     ],
     "why": "A hypothetical condition uses 要是.",
     "why_ja": "仮定の条件なので「要是」です。"
@@ -2464,10 +2464,10 @@
    },
    {
     "type": "produce",
-    "prompt": "Say: \"As time passes, I understand more and more.\" (use 随着时间的过去)",
-    "prompt_ja": "「時間が経つにつれ、私はますます理解する」と言う",
-    "answer": "随着时间的过去我越来越理解",
-    "answerPinyin": "suí zhe shí jiān de guò qù wǒ yuè lái yuè lǐ jiě",
+    "prompt": "Say: \"As time passes, I understand him more and more.\" (use 随着时间的过去)",
+    "prompt_ja": "「時間が経つにつれ、私はますます彼を理解するようになった」と言う",
+    "answer": "随着时间的过去我越来越理解他了",
+    "answerPinyin": "suí zhe shí jiān de guò qù wǒ yuè lái yuè lǐ jiě tā le",
     "why": "随着 phrase first, then the parallel change.",
     "why_ja": "「随着」の句を先に、次に並行する変化です。"
    }
@@ -2598,8 +2598,8 @@
     "answer": "恐怕",
     "choices": [
      "恐怕",
-     "反正",
-     "难道"
+     "到底",
+     "永远"
     ],
     "why": "The speaker guesses, with worry, that the shop is closed.",
     "why_ja": "店が閉まっていると心配しながら推測しているので「恐怕」です。"
@@ -2638,8 +2638,8 @@
   "pattern": "来不及 + V　|　来得及 + V　|　还来得及",
   "summary": "Whether there is time to do something",
   "summary_ja": "何かをする時間があるかどうか",
-  "explanation": "来得及 means there is still time to do something; 来不及 means it is too late. Both can stand alone (还来得及 / 来不及了) or take a verb: 来不及吃饭. The question form is 来得及吗 or 来得及来不及. 了 at the end marks the new situation: 来不及了 (it is too late now).",
-  "explanation_ja": "「来得及」はまだ何かをする時間があること、「来不及」はもう遅いことを表します。どちらも単独で使え（还来得及／来不及了）、動詞を続けることもできます（来不及吃饭）。疑問文は「来得及吗」または「来得及来不及」です。文末の「了」は新しい状況を示します（来不及了：もう間に合わない）。",
+  "explanation": "来得及 means there is still time to do something; 来不及 means it is too late. Both can stand alone (还来得及 / 来不及了) or take a verb: 来不及吃饭. The question form is 来得及吗 or 来得及来不及. 了 at the end marks the new situation: 来不及了 (it is too late now). For a past event, 没来得及 + V means you did not manage to do it in time: 我没来得及吃早饭.",
+  "explanation_ja": "「来得及」はまだ何かをする時間があること、「来不及」はもう遅いことを表します。どちらも単独で使え（还来得及／来不及了）、動詞を続けることもできます（来不及吃饭）。疑問文は「来得及吗」または「来得及来不及」です。文末の「了」は新しい状況を示します（来不及了：もう間に合わない）。過去のことには「没来得及＋動詞」で「間に合わずに…できなかった」を表します（我没来得及吃早饭）。",
   "examples": [
    {
     "zh": "现在去还来得及。",
@@ -2662,11 +2662,11 @@
   ],
   "mistakes": [
    "Saying 不来得及 for \"too late\"; the negative form is 来不及.",
-   "Using 没 before 来得及; use 来不及 instead."
+   "Reading 来不及了 as \"cannot come\": it means \"there is no time\", not that someone fails to arrive."
   ],
   "mistakes_ja": [
    "「間に合わない」は「不来得及」ではなく「来不及」です。",
-   "「来得及」の前に「没」は付けません。「来不及」を使います。"
+   "「来不及了」を「来られない」と読まないでください。「時間がない・間に合わない」の意味です。"
   ],
   "exercises": [
    {
@@ -2689,7 +2689,7 @@
     "choices": [
      "来不及写信了。",
      "不来得及写信了。",
-     "没来得及写信吗。"
+     "来得及不写信了。"
     ],
     "why": "The negative form is 来不及 + verb.",
     "why_ja": "否定形は「来不及＋動詞」です。"
@@ -2830,7 +2830,7 @@
     "answer": "不如",
     "choices": [
      "不如",
-     "不比",
+     "不太",
      "比较"
     ],
     "why": "Today is less hot than yesterday: A 不如 B + adjective.",
@@ -2985,10 +2985,10 @@
     "answer": "另一方面",
     "choices": [
      "另一方面",
-     "另外",
-     "其次"
+     "另外方面",
+     "第二方面"
     ],
-    "why": "The second side of city life is introduced by 另一方面.",
+    "why": "The second side of city life is introduced by the fixed form 另一方面.",
     "why_ja": "都市生活のもう一つの側面を「另一方面」で導きます。"
    },
    {
@@ -3225,7 +3225,7 @@
     "choices": [
      "结果",
      "只要",
-     "甚至"
+     "否则"
     ],
     "why": "A stomach ache is the outcome of eating too much.",
     "why_ja": "食べすぎた結果としてお腹が痛くなったので「结果」です。"
@@ -3379,7 +3379,7 @@
     "choices": [
      "几乎",
      "永远",
-     "反正"
+     "从来"
     ],
     "why": "He was nearly unable to stand: 几乎.",
     "why_ja": "ほとんど立っていられないので「几乎」です。"
@@ -3624,17 +3624,17 @@
    },
    {
     "type": "order",
-    "prompt": "Make: \"He takes his father as his example.\" (example = 例子)",
-    "prompt_ja": "「彼は父を手本にしている」を作る",
-    "answer": "他以父亲为例子",
+    "prompt": "Make: \"Let us take this question as an example.\"",
+    "prompt_ja": "「この問題を例にとりましょう」を作る",
+    "answer": "我们以这个问题为例",
     "choices": [
-     "他",
-     "以父亲",
+     "我们",
+     "以这个问题",
      "为",
-     "例子"
+     "例"
     ],
-    "why": "以 + A + 为 + B.",
-    "why_ja": "「以＋A＋为＋B」です。"
+    "why": "以 + A + 为 + B; 以…为例 is a fixed phrase.",
+    "why_ja": "「以＋A＋为＋B」。「以…为例」は決まった言い方です。"
    },
    {
     "type": "produce",
@@ -3694,8 +3694,8 @@
     "answer": "一下子",
     "choices": [
      "一下子",
-     "一下",
-     "一点儿"
+     "一点儿",
+     "一直"
     ],
     "why": "A sudden burst of tears: 一下子.",
     "why_ja": "突然泣き出したので「一下子」です。"
@@ -3929,15 +3929,15 @@
   "exercises": [
    {
     "type": "fill",
-    "prompt": "孩子们一下子跑＿了。",
+    "prompt": "春天到了，天气热＿了。",
     "answer": "起来",
     "choices": [
      "起来",
-     "下去",
-     "出来"
+     "过来",
+     "出去"
     ],
-    "why": "Starting to run is 跑起来.",
-    "why_ja": "走り出したので「跑起来」です。"
+    "why": "A state beginning and continuing: 热起来.",
+    "why_ja": "状態が始まって続くので「热起来」です。"
    },
    {
     "type": "order",
@@ -4089,7 +4089,7 @@
     "choices": [
      "出来",
      "起来",
-     "下去"
+     "回来"
     ],
     "why": "Not being able to make out the character is 看不出来.",
     "why_ja": "字が判別できないので「看不出来」です。"
@@ -4098,15 +4098,15 @@
     "type": "order",
     "prompt": "Make: \"I recognised his voice.\"",
     "prompt_ja": "「私は彼の声だと聞き分けた」を作る",
-    "answer": "我听出来了他的声音",
+    "answer": "我听出他的声音来了",
     "choices": [
      "我",
-     "听出来了",
-     "他的",
-     "声音"
+     "听出",
+     "他的声音",
+     "来了"
     ],
-    "why": "听出来 + object.",
-    "why_ja": "「听出来＋目的語」です。"
+    "why": "The object goes between 出 and 来: 听出…来.",
+    "why_ja": "目的語は「出」と「来」の間に入れます。「听出…来」です。"
    },
    {
     "type": "produce",
@@ -4242,11 +4242,11 @@
   ],
   "mistakes": [
    "Saying 没看了; after 没 the 了 disappears.",
-   "Using 过 with a time like 昨天 for a single event; use 了."
+   "Reaching for 过 whenever something is past: 过 is for experience; a single completed event takes 了 (我昨天看了电影)."
   ],
   "mistakes_ja": [
    "「没看了」とは言いません。「没」の後では「了」が消えます。",
-   "「昨天」のような特定の時点の出来事には「过」ではなく「了」です。"
+   "過去なら何でも「过」にしないでください。「过」は経験で、1回の完了した出来事は「了」です（我昨天看了电影）。"
   ],
   "exercises": [
    {
@@ -4268,10 +4268,10 @@
     "answer": "我今天早上去了医院。",
     "choices": [
      "我今天早上去了医院。",
-     "我今天早上去过医院。",
+     "我今天早上去医院过。",
      "我今天早上没去了医院。"
     ],
-    "why": "A single completed event at a stated time takes 了.",
+    "why": "A single completed event at a stated time takes 了 right after the verb.",
     "why_ja": "特定の時点で完了した1回の出来事には「了」です。"
    },
    {
@@ -4334,15 +4334,15 @@
   "exercises": [
    {
     "type": "fill",
-    "prompt": "桌子上放＿一本书。",
+    "prompt": "他笑＿说：\"没关系。\"",
     "answer": "着",
     "choices": [
      "着",
      "了",
      "过"
     ],
-    "why": "A continuing state (a book lying there) takes 着.",
-    "why_ja": "本がそこにあるという持続する状態なので「着」です。"
+    "why": "V1 着 V2: 笑着 gives the manner of 说.",
+    "why_ja": "「V1着V2」で、「笑着」が「说」の様子を表します。"
    },
    {
     "type": "order",

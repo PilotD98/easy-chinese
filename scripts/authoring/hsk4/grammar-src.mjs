@@ -53,7 +53,7 @@ export const GRAMMAR = [
     mistakes: ['Using 让 or 叫 without a doer: 杯子让打坏了 needs 被 instead.', 'Ending with a bare verb: 他被老师叫 is incomplete; add a result like 走了 or 到办公室.'],
     mistakes_ja: ['「让」「叫」は動作主を省略できません。「杯子让打坏了」は「被」にします。', '動詞だけで終えず、「走了」「到办公室」などの結果を付けます。'],
     exercises: [
-      { type: 'fill', prompt: '我的钱包＿人拿走了。', answer: '被', choices: ['被', '把', '给'], why: 'The wallet is the thing affected, so the passive 被 is used.', why_ja: '財布が影響を受ける側なので受け身の「被」です。' },
+      { type: 'fill', prompt: '我的钱包＿人拿走了。', answer: '被', choices: ['被', '把', '对'], why: 'The wallet is the thing affected, so the passive 被 is used.', why_ja: '財布が影響を受ける側なので受け身の「被」です。' },
       { type: 'order', prompt: 'Make: "The door was closed by him." (use 被)', prompt_ja: '「ドアは彼に閉められた」を「被」で作る', answer: '门被他关上了', choices: ['门', '被他', '关上', '了'], why: 'Affected thing, 被 + doer, verb + result.', why_ja: '影響を受けるもの→被＋動作主→動詞＋結果の順です。' },
       { type: 'choose', prompt: 'Which sentence is correct?', prompt_ja: '正しい文はどれですか', answer: '手机没被弟弟拿走。', choices: ['手机没被弟弟拿走。', '手机被弟弟没拿走。', '手机让拿走了。'], why: '没 goes before 被; 让 needs a doer.', why_ja: '「没」は「被」の前、「让」には動作主が必要です。' },
     ] },
@@ -89,7 +89,7 @@ export const GRAMMAR = [
     mistakes: ['Mixing the pairs: 只要…才 and 只有…就 are both wrong.', 'Putting 就/才 before the subject: say 只要你来，我就高兴, not 就我高兴.'],
     mistakes_ja: ['「只要…才」「只有…就」の組み合わせは誤りです。', '「就／才」は後半の主語の後です。「就我高兴」とは言いません。'],
     exercises: [
-      { type: 'fill', prompt: '只要有时间，我＿去看你。', answer: '就', choices: ['就', '才', '都'], why: '只要 pairs with 就.', why_ja: '「只要」は「就」と呼応します。' },
+      { type: 'fill', prompt: '只要有时间，我＿去看你。', answer: '就', choices: ['就', '才', '却'], why: '只要 pairs with 就.', why_ja: '「只要」は「就」と呼応します。' },
       { type: 'fill', prompt: '只有多听多说，＿能说好汉语。', answer: '才', choices: ['才', '就', '也'], why: '只有 pairs with 才.', why_ja: '「只有」は「才」と呼応します。' },
       { type: 'choose', prompt: 'Which sentence means "Only with a ticket can you enter"?', prompt_ja: '「チケットがあってこそ入れます」はどれですか', answer: '只有有票，才能进去。', choices: ['只有有票，才能进去。', '只要有票，就能进去。', '只有有票，就能进去。'], why: 'A strict, necessary condition uses 只有…才.', why_ja: '必須条件は「只有…才」で表します。' },
       { type: 'produce', prompt: 'Say: "As long as you call, I will come." (use 只要…就)', prompt_ja: '「電話してくれさえすれば、行きます」と「只要…就」で言う', answer: '只要你打电话我就来', answerPinyin: 'zhǐ yào nǐ dǎ diàn huà wǒ jiù lái', why: '只要 + condition, subject + 就 + result.', why_ja: '「只要＋条件、主語＋就＋結果」です。' },
@@ -212,7 +212,7 @@ export const GRAMMAR = [
     mistakes: ['Using 第二 after 首先; the natural partner is 其次.', 'Using 其次 without a preceding 首先.'],
     mistakes_ja: ['「首先」の相手は「其次」です。「第二」は不自然です。', '「首先」なしに「其次」だけを使わないでください。'],
     exercises: [
-      { type: 'fill', prompt: '首先要准备好票，＿要早点儿到车站。', answer: '其次', choices: ['其次', '另外', '首先'], why: 'The second step after 首先 is 其次.', why_ja: '「首先」の次の段階は「其次」です。' },
+      { type: 'fill', prompt: '首先要准备好票，＿要早点儿到车站。', answer: '其次', choices: ['其次', '但是', '所以'], why: 'The second step after 首先 is 其次.', why_ja: '「首先」の次の段階は「其次」です。' },
       { type: 'order', prompt: 'Make: "First rest, then eat."', prompt_ja: '「まず休んで、次に食事する」を作る', answer: '首先休息其次吃饭', choices: ['首先', '休息', '其次', '吃饭'], why: '首先 + step one, 其次 + step two.', why_ja: '「首先＋手順1、其次＋手順2」です。' },
       { type: 'produce', prompt: 'Say: "First, I am busy; second, I have no money."', prompt_ja: '「まず私は忙しく、次にお金がありません」と言う', answer: '首先我很忙其次我没有钱', answerPinyin: 'shǒu xiān wǒ hěn máng qí cì wǒ méi yǒu qián', why: 'Two reasons listed in order.', why_ja: '2つの理由を順に並べます。' },
     ] },
@@ -227,11 +227,11 @@ export const GRAMMAR = [
       ['尽管他很努力，但是没有通过考试。', 'jǐn guǎn tā hěn nǔ lì, dàn shì méi yǒu tōng guò kǎo shì.', 'Although he worked hard, he did not pass the exam.', '彼はとても努力したのに、試験に通りませんでした。'],
       ['尽管工作很忙，她仍然每天锻炼。', 'jǐn guǎn gōng zuò hěn máng, tā réng rán měi tiān duàn liàn.', 'Although work is busy, she still exercises every day.', '仕事は忙しいのに、彼女は今でも毎日運動しています。'],
     ],
-    mistakes: ['Using 也 instead of 但是/还是 after 尽管; 也 belongs to 即使.', 'Confusing 尽管…但是 (real fact) with 即使…也 (hypothesis).'],
-    mistakes_ja: ['「尽管」の後半は「但是／还是」です。「也」は「即使」の相手です。', '事実の「尽管…但是」と仮定の「即使…也」を混同しないでください。'],
+    mistakes: ['Following 尽管 with 所以 or 就: the second clause is a contrast, so it needs 但是, 可是 or 还是.', 'Confusing 尽管…但是 (real fact) with 即使…也 (hypothesis).'],
+    mistakes_ja: ['「尽管」の後半に「所以」「就」は使えません。後半は逆接なので「但是・可是・还是」です。', '事実の「尽管…但是」と仮定の「即使…也」を混同しないでください。'],
     exercises: [
       { type: 'fill', prompt: '＿下着雨，但是人们还是来了。', answer: '尽管', choices: ['尽管', '即使', '只要'], why: 'The rain is a real fact, so 尽管 fits with 但是.', why_ja: '雨は実際の事実なので、「但是」と呼応する「尽管」です。' },
-      { type: 'choose', prompt: 'Which sentence is correct?', prompt_ja: '正しい文はどれですか', answer: '尽管很累，他还是来了。', choices: ['尽管很累，他还是来了。', '尽管很累，他也来了。', '尽管很累，所以他来了。'], why: '尽管 pairs with 还是/但是, not 也 or 所以.', why_ja: '「尽管」は「还是／但是」と呼応します。「也」「所以」ではありません。' },
+      { type: 'choose', prompt: 'Which sentence is correct?', prompt_ja: '正しい文はどれですか', answer: '尽管很累，他还是来了。', choices: ['尽管很累，他还是来了。', '尽管很累，他就来了。', '尽管很累，所以他来了。'], why: '尽管 pairs with 还是/但是, not 就 or 所以.', why_ja: '「尽管」は「还是／但是」と呼応します。「就」「所以」ではありません。' },
       { type: 'produce', prompt: 'Say: "Although it is expensive, I still bought it." (use 尽管…还是)', prompt_ja: '「高いけれど、やはり買いました」と「尽管…还是」で言う', answer: '尽管很贵我还是买了', answerPinyin: 'jǐn guǎn hěn guì wǒ hái shì mǎi le', why: '尽管 + fact, subject + 还是 + verb.', why_ja: '「尽管＋事実、主語＋还是＋動詞」です。' },
     ] },
 
@@ -266,7 +266,7 @@ export const GRAMMAR = [
     mistakes: ['Dropping 都/也 after the 连 phrase.', 'Leaving the object after the verb: 我都没有连一块钱 is wrong.'],
     mistakes_ja: ['「连」の後の「都／也」を落とさないでください。', '目的語は動詞の後に残しません。「我连一块钱都没有」の語順です。'],
     exercises: [
-      { type: 'fill', prompt: '他＿自己的名字都写错了。', answer: '连', choices: ['连', '把', '对'], why: 'Getting even one\'s own name wrong is the extreme case: 连…都.', why_ja: '自分の名前さえ書き間違えるという極端な例なので「连…都」です。' },
+      { type: 'fill', prompt: '他＿自己的名字都写错了。', answer: '连', choices: ['连', '被', '对'], why: 'Getting even one\'s own name wrong is the extreme case: 连…都.', why_ja: '自分の名前さえ書き間違えるという極端な例なので「连…都」です。' },
       { type: 'order', prompt: 'Make: "She did not even drink water."', prompt_ja: '「彼女は水さえ飲まなかった」を作る', answer: '她连水都没喝', choices: ['她', '连水', '都', '没喝'], why: 'Subject, 连 + object, 都, negative verb.', why_ja: '主語→连＋目的語→都→否定の動詞です。' },
       { type: 'produce', prompt: 'Say: "Even the teacher does not know." (use 连)', prompt_ja: '「先生さえ知りません」と「连」で言う', answer: '连老师都不知道', answerPinyin: 'lián lǎo shī dōu bù zhī dào', why: '连 + subject + 都 + 不 + verb.', why_ja: '「连＋主語＋都＋不＋動詞」です。' },
     ] },
@@ -406,7 +406,7 @@ export const GRAMMAR = [
     mistakes: ['Using 也许 before a number for "about"; that is 大概 or 大约.', 'Putting 大概 at the end of the sentence.'],
     mistakes_ja: ['数字の前の「およそ」は「大概」「大约」で、「也许」は使えません。', '「大概」を文末に置くことはできません。'],
     exercises: [
-      { type: 'fill', prompt: '从这里到学校＿要二十分钟。', answer: '大概', choices: ['大概', '也许', '难道'], why: 'An approximate amount of time uses 大概.', why_ja: 'おおよその時間には「大概」を使います。' },
+      { type: 'fill', prompt: '从这里到学校＿要二十分钟。', answer: '大概', choices: ['大概', '难道', '永远'], why: 'An approximate amount of time uses 大概.', why_ja: 'おおよその時間には「大概」を使います。' },
       { type: 'choose', prompt: 'Which sentence means "Maybe he is not at home"?', prompt_ja: '「彼は家にいないかもしれない」はどれですか', answer: '他也许不在家。', choices: ['他也许不在家。', '他不在家也许。', '他大概三个家。'], why: '也许 goes before the verb phrase.', why_ja: '「也许」は動詞句の前に置きます。' },
       { type: 'produce', prompt: 'Say: "Perhaps she has gone home." (use 也许)', prompt_ja: '「彼女は家に帰ったのかもしれません」と「也许」で言う', answer: '她也许回家了', answerPinyin: 'tā yě xǔ huí jiā le', why: 'Subject + 也许 + verb + 了.', why_ja: '「主語＋也许＋動詞＋了」です。' },
     ] },
@@ -493,7 +493,7 @@ export const GRAMMAR = [
     mistakes: ['Mixing a positive and a negative quality: 既便宜又难吃 sounds odd; use 虽然…但是.', 'Putting the subject between 既 and 又.'],
     mistakes_ja: ['肯定と否定の性質を混ぜる（既便宜又难吃）のは不自然です。「虽然…但是」を使います。', '主語を「既」と「又」の間に置くことはできません。'],
     exercises: [
-      { type: 'fill', prompt: '她既会唱歌，＿会跳舞。', answer: '又', choices: ['又', '也', '还'], why: '既 pairs with 又.', why_ja: '「既」は「又」と呼応します。' },
+      { type: 'fill', prompt: '她既会唱歌，＿会跳舞。', answer: '又', choices: ['又', '就', '才'], why: '既 pairs with 又.', why_ja: '「既」は「又」と呼応します。' },
       { type: 'order', prompt: 'Make: "This dish is both cheap and tasty."', prompt_ja: '「この料理は安くておいしい」を作る', answer: '这个菜既便宜又好吃', choices: ['这个菜', '既', '便宜', '又', '好吃'], why: 'Subject + 既 + A + 又 + B.', why_ja: '「主語＋既＋A＋又＋B」です。' },
       { type: 'produce', prompt: 'Say: "He is both tall and handsome." (use 既…又, 帅)', prompt_ja: '「彼は背が高くてかっこいい」と「既…又」で言う', answer: '他既高又帅', answerPinyin: 'tā jì gāo yòu shuài', why: 'Two short adjectives of the same kind.', why_ja: '同じ種類の短い形容詞を2つ並べます。' },
     ] },
@@ -511,7 +511,7 @@ export const GRAMMAR = [
     mistakes: ['Putting the 要是 clause second: 我们就去，要是不下雨 is not natural.', 'Dropping 就 and leaving the result clause hanging.'],
     mistakes_ja: ['「要是」の節を後ろに置くのは不自然です。', '結果の節の「就」を落とさないでください。'],
     exercises: [
-      { type: 'fill', prompt: '＿你累了，就先休息一下。', answer: '要是', choices: ['要是', '既然', '尽管'], why: 'A hypothetical condition uses 要是.', why_ja: '仮定の条件なので「要是」です。' },
+      { type: 'fill', prompt: '＿你累了，就先休息一下。', answer: '要是', choices: ['要是', '尽管', '虽然'], why: 'A hypothetical condition uses 要是.', why_ja: '仮定の条件なので「要是」です。' },
       { type: 'order', prompt: 'Make: "If he comes, call me."', prompt_ja: '「もし彼が来たら、電話してください」を作る', answer: '要是他来了就给我打电话', choices: ['要是', '他来了', '就', '给我打电话'], why: '要是 + condition, 就 + action.', why_ja: '「要是＋条件、就＋動作」です。' },
       { type: 'produce', prompt: 'Say: "If I had money, I would buy a car."', prompt_ja: '「お金があれば車を買います」と言う', answer: '要是我有钱就买车', answerPinyin: 'yào shì wǒ yǒu qián jiù mǎi chē', why: 'Condition first, then 就 + result.', why_ja: '条件を先に、次に「就＋結果」です。' },
     ] },
@@ -548,7 +548,7 @@ export const GRAMMAR = [
     exercises: [
       { type: 'fill', prompt: '＿天气变冷，穿大衣的人多了。', answer: '随着', choices: ['随着', '按照', '通过'], why: 'The number of coats rises along with the change in weather.', why_ja: '天気の変化に伴ってコートの人が増えるので「随着」です。' },
       { type: 'order', prompt: 'Make: "As the city develops, there are more and more roads."', prompt_ja: '「都市の発展に伴い、道路はますます増える」を作る', answer: '随着城市的发展路越来越多', choices: ['随着', '城市的发展', '路', '越来越多'], why: '随着 + change, subject + 越来越 + adjective.', why_ja: '「随着＋変化、主語＋越来越＋形容詞」です。' },
-      { type: 'produce', prompt: 'Say: "As time passes, I understand more and more." (use 随着时间的过去)', prompt_ja: '「時間が経つにつれ、私はますます理解する」と言う', answer: '随着时间的过去我越来越理解', answerPinyin: 'suí zhe shí jiān de guò qù wǒ yuè lái yuè lǐ jiě', why: '随着 phrase first, then the parallel change.', why_ja: '「随着」の句を先に、次に並行する変化です。' },
+      { type: 'produce', prompt: 'Say: "As time passes, I understand him more and more." (use 随着时间的过去)', prompt_ja: '「時間が経つにつれ、私はますます彼を理解するようになった」と言う', answer: '随着时间的过去我越来越理解他了', answerPinyin: 'suí zhe shí jiān de guò qù wǒ yuè lái yuè lǐ jiě tā le', why: '随着 phrase first, then the parallel change.', why_ja: '「随着」の句を先に、次に並行する変化です。' },
     ] },
 
   { id: 'tongguo', unit: 16, title: '通过: by means of', title_ja: '通过：…を通じて・…によって',
@@ -580,25 +580,25 @@ export const GRAMMAR = [
     mistakes: ['Using 恐怕 with an object: 我恐怕狗 is wrong; say 我怕狗.', 'Using 恐怕 for good news; it implies something unwelcome.'],
     mistakes_ja: ['「恐怕」は目的語を取りません。「我恐怕狗」は誤りで、「我怕狗」と言います。', '良い知らせには使いません。望ましくない予想に使います。'],
     exercises: [
-      { type: 'fill', prompt: '都八点了，＿商店已经关门了。', answer: '恐怕', choices: ['恐怕', '反正', '难道'], why: 'The speaker guesses, with worry, that the shop is closed.', why_ja: '店が閉まっていると心配しながら推測しているので「恐怕」です。' },
+      { type: 'fill', prompt: '都八点了，＿商店已经关门了。', answer: '恐怕', choices: ['恐怕', '到底', '永远'], why: 'The speaker guesses, with worry, that the shop is closed.', why_ja: '店が閉まっていると心配しながら推測しているので「恐怕」です。' },
       { type: 'choose', prompt: 'Which sentence is correct?', prompt_ja: '正しい文はどれですか', answer: '恐怕他不会来了。', choices: ['恐怕他不会来了。', '他恐怕狗。', '我恐怕了他。'], why: '恐怕 is an adverb before a clause, not a verb with an object.', why_ja: '「恐怕」は節の前に置く副詞で、目的語を取る動詞ではありません。' },
       { type: 'produce', prompt: 'Say: "I am afraid there is no time."', prompt_ja: '「時間がなさそうです」と言う', answer: '恐怕没有时间了', answerPinyin: 'kǒng pà méi yǒu shí jiān le', why: '恐怕 + the unwelcome situation.', why_ja: '「恐怕＋望ましくない状況」です。' },
     ] },
 
   { id: 'laibuji', unit: 17, title: '来不及 / 来得及: (not) enough time', title_ja: '来不及／来得及：間に合わない／間に合う',
     pattern: '来不及 + V　|　来得及 + V　|　还来得及', summary: 'Whether there is time to do something', summary_ja: '何かをする時間があるかどうか',
-    explanation: '来得及 means there is still time to do something; 来不及 means it is too late. Both can stand alone (还来得及 / 来不及了) or take a verb: 来不及吃饭. The question form is 来得及吗 or 来得及来不及. 了 at the end marks the new situation: 来不及了 (it is too late now).',
-    explanation_ja: '「来得及」はまだ何かをする時間があること、「来不及」はもう遅いことを表します。どちらも単独で使え（还来得及／来不及了）、動詞を続けることもできます（来不及吃饭）。疑問文は「来得及吗」または「来得及来不及」です。文末の「了」は新しい状況を示します（来不及了：もう間に合わない）。',
+    explanation: '来得及 means there is still time to do something; 来不及 means it is too late. Both can stand alone (还来得及 / 来不及了) or take a verb: 来不及吃饭. The question form is 来得及吗 or 来得及来不及. 了 at the end marks the new situation: 来不及了 (it is too late now). For a past event, 没来得及 + V means you did not manage to do it in time: 我没来得及吃早饭.',
+    explanation_ja: '「来得及」はまだ何かをする時間があること、「来不及」はもう遅いことを表します。どちらも単独で使え（还来得及／来不及了）、動詞を続けることもできます（来不及吃饭）。疑問文は「来得及吗」または「来得及来不及」です。文末の「了」は新しい状況を示します（来不及了：もう間に合わない）。過去のことには「没来得及＋動詞」で「間に合わずに…できなかった」を表します（我没来得及吃早饭）。',
     ex: [
       ['现在去还来得及。', 'xiàn zài qù hái lái de jí.', 'If we go now, there is still time.', '今行けばまだ間に合います。'],
       ['火车八点开，现在已经八点了，来不及了。', 'huǒ chē bā diǎn kāi, xiàn zài yǐ jīng bā diǎn le, lái bu jí le.', 'The train leaves at eight; it is already eight, so it is too late.', '電車は8時発で、もう8時なので間に合いません。'],
       ['别着急，还来得及吃早饭。', 'bié zháo jí, hái lái de jí chī zǎo fàn.', 'Don\'t worry, there is still time for breakfast.', '慌てないで。まだ朝ごはんを食べる時間があります。'],
     ],
-    mistakes: ['Saying 不来得及 for "too late"; the negative form is 来不及.', 'Using 没 before 来得及; use 来不及 instead.'],
-    mistakes_ja: ['「間に合わない」は「不来得及」ではなく「来不及」です。', '「来得及」の前に「没」は付けません。「来不及」を使います。'],
+    mistakes: ['Saying 不来得及 for "too late"; the negative form is 来不及.', 'Reading 来不及了 as "cannot come": it means "there is no time", not that someone fails to arrive.'],
+    mistakes_ja: ['「間に合わない」は「不来得及」ではなく「来不及」です。', '「来不及了」を「来られない」と読まないでください。「時間がない・間に合わない」の意味です。'],
     exercises: [
       { type: 'fill', prompt: '还有半个小时，＿去买票。', answer: '来得及', choices: ['来得及', '来不及', '来得'], why: 'Half an hour is enough time: 来得及.', why_ja: '30分あれば間に合うので「来得及」です。' },
-      { type: 'choose', prompt: 'Which sentence means "It is too late to write the letter"?', prompt_ja: '「手紙を書く時間はもうない」はどれですか', answer: '来不及写信了。', choices: ['来不及写信了。', '不来得及写信了。', '没来得及写信吗。'], why: 'The negative form is 来不及 + verb.', why_ja: '否定形は「来不及＋動詞」です。' },
+      { type: 'choose', prompt: 'Which sentence means "It is too late to write the letter"?', prompt_ja: '「手紙を書く時間はもうない」はどれですか', answer: '来不及写信了。', choices: ['来不及写信了。', '不来得及写信了。', '来得及不写信了。'], why: 'The negative form is 来不及 + verb.', why_ja: '否定形は「来不及＋動詞」です。' },
       { type: 'produce', prompt: 'Ask: "Is there still time?"', prompt_ja: '「まだ間に合いますか」と尋ねる', answer: '还来得及吗', answerPinyin: 'hái lái de jí ma', why: '还来得及 + 吗.', why_ja: '「还来得及＋吗」です。' },
     ] },
 
@@ -632,7 +632,7 @@ export const GRAMMAR = [
     mistakes: ['Putting a negative adjective after 不如: 他不如我差 is wrong; the adjective is positive (好, 便宜, 快).', 'Mixing up the order: A 不如 B means B is better.'],
     mistakes_ja: ['「不如」の後の形容詞は肯定的なもの（好・便宜・快）です。「他不如我差」は誤りです。', '語順に注意してください。「A不如B」はBのほうが上という意味です。'],
     exercises: [
-      { type: 'fill', prompt: '今天＿昨天热。', answer: '不如', choices: ['不如', '不比', '比较'], why: 'Today is less hot than yesterday: A 不如 B + adjective.', why_ja: '今日は昨日ほど暑くないので「A不如B＋形容詞」です。' },
+      { type: 'fill', prompt: '今天＿昨天热。', answer: '不如', choices: ['不如', '不太', '比较'], why: 'Today is less hot than yesterday: A 不如 B + adjective.', why_ja: '今日は昨日ほど暑くないので「A不如B＋形容詞」です。' },
       { type: 'choose', prompt: 'Which sentence means "His Chinese is better than mine"?', prompt_ja: '「彼の中国語は私より上手だ」はどれですか', answer: '我的汉语不如他的。', choices: ['我的汉语不如他的。', '他的汉语不如我的。', '我的汉语不比他的差。'], why: 'A 不如 B means B is better.', why_ja: '「A不如B」はBのほうが上です。' },
       { type: 'produce', prompt: 'Say: "It would be better to go tomorrow." (use 不如)', prompt_ja: '「明日行ったほうがいいです」と「不如」で言う', answer: '不如明天去吧', answerPinyin: 'bù rú míng tiān qù ba', why: '不如 opens a suggestion.', why_ja: '「不如」で提案を始めます。' },
     ] },
@@ -667,7 +667,7 @@ export const GRAMMAR = [
     mistakes: ['Saying 另外方面 or 第二方面; the fixed form is 另一方面.', 'Using the pattern for a simple list of unrelated facts.'],
     mistakes_ja: ['「另外方面」「第二方面」ではなく、決まった形「另一方面」です。', '無関係な事実の羅列には使いません。'],
     exercises: [
-      { type: 'fill', prompt: '住在城市一方面很方便，＿也很贵。', answer: '另一方面', choices: ['另一方面', '另外', '其次'], why: 'The second side of city life is introduced by 另一方面.', why_ja: '都市生活のもう一つの側面を「另一方面」で導きます。' },
+      { type: 'fill', prompt: '住在城市一方面很方便，＿也很贵。', answer: '另一方面', choices: ['另一方面', '另外方面', '第二方面'], why: 'The second side of city life is introduced by the fixed form 另一方面.', why_ja: '都市生活のもう一つの側面を「另一方面」で導きます。' },
       { type: 'order', prompt: 'Make: "On the one hand I want to go; on the other I have no time."', prompt_ja: '「一方で行きたいが、他方で時間がない」を作る', answer: '一方面我想去另一方面我没有时间', choices: ['一方面', '我想去', '另一方面', '我没有时间'], why: 'Two sides, each with its clause.', why_ja: '2つの側面をそれぞれの節で述べます。' },
       { type: 'produce', prompt: 'Say: "This car is, on the one hand, cheap and, on the other, good-looking."', prompt_ja: '「この車は一方で安く、他方で格好いい」と言う', answer: '这辆车一方面便宜另一方面好看', answerPinyin: 'zhè liàng chē yī fāng miàn pián yi lìng yī fāng miàn hǎo kàn', why: 'Shared subject, then the two sides.', why_ja: '共通の主語の後に2つの側面です。' },
     ] },
@@ -721,7 +721,7 @@ export const GRAMMAR = [
     mistakes: ['Placing 结果 after the subject of the second clause: 他结果没来 is awkward; say 结果他没来.', 'Confusing the noun (结果很好) with the connector.'],
     mistakes_ja: ['後半の主語の後に置く「他结果没来」は不自然です。「结果他没来」とします。', '名詞の「结果很好」と接続語の用法を区別しましょう。'],
     exercises: [
-      { type: 'fill', prompt: '他吃得太多，＿肚子疼了。', answer: '结果', choices: ['结果', '只要', '甚至'], why: 'A stomach ache is the outcome of eating too much.', why_ja: '食べすぎた結果としてお腹が痛くなったので「结果」です。' },
+      { type: 'fill', prompt: '他吃得太多，＿肚子疼了。', answer: '结果', choices: ['结果', '只要', '否则'], why: 'A stomach ache is the outcome of eating too much.', why_ja: '食べすぎた結果としてお腹が痛くなったので「结果」です。' },
       { type: 'order', prompt: 'Make: "He forgot his umbrella, and as a result caught a cold."', prompt_ja: '「彼は傘を忘れて、その結果風邪をひいた」を作る', answer: '他忘了带伞结果感冒了', choices: ['他忘了带伞', '结果', '感冒了'], why: 'Situation, 结果, outcome.', why_ja: '状況→结果→結末です。' },
       { type: 'produce', prompt: 'Say: "I got up late, and as a result missed the train." (use 结果, 没坐上)', prompt_ja: '「寝坊して、その結果電車に乗り遅れた」と言う', answer: '我起晚了结果没坐上火车', answerPinyin: 'wǒ qǐ wǎn le jié guǒ méi zuò shàng huǒ chē', why: '结果 opens the outcome clause.', why_ja: '「结果」で結末の節を始めます。' },
     ] },
@@ -756,7 +756,7 @@ export const GRAMMAR = [
     mistakes: ['Putting 几乎 at the end: 他们都来了几乎 is wrong.', 'Using 几乎 for a number estimate alone; say 几乎一百个 or 差不多一百个.'],
     mistakes_ja: ['「几乎」を文末に置くことはできません。', '数の概算だけなら「几乎一百个」「差不多一百个」のように言います。'],
     exercises: [
-      { type: 'fill', prompt: '他太累了，＿站不住了。', answer: '几乎', choices: ['几乎', '永远', '反正'], why: 'He was nearly unable to stand: 几乎.', why_ja: 'ほとんど立っていられないので「几乎」です。' },
+      { type: 'fill', prompt: '他太累了，＿站不住了。', answer: '几乎', choices: ['几乎', '永远', '从来'], why: 'He was nearly unable to stand: 几乎.', why_ja: 'ほとんど立っていられないので「几乎」です。' },
       { type: 'order', prompt: 'Make: "Almost all the students have passed."', prompt_ja: '「ほとんどすべての学生が合格した」を作る', answer: '学生几乎都通过了', choices: ['学生', '几乎', '都', '通过了'], why: 'Subject + 几乎 + 都 + verb.', why_ja: '「主語＋几乎＋都＋動詞」です。' },
       { type: 'produce', prompt: 'Say: "I hardly slept last night."', prompt_ja: '「昨夜はほとんど眠れませんでした」と言う', answer: '我昨天晚上几乎没睡', answerPinyin: 'wǒ zuó tiān wǎn shang jī hū méi shuì', why: '几乎没 + verb.', why_ja: '「几乎没＋動詞」です。' },
     ] },
@@ -810,7 +810,7 @@ export const GRAMMAR = [
     mistakes_ja: ['この型の「为」は wèi ではなく wéi と読みます。', 'くだけた会話では「把…当作」のほうが自然です。'],
     exercises: [
       { type: 'fill', prompt: '这个学校以汉语教学＿主。', answer: '为', choices: ['为', '是', '做'], why: 'The pattern is 以…为主.', why_ja: '型は「以…为主」です。' },
-      { type: 'order', prompt: 'Make: "He takes his father as his example." (example = 例子)', prompt_ja: '「彼は父を手本にしている」を作る', answer: '他以父亲为例子', choices: ['他', '以父亲', '为', '例子'], why: '以 + A + 为 + B.', why_ja: '「以＋A＋为＋B」です。' },
+      { type: 'order', prompt: 'Make: "Let us take this question as an example."', prompt_ja: '「この問題を例にとりましょう」を作る', answer: '我们以这个问题为例', choices: ['我们', '以这个问题', '为', '例'], why: '以 + A + 为 + B; 以…为例 is a fixed phrase.', why_ja: '「以＋A＋为＋B」。「以…为例」は決まった言い方です。' },
       { type: 'produce', prompt: 'Say: "This city takes tourism as its main business." (use 以…为主, 旅游)', prompt_ja: '「この都市は観光を主としている」と「以…为主」で言う', answer: '这个城市以旅游为主', answerPinyin: 'zhè ge chéng shì yǐ lǚ yóu wéi zhǔ', why: '以旅游为主: tourism is the main thing.', why_ja: '「以旅游为主」で観光が主だと述べます。' },
     ] },
 
@@ -827,7 +827,7 @@ export const GRAMMAR = [
     mistakes: ['Writing 一下子 after the verb: 冷了一下子 changes the meaning.', 'Using 一下子 for slow change; it means sudden.'],
     mistakes_ja: ['動詞の後に置く「冷了一下子」は意味が変わります。', 'ゆっくりした変化には使いません。「突然」の意味です。'],
     exercises: [
-      { type: 'fill', prompt: '听到这个消息，她＿哭了起来。', answer: '一下子', choices: ['一下子', '一下', '一点儿'], why: 'A sudden burst of tears: 一下子.', why_ja: '突然泣き出したので「一下子」です。' },
+      { type: 'fill', prompt: '听到这个消息，她＿哭了起来。', answer: '一下子', choices: ['一下子', '一点儿', '一直'], why: 'A sudden burst of tears: 一下子.', why_ja: '突然泣き出したので「一下子」です。' },
       { type: 'order', prompt: 'Make: "The room got quiet all at once."', prompt_ja: '「部屋は一気に静かになった」を作る', answer: '房间一下子安静了', choices: ['房间', '一下子', '安静', '了'], why: 'Subject + 一下子 + change + 了.', why_ja: '「主語＋一下子＋変化＋了」です。' },
       { type: 'produce', prompt: 'Say: "He grew up all at once." (use 一下子, 长大)', prompt_ja: '「彼は一気に大きくなった」と言う', answer: '他一下子长大了', answerPinyin: 'tā yī xià zi zhǎng dà le', why: '一下子 before the verb of change.', why_ja: '変化の動詞の前に「一下子」です。' },
     ] },
@@ -880,7 +880,7 @@ export const GRAMMAR = [
     mistakes: ['Putting the object after 起来: 唱起来歌 should be 唱起歌来.', 'Using 看起来 for "look at"; it means "it seems".'],
     mistakes_ja: ['目的語は「起来」の後ではなく間に入れます。「唱起歌来」です。', '「看起来」は「見る」ではなく「…のように見える」です。'],
     exercises: [
-      { type: 'fill', prompt: '孩子们一下子跑＿了。', answer: '起来', choices: ['起来', '下去', '出来'], why: 'Starting to run is 跑起来.', why_ja: '走り出したので「跑起来」です。' },
+      { type: 'fill', prompt: '春天到了，天气热＿了。', answer: '起来', choices: ['起来', '过来', '出去'], why: 'A state beginning and continuing: 热起来.', why_ja: '状態が始まって続くので「热起来」です。' },
       { type: 'order', prompt: 'Make: "This apple looks very fresh."', prompt_ja: '「このリンゴはとても新鮮そうに見える」を作る', answer: '这个苹果看起来很新鲜', choices: ['这个苹果', '看起来', '很', '新鲜'], why: '看起来 + adjective gives an impression.', why_ja: '「看起来＋形容詞」で印象を述べます。' },
       { type: 'produce', prompt: 'Say: "It started raining." (use 起来)', prompt_ja: '「雨が降り出しました」と「起来」で言う', answer: '下起雨来了', answerPinyin: 'xià qǐ yǔ lái le', why: 'The object 雨 goes between 起 and 来.', why_ja: '目的語の「雨」は「起」と「来」の間に入れます。' },
     ] },
@@ -915,8 +915,8 @@ export const GRAMMAR = [
     mistakes: ['Saying 不看出来; the negative potential form is 看不出来.', 'Using 出来 where 起来 (seems) is meant: 看起来很好 vs 看出来.'],
     mistakes_ja: ['「不看出来」ではなく「看不出来」です。', '「…のように見える」は「看起来」で、「看出来」ではありません。'],
     exercises: [
-      { type: 'fill', prompt: '这个字太小，我看不＿。', answer: '出来', choices: ['出来', '起来', '下去'], why: 'Not being able to make out the character is 看不出来.', why_ja: '字が判別できないので「看不出来」です。' },
-      { type: 'order', prompt: 'Make: "I recognised his voice."', prompt_ja: '「私は彼の声だと聞き分けた」を作る', answer: '我听出来了他的声音', choices: ['我', '听出来了', '他的', '声音'], why: '听出来 + object.', why_ja: '「听出来＋目的語」です。' },
+      { type: 'fill', prompt: '这个字太小，我看不＿。', answer: '出来', choices: ['出来', '起来', '回来'], why: 'Not being able to make out the character is 看不出来.', why_ja: '字が判別できないので「看不出来」です。' },
+      { type: 'order', prompt: 'Make: "I recognised his voice."', prompt_ja: '「私は彼の声だと聞き分けた」を作る', answer: '我听出他的声音来了', choices: ['我', '听出', '他的声音', '来了'], why: 'The object goes between 出 and 来: 听出…来.', why_ja: '目的語は「出」と「来」の間に入れます。「听出…来」です。' },
       { type: 'produce', prompt: 'Ask: "Can you work out the answer?" (use 想得出来)', prompt_ja: '「答えを考え出せますか」と尋ねる', answer: '你想得出来答案吗', answerPinyin: 'nǐ xiǎng de chū lai dá àn ma', why: 'Positive potential form + object + 吗.', why_ja: '肯定の可能補語＋目的語＋吗です。' },
     ] },
 
@@ -949,11 +949,11 @@ export const GRAMMAR = [
       ['他没看过这个电影。', 'tā méi kàn guo zhè ge diàn yǐng.', 'He has never seen this film.', '彼はこの映画を見たことがありません。'],
       ['他昨天没看电影。', 'tā zuó tiān méi kàn diàn yǐng.', 'He did not watch a film yesterday.', '彼は昨日映画を見ませんでした。'],
     ],
-    mistakes: ['Saying 没看了; after 没 the 了 disappears.', 'Using 过 with a time like 昨天 for a single event; use 了.'],
-    mistakes_ja: ['「没看了」とは言いません。「没」の後では「了」が消えます。', '「昨天」のような特定の時点の出来事には「过」ではなく「了」です。'],
+    mistakes: ['Saying 没看了; after 没 the 了 disappears.', 'Reaching for 过 whenever something is past: 过 is for experience; a single completed event takes 了 (我昨天看了电影).'],
+    mistakes_ja: ['「没看了」とは言いません。「没」の後では「了」が消えます。', '過去なら何でも「过」にしないでください。「过」は経験で、1回の完了した出来事は「了」です（我昨天看了电影）。'],
     exercises: [
       { type: 'fill', prompt: '我从来没吃＿这种菜。', answer: '过', choices: ['过', '了', '着'], why: 'A lifetime experience, negated with 没, takes 过.', why_ja: '「没」で否定した経験なので「过」です。' },
-      { type: 'choose', prompt: 'Which sentence means "I went to the hospital this morning"?', prompt_ja: '「今朝病院に行きました」はどれですか', answer: '我今天早上去了医院。', choices: ['我今天早上去了医院。', '我今天早上去过医院。', '我今天早上没去了医院。'], why: 'A single completed event at a stated time takes 了.', why_ja: '特定の時点で完了した1回の出来事には「了」です。' },
+      { type: 'choose', prompt: 'Which sentence means "I went to the hospital this morning"?', prompt_ja: '「今朝病院に行きました」はどれですか', answer: '我今天早上去了医院。', choices: ['我今天早上去了医院。', '我今天早上去医院过。', '我今天早上没去了医院。'], why: 'A single completed event at a stated time takes 了 right after the verb.', why_ja: '特定の時点で完了した1回の出来事には「了」です。' },
       { type: 'produce', prompt: 'Ask: "Have you ever eaten Chinese food?"', prompt_ja: '「中国料理を食べたことがありますか」と尋ねる', answer: '你吃过中国菜吗', answerPinyin: 'nǐ chī guo zhōng guó cài ma', why: 'Experience: V + 过 + O + 吗.', why_ja: '経験なので「V＋过＋O＋吗」です。' },
     ] },
 
@@ -970,7 +970,7 @@ export const GRAMMAR = [
     mistakes: ['Using 着 for an action in progress: 我吃着饭 alone sounds unfinished; say 我在吃饭.', 'Putting 着 after the second verb in V1 着 V2: 笑说着 is wrong.'],
     mistakes_ja: ['進行中の動作に「着」だけを使う「我吃着饭」は不自然で、「我在吃饭」と言います。', '「V1着V2」で「着」を2つ目の動詞に付ける「笑说着」は誤りです。'],
     exercises: [
-      { type: 'fill', prompt: '桌子上放＿一本书。', answer: '着', choices: ['着', '了', '过'], why: 'A continuing state (a book lying there) takes 着.', why_ja: '本がそこにあるという持続する状態なので「着」です。' },
+      { type: 'fill', prompt: '他笑＿说："没关系。"', answer: '着', choices: ['着', '了', '过'], why: 'V1 着 V2: 笑着 gives the manner of 说.', why_ja: '「V1着V2」で、「笑着」が「说」の様子を表します。' },
       { type: 'order', prompt: 'Make: "He listens to music standing up."', prompt_ja: '「彼は立ったまま音楽を聞く」を作る', answer: '他站着听音乐', choices: ['他', '站着', '听', '音乐'], why: 'V1 着 (manner) + V2.', why_ja: '「V1着（様子）＋V2」です。' },
       { type: 'produce', prompt: 'Say: "The window is open." (use 着)', prompt_ja: '「窓が開いています」と「着」で言う', answer: '窗户开着', answerPinyin: 'chuāng hu kāi zhe', why: 'Subject + verb + 着 for a state.', why_ja: '状態は「主語＋動詞＋着」です。' },
     ] },

@@ -127,11 +127,11 @@
    }
   ],
   "mistakes": [
-   "Writing 并非是: 非 already contains \"is not\", so 是 is redundant.",
+   "Writing 并非是: 非 already contains \"is not\", so 是 is redundant; careful writers leave it out.",
    "Using 并非 in casual chat where 并不是 or 不是 sounds natural."
   ],
   "mistakes_ja": [
-   "「并非是」とは書きません。「非」にすでに「…ではない」の意味があります。",
+   "「并非是」は冗長です。「非」にすでに「…ではない」の意味があるので、丁寧な文章では「是」を付けません。",
    "くだけた会話では「并不是」「不是」が自然です。"
   ],
   "exercises": [
@@ -154,7 +154,7 @@
     "answer": "这并非易事。",
     "choices": [
      "这并非易事。",
-     "这并非是易事。",
+     "这非并易事。",
      "这是并非易事。"
     ],
     "why": "并非 is followed directly by the predicate; no 是.",
@@ -486,7 +486,7 @@
     "choices": [
      "鉴于",
      "对于",
-     "由于…所以"
+     "至于"
     ],
     "why": "鉴于 formally presents the circumstance that led to the cancellation.",
     "why_ja": "「鉴于」で欠航の原因となった状況を改まって示します。"
@@ -531,8 +531,8 @@
   "pattern": "以 + N + V; 以 + N + 为 + N; 足以 + V",
   "summary": "A literary preposition for means, reason and standard",
   "summary_ja": "手段・理由・基準を表す文語の前置詞",
-  "explanation": "以 is the written form of 用 (\"by means of\"): 以英语交流 \"communicate in English\", 以最快的速度 \"at top speed\". It also gives a reason in set phrases such as 以此为理由, and the pattern 以 A 为 B means \"take A as B\": 以客户为中心 \"customer-centred\". 足以 + verb means \"enough to\", and 以…的方式 is \"in the manner of\". Because 以 is literary, it is paired with two-syllable, formal verbs rather than with everyday ones.",
-  "explanation_ja": "「以」は「用」（…を用いて）の書き言葉で、「以英语交流」「以最快的速度」のように使います。「以此为理由」のように理由を表す慣用句もあり、「以A为B」はAをBとみなす・Bとするという意味です（「以客户为中心」）。「足以＋動詞」は「…するのに十分だ」、「以…的方式」は「…の方法で」です。「以」は文語なので、日常的な動詞よりも二音節の改まった動詞と組み合わせます。",
+  "explanation": "以 is the written form of 用 (\"by means of\"): 以英语交流 \"communicate in English\", 以最快的速度 \"at top speed\". It also gives a reason or grounds in set phrases such as 以此为由 \"on these grounds\", and the pattern 以 A 为 B means \"take A as B\": 以客户为中心 \"customer-centred\". 足以 + verb means \"enough to\", and 以…的方式 is \"in the manner of\". Because 以 is literary, it is paired with two-syllable, formal verbs rather than with everyday ones.",
+  "explanation_ja": "「以」は「用」（…を用いて）の書き言葉で、「以英语交流」「以最快的速度」のように使います。「以此为由」（これを理由に）のように理由・根拠を表す慣用句もあり、「以A为B」はAをBとみなす・Bとするという意味です（「以客户为中心」）。「足以＋動詞」は「…するのに十分だ」、「以…的方式」は「…の方法で」です。「以」は文語なので、日常的な動詞よりも二音節の改まった動詞と組み合わせます。",
   "examples": [
    {
     "zh": "我们应该以事实为依据。",
@@ -560,11 +560,11 @@
    }
   ],
   "mistakes": [
-   "Writing 以 + verb directly: 以用 is wrong; 以 takes a noun phrase.",
+   "Writing 以 + verb for \"by means of\": 以用 is wrong; in this sense 以 takes a noun phrase (以 + verb occurs only in purpose words such as 以便 / 以免).",
    "Confusing 足以 (\"enough to\") with 足够 (\"enough\", an adjective)."
   ],
   "mistakes_ja": [
-   "「以」の直後に動詞は置きません（「以用」は誤り）。名詞句をとります。",
+   "「…を用いて」の意味で「以」の直後に動詞は置きません（「以用」は誤り）。この用法では名詞句をとります（「以＋動詞」は「以便／以免」のような目的を表す語だけです）。",
    "「足以」（…するに足る）と形容詞の「足够」（十分だ）を混同しないでください。"
   ],
   "exercises": [
@@ -812,11 +812,11 @@
   ],
   "mistakes": [
    "Replacing everyday 的 with 之: 很大之房子 is wrong.",
-   "Writing 之 after a verb phrase; it links nouns."
+   "Using 之 as an object pronoun (\"it\") outside set phrases: 取而代之 and 总而言之 are fixed, but 我看之 is wrong (say 我看它)."
   ],
   "mistakes_ja": [
    "日常の「的」を「之」に置き換えないでください（「很大之房子」は誤り）。",
-   "「之」は名詞と名詞を結びます。動詞句の後には置きません。"
+   "決まった表現以外で「之」を目的語の「それ」として使わないでください。「取而代之」「总而言之」は固定した句ですが、「我看之」は誤りです（「我看它」）。"
   ],
   "exercises": [
    {
@@ -1583,11 +1583,11 @@
    }
   ],
   "mistakes": [
-   "Using 不妨 in the negative (不不妨): the word is already a suggestion.",
+   "Using 不妨 for an order or an obligation; it is only a mild \"why not\", so 你不妨必须去 is wrong.",
    "Putting 罢了 in the middle of a sentence; it is final."
   ],
   "mistakes_ja": [
-   "「不妨」を否定形にすることはありません。それ自体が提案です。",
+   "命令や義務に「不妨」は使えません。「…してみては」という控えめな提案にすぎないので、「你不妨必须去」は誤りです。",
    "「罢了」は文末に置きます。文の途中には入りません。"
   ],
   "exercises": [
@@ -1941,7 +1941,7 @@
     "choices": [
      "二来",
      "另一方面",
-     "再说"
+     "一方面"
     ],
     "why": "一来 … 二来 … lists the two reasons.",
     "why_ja": "「一来…二来…」で二つの理由を並べます。"
@@ -2113,7 +2113,7 @@
     "choices": [
      "对此",
      "从此",
-     "由此"
+     "对于"
     ],
     "why": "对此 introduces the company's response to the problem.",
     "why_ja": "「对此」で問題に対する会社の反応を導きます。"
@@ -2294,11 +2294,11 @@
     "type": "choose",
     "prompt": "Which sentence is correct?",
     "prompt_ja": "正しい文はどれですか。",
-    "answer": "他高兴得以至于跳了起来。",
+    "answer": "他太高兴了，以至于跳了起来。",
     "choices": [
-     "他高兴得以至于跳了起来。",
-     "他高兴得以致跳了起来。",
-     "以至于他高兴跳了起来。"
+     "他太高兴了，以至于跳了起来。",
+     "他太高兴了，以致跳了起来。",
+     "以至于他太高兴了，跳了起来。"
     ],
     "why": "以至于 expresses degree, including happy results; 以致 is for bad ones.",
     "why_ja": "「以至于」は程度を表し、良い結果にも使えます。「以致」は悪い結果専用です。"
@@ -2367,7 +2367,7 @@
     "answer": "则",
     "choices": [
      "则",
-     "就",
+     "而",
      "才"
     ],
     "why": "则 contrasts the two brothers in written style.",
@@ -3179,7 +3179,7 @@
   "examples": [
    {
     "zh": "他每天工作十小时，甚至周末也不休息。",
-    "pinyin": "tā měi tiān gōng zuò shí xiǎo shí, shèn zhì zhōu mò yě bù xiū xī.",
+    "pinyin": "tā měi tiān gōng zuò shí xiǎo shí, shèn zhì zhōu mò yě bù xiū xi.",
     "en": "He works ten hours a day and does not even rest at weekends.",
     "ja": "彼は毎日十時間働き、週末さえ休みません。"
    },
@@ -3306,7 +3306,7 @@
     "answer": "固然",
     "choices": [
      "固然",
-     "虽说",
+     "未免",
      "即便"
     ],
     "why": "固然 concedes convenience before the objection.",
@@ -3644,7 +3644,7 @@
     "choices": [
      "说来说去",
      "说不定",
-     "说实话"
+     "走来走去"
     ],
     "why": "The discussion ends where it began: 说来说去.",
     "why_ja": "議論が元の点に戻るので「说来说去」です。"

@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "updated": "2026-11-20",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "note": "Word and character lists follow HSK 2.0 (2012). Level assignments of grammar points follow commonly used teaching syllabi.",
   "note_ja": "単語・漢字の一覧は HSK 2.0（2012 年版）に従っています。文法項目のレベル分けは一般的な教授シラバスに準じます。",
   "stages": [

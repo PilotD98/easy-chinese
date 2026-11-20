@@ -32,11 +32,11 @@ export const GRAMMAR = [
       ['他并非不想去，只是没有时间。', 'tā bìng fēi bù xiǎng qù, zhǐ shì méi yǒu shí jiān.', 'It is not that he does not want to go; he simply has no time.', '彼は行きたくないのではなく、ただ時間がないだけです。'],
       ['这种疾病并非无法治疗。', 'zhè zhǒng jí bìng bìng fēi wú fǎ zhì liáo.', 'This disease is by no means untreatable.', 'この病気は決して治療できないわけではありません。'],
     ],
-    mistakes: ['Writing 并非是: 非 already contains "is not", so 是 is redundant.', 'Using 并非 in casual chat where 并不是 or 不是 sounds natural.'],
-    mistakes_ja: ['「并非是」とは書きません。「非」にすでに「…ではない」の意味があります。', 'くだけた会話では「并不是」「不是」が自然です。'],
+    mistakes: ['Writing 并非是: 非 already contains "is not", so 是 is redundant; careful writers leave it out.', 'Using 并非 in casual chat where 并不是 or 不是 sounds natural.'],
+    mistakes_ja: ['「并非是」は冗長です。「非」にすでに「…ではない」の意味があるので、丁寧な文章では「是」を付けません。', 'くだけた会話では「并不是」「不是」が自然です。'],
     exercises: [
       { type: 'fill', prompt: '他的成功＿偶然。', answer: '并非', choices: ['并非', '并且', '非常'], why: '并非 negates 偶然 formally: his success was no accident.', why_ja: '「并非」で「偶然ではない」と改まって否定します。' },
-      { type: 'choose', prompt: 'Which is correct?', prompt_ja: '正しい文はどれですか。', answer: '这并非易事。', choices: ['这并非易事。', '这并非是易事。', '这是并非易事。'], why: '并非 is followed directly by the predicate; no 是.', why_ja: '「并非」の後ろには「是」を付けずに述語を続けます。' },
+      { type: 'choose', prompt: 'Which is correct?', prompt_ja: '正しい文はどれですか。', answer: '这并非易事。', choices: ['这并非易事。', '这非并易事。', '这是并非易事。'], why: '并非 is followed directly by the predicate; no 是.', why_ja: '「并非」の後ろには「是」を付けずに述語を続けます。' },
       { type: 'produce', prompt: 'Say formally: "This is not what I meant, but rather a misunderstanding."', prompt_ja: '改まった言い方で「これは私の意図ではなく、誤解です」と言う', answer: '这并非我的意思，而是一个误会', answerPinyin: 'zhè bìng fēi wǒ de yì si, ér shì yī ge wù huì', why: '并非 … 而是 … states what is false and then what is true.', why_ja: '「并非…而是…」で、否定した後に正しい内容を示します。' },
     ] },
 
@@ -111,7 +111,7 @@ export const GRAMMAR = [
     mistakes: ['Using 鉴于 in casual speech: 鉴于我累了 sounds like a legal notice.', 'Ending the sentence after 鉴于 + situation; a main clause with the decision must follow.'],
     mistakes_ja: ['くだけた会話で「鉴于我累了」と言うと公的な通知のように聞こえます。', '「鉴于＋状況」だけで文を終えないでください。決定を述べる主節が必要です。'],
     exercises: [
-      { type: 'fill', prompt: '＿天气恶劣，所有航班取消。', answer: '鉴于', choices: ['鉴于', '对于', '由于…所以'], why: '鉴于 formally presents the circumstance that led to the cancellation.', why_ja: '「鉴于」で欠航の原因となった状況を改まって示します。' },
+      { type: 'fill', prompt: '＿天气恶劣，所有航班取消。', answer: '鉴于', choices: ['鉴于', '对于', '至于'], why: '鉴于 formally presents the circumstance that led to the cancellation.', why_ja: '「鉴于」で欠航の原因となった状況を改まって示します。' },
       { type: 'choose', prompt: 'Which sentence means "The decision is based on facts"?', prompt_ja: '「この決定は事実に基づいている」はどれですか。', answer: '这个决定是基于事实做出的。', choices: ['这个决定是基于事实做出的。', '这个决定基于是事实做出。', '基于这个决定做出事实。'], why: '是 … 基于 N … 的 frames the basis of the decision.', why_ja: '「是…基于＋名詞…的」で決定の根拠を示します。' },
       { type: 'order', prompt: 'Make: "In view of this, we have adjusted the plan."', prompt_ja: '「これに鑑み、私たちは計画を調整しました」を作る', answer: '鉴于此我们调整了计划', choices: ['鉴于', '此', '我们', '调整了', '计划'], why: '鉴于此 is a fixed written opener meaning "in view of this".', why_ja: '「鉴于此」は「これに鑑みて」という決まった書き言葉です。' },
     ] },
@@ -119,16 +119,16 @@ export const GRAMMAR = [
   // ───────────────────────── Unit 8 ─────────────────────────
   { id: 'yi-formal', unit: 8, title: '以: formal 用 / 因 / 把', title_ja: '以：書き言葉の用・因・把',
     pattern: '以 + N + V; 以 + N + 为 + N; 足以 + V', summary: 'A literary preposition for means, reason and standard', summary_ja: '手段・理由・基準を表す文語の前置詞',
-    explanation: '以 is the written form of 用 ("by means of"): 以英语交流 "communicate in English", 以最快的速度 "at top speed". It also gives a reason in set phrases such as 以此为理由, and the pattern 以 A 为 B means "take A as B": 以客户为中心 "customer-centred". 足以 + verb means "enough to", and 以…的方式 is "in the manner of". Because 以 is literary, it is paired with two-syllable, formal verbs rather than with everyday ones.',
-    explanation_ja: '「以」は「用」（…を用いて）の書き言葉で、「以英语交流」「以最快的速度」のように使います。「以此为理由」のように理由を表す慣用句もあり、「以A为B」はAをBとみなす・Bとするという意味です（「以客户为中心」）。「足以＋動詞」は「…するのに十分だ」、「以…的方式」は「…の方法で」です。「以」は文語なので、日常的な動詞よりも二音節の改まった動詞と組み合わせます。',
+    explanation: '以 is the written form of 用 ("by means of"): 以英语交流 "communicate in English", 以最快的速度 "at top speed". It also gives a reason or grounds in set phrases such as 以此为由 "on these grounds", and the pattern 以 A 为 B means "take A as B": 以客户为中心 "customer-centred". 足以 + verb means "enough to", and 以…的方式 is "in the manner of". Because 以 is literary, it is paired with two-syllable, formal verbs rather than with everyday ones.',
+    explanation_ja: '「以」は「用」（…を用いて）の書き言葉で、「以英语交流」「以最快的速度」のように使います。「以此为由」（これを理由に）のように理由・根拠を表す慣用句もあり、「以A为B」はAをBとみなす・Bとするという意味です（「以客户为中心」）。「足以＋動詞」は「…するのに十分だ」、「以…的方式」は「…の方法で」です。「以」は文語なので、日常的な動詞よりも二音節の改まった動詞と組み合わせます。',
     ex: [
       ['我们应该以事实为依据。', 'wǒ men yīng gāi yǐ shì shí wéi yī jù.', 'We should take the facts as our basis.', '私たちは事実を根拠とすべきです。'],
       ['他以优异的成绩毕业。', 'tā yǐ yōu yì de chéng jì bì yè.', 'He graduated with outstanding results.', '彼は優秀な成績で卒業しました。'],
       ['这些证据足以证明他是清白的。', 'zhè xiē zhèng jù zú yǐ zhèng míng tā shì qīng bái de.', 'This evidence is enough to prove that he is innocent.', 'これらの証拠は、彼が潔白であることを証明するのに十分です。'],
       ['公司以合理的价格提供服务。', 'gōng sī yǐ hé lǐ de jià gé tí gōng fú wù.', 'The company provides services at a reasonable price.', '会社は適正な価格でサービスを提供しています。'],
     ],
-    mistakes: ['Writing 以 + verb directly: 以用 is wrong; 以 takes a noun phrase.', 'Confusing 足以 ("enough to") with 足够 ("enough", an adjective).'],
-    mistakes_ja: ['「以」の直後に動詞は置きません（「以用」は誤り）。名詞句をとります。', '「足以」（…するに足る）と形容詞の「足够」（十分だ）を混同しないでください。'],
+    mistakes: ['Writing 以 + verb for "by means of": 以用 is wrong; in this sense 以 takes a noun phrase (以 + verb occurs only in purpose words such as 以便 / 以免).', 'Confusing 足以 ("enough to") with 足够 ("enough", an adjective).'],
+    mistakes_ja: ['「…を用いて」の意味で「以」の直後に動詞は置きません（「以用」は誤り）。この用法では名詞句をとります（「以＋動詞」は「以便／以免」のような目的を表す語だけです）。', '「足以」（…するに足る）と形容詞の「足够」（十分だ）を混同しないでください。'],
     exercises: [
       { type: 'fill', prompt: '学校一直＿学生为中心。', answer: '以', choices: ['以', '用', '把'], why: '以 … 为中心 is the fixed formal pattern "centred on".', why_ja: '「以…为中心」は「…を中心とする」の決まった書き言葉です。' },
       { type: 'choose', prompt: 'Which sentence means "This amount is enough to cover the cost"?', prompt_ja: '「この金額はコストをまかなうのに十分だ」はどれですか。', answer: '这笔钱足以支付成本。', choices: ['这笔钱足以支付成本。', '这笔钱足够以支付成本。', '这笔钱以足支付成本。'], why: '足以 + verb: enough to pay.', why_ja: '「足以＋動詞」で「…するのに十分だ」です。' },
@@ -184,8 +184,8 @@ export const GRAMMAR = [
       ['大约三分之二的学生通过了考试。', 'dà yuē sān fēn zhī èr de xué sheng tōng guò le kǎo shì.', 'About two thirds of the students passed the exam.', '学生の約三分の二が試験に合格しました。'],
       ['这是一条通往成功之路。', 'zhè shì yī tiáo tōng wǎng chéng gōng zhī lù.', 'This is a road leading to success.', 'これは成功へ通じる道です。'],
     ],
-    mistakes: ['Replacing everyday 的 with 之: 很大之房子 is wrong.', 'Writing 之 after a verb phrase; it links nouns.'],
-    mistakes_ja: ['日常の「的」を「之」に置き換えないでください（「很大之房子」は誤り）。', '「之」は名詞と名詞を結びます。動詞句の後には置きません。'],
+    mistakes: ['Replacing everyday 的 with 之: 很大之房子 is wrong.', 'Using 之 as an object pronoun ("it") outside set phrases: 取而代之 and 总而言之 are fixed, but 我看之 is wrong (say 我看它).'],
+    mistakes_ja: ['日常の「的」を「之」に置き換えないでください（「很大之房子」は誤り）。', '決まった表現以外で「之」を目的語の「それ」として使わないでください。「取而代之」「总而言之」は固定した句ですが、「我看之」は誤りです（「我看它」）。'],
     exercises: [
       { type: 'fill', prompt: '他是我最好的朋友＿一。', answer: '之', choices: ['之', '的', '其'], why: '…之一 "one of" is a fixed phrase.', why_ja: '「…之一」（…の一つ）は決まった表現です。' },
       { type: 'choose', prompt: 'Which sentence is correct?', prompt_ja: '正しい文はどれですか。', answer: '四分之一的人反对这个计划。', choices: ['四分之一的人反对这个计划。', '四分的一之人反对这个计划。', '四之分一的人反对这个计划。'], why: 'Fractions follow the pattern 分母 分之 分子.', why_ja: '分数は「分母＋分之＋分子」の順です。' },
@@ -355,8 +355,8 @@ export const GRAMMAR = [
       ['他不过是开个玩笑罢了，别生气。', 'tā bù guò shì kāi ge wán xiào bà le, bié shēng qì.', 'He was only joking; do not be angry.', '彼はただ冗談を言っただけですから、怒らないでください。'],
       ['我只是运气好罢了。', 'wǒ zhǐ shì yùn qi hǎo bà le.', 'I was merely lucky, that is all.', '私はただ運がよかっただけです。'],
     ],
-    mistakes: ['Using 不妨 in the negative (不不妨): the word is already a suggestion.', 'Putting 罢了 in the middle of a sentence; it is final.'],
-    mistakes_ja: ['「不妨」を否定形にすることはありません。それ自体が提案です。', '「罢了」は文末に置きます。文の途中には入りません。'],
+    mistakes: ['Using 不妨 for an order or an obligation; it is only a mild "why not", so 你不妨必须去 is wrong.', 'Putting 罢了 in the middle of a sentence; it is final.'],
+    mistakes_ja: ['命令や義務に「不妨」は使えません。「…してみては」という控えめな提案にすぎないので、「你不妨必须去」は誤りです。', '「罢了」は文末に置きます。文の途中には入りません。'],
     exercises: [
       { type: 'fill', prompt: '如果不确定，＿问问专家。', answer: '不妨', choices: ['不妨', '不免', '难免'], why: 'A gentle suggestion to ask an expert: 不妨.', why_ja: '専門家に聞いてはどうかという控えめな提案なので「不妨」です。' },
       { type: 'choose', prompt: 'Which sentence means "It is just a small gift, nothing more"?', prompt_ja: '「ほんの小さな贈り物にすぎません」はどれですか。', answer: '只是一点小礼物罢了。', choices: ['只是一点小礼物罢了。', '罢了只是一点小礼物。', '只是罢了一点小礼物。'], why: '只是 … 罢了 wraps the item, 罢了 last.', why_ja: '「只是…罢了」で挟み、「罢了」は最後です。' },
@@ -434,7 +434,7 @@ export const GRAMMAR = [
     mistakes: ['Pairing 一来 with 另一方面.', 'Using 一方面 for a single reason without the second half.'],
     mistakes_ja: ['「一来」と「另一方面」を組み合わせないでください。', '「一方面」を後半なしで一つの理由だけに使わないでください。'],
     exercises: [
-      { type: 'fill', prompt: '我选这所大学，一来离家近，＿学费便宜。', answer: '二来', choices: ['二来', '另一方面', '再说'], why: '一来 … 二来 … lists the two reasons.', why_ja: '「一来…二来…」で二つの理由を並べます。' },
+      { type: 'fill', prompt: '我选这所大学，一来离家近，＿学费便宜。', answer: '二来', choices: ['二来', '另一方面', '一方面'], why: '一来 … 二来 … lists the two reasons.', why_ja: '「一来…二来…」で二つの理由を並べます。' },
       { type: 'choose', prompt: 'Which sentence presents two aspects correctly?', prompt_ja: '二つの側面を正しく示している文はどれですか。', answer: '城市生活一方面方便，另一方面压力很大。', choices: ['城市生活一方面方便，另一方面压力很大。', '城市生活一来方便，另一方面压力很大。', '城市生活一方面方便，二来压力很大。'], why: '一方面 … 另一方面 … is the matching pair.', why_ja: '「一方面…另一方面…」が正しい組み合わせです。' },
       { type: 'order', prompt: 'Make: "I exercise, firstly for health, secondly to relax."', prompt_ja: '「私が運動するのは、一つには健康のため、二つにはリラックスするためです」を作る', answer: '我锻炼一来为了健康二来为了放松', choices: ['我锻炼', '一来', '为了健康', '二来', '为了放松'], why: 'Statement first, then 一来 … 二来 ….', why_ja: '先に主張を述べ、「一来…二来…」と続けます。' },
     ] },
@@ -472,7 +472,7 @@ export const GRAMMAR = [
     mistakes: ['Using 对此 with nothing mentioned before it.', 'Mixing 为此 ("to this end") and 因此 ("therefore").'],
     mistakes_ja: ['前に何も述べていないのに「对此」を使うことはできません。', '「为此」（このために）と「因此」（したがって）を混同しないでください。'],
     exercises: [
-      { type: 'fill', prompt: '产品出现了问题，＿公司向客户道歉。', answer: '对此', choices: ['对此', '从此', '由此'], why: '对此 introduces the company\'s response to the problem.', why_ja: '「对此」で問題に対する会社の反応を導きます。' },
+      { type: 'fill', prompt: '产品出现了问题，＿公司向客户道歉。', answer: '对此', choices: ['对此', '从此', '对于'], why: '对此 introduces the company\'s response to the problem.', why_ja: '「对此」で問題に対する会社の反応を導きます。' },
       { type: 'choose', prompt: 'Which sentence means "The matter ends here"?', prompt_ja: '「この件はここで終わりです」はどれですか。', answer: '这件事就此结束。', choices: ['这件事就此结束。', '这件事对此结束。', '这件事为此结束。'], why: '就此结束 is the fixed phrase "end here".', why_ja: '「就此结束」は「ここで終える」の決まった表現です。' },
       { type: 'produce', prompt: 'Write formally: "Regarding this, the government has not yet responded."', prompt_ja: '書き言葉で「これについて、政府はまだ回答していない」と書く', answer: '对此，政府尚未回应', answerPinyin: 'duì cǐ, zhèng fǔ shàng wèi huí yìng', why: '对此 opens the response; 尚未 is formal "not yet".', why_ja: '「对此」で反応を導き、「尚未」は書き言葉の「まだ…していない」です。' },
     ] },
@@ -511,7 +511,7 @@ export const GRAMMAR = [
     mistakes_ja: ['良い結果に「以致」は使えません（「努力学习，以致成功」は誤り。「终于／因此」を使います）。', '「以致」「以至于」で文を始めないでください。後半の節の頭に置きます。'],
     exercises: [
       { type: 'fill', prompt: '他经常熬夜，＿身体越来越差。', answer: '以致', choices: ['以致', '以便', '以免'], why: 'Staying up late caused a bad result: 以致.', why_ja: '夜更かしが悪い結果を招いたので「以致」です。' },
-      { type: 'choose', prompt: 'Which sentence is correct?', prompt_ja: '正しい文はどれですか。', answer: '他高兴得以至于跳了起来。', choices: ['他高兴得以至于跳了起来。', '他高兴得以致跳了起来。', '以至于他高兴跳了起来。'], why: '以至于 expresses degree, including happy results; 以致 is for bad ones.', why_ja: '「以至于」は程度を表し、良い結果にも使えます。「以致」は悪い結果専用です。' },
+      { type: 'choose', prompt: 'Which sentence is correct?', prompt_ja: '正しい文はどれですか。', answer: '他太高兴了，以至于跳了起来。', choices: ['他太高兴了，以至于跳了起来。', '他太高兴了，以致跳了起来。', '以至于他太高兴了，跳了起来。'], why: '以至于 expresses degree, including happy results; 以致 is for bad ones.', why_ja: '「以至于」は程度を表し、良い結果にも使えます。「以致」は悪い結果専用です。' },
       { type: 'produce', prompt: 'Write formally: "The company ignored the warning, with the result that it lost many customers."', prompt_ja: '書き言葉で「会社は警告を無視し、その結果多くの顧客を失った」と書く', answer: '公司忽视了警告，以致失去了很多客户', answerPinyin: 'gōng sī hū shì le jǐng gào, yǐ zhì shī qù le hěn duō kè hù', why: '以致 links the cause to the unwanted loss.', why_ja: '「以致」で原因と望ましくない損失を結びます。' },
     ] },
 
@@ -529,7 +529,7 @@ export const GRAMMAR = [
     mistakes: ['Placing 则 before the subject of the second clause (则北方干燥 is wrong order).', 'Using 则 in casual speech where 就 is natural.'],
     mistakes_ja: ['後半の節の主語の前に「则」を置かないでください（「则北方干燥」は語順が誤り）。', 'くだけた会話では「就」が自然です。「则」は書き言葉です。'],
     exercises: [
-      { type: 'fill', prompt: '哥哥性格外向，弟弟＿比较安静。', answer: '则', choices: ['则', '就', '才'], why: '则 contrasts the two brothers in written style.', why_ja: '「则」で二人の兄弟を書き言葉らしく対比します。' },
+      { type: 'fill', prompt: '哥哥性格外向，弟弟＿比较安静。', answer: '则', choices: ['则', '而', '才'], why: '则 contrasts the two brothers in written style.', why_ja: '「则」で二人の兄弟を書き言葉らしく対比します。' },
       { type: 'choose', prompt: 'Which sentence uses 则 correctly?', prompt_ja: '「则」の使い方が正しいのはどれですか。', answer: '若不努力，则难以成功。', choices: ['若不努力，则难以成功。', '则不努力，若难以成功。', '若不努力，难以成功则。'], why: '则 heads the result clause after the condition.', why_ja: '「则」は条件の後の結果の節の頭に置きます。' },
       { type: 'order', prompt: 'Make: "The city is lively, whereas the countryside is quiet."', prompt_ja: '「都市はにぎやかだが、田舎は静かだ」を作る', answer: '城市热闹农村则安静', choices: ['城市', '热闹', '农村', '则', '安静'], why: 'Subject of the second clause, then 则, then predicate.', why_ja: '後半の主語、「则」、述語の順です。' },
     ] },
@@ -711,7 +711,7 @@ export const GRAMMAR = [
     explanation: '甚至 "even" introduces the most extreme item in a series, showing how far something goes: 他会说英语, 法语, 甚至阿拉伯语. 甚至于 is a fuller, more written form, often introducing a whole clause that describes an extreme consequence: 他忙得甚至于忘了自己的生日. Both can be followed by 连 … 都 for extra emphasis. 乃至 is a still more literary equivalent in formal prose. Note that 甚至 can stand before the subject, verb or object.',
     explanation_ja: '「甚至」（…さえ）は列挙の中で最も極端な項目を導き、物事がどこまで及ぶかを示します（「他会说英语，法语，甚至阿拉伯语」）。「甚至于」はより完全で書き言葉的な形で、極端な結果を述べる節を丸ごと導くことが多いです（「他忙得甚至于忘了自己的生日」）。どちらも「连…都」を続けて強調できます。「乃至」は改まった文章でのさらに文語的な同義語です。「甚至」は主語、動詞、目的語のいずれの前にも置けます。',
     ex: [
-      ['他每天工作十小时，甚至周末也不休息。', 'tā měi tiān gōng zuò shí xiǎo shí, shèn zhì zhōu mò yě bù xiū xī.', 'He works ten hours a day and does not even rest at weekends.', '彼は毎日十時間働き、週末さえ休みません。'],
+      ['他每天工作十小时，甚至周末也不休息。', 'tā měi tiān gōng zuò shí xiǎo shí, shèn zhì zhōu mò yě bù xiū xi.', 'He works ten hours a day and does not even rest at weekends.', '彼は毎日十時間働き、週末さえ休みません。'],
       ['这个消息传得很快，甚至国外的朋友都知道了。', 'zhè ge xiāo xi chuán de hěn kuài, shèn zhì guó wài de péng you dōu zhī dào le.', 'The news spread fast; even friends abroad heard of it.', 'その知らせはすぐに広まり、海外の友人までもが知っていました。'],
       ['他紧张得甚至于说不出话来。', 'tā jǐn zhāng de shèn zhì yú shuō bù chū huà lái.', 'He was so nervous that he could not even speak.', '彼は緊張のあまり、言葉さえ出ませんでした。'],
       ['有些人为了工作甚至牺牲了健康。', 'yǒu xiē rén wèi le gōng zuò shèn zhì xī shēng le jiàn kāng.', 'Some people have even sacrificed their health for work.', '仕事のために健康まで犠牲にした人もいます。'],
@@ -738,7 +738,7 @@ export const GRAMMAR = [
     mistakes: ['Placing 固然 before the subject (固然这个计划不错 is unusual).', 'Using 固然 without a second clause that turns the argument.'],
     mistakes_ja: ['「固然」を主語の前に置くのはふつうではありません。', '論を転じる後半の節なしに「固然」だけで終わらないでください。'],
     exercises: [
-      { type: 'fill', prompt: '汽车＿方便，但是污染环境。', answer: '固然', choices: ['固然', '虽说', '即便'], why: '固然 concedes convenience before the objection.', why_ja: '「固然」で便利さを認めてから反論します。' },
+      { type: 'fill', prompt: '汽车＿方便，但是污染环境。', answer: '固然', choices: ['固然', '未免', '即便'], why: '固然 concedes convenience before the objection.', why_ja: '「固然」で便利さを認めてから反論します。' },
       { type: 'choose', prompt: 'Which sentence is correct?', prompt_ja: '正しい文はどれですか。', answer: '价格固然便宜，质量却不好。', choices: ['价格固然便宜，质量却不好。', '固然价格便宜，质量却不好了吗。', '价格便宜固然，质量不好。'], why: '固然 after the subject, 却 in the second clause.', why_ja: '「固然」は主語の後、「却」は後半の節に置きます。' },
       { type: 'produce', prompt: 'Say: "Experience is certainly important, but attitude matters more."', prompt_ja: '「経験は確かに大事だが、態度のほうが重要だ」と言う', answer: '经验固然重要，但是态度更重要', answerPinyin: 'jīng yàn gù rán zhòng yào, dàn shì tài du gèng zhòng yào', why: '固然 … 但是 … concedes and then asserts.', why_ja: '「固然…但是…」で認めてから主張します。' },
     ] },
@@ -814,7 +814,7 @@ export const GRAMMAR = [
     mistakes: ['Using 说来说去 at the start of a discussion; it closes one.', 'Treating 总而言之 as "in general" (大体上); it means "in conclusion".'],
     mistakes_ja: ['「说来说去」は議論の最初には使いません。締めくくりに使います。', '「总而言之」は「大体上」（おおむね）ではなく「結論として」の意味です。'],
     exercises: [
-      { type: 'fill', prompt: '＿，这件事还是得你自己决定。', answer: '说来说去', choices: ['说来说去', '说不定', '说实话'], why: 'The discussion ends where it began: 说来说去.', why_ja: '議論が元の点に戻るので「说来说去」です。' },
+      { type: 'fill', prompt: '＿，这件事还是得你自己决定。', answer: '说来说去', choices: ['说来说去', '说不定', '走来走去'], why: 'The discussion ends where it began: 说来说去.', why_ja: '議論が元の点に戻るので「说来说去」です。' },
       { type: 'choose', prompt: 'Which sentence sums up a speech?', prompt_ja: 'スピーチをまとめる文はどれですか。', answer: '总而言之，我们必须保护环境。', choices: ['总而言之，我们必须保护环境。', '走来走去，我们必须保护环境。', '总而言之是我们保护环境吗。'], why: '总而言之 opens the final conclusion.', why_ja: '「总而言之」で最後の結論を始めます。' },
       { type: 'produce', prompt: 'Say: "In short, we have no time left."', prompt_ja: '「要するに、私たちにはもう時間がない」と言う', answer: '总之，我们没有时间了', answerPinyin: 'zǒng zhī, wǒ men méi yǒu shí jiān le', why: '总之 is the compact form of 总而言之.', why_ja: '「总之」は「总而言之」の短い形です。' },
     ] },

@@ -1,6 +1,6 @@
 {
   "name": "easy-chinese",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": true,
   "description": "Easy Chinese (简单中文) — a calm, offline-first Mandarin learning app (pinyin to HSK 6, English or Japanese interface) that deploys as a static site.",
   "type": "module",

@@ -9,7 +9,7 @@ export const GRAMMAR = [
     explanation_ja: '「把」構文は動詞で文を終えることができず、動詞の後に結果を示す補語が必要です。特に多いのが「给＋人（誰に渡すか）」「成＋名詞（何に変わるか）」「到＋場所（どこに着くか）」「在＋場所（どこに置かれるか）」の四つです。話し言葉でも書き言葉でも同じように使う中立的な表現です。否定語や助動詞、時間を表す語は動詞ではなく「把」の前に置きます。',
     ex: [
       ['请把这本书给我。', 'qǐng bǎ zhè běn shū gěi wǒ.', 'Please give me this book.', 'この本を私にください。'],
-      ['我把他的名字看成了别人的名字。', 'wǒ bǎ tā de míng zi kàn chéng le bié rén de míng zi.', "I misread his name as someone else's.", '私は彼の名前を別の人の名前と見間違えました。'],
+      ['我把他的名字看成了别人的名字。', 'wǒ bǎ tā de míng zi kàn chéng le bié ren de míng zi.', "I misread his name as someone else's.", '私は彼の名前を別の人の名前と見間違えました。'],
       ['他们把老人送到了医院。', 'tā men bǎ lǎo rén sòng dào le yī yuàn.', 'They took the old man to the hospital.', '彼らはお年寄りを病院へ送り届けました。'],
       ['我把钱放在桌子上了。', 'wǒ bǎ qián fàng zài zhuō zi shàng le.', 'I put the money on the table.', '私はお金を机の上に置きました。'],
     ],
@@ -18,7 +18,7 @@ export const GRAMMAR = [
     exercises: [
       { type: 'fill', prompt: '我把信＿了他。', answer: '给', choices: ['给', '到', '在'], why: 'The letter goes to a person, so the complement is 给 + person.', why_ja: '手紙は人に渡すので、補語は「给＋人」です。' },
       { type: 'order', prompt: 'Make: "He put the book on the table."', prompt_ja: '「彼は本を机の上に置きました」を作る', answer: '他把书放在桌子上', choices: ['他', '把书', '放在', '桌子上'], why: 'Subject, 把 + object, verb + 在, then the place.', why_ja: '主語→把＋目的語→動詞＋在→場所の順です。' },
-      { type: 'choose', prompt: 'Which sentence means "I wrote the sentence out in Chinese"?', prompt_ja: '「私はその文を中国語に書き換えました」はどれですか', answer: '我把这句话写成了汉语。', choices: ['我把这句话写成了汉语。', '我把这句话写了汉语。', '我写成这句话把汉语。'], why: 'Changing something into something else uses V + 成 + result after 把.', why_ja: '「…に変える」は「把＋対象＋動詞＋成＋結果」で表します。' },
+      { type: 'choose', prompt: 'Which sentence means "I rewrote this sentence in Chinese"?', prompt_ja: '「私はその文を中国語に書き換えました」はどれですか', answer: '我把这句话写成了汉语。', choices: ['我把这句话写成了汉语。', '我把这句话写了汉语。', '我写成这句话把汉语。'], why: 'Changing something into something else uses V + 成 + result after 把.', why_ja: '「…に変える」は「把＋対象＋動詞＋成＋結果」で表します。' },
       { type: 'produce', prompt: 'Say: "Please give me the money."', prompt_ja: '「お金を私にください」と言う', answer: '请把钱给我', answerPinyin: 'qǐng bǎ qián gěi wǒ', why: '请 + 把 + object + 给 + person.', why_ja: '「请＋把＋目的語＋给＋人」の形です。' },
     ] },
 
@@ -28,7 +28,7 @@ export const GRAMMAR = [
     explanation_ja: '「对…来说」は人や集団、物事を取り上げ、その立場から見た判断を述べます。「对我来说」は「私にとって」、「对孩子来说」は「子どもにとって」です。ふつう文頭に置き、後ろにコンマを打ちます。会話でも硬い文章でも使え、より改まった「对于…来说」「就…而言」も同じ意味です。「来」のない「对…说（…に言う）」と混同しないでください。',
     ex: [
       ['对我来说，这个问题很简单。', 'duì wǒ lái shuō, zhè ge wèn tí hěn jiǎn dān.', 'For me, this question is easy.', '私にとって、この問題は簡単です。'],
-      ['对学生来说，时间就是钱。', 'duì xué shēng lái shuō, shí jiān jiù shì qián.', 'For students, time is money.', '学生にとって、時間はお金です。'],
+      ['对学生来说，时间就是钱。', 'duì xué sheng lái shuō, shí jiān jiù shì qián.', 'For students, time is money.', '学生にとって、時間はお金です。'],
       ['对这个家庭来说，这是一个重要的决定。', 'duì zhè ge jiā tíng lái shuō, zhè shì yī ge zhòng yào de jué dìng.', 'For this family, this is an important decision.', 'この家庭にとって、これは重要な決定です。'],
       ['对政府来说，经济是最重要的。', 'duì zhèng fǔ lái shuō, jīng jì shì zuì zhòng yào de.', 'For the government, the economy is the most important thing.', '政府にとって、経済が最も重要です。'],
     ],
@@ -43,18 +43,18 @@ export const GRAMMAR = [
   // ───────────────────────── Unit 2 ─────────────────────────
   { id: 'wei-bi', unit: 2, title: '未必: not necessarily', title_ja: '未必：必ずしも…とは限らない',
     pattern: 'S + 未必 + V/Adj', summary: 'A soft denial of what the listener expects', summary_ja: '相手の思い込みをやわらかく否定する',
-    explanation: '未必 goes before the verb or adjective and means "not necessarily, may well not": 贵的未必好 "expensive is not necessarily good". It is softer than 不 and more literary than 不一定, which means the same thing in everyday speech; you will see 未必 in essays, news and careful conversation. It cannot be used alone as an answer; say 不一定 instead. A sentence with 未必 often contrasts with a common assumption stated before it.',
-    explanation_ja: '「未必」は動詞や形容詞の前に置き、「必ずしも…とは限らない」を表します。「贵的未必好」は「高いものが良いとは限らない」です。「不」より控えめで、同じ意味の日常語「不一定」より書き言葉的で、評論や報道、改まった会話で見られます。単独で返事には使えないので、その場合は「不一定」と言います。「未必」の文は、前に述べた一般的な思い込みと対比されることが多いです。',
+    explanation: '未必 goes before the verb or adjective and means "not necessarily, may well not": 贵的未必好 "expensive is not necessarily good". It is softer than 不 and more literary than 不一定, which means the same thing in everyday speech; you will see 未必 in essays, news and careful conversation. Like 不一定, it can also stand alone as a terse reply (未必。 "not necessarily"). A sentence with 未必 often contrasts with a common assumption stated before it.',
+    explanation_ja: '「未必」は動詞や形容詞の前に置き、「必ずしも…とは限らない」を表します。「贵的未必好」は「高いものが良いとは限らない」です。「不」より控えめで、同じ意味の日常語「不一定」より書き言葉的で、評論や報道、改まった会話で見られます。「不一定」と同じく、単独で「未必。（そうとは限らない）」と短く答えることもできます。「未必」の文は、前に述べた一般的な思い込みと対比されることが多いです。',
     ex: [
       ['贵的东西未必好。', 'guì de dōng xi wèi bì hǎo.', 'Expensive things are not necessarily good.', '高いものが良いとは限りません。'],
       ['他未必知道这件事。', 'tā wèi bì zhī dào zhè jiàn shì.', 'He may well not know about this.', '彼がこのことを知っているとは限りません。'],
       ['有钱未必快乐。', 'yǒu qián wèi bì kuài lè.', 'Having money does not necessarily make you happy.', 'お金があっても幸せとは限りません。'],
       ['明天未必下雨，别担心。', 'míng tiān wèi bì xià yǔ, bié dān xīn.', "It will not necessarily rain tomorrow; don't worry.", '明日雨が降るとは限りません。心配しないでください。'],
     ],
-    mistakes: ['Answering a question with just 未必; use 不一定.', 'Writing 未必不 to mean "certainly"; it means "not necessarily not", a double hedge that is rarely wanted.'],
-    mistakes_ja: ['返事として「未必」だけを言わないこと。「不一定」を使います。', '「未必不」を「きっと」の意味で使わないこと。「…でないとは限らない」という二重の留保になります。'],
+    mistakes: ['Putting 未必 before a noun: 未必好人 is wrong; it needs a verb or adjective (未必是好人).', 'Writing 未必不 to mean "certainly"; it means "not necessarily not", a double hedge that is rarely wanted.'],
+    mistakes_ja: ['「未必」を名詞の前に置かないこと。「未必好人」は誤りで、動詞か形容詞が必要です（未必是好人）。', '「未必不」を「きっと」の意味で使わないこと。「…でないとは限らない」という二重の留保になります。'],
     exercises: [
-      { type: 'fill', prompt: '价格高的东西＿好。', answer: '未必', choices: ['未必', '一定', '必须'], why: 'The sentence hedges a common belief; 未必 means "not necessarily".', why_ja: '一般的な思い込みに留保をつける文なので、「必ずしも…ない」の「未必」が入ります。' },
+      { type: 'fill', prompt: '价格高的东西＿好，便宜的也可能不错。', answer: '未必', choices: ['未必', '一定', '必须'], why: 'The sentence hedges a common belief; 未必 means "not necessarily".', why_ja: '一般的な思い込みに留保をつける文なので、「必ずしも…ない」の「未必」が入ります。' },
       { type: 'choose', prompt: 'Which sentence means "He will not necessarily come"?', prompt_ja: '「彼が来るとは限りません」はどれですか', answer: '他未必会来。', choices: ['他未必会来。', '他一定会来。', '他必须来。'], why: '未必 denies certainty; 一定 and 必须 assert it.', why_ja: '「未必」は確実性を否定し、「一定」「必须」は断定します。' },
       { type: 'produce', prompt: 'Say: "He does not necessarily know."', prompt_ja: '「彼が知っているとは限りません」と言う', answer: '他未必知道', answerPinyin: 'tā wèi bì zhī dào', why: '未必 sits directly before the verb.', why_ja: '「未必」は動詞の直前に置きます。' },
     ] },
@@ -86,7 +86,7 @@ export const GRAMMAR = [
       ['他竟然忘了自己的生日。', 'tā jìng rán wàng le zì jǐ de shēng rì.', 'He actually forgot his own birthday.', '彼はなんと自分の誕生日を忘れました。'],
       ['这么简单的问题，他居然不会。', 'zhè me jiǎn dān de wèn tí, tā jū rán bù huì.', 'Such a simple question, and he surprisingly could not answer it.', 'こんな簡単な問題なのに、彼は意外にもできませんでした。'],
       ['她竟然一个人去了中国。', 'tā jìng rán yī ge rén qù le zhōng guó.', 'To my surprise, she went to China alone.', '彼女は意外にも一人で中国へ行きました。'],
-      ['他居然赢了冠军。', 'tā jū rán yíng le guàn jūn.', 'He unexpectedly won the championship.', '彼はなんと優勝しました。'],
+      ['他居然得了冠军。', 'tā jū rán dé le guàn jūn.', 'He unexpectedly won the championship.', '彼はなんと優勝しました。'],
     ],
     mistakes: ['Placing 竟然 before the subject: 竟然他忘了 is wrong.', 'Using 竟然 for ordinary, expected events; it needs real surprise.'],
     mistakes_ja: ['「竟然」を主語の前に置かないこと。「竟然他忘了」は誤りです。', '予想どおりの出来事に「竟然」を使わないこと。本当に意外なときに使います。'],
@@ -157,7 +157,7 @@ export const GRAMMAR = [
     explanation: '不是…而是 rejects A and asserts B instead: 他不是老师，而是学生. A and B can be nouns, verb phrases or whole clauses, and they should be the same type. The pattern is used in all registers; in conversation the 而 is sometimes dropped (不是…是). It is a favourite in explanations: 不是我不想去，而是没有时间 "it is not that I do not want to go, it is that I have no time".',
     explanation_ja: '「不是…而是」はAを否定してBを主張します（他不是老师，而是学生）。AとBは名詞でも動詞句でも節でもよく、同じ種類にそろえます。どの文体でも使え、会話では「而」を落として「不是…是」とすることもあります。説明によく使われ、「不是我不想去，而是没有时间」は「行きたくないのではなく、時間がないのだ」です。',
     ex: [
-      ['他不是老师，而是学生。', 'tā bù shì lǎo shī, ér shì xué shēng.', 'He is not a teacher but a student.', '彼は先生ではなく、学生です。'],
+      ['他不是老师，而是学生。', 'tā bù shì lǎo shī, ér shì xué sheng.', 'He is not a teacher but a student.', '彼は先生ではなく、学生です。'],
       ['我不是不想去，而是没有时间。', 'wǒ bù shì bù xiǎng qù, ér shì méi yǒu shí jiān.', "It is not that I don't want to go; I just have no time.", '行きたくないのではなく、時間がないのです。'],
       ['问题不是钱，而是时间。', 'wèn tí bù shì qián, ér shì shí jiān.', 'The problem is not money but time.', '問題はお金ではなく、時間です。'],
       ['重要的不是胜利，而是参加。', 'zhòng yào de bù shì shèng lì, ér shì cān jiā.', 'What matters is not winning but taking part.', '大切なのは勝利ではなく、参加することです。'],
@@ -194,7 +194,7 @@ export const GRAMMAR = [
     explanation: '所谓 has two jobs. At the start of a sentence, 所谓X，就是… picks up a term and explains what it means: 所谓朋友，就是…. Before a noun, 所谓的 means "so-called" and usually hints that the speaker does not accept the label: 他所谓的秘密 "his so-called secret". Both uses belong to explanatory and written Chinese, and in speech the second one often sounds sarcastic. Do not put 的 after 所谓 in the defining pattern.',
     explanation_ja: '「所谓」には二つの働きがあります。文頭の「所谓X，就是…」は語を取り上げて意味を説明します（所谓朋友，就是…）。名詞の前の「所谓的」は「いわゆる」で、話し手がその呼び名を認めていないことをほのめかすのがふつうです（他所谓的秘密「彼のいわゆる秘密」）。どちらも説明的・書き言葉的な表現で、会話では後者が皮肉に聞こえることが多いです。定義の形では「所谓」の後に「的」を付けません。',
     ex: [
-      ['所谓朋友，就是在你需要的时候帮助你的人。', 'suǒ wèi péng you, jiù shì zài nǐ xū yào de shí hou bāng zhù nǐ de rén.', 'A so-called friend is someone who helps you when you need it.', 'いわゆる友人とは、あなたが必要とするときに助けてくれる人のことです。'],
+      ['所谓朋友，就是在你需要的时候帮助你的人。', 'suǒ wèi péng you, jiù shì zài nǐ xū yào de shí hou bāng zhù nǐ de rén.', 'What we call a friend is someone who helps you when you need it.', 'いわゆる友人とは、あなたが必要とするときに助けてくれる人のことです。'],
       ['他所谓的秘密，其实大家都知道。', 'tā suǒ wèi de mì mì, qí shí dà jiā dōu zhī dào.', 'His so-called secret is actually known to everyone.', '彼のいわゆる秘密は、実はみんな知っています。'],
       ['所谓成功，每个人的理解都不一样。', 'suǒ wèi chéng gōng, měi ge rén de lǐ jiě dōu bù yī yàng.', 'What is called success is understood differently by everyone.', 'いわゆる成功は、人によって理解が違います。'],
       ['这就是所谓的特殊情况。', 'zhè jiù shì suǒ wèi de tè shū qíng kuàng.', 'This is the so-called special case.', 'これがいわゆる特殊な状況です。'],
@@ -202,9 +202,9 @@ export const GRAMMAR = [
     mistakes: ['Writing 所谓的朋友，就是… in the defining pattern; drop 的.', 'Using 所谓的 for a label you fully accept; it usually casts doubt.'],
     mistakes_ja: ['定義の形で「所谓的朋友，就是…」としないこと。「的」は付けません。', '自分が認めている呼び名に「所谓的」を使わないこと。ふつう疑いを込めます。'],
     exercises: [
-      { type: 'fill', prompt: '＿的好朋友，就是能一起吃苦的人。', answer: '所谓', choices: ['所谓', '所以', '所有'], why: 'The sentence defines a term, which is the job of 所谓.', why_ja: '語を定義する文なので、「所谓」が入ります。' },
+      { type: 'fill', prompt: '＿好朋友，就是能一起吃苦的人。', answer: '所谓', choices: ['所谓', '所以', '所有'], why: 'The sentence defines a term, which is the job of 所谓.', why_ja: '語を定義する文なので、「所谓」が入ります。' },
       { type: 'choose', prompt: 'Which phrase means "the so-called expert"?', prompt_ja: '「いわゆる専門家」はどれですか', answer: '所谓的专家', choices: ['所谓的专家', '所以的专家', '所有的专家'], why: '所谓的 + noun means "so-called"; 所有的 means "all".', why_ja: '「所谓的＋名詞」が「いわゆる」です。「所有的」は「すべての」です。' },
-      { type: 'order', prompt: 'Make: "A so-called friend is a person who can help you."', prompt_ja: '「いわゆる友人とは、あなたを助けられる人のことです」を作る', answer: '所谓朋友就是能帮助你的人', choices: ['所谓', '朋友', '就是', '能帮助你的', '人'], why: '所谓 + term, then 就是 + definition.', why_ja: '「所谓＋語」の後に「就是＋定義」です。' },
+      { type: 'order', prompt: 'Make: "What we call a friend is a person who can help you."', prompt_ja: '「いわゆる友人とは、あなたを助けられる人のことです」を作る', answer: '所谓朋友就是能帮助你的人', choices: ['所谓', '朋友', '就是', '能帮助你的', '人'], why: '所谓 + term, then 就是 + definition.', why_ja: '「所谓＋語」の後に「就是＋定義」です。' },
     ] },
 
   { id: 'ren-he-dou', unit: 6, title: '任何…都: any … at all', title_ja: '任何…都：どんな…も',
@@ -215,7 +215,7 @@ export const GRAMMAR = [
       ['任何人都可以参加。', 'rèn hé rén dōu kě yǐ cān jiā.', 'Anyone can take part.', '誰でも参加できます。'],
       ['他任何时候都很认真。', 'tā rèn hé shí hou dōu hěn rèn zhēn.', 'He is serious at all times.', '彼はいつでも真面目です。'],
       ['我没有任何问题。', 'wǒ méi yǒu rèn hé wèn tí.', 'I have no questions at all.', '私には何の質問もありません。'],
-      ['任何困难都不能让他放弃。', 'rèn hé kùn nán dōu bù néng ràng tā fàng qì.', 'No difficulty can make him give up.', 'どんな困難も彼をあきらめさせることはできません。'],
+      ['任何困难都不能让他放弃。', 'rèn hé kùn nan dōu bù néng ràng tā fàng qì.', 'No difficulty can make him give up.', 'どんな困難も彼をあきらめさせることはできません。'],
     ],
     mistakes: ['Forgetting 都 in a positive sentence: 任何人可以参加 sounds incomplete.', 'Adding 都 after 没有任何: say 没有任何问题, not 没有任何问题都.'],
     mistakes_ja: ['肯定文で「都」を忘れないこと。「任何人可以参加」では不完全です。', '「没有任何」の後に「都」を付けないこと。「没有任何问题」が正しい形です。'],
@@ -267,7 +267,7 @@ export const GRAMMAR = [
   { id: 'jian-zhi', unit: 8, title: '简直: simply, absolutely', title_ja: '简直：まったく、まるで',
     pattern: 'S + 简直 + (太/像/不…)', summary: 'Pushes a description to the extreme, often with exaggeration', summary_ja: '描写を極端にまで強める。誇張によく使う',
     explanation: '简直 is an emphatic adverb meaning "simply, practically": 这简直太好了 "this is simply wonderful". It goes before the predicate and is frequently followed by 太…了, 像…一样 or a negative such as 不敢相信. It expresses the speaker\'s strong feeling and often exaggerates, so it belongs to lively speech and informal writing rather than to neutral reports. It cannot describe a plain fact without emotion.',
-    explanation_ja: '「简直」は「まったく、ほとんど」を表す強調の副詞です（这简直太好了「本当に素晴らしい」）。述語の前に置き、「太…了」「像…一样」「不敢相信」などの否定表現とよく組み合わせます。話し手の強い感情を表し、誇張になることが多いので、生き生きした会話やくだけた文章向きで、中立的な報告には向きません。感情のない単なる事実には使えません。',
+    explanation_ja: '「简直」は「まったく、ほとんど」を表す強調の副詞です（这简直太好了「本当に素晴らしい」）。述語の前に置き、「太…了」「像…一样」や「不敢相信」のような否定表現とよく組み合わせます。話し手の強い感情を表し、誇張になることが多いので、生き生きした会話やくだけた文章向きで、中立的な報告には向きません。感情のない単なる事実には使えません。',
     ex: [
       ['这简直太好了！', 'zhè jiǎn zhí tài hǎo le!', 'This is simply wonderful!', 'これは本当に素晴らしいです。'],
       ['他简直像个孩子。', 'tā jiǎn zhí xiàng ge hái zi.', 'He is practically a child.', '彼はまるで子どものようです。'],
@@ -288,7 +288,7 @@ export const GRAMMAR = [
     explanation_ja: '「倒（dào、第四声）」は主語の後に置く副詞で、事実が予想と逆であることを示します（房间不大，倒很干净「部屋は広くないが、意外ときれいだ」）。「却」よりやわらかく、譲歩や皮肉の響きを帯びることが多く、「你说得倒容易」は「言うのは簡単だね」です。「倒不是…」は否定をやわらげ、「我倒不是不想去」は「行きたくないわけではない」です。口語的で、硬い文章より会話向きです。',
     ex: [
       ['这个房子不大，倒很干净。', 'zhè ge fáng zi bù dà, dào hěn gān jìng.', 'This house is not big, but it is actually quite clean.', 'この家は広くありませんが、むしろとてもきれいです。'],
-      ['你说得倒容易，做起来很难。', 'nǐ shuō de dào róng yì, zuò qǐ lái hěn nán.', 'Easy for you to say; doing it is hard.', '言うのは簡単ですが、やってみると難しいです。'],
+      ['你说得倒容易，做起来很难。', 'nǐ shuō de dào róng yì, zuò qǐ lai hěn nán.', 'Easy for you to say; doing it is hard.', '言うのは簡単ですが、やってみると難しいです。'],
       ['我倒不是不想去，只是太忙了。', 'wǒ dào bù shì bù xiǎng qù, zhǐ shì tài máng le.', 'It is not that I do not want to go; I am just too busy.', '行きたくないわけではなく、ただ忙しすぎるのです。'],
       ['吃了药以后，他倒更难受了。', 'chī le yào yǐ hòu, tā dào gèng nán shòu le.', 'After taking the medicine, he actually felt worse.', '薬を飲んだ後、彼はかえって具合が悪くなりました。'],
     ],
@@ -333,7 +333,7 @@ export const GRAMMAR = [
     mistakes: ['Using 反正 in formal writing; prefer 无论如何 there.', 'Confusing 反正 with 反而 ("on the contrary").'],
     mistakes_ja: ['硬い文章で「反正」を使わないこと。「无论如何」が向いています。', '「反正」を「反而（かえって）」と混同しないこと。'],
     exercises: [
-      { type: 'fill', prompt: '你去不去都行，＿我要去。', answer: '反正', choices: ['反正', '反而', '正好'], why: 'Whatever the listener does, the speaker\'s plan stands: 反正.', why_ja: '相手がどうしようと話し手の予定は変わらないので、「反正」です。' },
+      { type: 'fill', prompt: '你去不去都行，＿我要去。', answer: '反正', choices: ['反正', '反而', '即使'], why: 'Whatever the listener does, the speaker\'s plan stands: 反正.', why_ja: '相手がどうしようと話し手の予定は変わらないので、「反正」です。' },
       { type: 'choose', prompt: 'Which sentence means "Whether he comes or not, we start first anyway"?', prompt_ja: '「彼が来ても来なくても、とにかく先に始めます」はどれですか', answer: '不管他来不来，反正我们先开始。', choices: ['不管他来不来，反正我们先开始。', '不管他来不来，反而我们先开始。', '不管他来不来，正好我们先开始。'], why: '不管… pairs naturally with 反正 for "anyway".', why_ja: '「不管…」には「どうせ」の「反正」が自然に続きます。' },
       { type: 'produce', prompt: 'Say: "Anyway, I am not going."', prompt_ja: '「どうせ私は行きません」と言う', answer: '反正我不去', answerPinyin: 'fǎn zhèng wǒ bù qù', why: '反正 opens the clause before the subject.', why_ja: '「反正」を主語の前、節の頭に置きます。' },
     ] },
@@ -403,7 +403,7 @@ export const GRAMMAR = [
       ['这家饭馆的菜以鱼为主。', 'zhè jiā fàn guǎn de cài yǐ yú wéi zhǔ.', 'The dishes at this restaurant are mainly fish.', 'この店の料理は魚が中心です。'],
       ['我们的工作以教学为主。', 'wǒ men de gōng zuò yǐ jiào xué wéi zhǔ.', 'Our work is mainly teaching.', '私たちの仕事は教えることが中心です。'],
       ['他的收入以工资为主。', 'tā de shōu rù yǐ gōng zī wéi zhǔ.', 'His income is mainly his salary.', '彼の収入は給料が主です。'],
-      ['这个节目以年轻人为主。', 'zhè ge jié mù yǐ nián qīng rén wéi zhǔ.', 'This programme is aimed mainly at young people.', 'この番組は若者が中心です。'],
+      ['这个节目的观众以年轻人为主。', 'zhè ge jié mù de guān zhòng yǐ nián qīng rén wéi zhǔ.', 'The audience of this programme is mainly young people.', 'この番組の視聴者は若者が中心です。'],
     ],
     mistakes: ['Replacing 为 with 是: 以鱼是主 is wrong.', 'Reading 为 as wèi; in 为主 it is wéi.'],
     mistakes_ja: ['「为」を「是」に替えないこと。「以鱼是主」は誤りです。', '「为」を wèi と読まないこと。「为主」では wéi です。'],
@@ -494,7 +494,7 @@ export const GRAMMAR = [
     explanation_ja: '「在…看来」は誰の意見かを示します（在我看来「私の見方では」、在老师看来「先生から見れば」）。「从…来看」は判断の根拠や角度を示します（从目前的情况来看「現在の状況から見ると」）。どちらも文頭に置き、コンマが続きます。議論や論説文に典型的で、「我觉得」より整った印象です。名詞の違いに注意：人なら「在…看来」、事実や観点なら「从…来看」です。',
     ex: [
       ['在我看来，这个计划不错。', 'zài wǒ kàn lái, zhè ge jì huà bù cuò.', 'In my view, this plan is good.', '私の見方では、この計画は悪くありません。'],
-      ['在老师看来，学生的健康最重要。', 'zài lǎo shī kàn lái, xué shēng de jiàn kāng zuì zhòng yào.', 'As the teacher sees it, students\' health matters most.', '先生から見れば、学生の健康が最も重要です。'],
+      ['在老师看来，学生的健康最重要。', 'zài lǎo shī kàn lái, xué sheng de jiàn kāng zuì zhòng yào.', 'As the teacher sees it, students\' health matters most.', '先生から見れば、学生の健康が最も重要です。'],
       ['从目前的情况来看，问题不大。', 'cóng mù qián de qíng kuàng lái kàn, wèn tí bù dà.', 'Judging from the present situation, the problem is not serious.', '現在の状況から見ると、問題は大きくありません。'],
       ['从这一点来看，他是对的。', 'cóng zhè yī diǎn lái kàn, tā shì duì de.', 'From this point of view, he is right.', 'この点から見ると、彼は正しいです。'],
     ],
@@ -564,8 +564,8 @@ export const GRAMMAR = [
   // ───────────────────────── Unit 16 ─────────────────────────
   { id: 'wu-lun-ru-he', unit: 16, title: '无论如何: no matter what, in any case', title_ja: '无论如何：何があっても',
     pattern: '无论如何, S + 都/也 + V', summary: 'A firm resolve or demand that holds in every circumstance', summary_ja: 'どんな状況でも変わらない決意や要求',
-    explanation: '无论如何 is a fixed phrase meaning "whatever happens, by all means": 无论如何，我都要完成这个项目. It usually opens the sentence or follows the subject, and the main clause carries 都 or 也. It expresses determination, an urgent request or an absolute rule, and it is acceptable in every register, from a plea to a friend to a formal notice. It is the dignified cousin of 反正.',
-    explanation_ja: '「无论如何」は「何があっても、ぜひとも」を表す固定表現です（无论如何，我都要完成这个项目）。ふつう文頭か主語の後に置き、主節に「都」「也」が入ります。決意や切実な依頼、絶対的な規則を表し、友人への頼みから公式の通知まで、どの文体でも使えます。「反正」の改まった親戚といえます。',
+    explanation: '无论如何 is a fixed phrase meaning "whatever happens, by all means": 无论如何，我都要完成这个项目. It usually opens the sentence or follows the subject, and the main clause carries 都 or 也. It expresses determination, an urgent request or an absolute rule, and it is acceptable in every register, from a plea to a friend to a formal notice. Unlike 反正, which shrugs that the circumstances do not matter, 无论如何 insists on the outcome.',
+    explanation_ja: '「无论如何」は「何があっても、ぜひとも」を表す固定表現です（无论如何，我都要完成这个项目）。ふつう文頭か主語の後に置き、主節に「都」「也」が入ります。決意や切実な依頼、絶対的な規則を表し、友人への頼みから公式の通知まで、どの文体でも使えます。「事情はどうでもいい」と流す「反正」と違い、「无论如何」は結果を強く求めます。',
     ex: [
       ['无论如何，我都要完成这个项目。', 'wú lùn rú hé, wǒ dōu yào wán chéng zhè ge xiàng mù.', 'No matter what, I will finish this project.', '何があっても、私はこのプロジェクトを完成させます。'],
       ['你无论如何也要来。', 'nǐ wú lùn rú hé yě yào lái.', 'You must come, whatever happens.', 'あなたは何があっても来なければなりません。'],
@@ -627,8 +627,8 @@ export const GRAMMAR = [
       ['就我个人而言，我不同意。', 'jiù wǒ gè rén ér yán, wǒ bù tóng yì.', 'Personally speaking, I disagree.', '個人的に言えば、私は賛成しません。'],
       ['就质量而言，这个产品没有问题。', 'jiù zhì liàng ér yán, zhè ge chǎn pǐn méi yǒu wèn tí.', 'As far as quality goes, this product is fine.', '品質について言えば、この製品に問題はありません。'],
     ],
-    mistakes: ['Mixing frames: 对…而言 is heard but 就…而言 is the standard pairing.', 'Using 就…而言 in casual chat, where it sounds stiff.'],
-    mistakes_ja: ['枠を混ぜないこと。「对…而言」も聞かれますが、標準は「就…而言」です。', 'くだけた会話で使うと堅苦しく聞こえます。'],
+    mistakes: ['Dropping 而: 就价格言 is not a sentence; the frame needs both 就 and 而言 (对…而言 is also fine).', 'Using 就…而言 in casual chat, where it sounds stiff.'],
+    mistakes_ja: ['「而」を落とさないこと。「就价格言」は文になりません。「就」と「而言」の両方が必要です（「对…而言」も使えます）。', 'くだけた会話で使うと堅苦しく聞こえます。'],
     exercises: [
       { type: 'fill', prompt: '就经验＿，他比我多。', answer: '而言', choices: ['而言', '而且', '来着'], why: 'The frame 就…而言 limits the comparison to experience.', why_ja: '「就…而言」が比較を経験という話題に限定します。' },
       { type: 'choose', prompt: 'Which is the formal equivalent of 对我来说?', prompt_ja: '「对我来说」の改まった言い方はどれですか', answer: '就我而言', choices: ['就我而言', '就我来着', '在我而言'], why: '就…而言 is the formal frame; the others are not standard.', why_ja: '「就…而言」が改まった枠で、ほかは標準的ではありません。' },
@@ -646,8 +646,8 @@ export const GRAMMAR = [
       ['他只是有点儿累而已，没生病。', 'tā zhǐ shì yǒu diǎnr lèi ér yǐ, méi shēng bìng.', 'He is just a bit tired, that\'s all; he is not ill.', '彼はただ少し疲れているだけで、病気ではありません。'],
       ['我只想安慰她而已。', 'wǒ zhǐ xiǎng ān wèi tā ér yǐ.', 'I only wanted to comfort her.', '私はただ彼女を慰めたかっただけです。'],
     ],
-    mistakes: ['Using 而已 without 只是/不过: the sentence loses its frame.', 'Confusing 而已 with 已经 (already).'],
-    mistakes_ja: ['「只是／不过」なしで「而已」を使わないこと。枠が失われます。', '「而已」を「已经（すでに）」と混同しないこと。'],
+    mistakes: ['Dropping 只是/不过 in front: 而已 normally echoes one of them, so 我开个玩笑而已 sounds abrupt.', 'Confusing 而已 with 已经 (already).'],
+    mistakes_ja: ['前の「只是／不过」を落とさないこと。「而已」はふつうそれらと呼応するので、「我开个玩笑而已」はぶっきらぼうに聞こえます。', '「而已」を「已经（すでに）」と混同しないこと。'],
     exercises: [
       { type: 'fill', prompt: '我只是问问＿，别生气。', answer: '而已', choices: ['而已', '已经', '而且'], why: '只是…而已 plays the question down.', why_ja: '「只是…而已」で質問を軽いものとして言います。' },
       { type: 'order', prompt: 'Make: "This is just a small problem, that\'s all."', prompt_ja: '「これはただの小さな問題にすぎません」を作る', answer: '这只是个小问题而已', choices: ['这', '只是', '个', '小问题', '而已'], why: '只是 before the noun, 而已 at the end.', why_ja: '「只是」を名詞の前に、「而已」を文末に置きます。' },
@@ -772,8 +772,8 @@ export const GRAMMAR = [
     explanation_ja: '動詞を「来」と「去」で挟んで繰り返すと、行ったり来たりの動きや何度も繰り返す動作を表します（走来走去「うろうろする」、想来想去「あれこれ考える」、说来说去「同じことを言い続ける」）。移動動詞では文字どおりの意味、思考動詞では次の節で結論に至ることが多いです（想来想去，还是…）。口語的で生き生きした表現です。この枠に入るのは一音節の動詞だけです。',
     ex: [
       ['他在屋子里走来走去。', 'tā zài wū zi lǐ zǒu lái zǒu qù.', 'He paced back and forth in the room.', '彼は部屋の中を行ったり来たりしていました。'],
-      ['我想来想去，还是决定不去了。', 'wǒ xiǎng lái xiǎng qù, hái shì jué dìng bù qù le.', 'After thinking it over and over, I decided not to go after all.', 'あれこれ考えた末、やはり行かないことにしました。'],
-      ['他们说来说去，还是没有结果。', 'tā men shuō lái shuō qù, hái shì méi yǒu jié guǒ.', 'They talked round and round and still reached no result.', '彼らは何度も話し合いましたが、やはり結論が出ませんでした。'],
+      ['我想来想去，还是决定不去了。', 'wǒ xiǎng lái xiǎng qù, hái shi jué dìng bù qù le.', 'After thinking it over and over, I decided not to go after all.', 'あれこれ考えた末、やはり行かないことにしました。'],
+      ['他们说来说去，还是没有结果。', 'tā men shuō lái shuō qù, hái shi méi yǒu jié guǒ.', 'They talked round and round and still reached no result.', '彼らは何度も話し合いましたが、やはり結論が出ませんでした。'],
       ['孩子们跑来跑去，玩得很开心。', 'hái zi men pǎo lái pǎo qù, wán de hěn kāi xīn.', 'The children ran around, having great fun.', '子どもたちは走り回って、とても楽しそうに遊んでいました。'],
     ],
     mistakes: ['Using a two-syllable verb: 学习来学习去 is wrong.', 'Reversing the order: 走去走来 is not used.'],
@@ -781,7 +781,7 @@ export const GRAMMAR = [
     exercises: [
       { type: 'fill', prompt: '他想＿想去，也没想出办法。', answer: '来', choices: ['来', '去', '了'], why: 'The frame is V来V去: 想来想去.', why_ja: '枠は「V来V去」で、「想来想去」です。' },
       { type: 'order', prompt: 'Make: "He paced back and forth in the room."', prompt_ja: '「彼は部屋の中を行ったり来たりしました」を作る', answer: '他在房间里走来走去', choices: ['他', '在房间里', '走来走去'], why: 'Subject + place + V来V去.', why_ja: '「主語＋場所＋V来V去」です。' },
-      { type: 'produce', prompt: 'Say: "After thinking it over, I will not go after all."', prompt_ja: '「あれこれ考えて、やはり行かないことにします」と言う', answer: '我想来想去还是不去了', answerPinyin: 'wǒ xiǎng lái xiǎng qù hái shì bù qù le', why: '想来想去 leads to the conclusion with 还是.', why_ja: '「想来想去」の後に「还是」で結論を述べます。' },
+      { type: 'produce', prompt: 'Say: "After thinking it over, I will not go after all."', prompt_ja: '「あれこれ考えて、やはり行かないことにします」と言う', answer: '我想来想去还是不去了', answerPinyin: 'wǒ xiǎng lái xiǎng qù hái shi bù qù le', why: '想来想去 leads to the conclusion with 还是.', why_ja: '「想来想去」の後に「还是」で結論を述べます。' },
     ] },
 
   // ───────────────────────── Unit 23 ─────────────────────────
@@ -790,17 +790,17 @@ export const GRAMMAR = [
     explanation: '动不动 (always followed by 就) describes something that happens too readily, for no good reason: 他动不动就生气 "he gets angry at the drop of a hat". It is used for people\'s habits and also for things that fail easily (电脑动不动就坏). The tone is critical or complaining, so it belongs to colloquial speech. 动不动 goes after the subject, and the verb after 就 is usually something negative.',
     explanation_ja: '「动不动」（必ず「就」が続く）は、大した理由もなくすぐに起きることを表します（他动不动就生气「彼はちょっとしたことですぐ怒る」）。人の癖にも、すぐ壊れる物にも使います（电脑动不动就坏）。批判や不満の響きがあり、口語的な表現です。「动不动」は主語の後に置き、「就」の後の動詞はふつう好ましくないことです。',
     ex: [
-      ['他动不动就生气。', 'tā dòng bù dòng jiù shēng qì.', 'He gets angry at the slightest thing.', '彼は何かにつけてすぐ怒ります。'],
-      ['这台电脑动不动就坏。', 'zhè tái diàn nǎo dòng bù dòng jiù huài.', 'This computer breaks down all the time.', 'このパソコンはしょっちゅう壊れます。'],
-      ['你别动不动就哭。', 'nǐ bié dòng bù dòng jiù kū.', 'Don\'t burst into tears at every little thing.', 'ちょっとしたことですぐ泣かないでください。'],
-      ['她动不动就催我快点儿。', 'tā dòng bù dòng jiù cuī wǒ kuài diǎnr.', 'She is forever urging me to hurry up.', '彼女は何かというとすぐ私を急かします。'],
+      ['他动不动就生气。', 'tā dòng bu dòng jiù shēng qì.', 'He gets angry at the slightest thing.', '彼は何かにつけてすぐ怒ります。'],
+      ['这台电脑动不动就坏。', 'zhè tái diàn nǎo dòng bu dòng jiù huài.', 'This computer breaks down all the time.', 'このパソコンはしょっちゅう壊れます。'],
+      ['你别动不动就哭。', 'nǐ bié dòng bu dòng jiù kū.', 'Don\'t burst into tears at every little thing.', 'ちょっとしたことですぐ泣かないでください。'],
+      ['她动不动就催我快点儿。', 'tā dòng bu dòng jiù cuī wǒ kuài diǎnr.', 'She is forever urging me to hurry up.', '彼女は何かというとすぐ私を急かします。'],
     ],
     mistakes: ['Dropping 就: 他动不动生气 is incomplete.', 'Using 动不动 for something positive; it is a complaint.'],
     mistakes_ja: ['「就」を落とさないこと。「他动不动生气」では不完全です。', '良いことに「动不动」を使わないこと。不満を表す語です。'],
     exercises: [
       { type: 'fill', prompt: '他＿就迟到，老板很不满意。', answer: '动不动', choices: ['动不动', '不动', '动一动'], why: 'Frequent, easy lateness is criticized with 动不动就.', why_ja: 'すぐに、たびたび遅刻することを「动不动就」で批判します。' },
       { type: 'choose', prompt: 'Which sentence means "He gets angry at the drop of a hat"?', prompt_ja: '「彼はちょっとしたことですぐ怒ります」はどれですか', answer: '他动不动就生气。', choices: ['他动不动就生气。', '他不动就生气。', '他动了就生气。'], why: 'Only 动不动就 has the meaning "too readily".', why_ja: '「すぐに」の意味を持つのは「动不动就」だけです。' },
-      { type: 'produce', prompt: 'Say: "Don\'t cry at every little thing."', prompt_ja: '「ちょっとしたことですぐ泣かないでください」と言う', answer: '别动不动就哭', answerPinyin: 'bié dòng bù dòng jiù kū', why: '别 + 动不动就 + verb.', why_ja: '「别＋动不动就＋動詞」です。' },
+      { type: 'produce', prompt: 'Say: "Don\'t cry at every little thing."', prompt_ja: '「ちょっとしたことですぐ泣かないでください」と言う', answer: '别动不动就哭', answerPinyin: 'bié dòng bu dòng jiù kū', why: '别 + 动不动就 + verb.', why_ja: '「别＋动不动就＋動詞」です。' },
     ] },
 
   // ───────────────────────── Unit 24 ─────────────────────────
@@ -848,9 +848,9 @@ export const GRAMMAR = [
     explanation_ja: '「难怪」「怪不得」はどちらも「どうりで」を表し、不思議に思っていたことの理由を話し手が知ったばかりであることを示します。不思議だった事実を述べる節の頭に置き、理由は「原来」とともに後に続くか、直前に述べられています（难怪他没来，原来他病了）。二つは入れ替え可能で、「怪不得」のほうがやや口語的です。反語の疑問を作る「难道」や、「奇怪（変だ）」と混同しないでください。',
     ex: [
       ['难怪他没来，原来他病了。', 'nán guài tā méi lái, yuán lái tā bìng le.', 'No wonder he did not come; it turns out he was ill.', 'どうりで彼は来なかったのですね。病気だったのです。'],
-      ['怪不得这么冷，窗户开着呢。', 'guài bù de zhè me lěng, chuāng hu kāi zhe ne.', 'No wonder it is so cold; the window is open.', 'どうりで寒いわけです。窓が開いています。'],
+      ['怪不得这么冷，窗户开着呢。', 'guài bu de zhè me lěng, chuāng hu kāi zhe ne.', 'No wonder it is so cold; the window is open.', 'どうりで寒いわけです。窓が開いています。'],
       ['他每天练习，难怪说得这么好。', 'tā měi tiān liàn xí, nán guài shuō de zhè me hǎo.', 'He practises every day; no wonder he speaks so well.', '彼は毎日練習しています。どうりでこんなに上手に話せるのですね。'],
-      ['怪不得你找不到，东西在隔壁房间。', 'guài bù de nǐ zhǎo bù dào, dōng xi zài gé bì fáng jiān.', 'No wonder you cannot find it; it is in the next room.', 'どうりで見つからないわけです。物は隣の部屋にあります。'],
+      ['怪不得你找不到，东西在隔壁房间。', 'guài bu de nǐ zhǎo bù dào, dōng xi zài gé bì fáng jiān.', 'No wonder you cannot find it; it is in the next room.', 'どうりで見つからないわけです。物は隣の部屋にあります。'],
     ],
     mistakes: ['Confusing 难怪 with 难道 (could it be that…?).', 'Using 难怪 before the reason instead of before the puzzling fact.'],
     mistakes_ja: ['「难怪」を「难道（まさか…なのか）」と混同しないこと。', '「难怪」を理由の前ではなく、不思議だった事実の前に置くこと。'],
@@ -886,7 +886,7 @@ export const GRAMMAR = [
     explanation_ja: '「总之」は、直前に述べた・並べた内容をまとめる文を導きます（他又聪明又努力，总之是个好学生）。話を締めくくって話し手の結論を言うときにも使えます（总之，你别担心）。文体は中立で、作文やスピーチの段落の終わりに便利です。「总而言之」はより長く改まった形です。「总之」の後にはふつうコンマか主語が続きます。',
     ex: [
       ['总之，这次活动很成功。', 'zǒng zhī, zhè cì huó dòng hěn chéng gōng.', 'In short, this event was a success.', '要するに、今回のイベントは成功でした。'],
-      ['他又聪明又努力，总之是个好学生。', 'tā yòu cōng míng yòu nǔ lì, zǒng zhī shì ge hǎo xué shēng.', 'He is both clever and hard-working; in a word, a good student.', '彼は賢くて努力家で、要するに良い学生です。'],
+      ['他又聪明又努力，总之是个好学生。', 'tā yòu cōng ming yòu nǔ lì, zǒng zhī shì ge hǎo xué sheng.', 'He is both clever and hard-working; in a word, a good student.', '彼は賢くて努力家で、要するに良い学生です。'],
       ['总之，你别担心。', 'zǒng zhī, nǐ bié dān xīn.', 'Anyway, don\'t worry.', 'とにかく、心配しないでください。'],
       ['天气恶劣，路又远，总之我们不去了。', 'tiān qì è liè, lù yòu yuǎn, zǒng zhī wǒ men bù qù le.', 'The weather is terrible and the road is long; in short, we are not going.', '天気は悪いし道は遠いし、要するに私たちは行きません。'],
     ],
@@ -923,7 +923,7 @@ export const GRAMMAR = [
     explanation: '何况 introduces a case that is even more obvious than the one just given: 大人都不懂，何况孩子呢？ "even adults do not understand, let alone children". It often follows 连…都 or 都 and is strengthened to 更何况. 况且 simply adds one more reason to an argument ("besides, moreover"): 太贵了，况且我也不喜欢. Both are slightly formal and common in persuasion and essays; 何况 sentences usually end in 呢.',
     explanation_ja: '「何况」は、直前に挙げた例よりさらに明白な例を導きます（大人都不懂，何况孩子呢？「大人でも分からないのに、まして子どもは」）。「连…都」や「都」の後によく現れ、「更何况」と強めることもあります。「况且」は議論に理由をもう一つ加えるだけです（「そのうえ」：太贵了，况且我也不喜欢）。どちらもやや改まった語で、説得や論説によく使われます。「何况」の文はふつう「呢」で終わります。',
     ex: [
-      ['这个问题大人都不懂，何况孩子呢？', 'zhè ge wèn tí dà rén dōu bù dǒng, hé kuàng hái zi ne?', 'Even adults do not understand this question, let alone children.', 'この問題は大人でも分からないのに、まして子どもはなおさらです。'],
+      ['这个问题大人都不懂，何况孩子呢？', 'zhè ge wèn tí dà ren dōu bù dǒng, hé kuàng hái zi ne?', 'Even adults do not understand this question, let alone children.', 'この問題は大人でも分からないのに、まして子どもはなおさらです。'],
       ['天太晚了，何况还下着雨，别去了。', 'tiān tài wǎn le, hé kuàng hái xià zhe yǔ, bié qù le.', 'It is too late, and besides it is raining; don\'t go.', 'もう遅いし、まして雨も降っているのだから、行くのはやめなさい。'],
       ['这件衣服太贵了，况且我也不太喜欢。', 'zhè jiàn yī fu tài guì le, kuàng qiě wǒ yě bù tài xǐ huan.', 'This dress is too expensive, and besides, I do not really like it.', 'この服は高すぎるし、そのうえあまり好きでもありません。'],
       ['他连中文都不会说，更何况写文章了。', 'tā lián zhōng wén dōu bù huì shuō, gèng hé kuàng xiě wén zhāng le.', 'He cannot even speak Chinese, let alone write essays.', '彼は中国語を話すことさえできないのに、まして文章を書くなんて無理です。'],
@@ -933,7 +933,7 @@ export const GRAMMAR = [
     exercises: [
       { type: 'fill', prompt: '他都不会，＿我呢？', answer: '何况', choices: ['何况', '何必', '况且'], why: 'A stronger case ("let alone me") takes 何况…呢.', why_ja: 'より強い例（「まして私は」）には「何况…呢」です。' },
       { type: 'order', prompt: 'Make: "It is too late, and besides it is still raining."', prompt_ja: '「もう遅いし、そのうえまだ雨が降っています」を作る', answer: '太晚了况且还下着雨', choices: ['太晚了', '况且', '还下着雨'], why: '况且 adds a second reason after the first.', why_ja: '「况且」が最初の理由の後に二つ目の理由を加えます。' },
-      { type: 'produce', prompt: 'Say: "Even adults do not understand, let alone children."', prompt_ja: '「大人でも分からないのに、まして子どもは」と言う', answer: '大人都不懂何况孩子呢', answerPinyin: 'dà rén dōu bù dǒng hé kuàng hái zi ne', why: '都 in the first clause, 何况…呢 in the second.', why_ja: '最初の節に「都」、二つ目に「何况…呢」です。' },
+      { type: 'produce', prompt: 'Say: "Even adults do not understand, let alone children."', prompt_ja: '「大人でも分からないのに、まして子どもは」と言う', answer: '大人都不懂何况孩子呢', answerPinyin: 'dà ren dōu bù dǒng hé kuàng hái zi ne', why: '都 in the first clause, 何况…呢 in the second.', why_ja: '最初の節に「都」、二つ目に「何况…呢」です。' },
     ] },
 
   // ───────────────────────── Unit 33 ─────────────────────────
@@ -945,7 +945,7 @@ export const GRAMMAR = [
       ['我宁可走路，也不坐这么挤的车。', 'wǒ nìng kě zǒu lù, yě bù zuò zhè me jǐ de chē.', 'I would rather walk than take such a crowded bus.', 'こんなに混んだバスに乗るくらいなら、むしろ歩きます。'],
       ['他宁可不吃饭，也要把工作做完。', 'tā nìng kě bù chī fàn, yě yào bǎ gōng zuò zuò wán.', 'He would rather skip meals than leave the work unfinished.', '彼は食事を抜いてでも、仕事を終わらせるつもりです。'],
       ['宁可慢一点儿，也不要出错。', 'nìng kě màn yī diǎnr, yě bù yào chū cuò.', 'Better to be a bit slow than to make mistakes.', '少し遅くなっても、間違えないほうがいいです。'],
-      ['她宁可自己辛苦，也不麻烦别人。', 'tā nìng kě zì jǐ xīn kǔ, yě bù má fan bié rén.', 'She would rather suffer herself than trouble others.', '彼女は人に迷惑をかけるくらいなら、むしろ自分が苦労します。'],
+      ['她宁可自己辛苦，也不麻烦别人。', 'tā nìng kě zì jǐ xīn kǔ, yě bù má fan bié ren.', 'She would rather suffer herself than trouble others.', '彼女は人に迷惑をかけるくらいなら、むしろ自分が苦労します。'],
     ],
     mistakes: ['Reading 宁 as níng; in 宁可 it is nìng.', 'Dropping 也: 宁可走路，不坐车 is weaker and sounds incomplete.'],
     mistakes_ja: ['「宁」を níng と読まないこと。「宁可」では nìng です。', '「也」を落とさないこと。「宁可走路，不坐车」は弱く、不完全に聞こえます。'],
@@ -962,7 +962,7 @@ export const GRAMMAR = [
     ex: [
       ['凡是来的人都有礼物。', 'fán shì lái de rén dōu yǒu lǐ wù.', 'Everyone who comes gets a gift.', '来た人は誰でも贈り物がもらえます。'],
       ['凡是他说的话，我都相信。', 'fán shì tā shuō de huà, wǒ dōu xiāng xìn.', 'I believe everything he says.', '彼の言うことなら、私は何でも信じます。'],
-      ['凡是参加比赛的学生，都要早点儿到。', 'fán shì cān jiā bǐ sài de xué shēng, dōu yào zǎo diǎnr dào.', 'All students taking part in the competition must arrive early.', '試合に参加する学生は全員、早めに来なければなりません。'],
+      ['凡是参加比赛的学生，都要早点儿到。', 'fán shì cān jiā bǐ sài de xué sheng, dōu yào zǎo diǎnr dào.', 'All students taking part in the competition must arrive early.', '試合に参加する学生は全員、早めに来なければなりません。'],
       ['凡是去过那里的人，都说那里很美。', 'fán shì qù guò nà lǐ de rén, dōu shuō nà lǐ hěn měi.', 'Everyone who has been there says it is beautiful.', 'そこへ行ったことのある人は皆、とても美しいと言います。'],
     ],
     mistakes: ['Forgetting 都 in the main clause.', 'Using 凡是 with a specific individual: 凡是小王都… is wrong.'],
@@ -999,14 +999,14 @@ export const GRAMMAR = [
     explanation_ja: '「与其A，不如B」はAを退けてBを選びます（与其在家看电视，不如出去走走「家でテレビを見るより、外に出て歩くほうがいい」）。AとBは並列の動詞句で、Bが勧める選択肢です。「还不如」「倒不如」で好みを強められます。やや改まった表現ですが助言や論説でよく使われ、会話では「别A了，B吧」が素朴な言い方です。Aを選ぶ「宁可A也不B」と比べてください。',
     ex: [
       ['与其在家看电视，不如出去走走。', 'yǔ qí zài jiā kàn diàn shì, bù rú chū qù zǒu zǒu.', 'Rather than watching TV at home, you might as well go out for a walk.', '家でテレビを見るより、外に出て歩くほうがいいです。'],
-      ['与其等别人帮忙，不如自己动手。', 'yǔ qí děng bié rén bāng máng, bù rú zì jǐ dòng shǒu.', 'Rather than wait for others to help, better do it yourself.', '人の助けを待つより、自分でやるほうがいいです。'],
+      ['与其等别人帮忙，不如自己动手。', 'yǔ qí děng bié ren bāng máng, bù rú zì jǐ dòng shǒu.', 'Rather than wait for others to help, better do it yourself.', '人の助けを待つより、自分でやるほうがいいです。'],
       ['与其发愁，不如想办法。', 'yǔ qí fā chóu, bù rú xiǎng bàn fǎ.', 'Rather than worry, better think of a solution.', '悩むより、方法を考えるほうがいいです。'],
       ['与其买贵的，不如买合适的。', 'yǔ qí mǎi guì de, bù rú mǎi hé shì de.', 'Rather than buy the expensive one, better buy the suitable one.', '高いものを買うより、合ったものを買うほうがいいです。'],
     ],
     mistakes: ['Putting the preferred option after 与其; the recommendation comes after 不如.', 'Using 不如 alone for "rather than"; alone it means "not as good as".'],
     mistakes_ja: ['勧める選択肢を「与其」の後に置かないこと。勧めるものは「不如」の後です。', '「不如」だけで「…するより」を表さないこと。単独では「…に及ばない」です。'],
     exercises: [
-      { type: 'fill', prompt: '＿坐在这里发愁，不如去问问老师。', answer: '与其', choices: ['与其', '其实', '不如'], why: '与其 opens the rejected option; 不如 opens the better one.', why_ja: '「与其」が退ける選択肢、「不如」が良い選択肢を導きます。' },
+      { type: 'fill', prompt: '＿坐在这里发愁，不如去问问老师。', answer: '与其', choices: ['与其', '宁可', '不如'], why: '与其 opens the rejected option; 不如 opens the better one.', why_ja: '「与其」が退ける選択肢、「不如」が良い選択肢を導きます。' },
       { type: 'order', prompt: 'Make: "Rather than wait for him, better go yourself."', prompt_ja: '「彼を待つより、自分で行くほうがいいです」を作る', answer: '与其等他不如自己去', choices: ['与其', '等他', '不如', '自己去'], why: '与其 + A, 不如 + B.', why_ja: '「与其＋A，不如＋B」です。' },
       { type: 'produce', prompt: 'Say: "Rather than watch TV, better read a book."', prompt_ja: '「テレビを見るより、本を読むほうがいいです」と言う', answer: '与其看电视不如看书', answerPinyin: 'yǔ qí kàn diàn shì bù rú kàn shū', why: 'Two parallel verb phrases, the second recommended.', why_ja: '並列の二つの動詞句で、後のほうを勧めます。' },
     ] },
@@ -1014,8 +1014,8 @@ export const GRAMMAR = [
   // ───────────────────────── Unit 39 ─────────────────────────
   { id: 'bu-jian-de', unit: 39, title: '不见得: not necessarily (colloquial)', title_ja: '不见得：…とは限らない（口語）',
     pattern: 'S + 不见得 + V/Adj　|　不见得。', summary: 'The spoken twin of 未必', summary_ja: '未必の口語版',
-    explanation: '不见得 means "not necessarily, I doubt it" and goes before the verb or adjective: 他不见得会来. It is the colloquial partner of 未必 (unit 2); unlike 未必 it can stand alone as an answer: 不见得 "I doubt it". It expresses the speaker\'s doubt about something the listener seems to assume. Use it in conversation; in formal writing prefer 未必 or 不一定.',
-    explanation_ja: '「不见得」は「…とは限らない、そうでもないだろう」を表し、動詞や形容詞の前に置きます（他不见得会来）。第2課の「未必」の口語版で、「未必」と違って単独で返事にも使えます（不见得「どうかな」）。相手が思い込んでいることへの話し手の疑いを表します。会話で使い、硬い文章では「未必」「不一定」が好まれます。',
+    explanation: '不见得 means "not necessarily, I doubt it" and goes before the verb or adjective: 他不见得会来. It is the colloquial partner of 未必 (unit 2), and like 未必 it can stand alone as an answer: 不见得 "I doubt it". It expresses the speaker\'s doubt about something the listener seems to assume. Use it in conversation; in formal writing prefer 未必 or 不一定.',
+    explanation_ja: '「不见得」は「…とは限らない、そうでもないだろう」を表し、動詞や形容詞の前に置きます（他不见得会来）。第2課の「未必」の口語版で、「未必」と同じく単独で返事にも使えます（不见得「どうかな」）。相手が思い込んでいることへの話し手の疑いを表します。会話で使い、硬い文章では「未必」「不一定」が好まれます。',
     ex: [
       ['他不见得会来。', 'tā bù jiàn de huì lái.', 'He will not necessarily come.', '彼が来るとは限りません。'],
       ['贵的不见得就好。', 'guì de bù jiàn de jiù hǎo.', 'Expensive does not necessarily mean good.', '高いものが良いとは限りません。'],

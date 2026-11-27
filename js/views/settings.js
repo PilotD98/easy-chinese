@@ -2,7 +2,7 @@
    Every change saves immediately to the device. */
 import { h, icon, zh, formatBytes, formatDate } from '../ui/dom.js';
 import { settings, OPTIONS } from '../store/settings.js';
-import { speak, rankedVoices } from '../ui/audio.js';
+import { speak, rankedVoices, otherVoices, currentVoice, initAudio } from '../ui/audio.js';
 import { db } from '../store/db.js';
 import { downloadExport, readBackupFile, validateImport, applyImport, clearAllData } from '../store/backup.js';
 import { toast } from '../ui/toast.js';
@@ -10,7 +10,7 @@ import { openSheet, confirm } from '../ui/dialog.js';
 import { showShortcuts } from '../ui/shortcuts.js';
 import { offlineStatus, downloadAllContent } from '../content/loader.js';
 import { listProfiles, activeProfileId, createProfile, renameProfile, switchProfile, deleteProfile } from '../store/profiles.js';
-import { APP_VERSION, canPromptInstall, promptInstall, isStandalone, isIOS, onInstallAvailable, supports, osName } from '../util/platform.js';
+import { APP_VERSION, canPromptInstall, promptInstall, isStandalone, isIOS, onInstallAvailable, supports, osName, voiceId, chineseRegion } from '../util/platform.js';
 import { resetKnown, knownIds } from '../engine/known.js';
 import { setLanguage, t } from '../i18n/index.js';
 
@@ -138,19 +138,46 @@ async function knownField() {
 }
 
 /* ---------- Voice ---------- */
+/* Lists every voice on the device: Chinese voices first (grouped by region),
+   then all other voices, which mostly cannot read Chinese but are offered so the
+   choice is never limited to one voice. The list is rebuilt when the browser
+   reports its voices, which on iPhone can happen after Settings has opened. */
 function voiceField() {
-  const voices = rankedVoices();
-  const current = settings.get('voice') || '';
   const id = 'sel-voice';
-  const sel = h('select', { class: 'select', id, onChange: (e) => settings.set('voice', e.target.value) },
-    h('option', { value: '', selected: current === '' ? true : null }, voices.length ? t('voice_auto_named', { name: voices[0].name }) : t('voice_auto')),
-    voices.map((v) => h('option', { value: v.name, selected: v.name === current ? true : null }, `${v.name} (${v.lang})${v.localService ? '' : ' · ' + t('online')}`)));
-  const test = h('button', { class: 'btn', type: 'button', disabled: !voices.length, onClick: () => speak('你好，我是学生。我们一起学习汉语吧。') }, icon('speak'), t('test'));
+  const sel = h('select', { class: 'select', id, onChange: (e) => settings.set('voice', e.target.value) });
+  const hint = h('span', { class: 'hint' });
+  const test = h('button', { class: 'btn', type: 'button', disabled: 'speechSynthesis' in window ? null : true,
+    onClick: () => speak('你好，我是学生。我们一起学习汉语吧。') }, icon('speak'), t('test'));
   const os = osName();
   const better = t(`voice_better_${os}`);
+  const label = (v) => `${v.name} (${v.lang})${/premium/i.test(v.voiceURI || '') ? ' · Premium' : /enhanced/i.test(v.voiceURI || '') ? ' · Enhanced' : ''}${v.localService === false ? ' · ' + t('online') : ''}`;
+  const fill = () => {
+    const zhVoices = rankedVoices();
+    const others = otherVoices();
+    const saved = settings.get('voice') || '';
+    const cur = currentVoice();
+    const curId = saved && cur ? voiceId(cur) : '';
+    const opt = (v) => h('option', { value: voiceId(v), selected: voiceId(v) === curId ? true : null }, label(v));
+    const groups = [
+      ['voice_group_cn', zhVoices.filter((v) => chineseRegion(v) === 0)],
+      ['voice_group_tw', zhVoices.filter((v) => chineseRegion(v) === 1 || chineseRegion(v) === 2)],
+      ['voice_group_yue', zhVoices.filter((v) => chineseRegion(v) === 3)],
+      ['voice_group_other', others]
+    ].filter(([, list]) => list.length);
+    sel.replaceChildren(
+      h('option', { value: '', selected: curId ? null : true }, zhVoices.length ? t('voice_auto_named', { name: zhVoices[0].name }) : t('voice_auto')),
+      ...groups.map(([key, list]) => h('optgroup', { label: t(key) }, list.map(opt))));
+    const n = zhVoices.filter((v) => chineseRegion(v) !== 3).length;
+    const parts = [n ? t('n_voices_installed', { n, s: n === 1 ? '' : 's' }) : (isIOS() ? t('ios_voice_default') : t('no_zh_voice_installed')), better];
+    if (isIOS()) parts.push(t('voice_silent_switch'));
+    hint.textContent = parts.join(' ');
+  };
+  fill();
+  initAudio().then(() => { if (sel.isConnected) fill(); });
+  const onVoices = () => { if (sel.isConnected) fill(); else window.removeEventListener('ec:voices', onVoices); };
+  window.addEventListener('ec:voices', onVoices);
   return h('div', { class: 'field' }, h('label', { for: id }, t('zh_voice')),
-    h('div', { class: 'row' }, sel, test),
-    h('span', { class: 'hint' }, voices.length ? `${t('n_voices_installed', { n: voices.length })} ${better}` : `${t('no_zh_voice_installed')} ${better}`));
+    h('div', { class: 'row' }, sel, test), hint);
 }
 
 /* ---------- App card ---------- */

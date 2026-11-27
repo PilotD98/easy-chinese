@@ -10,7 +10,7 @@
      CSS falls back to system Chinese fonts.
    Nothing here talks to any other origin. */
 
-const VERSION = '1.0.1';
+const VERSION = '1.0.2';
 const SHELL_CACHE = `ec-shell-${VERSION}`;
 const DATA_CACHE = 'ec-data';
 const FONT_CACHE = 'ec-fonts';
